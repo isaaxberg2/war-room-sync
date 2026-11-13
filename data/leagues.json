@@ -485,7 +485,7 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 4,
-     "home_live": 27.6,
+     "home_live": 31.2,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -502,7 +502,7 @@
     },
     {
      "away": 10,
-     "away_live": 23.3,
+     "away_live": 26.8,
      "away_pts": 0.0,
      "home": 3,
      "home_live": 2.0,
@@ -1275,7 +1275,7 @@
        "injury": "NORMAL",
        "name": "Giants D/ST",
        "pos": "DST",
-       "pts": 4.0,
+       "pts": 5.0,
        "slot": "BN",
        "team": "NYG"
       }
@@ -1433,16 +1433,6 @@
        "team": "ATL"
       },
       {
-       "espn_id": -16005,
-       "espn_proj": 4.18,
-       "injury": "NORMAL",
-       "name": "Browns D/ST",
-       "pos": "DST",
-       "pts": null,
-       "slot": "DST",
-       "team": "CLE"
-      },
-      {
        "espn_id": 5082424,
        "espn_proj": 7.96,
        "injury": "ACTIVE",
@@ -1471,6 +1461,16 @@
        "pts": null,
        "slot": "FLEX",
        "team": "NE"
+      },
+      {
+       "espn_id": -16002,
+       "espn_proj": 6.22,
+       "injury": "NORMAL",
+       "name": "Bills D/ST",
+       "pos": "DST",
+       "pts": null,
+       "slot": "DST",
+       "team": "BUF"
       }
      ],
      "streak": "W1",
@@ -1521,7 +1521,7 @@
        "injury": "ACTIVE",
        "name": "Cam Skattebo",
        "pos": "RB",
-       "pts": 25.6,
+       "pts": 27.2,
        "slot": "RB",
        "team": "NYG"
       },
@@ -1561,7 +1561,7 @@
        "injury": "ACTIVE",
        "name": "Stefon Diggs",
        "pos": "WR",
-       "pts": 8.2,
+       "pts": 20.3,
        "slot": "BN",
        "team": "WAS"
       },
@@ -1661,7 +1661,7 @@
        "injury": "NORMAL",
        "name": "Commanders D/ST",
        "pos": "DST",
-       "pts": 2.0,
+       "pts": 4.0,
        "slot": "DST",
        "team": "WAS"
       }
@@ -2100,7 +2100,7 @@
        "injury": "ACTIVE",
        "name": "Rachaad White",
        "pos": "RB",
-       "pts": 4.3,
+       "pts": 6.2,
        "slot": "BN",
        "team": "WAS"
       },
@@ -2416,7 +2416,7 @@
        "injury": "ACTIVE",
        "name": "Jayden Daniels",
        "pos": "QB",
-       "pts": 23.3,
+       "pts": 26.8,
        "slot": "QB",
        "team": "WAS"
       },
@@ -3255,14 +3255,14 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 12,
-     "home_live": 33.18,
+     "home_live": 48.46,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 4,
-     "away_live": 8.3,
+     "away_live": 11.2,
      "away_pts": 0.0,
      "home": 10,
      "home_live": 27.7,
@@ -3272,7 +3272,7 @@
     },
     {
      "away": 8,
-     "away_live": 25.6,
+     "away_live": 27.2,
      "away_pts": 0.0,
      "home": 2,
      "home_live": 0.0,
@@ -4148,7 +4148,7 @@
        "injury": "ACTIVE",
        "name": "Rachaad White",
        "pos": "RB",
-       "pts": 4.3,
+       "pts": 6.2,
        "slot": "RB",
        "team": "WAS"
       },
@@ -4208,7 +4208,7 @@
        "injury": "NORMAL",
        "name": "Giants D/ST",
        "pos": "DST",
-       "pts": 4.0,
+       "pts": 5.0,
        "slot": "DST",
        "team": "NYG"
       },
@@ -4464,7 +4464,7 @@
        "injury": "ACTIVE",
        "name": "Cam Skattebo",
        "pos": "RB",
-       "pts": 25.6,
+       "pts": 27.2,
        "slot": "FLEX",
        "team": "NYG"
       },
@@ -5043,7 +5043,7 @@
        "injury": "ACTIVE",
        "name": "Jayden Daniels",
        "pos": "QB",
-       "pts": 17.58,
+       "pts": 20.76,
        "slot": "QB",
        "team": "WAS"
       },
@@ -5063,7 +5063,7 @@
        "injury": "ACTIVE",
        "name": "Stefon Diggs",
        "pos": "WR",
-       "pts": 8.2,
+       "pts": 20.3,
        "slot": "WR",
        "team": "WAS"
       },
@@ -6005,7 +6005,7 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 17.58,
+     "home_live": 20.76,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -6032,17 +6032,17 @@
     },
     {
      "away": 9,
-     "away_live": 8.2,
+     "away_live": 20.3,
      "away_pts": 0.0,
      "home": 8,
-     "home_live": 4.3,
+     "home_live": 6.2,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
-     "away_live": 25.6,
+     "away_live": 27.2,
      "away_pts": 0.0,
      "home": 7,
      "home_live": 0.0,
@@ -6482,7 +6482,7 @@
        "injury": "ACTIVE",
        "name": "Cam Skattebo",
        "pos": "RB",
-       "pts": 25.6,
+       "pts": 27.2,
        "slot": "FLEX",
        "team": "NYG"
       },
@@ -6685,7 +6685,7 @@
        "injury": "ACTIVE",
        "name": "Jayden Daniels",
        "pos": "QB",
-       "pts": 17.58,
+       "pts": 20.76,
        "slot": "QB",
        "team": "WAS"
       },
@@ -7364,7 +7364,7 @@
        "injury": "ACTIVE",
        "name": "J.J. McCarthy",
        "pos": "QB",
-       "pts": 18.48,
+       "pts": 17.12,
        "slot": "BN",
        "team": "NYG"
       },
@@ -7497,7 +7497,7 @@
        "injury": "ACTIVE",
        "name": "Antonio Williams",
        "pos": "WR",
-       "pts": 10.1,
+       "pts": 12.2,
        "slot": "BN",
        "team": "WAS"
       },
@@ -7527,7 +7527,7 @@
        "injury": "QUESTIONABLE",
        "name": "Chig Okonkwo",
        "pos": "TE",
-       "pts": 4.9,
+       "pts": 6.4,
        "slot": "BN",
        "team": "WAS"
       },
@@ -7893,7 +7893,7 @@
        "injury": "ACTIVE",
        "name": "Rachaad White",
        "pos": "RB",
-       "pts": 4.3,
+       "pts": 6.2,
        "slot": "RB",
        "team": "WAS"
       },
@@ -8076,7 +8076,7 @@
        "injury": "ACTIVE",
        "name": "Stefon Diggs",
        "pos": "WR",
-       "pts": 8.2,
+       "pts": 20.3,
        "slot": "FLEX",
        "team": "WAS"
       },
@@ -8321,5 +8321,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T03:45:12+00:00"
+ "updated": "2026-11-13T04:24:41+00:00"
 }
