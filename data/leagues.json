@@ -7524,7 +7524,7 @@
       {
        "espn_id": 4360635,
        "espn_proj": 8.26,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Chig Okonkwo",
        "pos": "TE",
        "pts": 6.4,
@@ -8321,5 +8321,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T04:24:41+00:00"
+ "updated": "2026-11-13T05:25:55+00:00"
 }
