@@ -1,4 +1,4 @@
-"""War Room sync robot v3 (runs on GitHub Actions; Nov 12, 2026: v2 added live points, every player's injury status, streaks;
+"""War Room sync robot v4 (v4: also saves ESPN's current-week projections, refreshed each run; runs on GitHub Actions; Nov 12, 2026: v2 added live points, every player's injury status, streaks;
 v3 adds ESPN's projections for past weeks (data/espn_history.json) so the War Room can test whose projections are more accurate).
 
 Every run it saves, into data/:
@@ -120,8 +120,8 @@ def history(lid, cur):
     """ESPN's projection and actual points for past weeks (top 400 players by ownership), from a standard-PPR league so the
     numbers compare cleanly with the War Room's. Each finished week is fetched once and kept in data/espn_history.json."""
     H = json.load(open('data/espn_history.json')) if os.path.exists('data/espn_history.json') else {}
-    for w in range(1, int(cur)):
-        if str(w) in H and H[str(w)]: continue
+    for w in range(1, int(cur) + 1):   # v4: the current week too, refreshed every run (ESPN's projection for this week's blend)
+        if w < int(cur) and str(w) in H and H[str(w)]: continue
         f = {'players': {'filterActive': {'value': True}, 'limit': 400, 'sortPercOwned': {'sortPriority': 1, 'sortAsc': False}}}
         try:
             r = get(f'{BASE}/segments/0/leagues/{lid}', params={'view': 'kona_player_info', 'scoringPeriodId': w}, headers={'x-fantasy-filter': json.dumps(f)}).json()
