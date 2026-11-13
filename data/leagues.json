@@ -22,560 +22,700 @@
    "schedule": [
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 172.5,
      "home": 11,
+     "home_live": null,
      "home_pts": 90.0,
      "week": 1,
      "winner": "AWAY"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 136.2,
      "home": 7,
+     "home_live": null,
      "home_pts": 145.4,
      "week": 1,
      "winner": "HOME"
     },
     {
      "away": 5,
+     "away_live": null,
      "away_pts": 75.9,
      "home": 1,
+     "home_live": null,
      "home_pts": 149.2,
      "week": 1,
      "winner": "HOME"
     },
     {
      "away": 3,
+     "away_live": null,
      "away_pts": 125.7,
      "home": 10,
+     "home_live": null,
      "home_pts": 123.9,
      "week": 1,
      "winner": "AWAY"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 137.6,
      "home": 9,
+     "home_live": null,
      "home_pts": 199.5,
      "week": 1,
      "winner": "HOME"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 146.1,
      "home": 2,
+     "home_live": null,
      "home_pts": 161.3,
      "week": 2,
      "winner": "HOME"
     },
     {
      "away": 11,
+     "away_live": null,
      "away_pts": 95.7,
      "home": 5,
+     "home_live": null,
      "home_pts": 99.4,
      "week": 2,
      "winner": "HOME"
     },
     {
      "away": 7,
+     "away_live": null,
      "away_pts": 135.7,
      "home": 3,
+     "home_live": null,
      "home_pts": 85.3,
      "week": 2,
      "winner": "AWAY"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 172.7,
      "home": 8,
+     "home_live": null,
      "home_pts": 125.8,
      "week": 2,
      "winner": "AWAY"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 102.4,
      "home": 9,
+     "home_live": null,
      "home_pts": 128.6,
      "week": 2,
      "winner": "HOME"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 125.4,
      "home": 5,
+     "home_live": null,
      "home_pts": 95.1,
      "week": 3,
      "winner": "AWAY"
     },
     {
      "away": 3,
+     "away_live": null,
      "away_pts": 149.3,
      "home": 4,
+     "home_live": null,
      "home_pts": 153.6,
      "week": 3,
      "winner": "HOME"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 66.1,
      "home": 11,
+     "home_live": null,
      "home_pts": 100.9,
      "week": 3,
      "winner": "HOME"
     },
     {
      "away": 9,
+     "away_live": null,
      "away_pts": 142.7,
      "home": 7,
+     "home_live": null,
      "home_pts": 130.7,
      "week": 3,
      "winner": "AWAY"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 121.6,
      "home": 1,
+     "home_live": null,
      "home_pts": 164.6,
      "week": 3,
      "winner": "HOME"
     },
     {
      "away": 3,
+     "away_live": null,
      "away_pts": 108.4,
      "home": 2,
+     "home_live": null,
      "home_pts": 130.5,
      "week": 4,
      "winner": "HOME"
     },
     {
      "away": 5,
+     "away_live": null,
      "away_pts": 174.0,
      "home": 8,
+     "home_live": null,
      "home_pts": 97.3,
      "week": 4,
      "winner": "AWAY"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 111.5,
      "home": 9,
+     "home_live": null,
      "home_pts": 173.9,
      "week": 4,
      "winner": "HOME"
     },
     {
      "away": 11,
+     "away_live": null,
      "away_pts": 117.1,
      "home": 10,
+     "home_live": null,
      "home_pts": 125.4,
      "week": 4,
      "winner": "HOME"
     },
     {
      "away": 7,
+     "away_live": null,
      "away_pts": 196.7,
      "home": 1,
+     "home_live": null,
      "home_pts": 142.1,
      "week": 4,
      "winner": "AWAY"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 125.1,
      "home": 8,
+     "home_live": null,
      "home_pts": 142.4,
      "week": 5,
      "winner": "HOME"
     },
     {
      "away": 9,
+     "away_live": null,
      "away_pts": 178.7,
      "home": 3,
+     "home_live": null,
      "home_pts": 127.2,
      "week": 5,
      "winner": "AWAY"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 149.8,
      "home": 5,
+     "home_live": null,
      "home_pts": 78.0,
      "week": 5,
      "winner": "AWAY"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 136.8,
      "home": 4,
+     "home_live": null,
      "home_pts": 165.4,
      "week": 5,
      "winner": "HOME"
     },
     {
      "away": 7,
+     "away_live": null,
      "away_pts": 137.4,
      "home": 11,
+     "home_live": null,
      "home_pts": 195.1,
      "week": 5,
      "winner": "HOME"
     },
     {
      "away": 9,
+     "away_live": null,
      "away_pts": 127.0,
      "home": 2,
+     "home_live": null,
      "home_pts": 129.9,
      "week": 6,
      "winner": "HOME"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 102.8,
      "home": 10,
+     "home_live": null,
      "home_pts": 112.5,
      "week": 6,
      "winner": "HOME"
     },
     {
      "away": 3,
+     "away_live": null,
      "away_pts": 93.7,
      "home": 1,
+     "home_live": null,
      "home_pts": 127.4,
      "week": 6,
      "winner": "HOME"
     },
     {
      "away": 5,
+     "away_live": null,
      "away_pts": 113.0,
      "home": 7,
+     "home_live": null,
      "home_pts": 149.5,
      "week": 6,
      "winner": "HOME"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 74.7,
      "home": 11,
+     "home_live": null,
      "home_pts": 125.1,
      "week": 6,
      "winner": "HOME"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 114.9,
      "home": 10,
+     "home_live": null,
      "home_pts": 92.4,
      "week": 7,
      "winner": "AWAY"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 112.0,
      "home": 9,
+     "home_live": null,
      "home_pts": 138.5,
      "week": 7,
      "winner": "HOME"
     },
     {
      "away": 7,
+     "away_live": null,
      "away_pts": 165.0,
      "home": 8,
+     "home_live": null,
      "home_pts": 121.4,
      "week": 7,
      "winner": "AWAY"
     },
     {
      "away": 11,
+     "away_live": null,
      "away_pts": 118.5,
      "home": 3,
+     "home_live": null,
      "home_pts": 161.2,
      "week": 7,
      "winner": "HOME"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 112.3,
      "home": 5,
+     "home_live": null,
      "home_pts": 117.2,
      "week": 7,
      "winner": "HOME"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 148.8,
      "home": 2,
+     "home_live": null,
      "home_pts": 161.7,
      "week": 8,
      "winner": "HOME"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 112.1,
      "home": 7,
+     "home_live": null,
      "home_pts": 100.3,
      "week": 8,
      "winner": "AWAY"
     },
     {
      "away": 9,
+     "away_live": null,
      "away_pts": 132.8,
      "home": 11,
+     "home_live": null,
      "home_pts": 137.5,
      "week": 8,
      "winner": "HOME"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 126.0,
      "home": 4,
+     "home_live": null,
      "home_pts": 142.5,
      "week": 8,
      "winner": "HOME"
     },
     {
      "away": 3,
+     "away_live": null,
      "away_pts": 95.6,
      "home": 5,
+     "home_live": null,
      "home_pts": 136.2,
      "week": 8,
      "winner": "HOME"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 157.8,
      "home": 7,
+     "home_live": null,
      "home_pts": 147.8,
      "week": 9,
      "winner": "AWAY"
     },
     {
      "away": 11,
+     "away_live": null,
      "away_pts": 143.1,
      "home": 1,
+     "home_live": null,
      "home_pts": 150.1,
      "week": 9,
      "winner": "HOME"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 138.3,
      "home": 10,
+     "home_live": null,
      "home_pts": 136.9,
      "week": 9,
      "winner": "AWAY"
     },
     {
      "away": 5,
+     "away_live": null,
      "away_pts": 114.3,
      "home": 9,
+     "home_live": null,
      "home_pts": 92.6,
      "week": 9,
      "winner": "AWAY"
     },
     {
      "away": 3,
+     "away_live": null,
      "away_pts": 125.2,
      "home": 8,
+     "home_live": null,
      "home_pts": 99.8,
      "week": 9,
      "winner": "AWAY"
     },
     {
      "away": 11,
+     "away_live": 0.0,
      "away_pts": 0.0,
      "home": 2,
+     "home_live": 0.0,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 7,
+     "away_live": 0.0,
      "away_pts": 0.0,
      "home": 4,
+     "home_live": 31.3,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
+     "away_live": 14.1,
      "away_pts": 0.0,
      "home": 5,
+     "home_live": 0.0,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 10,
+     "away_live": 23.3,
      "away_pts": 0.0,
      "home": 3,
+     "home_live": 1.0,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 9,
+     "away_live": 7.4,
      "away_pts": 0.0,
      "home": 8,
+     "home_live": 0.0,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 4,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 5,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 11,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 3,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 7,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 1,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 9,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 10,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 5,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 2,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 3,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 11,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 8,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 7,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 9,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 10,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 3,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 13,
      "winner": "UNDECIDED"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 5,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 13,
      "winner": "UNDECIDED"
     },
     {
      "away": 9,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 4,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 13,
      "winner": "UNDECIDED"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 11,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 13,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 7,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 13,
      "winner": "UNDECIDED"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 2,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 14,
      "winner": "UNDECIDED"
     },
     {
      "away": 3,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 9,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 14,
      "winner": "UNDECIDED"
     },
     {
      "away": 5,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 10,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 14,
      "winner": "UNDECIDED"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 1,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 14,
      "winner": "UNDECIDED"
     },
     {
      "away": 11,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 7,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 14,
      "winner": "UNDECIDED"
@@ -798,141 +938,176 @@
      "roster": [
       {
        "espn_id": 4429795,
+       "espn_proj": 25.98,
        "injury": "ACTIVE",
        "name": "Jahmyr Gibbs",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "DET"
       },
       {
        "espn_id": 4428331,
+       "espn_proj": 13.62,
        "injury": "ACTIVE",
        "name": "Rashee Rice",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "KC"
       },
       {
        "espn_id": 4567048,
+       "espn_proj": 29.06,
        "injury": "ACTIVE",
        "name": "Kenneth Walker III",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "KC"
       },
       {
        "espn_id": 4372016,
+       "espn_proj": 0.0,
        "injury": "QUESTIONABLE",
        "name": "Jaylen Waddle",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "DEN"
       },
       {
        "espn_id": 4239996,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Travis Etienne Jr.",
        "pos": "RB",
+       "pts": null,
        "slot": "IR",
        "team": "NO"
       },
       {
        "espn_id": 4871023,
+       "espn_proj": 13.21,
        "injury": "QUESTIONABLE",
        "name": "Carnell Tate",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "TEN"
       },
       {
        "espn_id": 3915511,
+       "espn_proj": 24.13,
        "injury": "ACTIVE",
        "name": "Joe Burrow",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "CIN"
       },
       {
        "espn_id": 4608686,
+       "espn_proj": 0.0,
        "injury": "OUT",
        "name": "Kyle Monangai",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4360569,
+       "espn_proj": 9.72,
        "injury": "ACTIVE",
        "name": "Jordan Mason",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "MIN"
       },
       {
        "espn_id": 4036133,
+       "espn_proj": 11.86,
        "injury": "QUESTIONABLE",
        "name": "T.J. Hockenson",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "MIN"
       },
       {
        "espn_id": 4428718,
+       "espn_proj": 8.72,
        "injury": "ACTIVE",
        "name": "Tre Tucker",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "LV"
       },
       {
        "espn_id": 4597500,
+       "espn_proj": 10.88,
        "injury": "ACTIVE",
        "name": "Adonai Mitchell",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "NYJ"
       },
       {
        "espn_id": 4870795,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Makai Lemon",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "PHI"
       },
       {
        "espn_id": 4361050,
+       "espn_proj": 12.73,
        "injury": "ACTIVE",
        "name": "Isaiah Likely",
        "pos": "TE",
+       "pts": 14.1,
        "slot": "FLEX",
        "team": "NYG"
       },
       {
        "espn_id": 5208518,
+       "espn_proj": 8.44,
        "injury": "ACTIVE",
        "name": "Charlie Smyth",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "NO"
       },
       {
        "espn_id": -16033,
+       "espn_proj": 7.71,
        "injury": "NORMAL",
        "name": "Ravens D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "BAL"
       },
       {
        "espn_id": 4837248,
+       "espn_proj": 16.56,
        "injury": "ACTIVE",
        "name": "Fernando Mendoza",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "LV"
       }
      ],
+     "streak": "W1",
      "ties": 0,
      "wins": 5
     },
@@ -946,133 +1121,166 @@
      "roster": [
       {
        "espn_id": 4362628,
+       "espn_proj": 25.18,
        "injury": "ACTIVE",
        "name": "Ja'Marr Chase",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "CIN"
       },
       {
        "espn_id": 4890973,
+       "espn_proj": 14.04,
        "injury": "ACTIVE",
        "name": "Ashton Jeanty",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "LV"
       },
       {
        "espn_id": 4361370,
+       "espn_proj": 17.24,
        "injury": "ACTIVE",
        "name": "Chris Olave",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "NO"
       },
       {
        "espn_id": 4427366,
+       "espn_proj": 12.95,
        "injury": "ACTIVE",
        "name": "Breece Hall",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "NYJ"
       },
       {
        "espn_id": 4259545,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "D'Andre Swift",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4430027,
+       "espn_proj": 11.88,
        "injury": "ACTIVE",
        "name": "Sam LaPorta",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "DET"
       },
       {
        "espn_id": 2577417,
+       "espn_proj": 21.5,
        "injury": "ACTIVE",
        "name": "Dak Prescott",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "DAL"
       },
       {
        "espn_id": 4360761,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Michael Wilson",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "ARI"
       },
       {
        "espn_id": 4701936,
+       "espn_proj": 18.86,
        "injury": "ACTIVE",
        "name": "Matthew Golden",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "GB"
       },
       {
        "espn_id": 4688813,
+       "espn_proj": 9.46,
        "injury": "ACTIVE",
        "name": "Josh Downs",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "KC"
       },
       {
        "espn_id": 4362238,
+       "espn_proj": 14.01,
        "injury": "ACTIVE",
        "name": "Chase Brown",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "CIN"
       },
       {
        "espn_id": 14880,
+       "espn_proj": 16.66,
        "injury": "ACTIVE",
        "name": "Kirk Cousins",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "MIN"
       },
       {
        "espn_id": 4571557,
+       "espn_proj": 10.51,
        "injury": "ACTIVE",
        "name": "Spencer Shrader",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "IND"
       },
       {
        "espn_id": 4870653,
+       "espn_proj": 11.12,
        "injury": "ACTIVE",
        "name": "KC Concepcion",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "CLE"
       },
       {
        "espn_id": -16023,
+       "espn_proj": 5.32,
        "injury": "NORMAL",
        "name": "Steelers D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "PIT"
       },
       {
        "espn_id": -16019,
+       "espn_proj": 5.36,
        "injury": "NORMAL",
        "name": "Giants D/ST",
        "pos": "DST",
+       "pts": 4.0,
        "slot": "BN",
        "team": "NYG"
       }
      ],
+     "streak": "W4",
      "ties": 0,
      "wins": 8
     },
@@ -1086,149 +1294,186 @@
      "roster": [
       {
        "espn_id": 4430807,
+       "espn_proj": 20.56,
        "injury": "ACTIVE",
        "name": "Bijan Robinson",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "ATL"
       },
       {
        "espn_id": 4426502,
+       "espn_proj": 16.36,
        "injury": "ACTIVE",
        "name": "Drake London",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "ATL"
       },
       {
        "espn_id": 4361307,
+       "espn_proj": 14.89,
        "injury": "ACTIVE",
        "name": "Trey McBride",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "ARI"
       },
       {
        "espn_id": 4612826,
+       "espn_proj": 10.99,
        "injury": "QUESTIONABLE",
        "name": "Ladd McConkey",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "LAC"
       },
       {
        "espn_id": 3916387,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Lamar Jackson",
        "pos": "QB",
+       "pts": null,
        "slot": "IR",
        "team": "BAL"
       },
       {
        "espn_id": 4685512,
+       "espn_proj": 12.58,
        "injury": "ACTIVE",
        "name": "Jadarian Price",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "SEA"
       },
       {
        "espn_id": 4047365,
+       "espn_proj": 0.0,
        "injury": "OUT",
        "name": "Josh Jacobs",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "GB"
       },
       {
        "espn_id": 3916148,
+       "espn_proj": 14.79,
        "injury": "QUESTIONABLE",
        "name": "Tony Pollard",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "TEN"
       },
       {
        "espn_id": 4429205,
+       "espn_proj": 11.42,
        "injury": "ACTIVE",
        "name": "Jordan Addison",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "MIN"
       },
       {
        "espn_id": -16007,
+       "espn_proj": 0.0,
        "injury": "NORMAL",
        "name": "Broncos D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "BN",
        "team": "DEN"
       },
       {
        "espn_id": 4361432,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Romeo Doubs",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "NE"
       },
       {
        "espn_id": 4832800,
+       "espn_proj": 13.51,
        "injury": "QUESTIONABLE",
        "name": "Denzel Boston",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "CLE"
       },
       {
        "espn_id": 17372,
+       "espn_proj": 10.38,
        "injury": "ACTIVE",
        "name": "Chris Boswell",
        "pos": "K",
+       "pts": null,
        "slot": "BN",
        "team": "PIT"
       },
       {
        "espn_id": 4360423,
+       "espn_proj": 16.04,
        "injury": "ACTIVE",
        "name": "Michael Penix Jr.",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "ATL"
       },
       {
        "espn_id": -16005,
+       "espn_proj": 4.18,
        "injury": "NORMAL",
        "name": "Browns D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "CLE"
       },
       {
        "espn_id": 5082424,
+       "espn_proj": 7.96,
        "injury": "ACTIVE",
        "name": "Dominic Zvada",
        "pos": "K",
+       "pts": 1.0,
        "slot": "K",
        "team": "NYG"
       },
       {
        "espn_id": 4361741,
+       "espn_proj": 26.41,
        "injury": "ACTIVE",
        "name": "Brock Purdy",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "SF"
       },
       {
        "espn_id": 4427095,
+       "espn_proj": 10.42,
        "injury": "ACTIVE",
        "name": "DeMario Douglas",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "NE"
       }
      ],
+     "streak": "W1",
      "ties": 0,
      "wins": 3
     },
@@ -1242,149 +1487,186 @@
      "roster": [
       {
        "espn_id": 4374302,
+       "espn_proj": 22.38,
        "injury": "QUESTIONABLE",
        "name": "Amon-Ra St. Brown",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "DET"
       },
       {
        "espn_id": 4432665,
+       "espn_proj": 16.45,
        "injury": "ACTIVE",
        "name": "Brock Bowers",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "LV"
       },
       {
        "espn_id": 4569618,
+       "espn_proj": 13.47,
        "injury": "QUESTIONABLE",
        "name": "Garrett Wilson",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "NYJ"
       },
       {
        "espn_id": 4696981,
+       "espn_proj": 12.58,
        "injury": "ACTIVE",
        "name": "Cam Skattebo",
        "pos": "RB",
+       "pts": 25.3,
        "slot": "RB",
        "team": "NYG"
       },
       {
        "espn_id": 16800,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Davante Adams",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "LA"
       },
       {
        "espn_id": 3128429,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Courtland Sutton",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "DEN"
       },
       {
        "espn_id": 4569987,
+       "espn_proj": 16.99,
        "injury": "ACTIVE",
        "name": "Jaylen Warren",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "PIT"
       },
       {
        "espn_id": 2976212,
+       "espn_proj": 10.65,
        "injury": "ACTIVE",
        "name": "Stefon Diggs",
        "pos": "WR",
+       "pts": 8.2,
        "slot": "BN",
        "team": "WAS"
       },
       {
        "espn_id": 4429023,
+       "espn_proj": 7.62,
        "injury": "ACTIVE",
        "name": "MarShawn Lloyd",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "GB"
       },
       {
        "espn_id": 4429096,
+       "espn_proj": 12.35,
        "injury": "ACTIVE",
        "name": "Blake Corum",
        "pos": "RB",
+       "pts": null,
        "slot": "FLEX",
        "team": "LA"
       },
       {
        "espn_id": 3116365,
+       "espn_proj": 6.98,
        "injury": "ACTIVE",
        "name": "Mark Andrews",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "BAL"
       },
       {
        "espn_id": 4685720,
+       "espn_proj": 24.18,
        "injury": "ACTIVE",
        "name": "Bryce Young",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "CAR"
       },
       {
        "espn_id": 3116406,
+       "espn_proj": null,
        "injury": "QUESTIONABLE",
        "name": "Tyreek Hill",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "FA"
       },
       {
        "espn_id": 3917315,
+       "espn_proj": 0.0,
        "injury": "DOUBTFUL",
        "name": "Kyler Murray",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "MIN"
       },
       {
        "espn_id": 3055899,
+       "espn_proj": 8.67,
        "injury": "ACTIVE",
        "name": "Harrison Butker",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "KC"
       },
       {
        "espn_id": 4366031,
+       "espn_proj": 8.64,
        "injury": "ACTIVE",
        "name": "Tank Dell",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "HOU"
       },
       {
        "espn_id": 4569682,
+       "espn_proj": 10.98,
        "injury": "ACTIVE",
        "name": "Audric Estime",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "NO"
       },
       {
        "espn_id": -16028,
+       "espn_proj": 6.74,
        "injury": "NORMAL",
        "name": "Commanders D/ST",
        "pos": "DST",
+       "pts": 6.0,
        "slot": "DST",
        "team": "WAS"
       }
      ],
+     "streak": "W2",
      "ties": 0,
      "wins": 4
     },
@@ -1398,141 +1680,176 @@
      "roster": [
       {
        "espn_id": 4242335,
+       "espn_proj": 19.34,
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "IND"
       },
       {
        "espn_id": 4047646,
+       "espn_proj": 13.37,
        "injury": "QUESTIONABLE",
        "name": "A.J. Brown",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "NE"
       },
       {
        "espn_id": 4685472,
+       "espn_proj": 17.49,
        "injury": "ACTIVE",
        "name": "Tetairoa McMillan",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "CAR"
       },
       {
        "espn_id": 3040151,
+       "espn_proj": 16.57,
        "injury": "ACTIVE",
        "name": "George Kittle",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "SF"
       },
       {
        "espn_id": 4432710,
+       "espn_proj": 0.0,
        "injury": "OUT",
        "name": "TreVeyon Henderson",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "NE"
       },
       {
        "espn_id": 16737,
+       "espn_proj": 0.0,
        "injury": "QUESTIONABLE",
        "name": "Mike Evans",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "SF"
       },
       {
        "espn_id": 3116165,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Chris Godwin Jr.",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "TB"
       },
       {
        "espn_id": 3046439,
+       "espn_proj": 8.96,
        "injury": "QUESTIONABLE",
        "name": "Hunter Henry",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "NE"
       },
       {
        "espn_id": 4426385,
+       "espn_proj": 15.7,
        "injury": "ACTIVE",
        "name": "Zach Charbonnet",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "SEA"
       },
       {
        "espn_id": 4360689,
+       "espn_proj": 21.5,
        "injury": "ACTIVE",
        "name": "Tyler Shough",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "NO"
       },
       {
        "espn_id": 4239993,
+       "espn_proj": 17.52,
        "injury": "ACTIVE",
        "name": "Tee Higgins",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "CIN"
       },
       {
        "espn_id": 4685382,
+       "espn_proj": 8.32,
        "injury": "ACTIVE",
        "name": "Omarion Hampton",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "LAC"
       },
       {
        "espn_id": 4431492,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Roman Wilson",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "PIT"
       },
       {
        "espn_id": 4431452,
+       "espn_proj": 28.07,
        "injury": "ACTIVE",
        "name": "Drake Maye",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "NE"
       },
       {
        "espn_id": -16030,
+       "espn_proj": 6.41,
        "injury": "NORMAL",
        "name": "Jaguars D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "JAX"
       },
       {
        "espn_id": 3917232,
+       "espn_proj": 11.02,
        "injury": "ACTIVE",
        "name": "Tyler Bass",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "BUF"
       },
       {
        "espn_id": 4373678,
+       "espn_proj": 10.6,
        "injury": "ACTIVE",
        "name": "Khalil Shakir",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "BUF"
       }
      ],
+     "streak": "W3",
      "ties": 0,
      "wins": 5
     },
@@ -1546,133 +1863,166 @@
      "roster": [
       {
        "espn_id": 4379399,
+       "espn_proj": 23.07,
        "injury": "ACTIVE",
        "name": "James Cook III",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "BUF"
       },
       {
        "espn_id": 4241389,
+       "espn_proj": 23.01,
        "injury": "ACTIVE",
        "name": "CeeDee Lamb",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "DAL"
       },
       {
        "espn_id": 4361579,
+       "espn_proj": 15.76,
        "injury": "ACTIVE",
        "name": "Javonte Williams",
        "pos": "RB",
+       "pts": null,
        "slot": "FLEX",
        "team": "DAL"
       },
       {
        "espn_id": 4429615,
+       "espn_proj": 16.02,
        "injury": "ACTIVE",
        "name": "Zay Flowers",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "BAL"
       },
       {
        "espn_id": 4685702,
+       "espn_proj": 12.55,
        "injury": "ACTIVE",
        "name": "Quinshon Judkins",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "CLE"
       },
       {
        "espn_id": 4431459,
+       "espn_proj": 10.91,
        "injury": "ACTIVE",
        "name": "Tyler Warren",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "IND"
       },
       {
        "espn_id": 4432708,
+       "espn_proj": 6.08,
        "injury": "QUESTIONABLE",
        "name": "Marvin Harrison Jr.",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "HOU"
       },
       {
        "espn_id": 4040715,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Jalen Hurts",
        "pos": "QB",
+       "pts": null,
        "slot": "IR",
        "team": "PHI"
       },
       {
        "espn_id": 4241416,
+       "espn_proj": 21.86,
        "injury": "ACTIVE",
        "name": "Chuba Hubbard",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "CAR"
       },
       {
        "espn_id": 15847,
+       "espn_proj": 11.84,
        "injury": "ACTIVE",
        "name": "Travis Kelce",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "KC"
       },
       {
        "espn_id": 4360310,
+       "espn_proj": 28.46,
        "injury": "ACTIVE",
        "name": "Trevor Lawrence",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "JAX"
       },
       {
        "espn_id": 4567104,
+       "espn_proj": 9.31,
        "injury": "ACTIVE",
        "name": "Will Reichard",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "MIN"
       },
       {
        "espn_id": 4880281,
+       "espn_proj": 8.82,
        "injury": "ACTIVE",
        "name": "Jordyn Tyson",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "NO"
       },
       {
        "espn_id": 4569559,
+       "espn_proj": 7.53,
        "injury": "ACTIVE",
        "name": "Devaughn Vele",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "NO"
       },
       {
        "espn_id": -16016,
+       "espn_proj": 5.13,
        "injury": "NORMAL",
        "name": "Vikings D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "MIN"
       },
       {
        "espn_id": 8439,
+       "espn_proj": 18.67,
        "injury": "ACTIVE",
        "name": "Aaron Rodgers",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "PIT"
       }
      ],
+     "streak": "L2",
      "ties": 0,
      "wins": 5
     },
@@ -1686,133 +2036,166 @@
      "roster": [
       {
        "espn_id": 3929630,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Saquon Barkley",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "PHI"
       },
       {
        "espn_id": 4241478,
+       "espn_proj": 0.0,
        "injury": "OUT",
        "name": "DeVonta Smith",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "PHI"
       },
       {
        "espn_id": 4596448,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Bucky Irving",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "TB"
       },
       {
        "espn_id": 4569173,
+       "espn_proj": 13.49,
        "injury": "QUESTIONABLE",
        "name": "Rhamondre Stevenson",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "NE"
       },
       {
        "espn_id": 4360248,
+       "espn_proj": 9.42,
        "injury": "ACTIVE",
        "name": "Kyle Pitts Sr.",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "ATL"
       },
       {
        "espn_id": 3916433,
+       "espn_proj": 12.04,
        "injury": "QUESTIONABLE",
        "name": "Jakobi Meyers",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "JAX"
       },
       {
        "espn_id": 4697815,
+       "espn_proj": 11.44,
        "injury": "ACTIVE",
        "name": "Rachaad White",
        "pos": "RB",
+       "pts": 4.3,
        "slot": "BN",
        "team": "WAS"
       },
       {
        "espn_id": 3121023,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Dallas Goedert",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "PHI"
       },
       {
        "espn_id": 12483,
+       "espn_proj": 22.36,
        "injury": "ACTIVE",
        "name": "Matthew Stafford",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "LA"
       },
       {
        "espn_id": -16021,
+       "espn_proj": 0.0,
        "injury": "NORMAL",
        "name": "Eagles D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "PHI"
       },
       {
        "espn_id": 4689936,
+       "espn_proj": 9.09,
        "injury": "ACTIVE",
        "name": "Jake Bates",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "DET"
       },
       {
        "espn_id": 4426388,
+       "espn_proj": 12.84,
        "injury": "ACTIVE",
        "name": "Jameson Williams",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "DET"
       },
       {
        "espn_id": 4426354,
+       "espn_proj": 13.0,
        "injury": "QUESTIONABLE",
        "name": "George Pickens",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "DAL"
       },
       {
        "espn_id": 4036378,
+       "espn_proj": 20.32,
        "injury": "ACTIVE",
        "name": "Jordan Love",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "GB"
       },
       {
        "espn_id": 4695883,
+       "espn_proj": 11.95,
        "injury": "ACTIVE",
        "name": "Jalen Coker",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "CAR"
       },
       {
        "espn_id": 4572680,
+       "espn_proj": 9.62,
        "injury": "ACTIVE",
        "name": "Tucker Kraft",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "GB"
       }
      ],
+     "streak": "L4",
      "ties": 0,
      "wins": 1
     },
@@ -1826,133 +2209,166 @@
      "roster": [
       {
        "espn_id": 4430878,
+       "espn_proj": 24.52,
        "injury": "ACTIVE",
        "name": "Jaxon Smith-Njigba",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "SEA"
       },
       {
        "espn_id": 3043078,
+       "espn_proj": 20.76,
        "injury": "ACTIVE",
        "name": "Derrick Henry",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "BAL"
       },
       {
        "espn_id": 4595348,
+       "espn_proj": 17.37,
        "injury": "ACTIVE",
        "name": "Malik Nabers",
        "pos": "WR",
+       "pts": 7.4,
        "slot": "WR",
        "team": "NYG"
       },
       {
        "espn_id": 4430737,
+       "espn_proj": 19.82,
        "injury": "ACTIVE",
        "name": "Kyren Williams",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "LA"
       },
       {
        "espn_id": 3915416,
+       "espn_proj": 14.32,
        "injury": "ACTIVE",
        "name": "DJ Moore",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "BUF"
       },
       {
        "espn_id": 5083076,
+       "espn_proj": 10.48,
        "injury": "QUESTIONABLE",
        "name": "Harold Fannin Jr.",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "CLE"
       },
       {
        "espn_id": 4431611,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Caleb Williams",
        "pos": "QB",
-       "slot": "QB",
+       "pts": null,
+       "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4047650,
+       "espn_proj": 11.82,
        "injury": "ACTIVE",
        "name": "DK Metcalf",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "PIT"
       },
       {
        "espn_id": 3042519,
+       "espn_proj": 8.81,
        "injury": "ACTIVE",
        "name": "Aaron Jones Sr.",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "MIN"
       },
       {
        "espn_id": 4385690,
+       "espn_proj": 9.15,
        "injury": "QUESTIONABLE",
        "name": "Dalton Kincaid",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "BUF"
       },
       {
        "espn_id": -16026,
+       "espn_proj": 7.05,
        "injury": "NORMAL",
        "name": "Seahawks D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "SEA"
       },
       {
        "espn_id": 3046779,
+       "espn_proj": 22.41,
        "injury": "ACTIVE",
        "name": "Jared Goff",
        "pos": "QB",
-       "slot": "BN",
+       "pts": null,
+       "slot": "QB",
        "team": "DET"
       },
       {
        "espn_id": 4686361,
+       "espn_proj": 9.62,
        "injury": "ACTIVE",
        "name": "Cam Little",
        "pos": "K",
-       "slot": "BN",
+       "pts": null,
+       "slot": "K",
        "team": "JAX"
       },
       {
        "espn_id": 3054850,
+       "espn_proj": 10.47,
        "injury": "ACTIVE",
        "name": "Alvin Kamara",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "NO"
       },
       {
        "espn_id": 4432577,
+       "espn_proj": 23.55,
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "HOU"
       },
       {
        "espn_id": 4258620,
+       "espn_proj": 9.42,
        "injury": "ACTIVE",
        "name": "Andre Szmyt",
        "pos": "K",
-       "slot": "K",
+       "pts": null,
+       "slot": "BN",
        "team": "CLE"
       }
      ],
+     "streak": "L2",
      "ties": 0,
      "wins": 6
     },
@@ -1966,149 +2382,186 @@
      "roster": [
       {
        "espn_id": 3117251,
+       "espn_proj": 23.16,
        "injury": "ACTIVE",
        "name": "Christian McCaffrey",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "SF"
       },
       {
        "espn_id": 4258173,
+       "espn_proj": 13.88,
        "injury": "ACTIVE",
        "name": "Nico Collins",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "HOU"
       },
       {
        "espn_id": 4567750,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Emeka Egbuka",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "TB"
       },
       {
        "espn_id": 4426348,
+       "espn_proj": 21.4,
        "injury": "ACTIVE",
        "name": "Jayden Daniels",
        "pos": "QB",
+       "pts": 23.3,
        "slot": "QB",
        "team": "WAS"
       },
       {
        "espn_id": 4035687,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Michael Pittman Jr.",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "PIT"
       },
       {
        "espn_id": 4248528,
+       "espn_proj": 17.13,
        "injury": "ACTIVE",
        "name": "Christian Watson",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "GB"
       },
       {
        "espn_id": 4241985,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "J.K. Dobbins",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "DEN"
       },
       {
        "espn_id": 3953687,
+       "espn_proj": 10.31,
        "injury": "ACTIVE",
        "name": "Brandon Aubrey",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "DAL"
       },
       {
        "espn_id": 3929645,
+       "espn_proj": 7.4,
        "injury": "ACTIVE",
        "name": "Juwan Johnson",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "NO"
       },
       {
        "espn_id": 3139477,
+       "espn_proj": 22.24,
        "injury": "ACTIVE",
        "name": "Patrick Mahomes",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "KC"
       },
       {
        "espn_id": 4685247,
+       "espn_proj": 8.16,
        "injury": "ACTIVE",
        "name": "Braelon Allen",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "NYJ"
       },
       {
        "espn_id": 4035538,
+       "espn_proj": 0.0,
        "injury": "QUESTIONABLE",
        "name": "David Montgomery",
        "pos": "RB",
+       "pts": null,
        "slot": "IR",
        "team": "HOU"
       },
       {
        "espn_id": 4429059,
+       "espn_proj": 15.27,
        "injury": "QUESTIONABLE",
        "name": "Woody Marks",
        "pos": "RB",
+       "pts": null,
        "slot": "FLEX",
        "team": "HOU"
       },
       {
        "espn_id": 4683062,
+       "espn_proj": 8.49,
        "injury": "ACTIVE",
        "name": "Xavier Worthy",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "KC"
       },
       {
        "espn_id": 4723820,
+       "espn_proj": 9.83,
        "injury": "QUESTIONABLE",
        "name": "Omar Cooper Jr.",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "NYJ"
       },
       {
        "espn_id": -16034,
+       "espn_proj": 7.28,
        "injury": "NORMAL",
        "name": "Texans D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "HOU"
       },
       {
        "espn_id": 4430539,
+       "espn_proj": 9.91,
        "injury": "ACTIVE",
        "name": "Brenton Strange",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "JAX"
       },
       {
        "espn_id": 4038815,
+       "espn_proj": 10.2,
        "injury": "ACTIVE",
        "name": "Rico Dowdle",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "PIT"
       }
      ],
+     "streak": "L1",
      "ties": 0,
      "wins": 4
     },
@@ -2122,149 +2575,186 @@
      "roster": [
       {
        "espn_id": 4426515,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Puka Nacua",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "LA"
       },
       {
        "espn_id": 4882093,
+       "espn_proj": 19.11,
        "injury": "QUESTIONABLE",
        "name": "Bhayshul Tuten",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "JAX"
       },
       {
        "espn_id": 4685278,
+       "espn_proj": 0.0,
        "injury": "QUESTIONABLE",
        "name": "Luther Burden III",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4432620,
+       "espn_proj": 15.51,
        "injury": "ACTIVE",
        "name": "Parker Washington",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "JAX"
       },
       {
        "espn_id": 2971573,
+       "espn_proj": 9.87,
        "injury": "ACTIVE",
        "name": "Ka'imi Fairbairn",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "HOU"
       },
       {
        "espn_id": 4711533,
+       "espn_proj": 17.84,
        "injury": "ACTIVE",
        "name": "Ollie Gordon II",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "MIA"
       },
       {
        "espn_id": 3126486,
+       "espn_proj": 12.07,
        "injury": "QUESTIONABLE",
        "name": "Deebo Samuel Sr.",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "SF"
       },
       {
        "espn_id": 4870808,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Jeremiyah Love",
        "pos": "RB",
+       "pts": null,
        "slot": "IR",
        "team": "ARI"
       },
       {
        "espn_id": 4723086,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Colston Loveland",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4685261,
+       "espn_proj": 11.41,
        "injury": "ACTIVE",
        "name": "Germie Bernard",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "PIT"
       },
       {
        "espn_id": 4702555,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Jonah Coleman",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "DEN"
       },
       {
        "espn_id": 4373626,
+       "espn_proj": 9.29,
        "injury": "ACTIVE",
        "name": "Tyler Allgeier",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "ARI"
       },
       {
        "espn_id": 4262921,
+       "espn_proj": 19.22,
        "injury": "ACTIVE",
        "name": "Justin Jefferson",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "MIN"
       },
       {
        "espn_id": 3918298,
+       "espn_proj": 29.44,
        "injury": "ACTIVE",
        "name": "Josh Allen",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "BUF"
       },
       {
        "espn_id": 4431299,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Rome Odunze",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4431431,
+       "espn_proj": 6.87,
        "injury": "ACTIVE",
        "name": "Corey Kiner",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "NE"
       },
       {
        "espn_id": -16014,
+       "espn_proj": 8.26,
        "injury": "NORMAL",
        "name": "Rams D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "LA"
       },
       {
        "espn_id": 2576925,
+       "espn_proj": 8.73,
        "injury": "ACTIVE",
        "name": "Darren Waller",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "CAR"
       }
      ],
+     "streak": "L1",
      "ties": 0,
      "wins": 4
     }
@@ -2292,560 +2782,700 @@
    "schedule": [
     {
      "away": 14,
+     "away_live": null,
      "away_pts": 124.22,
      "home": 13,
+     "home_live": null,
      "home_pts": 150.16,
      "week": 1,
      "winner": "HOME"
     },
     {
      "away": 6,
+     "away_live": null,
      "away_pts": 92.16,
      "home": 1,
+     "home_live": null,
      "home_pts": 159.2,
      "week": 1,
      "winner": "HOME"
     },
     {
      "away": 12,
+     "away_live": null,
      "away_pts": 178.36,
      "home": 11,
+     "home_live": null,
      "home_pts": 135.7,
      "week": 1,
      "winner": "AWAY"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 119.62,
      "home": 4,
+     "home_live": null,
      "home_pts": 174.36,
      "week": 1,
      "winner": "HOME"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 143.06,
      "home": 8,
+     "home_live": null,
      "home_pts": 102.7,
      "week": 1,
      "winner": "AWAY"
     },
     {
      "away": 13,
+     "away_live": null,
      "away_pts": 137.22,
      "home": 8,
+     "home_live": null,
      "home_pts": 141.86,
      "week": 2,
      "winner": "HOME"
     },
     {
      "away": 6,
+     "away_live": null,
      "away_pts": 115.18,
      "home": 14,
+     "home_live": null,
      "home_pts": 130.82,
      "week": 2,
      "winner": "HOME"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 135.96,
      "home": 12,
+     "home_live": null,
      "home_pts": 130.34,
      "week": 2,
      "winner": "AWAY"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 144.16,
      "home": 11,
+     "home_live": null,
      "home_pts": 135.38,
      "week": 2,
      "winner": "AWAY"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 92.7,
      "home": 4,
+     "home_live": null,
      "home_pts": 80.28,
      "week": 2,
      "winner": "AWAY"
     },
     {
      "away": 13,
+     "away_live": null,
      "away_pts": 108.86,
      "home": 6,
+     "home_live": null,
      "home_pts": 119.14,
      "week": 3,
      "winner": "HOME"
     },
     {
      "away": 14,
+     "away_live": null,
      "away_pts": 112.76,
      "home": 12,
+     "home_live": null,
      "home_pts": 133.34,
      "week": 3,
      "winner": "HOME"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 117.02,
      "home": 1,
+     "home_live": null,
      "home_pts": 178.02,
      "week": 3,
      "winner": "HOME"
     },
     {
      "away": 11,
+     "away_live": null,
      "away_pts": 140.98,
      "home": 2,
+     "home_live": null,
      "home_pts": 119.14,
      "week": 3,
      "winner": "AWAY"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 162.98,
      "home": 8,
+     "home_live": null,
      "home_pts": 123.84,
      "week": 3,
      "winner": "AWAY"
     },
     {
      "away": 12,
+     "away_live": null,
      "away_pts": 127.38,
      "home": 13,
+     "home_live": null,
      "home_pts": 150.02,
      "week": 4,
      "winner": "HOME"
     },
     {
      "away": 6,
+     "away_live": null,
      "away_pts": 137.56,
      "home": 8,
+     "home_live": null,
      "home_pts": 104.8,
      "week": 4,
      "winner": "AWAY"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 109.02,
      "home": 14,
+     "home_live": null,
      "home_pts": 156.08,
      "week": 4,
      "winner": "HOME"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 142.38,
      "home": 2,
+     "home_live": null,
      "home_pts": 143.68,
      "week": 4,
      "winner": "HOME"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 138.02,
      "home": 11,
+     "home_live": null,
      "home_pts": 133.62,
      "week": 4,
      "winner": "AWAY"
     },
     {
      "away": 13,
+     "away_live": null,
      "away_pts": 128.2,
      "home": 10,
+     "home_live": null,
      "home_pts": 189.18,
      "week": 5,
      "winner": "HOME"
     },
     {
      "away": 12,
+     "away_live": null,
      "away_pts": 167.76,
      "home": 6,
+     "home_live": null,
      "home_pts": 170.54,
      "week": 5,
      "winner": "HOME"
     },
     {
      "away": 14,
+     "away_live": null,
      "away_pts": 139.94,
      "home": 2,
+     "home_live": null,
      "home_pts": 128.44,
      "week": 5,
      "winner": "AWAY"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 121.68,
      "home": 1,
+     "home_live": null,
      "home_pts": 179.14,
      "week": 5,
      "winner": "HOME"
     },
     {
      "away": 11,
+     "away_live": null,
      "away_pts": 138.16,
      "home": 8,
+     "home_live": null,
      "home_pts": 93.64,
      "week": 5,
      "winner": "AWAY"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 114.76,
      "home": 13,
+     "home_live": null,
      "home_pts": 99.8,
      "week": 6,
      "winner": "AWAY"
     },
     {
      "away": 6,
+     "away_live": null,
      "away_pts": 93.74,
      "home": 10,
+     "home_live": null,
      "home_pts": 110.9,
      "week": 6,
      "winner": "HOME"
     },
     {
      "away": 12,
+     "away_live": null,
      "away_pts": 140.2,
      "home": 8,
+     "home_live": null,
      "home_pts": 114.22,
      "week": 6,
      "winner": "AWAY"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 159.84,
      "home": 14,
+     "home_live": null,
      "home_pts": 129.1,
      "week": 6,
      "winner": "AWAY"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 141.94,
      "home": 11,
+     "home_live": null,
      "home_pts": 128.16,
      "week": 6,
      "winner": "AWAY"
     },
     {
      "away": 13,
+     "away_live": null,
      "away_pts": 106.1,
      "home": 4,
+     "home_live": null,
      "home_pts": 148.26,
      "week": 7,
      "winner": "HOME"
     },
     {
      "away": 6,
+     "away_live": null,
      "away_pts": 113.78,
      "home": 2,
+     "home_live": null,
      "home_pts": 109.7,
      "week": 7,
      "winner": "AWAY"
     },
     {
      "away": 12,
+     "away_live": null,
      "away_pts": 165.12,
      "home": 10,
+     "home_live": null,
      "home_pts": 112.32,
      "week": 7,
      "winner": "AWAY"
     },
     {
      "away": 14,
+     "away_live": null,
      "away_pts": 149.54,
      "home": 11,
+     "home_live": null,
      "home_pts": 91.62,
      "week": 7,
      "winner": "AWAY"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 135.2,
      "home": 8,
+     "home_live": null,
      "home_pts": 130.18,
      "week": 7,
      "winner": "AWAY"
     },
     {
      "away": 11,
+     "away_live": null,
      "away_pts": 126.54,
      "home": 13,
+     "home_live": null,
      "home_pts": 98.06,
      "week": 8,
      "winner": "AWAY"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 178.88,
      "home": 6,
+     "home_live": null,
      "home_pts": 168.26,
      "week": 8,
      "winner": "AWAY"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 48.3,
      "home": 12,
+     "home_live": null,
      "home_pts": 151.78,
      "week": 8,
      "winner": "HOME"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 136.48,
      "home": 8,
+     "home_live": null,
      "home_pts": 116.4,
      "week": 8,
      "winner": "AWAY"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 148.9,
      "home": 14,
+     "home_live": null,
      "home_pts": 139.76,
      "week": 8,
      "winner": "AWAY"
     },
     {
      "away": 13,
+     "away_live": null,
      "away_pts": 118.36,
      "home": 1,
+     "home_live": null,
      "home_pts": 156.48,
      "week": 9,
      "winner": "HOME"
     },
     {
      "away": 11,
+     "away_live": null,
      "away_pts": 118.28,
      "home": 6,
+     "home_live": null,
      "home_pts": 140.94,
      "week": 9,
      "winner": "HOME"
     },
     {
      "away": 12,
+     "away_live": null,
      "away_pts": 94.84,
      "home": 4,
+     "home_live": null,
      "home_pts": 173.44,
      "week": 9,
      "winner": "HOME"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 149.66,
      "home": 2,
+     "home_live": null,
      "home_pts": 88.7,
      "week": 9,
      "winner": "AWAY"
     },
     {
      "away": 14,
+     "away_live": null,
      "away_pts": 143.76,
      "home": 8,
+     "home_live": null,
      "home_pts": 103.3,
      "week": 9,
      "winner": "AWAY"
     },
     {
      "away": 13,
+     "away_live": 0.0,
      "away_pts": 0.0,
      "home": 14,
+     "home_live": 0.0,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
+     "away_live": 0.0,
      "away_pts": 0.0,
      "home": 6,
+     "home_live": 0.0,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 11,
+     "away_live": 0.0,
      "away_pts": 0.0,
      "home": 12,
+     "home_live": 33.1,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 4,
+     "away_live": 8.3,
      "away_pts": 0.0,
      "home": 10,
+     "home_live": 14.1,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 8,
+     "away_live": 25.3,
      "away_pts": 0.0,
      "home": 2,
+     "home_live": 0.0,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 13,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 14,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 6,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 12,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 1,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 11,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 10,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 2,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 6,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 13,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 12,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 14,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 10,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 11,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 4,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 13,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 12,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 13,
      "winner": "UNDECIDED"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 6,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 13,
      "winner": "UNDECIDED"
     },
     {
      "away": 14,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 10,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 13,
      "winner": "UNDECIDED"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 1,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 13,
      "winner": "UNDECIDED"
     },
     {
      "away": 11,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 4,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 13,
      "winner": "UNDECIDED"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 13,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 14,
      "winner": "UNDECIDED"
     },
     {
      "away": 6,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 12,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 14,
      "winner": "UNDECIDED"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 14,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 14,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 4,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 14,
      "winner": "UNDECIDED"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 11,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 14,
      "winner": "UNDECIDED"
@@ -3048,149 +3678,186 @@
      "roster": [
       {
        "espn_id": 4429795,
+       "espn_proj": 23.86,
        "injury": "ACTIVE",
        "name": "Jahmyr Gibbs",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "DET"
       },
       {
        "espn_id": 4567048,
+       "espn_proj": 26.13,
        "injury": "ACTIVE",
        "name": "Kenneth Walker III",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "KC"
       },
       {
        "espn_id": 4426502,
+       "espn_proj": 14.83,
        "injury": "ACTIVE",
        "name": "Drake London",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "ATL"
       },
       {
        "espn_id": 4241478,
+       "espn_proj": 0.0,
        "injury": "OUT",
        "name": "DeVonta Smith",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "PHI"
       },
       {
        "espn_id": 4239993,
+       "espn_proj": 16.16,
        "injury": "ACTIVE",
        "name": "Tee Higgins",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "CIN"
       },
       {
        "espn_id": 16737,
+       "espn_proj": 0.0,
        "injury": "QUESTIONABLE",
        "name": "Mike Evans",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "SF"
       },
       {
        "espn_id": 4432620,
+       "espn_proj": 14.39,
        "injury": "ACTIVE",
        "name": "Parker Washington",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "JAX"
       },
       {
        "espn_id": 4360310,
+       "espn_proj": 21.46,
        "injury": "ACTIVE",
        "name": "Trevor Lawrence",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "JAX"
       },
       {
        "espn_id": 4870653,
+       "espn_proj": 10.61,
        "injury": "ACTIVE",
        "name": "KC Concepcion",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "CLE"
       },
       {
        "espn_id": 3116406,
+       "espn_proj": null,
        "injury": "QUESTIONABLE",
        "name": "Tyreek Hill",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "FA"
       },
       {
        "espn_id": 3915416,
+       "espn_proj": 13.34,
        "injury": "ACTIVE",
        "name": "DJ Moore",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "BUF"
       },
       {
        "espn_id": 4685261,
+       "espn_proj": 10.93,
        "injury": "ACTIVE",
        "name": "Germie Bernard",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "PIT"
       },
       {
        "espn_id": 4036133,
+       "espn_proj": 11.53,
        "injury": "QUESTIONABLE",
        "name": "T.J. Hockenson",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "MIN"
       },
       {
        "espn_id": 4702555,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Jonah Coleman",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "DEN"
       },
       {
        "espn_id": 2971573,
+       "espn_proj": 10.02,
        "injury": "ACTIVE",
        "name": "Ka'imi Fairbairn",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "HOU"
       },
       {
        "espn_id": 4880281,
+       "espn_proj": 8.59,
        "injury": "ACTIVE",
        "name": "Jordyn Tyson",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "NO"
       },
       {
        "espn_id": 4431431,
+       "espn_proj": 6.55,
        "injury": "ACTIVE",
        "name": "Corey Kiner",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "NE"
       },
       {
        "espn_id": -16033,
+       "espn_proj": 7.71,
        "injury": "NORMAL",
        "name": "Ravens D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "BAL"
       }
      ],
+     "streak": "W5",
      "ties": 0,
      "wins": 8
     },
@@ -3204,149 +3871,186 @@
      "roster": [
       {
        "espn_id": 3117251,
+       "espn_proj": 21.75,
        "injury": "ACTIVE",
        "name": "Christian McCaffrey",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "SF"
       },
       {
        "espn_id": 4685382,
+       "espn_proj": 7.88,
        "injury": "ACTIVE",
        "name": "Omarion Hampton",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "LAC"
       },
       {
        "espn_id": 4258173,
+       "espn_proj": 13.17,
        "injury": "ACTIVE",
        "name": "Nico Collins",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "HOU"
       },
       {
        "espn_id": 4429615,
+       "espn_proj": 14.59,
        "injury": "ACTIVE",
        "name": "Zay Flowers",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "BAL"
       },
       {
        "espn_id": 3916387,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Lamar Jackson",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "BAL"
       },
       {
        "espn_id": 4431459,
+       "espn_proj": 10.59,
        "injury": "ACTIVE",
        "name": "Tyler Warren",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "IND"
       },
       {
        "espn_id": 4569173,
+       "espn_proj": 12.9,
        "injury": "QUESTIONABLE",
        "name": "Rhamondre Stevenson",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "NE"
       },
       {
        "espn_id": 4047650,
+       "espn_proj": 11.17,
        "injury": "ACTIVE",
        "name": "DK Metcalf",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "PIT"
       },
       {
        "espn_id": 4430027,
+       "espn_proj": 11.44,
        "injury": "ACTIVE",
        "name": "Sam LaPorta",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "DET"
       },
       {
        "espn_id": 4429205,
+       "espn_proj": 10.67,
        "injury": "ACTIVE",
        "name": "Jordan Addison",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "MIN"
       },
       {
        "espn_id": 4710714,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "De'Zhaun Stribling",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "SF"
       },
       {
        "espn_id": 4688813,
+       "espn_proj": 9.16,
        "injury": "ACTIVE",
        "name": "Josh Downs",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "KC"
       },
       {
        "espn_id": 4361529,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Isiah Pacheco",
        "pos": "RB",
+       "pts": null,
        "slot": "IR",
        "team": "DET"
       },
       {
        "espn_id": 4360689,
+       "espn_proj": 17.35,
        "injury": "ACTIVE",
        "name": "Tyler Shough",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "NO"
       },
       {
        "espn_id": 4887558,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Emanuel Wilson",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "SEA"
       },
       {
        "espn_id": -16005,
+       "espn_proj": 4.18,
        "injury": "NORMAL",
        "name": "Browns D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "CLE"
       },
       {
        "espn_id": 4431466,
+       "espn_proj": 4.26,
        "injury": "ACTIVE",
        "name": "Jordan Watkins",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "SF"
       },
       {
        "espn_id": 4568263,
+       "espn_proj": 7.66,
        "injury": "ACTIVE",
        "name": "Ryan Fitzgerald",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "CAR"
       }
      ],
+     "streak": "L3",
      "ties": 0,
      "wins": 4
     },
@@ -3360,133 +4064,166 @@
      "roster": [
       {
        "espn_id": 4430807,
+       "espn_proj": 18.62,
        "injury": "ACTIVE",
        "name": "Bijan Robinson",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "ATL"
       },
       {
        "espn_id": 4259545,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "D'Andre Swift",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4361579,
+       "espn_proj": 14.86,
        "injury": "ACTIVE",
        "name": "Javonte Williams",
        "pos": "RB",
+       "pts": null,
        "slot": "FLEX",
        "team": "DAL"
       },
       {
        "espn_id": 4612826,
+       "espn_proj": 10.44,
        "injury": "QUESTIONABLE",
        "name": "Ladd McConkey",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "LAC"
       },
       {
        "espn_id": 4723086,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Colston Loveland",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4360248,
+       "espn_proj": 9.16,
        "injury": "ACTIVE",
        "name": "Kyle Pitts Sr.",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "ATL"
       },
       {
        "espn_id": 3915511,
+       "espn_proj": 19.03,
        "injury": "ACTIVE",
        "name": "Joe Burrow",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "CIN"
       },
       {
        "espn_id": 4569587,
+       "espn_proj": 8.86,
        "injury": "ACTIVE",
        "name": "Wan'Dale Robinson",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "TEN"
       },
       {
        "espn_id": 4697815,
+       "espn_proj": 10.85,
        "injury": "ACTIVE",
        "name": "Rachaad White",
        "pos": "RB",
+       "pts": 4.3,
        "slot": "RB",
        "team": "WAS"
       },
       {
        "espn_id": 4701936,
+       "espn_proj": 17.22,
        "injury": "ACTIVE",
        "name": "Matthew Golden",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "GB"
       },
       {
        "espn_id": -16023,
+       "espn_proj": 5.32,
        "injury": "NORMAL",
        "name": "Steelers D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "BN",
        "team": "PIT"
       },
       {
        "espn_id": 17372,
+       "espn_proj": 10.5,
        "injury": "ACTIVE",
        "name": "Chris Boswell",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "PIT"
       },
       {
        "espn_id": 4036378,
+       "espn_proj": 16.02,
        "injury": "ACTIVE",
        "name": "Jordan Love",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "GB"
       },
       {
        "espn_id": 5082424,
+       "espn_proj": 8.22,
        "injury": "ACTIVE",
        "name": "Dominic Zvada",
        "pos": "K",
+       "pts": 1.0,
        "slot": "BN",
        "team": "NYG"
       },
       {
        "espn_id": -16019,
+       "espn_proj": 5.36,
        "injury": "NORMAL",
        "name": "Giants D/ST",
        "pos": "DST",
+       "pts": 4.0,
        "slot": "DST",
        "team": "NYG"
       },
       {
        "espn_id": 2991662,
+       "espn_proj": 9.33,
        "injury": "ACTIVE",
        "name": "Mack Hollins",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "NE"
       }
      ],
+     "streak": "W4",
      "ties": 0,
      "wins": 7
     },
@@ -3500,141 +4237,176 @@
      "roster": [
       {
        "espn_id": 4426515,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Puka Nacua",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "LA"
       },
       {
        "espn_id": 3929630,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Saquon Barkley",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "PHI"
       },
       {
        "espn_id": 4432665,
+       "espn_proj": 15.39,
        "injury": "ACTIVE",
        "name": "Brock Bowers",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "LV"
       },
       {
        "espn_id": 4430737,
+       "espn_proj": 18.63,
        "injury": "ACTIVE",
        "name": "Kyren Williams",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "LA"
       },
       {
        "espn_id": 4372016,
+       "espn_proj": 0.0,
        "injury": "QUESTIONABLE",
        "name": "Jaylen Waddle",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "DEN"
       },
       {
        "espn_id": 4432708,
+       "espn_proj": 5.98,
        "injury": "QUESTIONABLE",
        "name": "Marvin Harrison Jr.",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "HOU"
       },
       {
        "espn_id": 4569987,
+       "espn_proj": 15.55,
        "injury": "ACTIVE",
        "name": "Jaylen Warren",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "PIT"
       },
       {
        "espn_id": 15847,
+       "espn_proj": 11.16,
        "injury": "ACTIVE",
        "name": "Travis Kelce",
        "pos": "TE",
+       "pts": null,
        "slot": "FLEX",
        "team": "KC"
       },
       {
        "espn_id": 4047365,
+       "espn_proj": 0.0,
        "injury": "OUT",
        "name": "Josh Jacobs",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "GB"
       },
       {
        "espn_id": 4575131,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Jacory Croskey-Merritt",
        "pos": "RB",
+       "pts": 0.0,
        "slot": "IR",
        "team": "WAS"
       },
       {
        "espn_id": -16017,
+       "espn_proj": 3.52,
        "injury": "NORMAL",
        "name": "Patriots D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "BN",
        "team": "NE"
       },
       {
        "espn_id": 4685720,
+       "espn_proj": 18.8,
        "injury": "ACTIVE",
        "name": "Bryce Young",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "CAR"
       },
       {
        "espn_id": 8439,
+       "espn_proj": 14.79,
        "injury": "ACTIVE",
        "name": "Aaron Rodgers",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "PIT"
       },
       {
        "espn_id": 3917232,
+       "espn_proj": 11.23,
        "injury": "ACTIVE",
        "name": "Tyler Bass",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "BUF"
       },
       {
        "espn_id": 4832955,
+       "espn_proj": 6.43,
        "injury": "ACTIVE",
        "name": "Emmett Johnson",
        "pos": "RB",
+       "pts": null,
        "slot": "FLEX",
        "team": "KC"
       },
       {
        "espn_id": -16012,
+       "espn_proj": 4.91,
        "injury": "NORMAL",
        "name": "Chiefs D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "KC"
       },
       {
        "espn_id": 3916433,
+       "espn_proj": 11.62,
        "injury": "QUESTIONABLE",
        "name": "Jakobi Meyers",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "JAX"
       }
      ],
+     "streak": "W1",
      "ties": 0,
      "wins": 5
     },
@@ -3648,141 +4420,176 @@
      "roster": [
       {
        "espn_id": 4242335,
+       "espn_proj": 17.85,
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "IND"
       },
       {
        "espn_id": 4870808,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Jeremiyah Love",
        "pos": "RB",
+       "pts": null,
        "slot": "IR",
        "team": "ARI"
       },
       {
        "espn_id": 4428331,
+       "espn_proj": 12.83,
        "injury": "ACTIVE",
        "name": "Rashee Rice",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "KC"
       },
       {
        "espn_id": 4567750,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Emeka Egbuka",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "TB"
       },
       {
        "espn_id": 4696981,
+       "espn_proj": 11.52,
        "injury": "ACTIVE",
        "name": "Cam Skattebo",
        "pos": "RB",
+       "pts": 25.3,
        "slot": "FLEX",
        "team": "NYG"
       },
       {
        "espn_id": 4685512,
+       "espn_proj": 11.87,
        "injury": "ACTIVE",
        "name": "Jadarian Price",
        "pos": "RB",
+       "pts": null,
        "slot": "FLEX",
        "team": "SEA"
       },
       {
        "espn_id": 4871023,
+       "espn_proj": 12.23,
        "injury": "QUESTIONABLE",
        "name": "Carnell Tate",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "TEN"
       },
       {
        "espn_id": 5083076,
+       "espn_proj": 10.08,
        "injury": "QUESTIONABLE",
        "name": "Harold Fannin Jr.",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "CLE"
       },
       {
        "espn_id": 2577417,
+       "espn_proj": 16.55,
        "injury": "ACTIVE",
        "name": "Dak Prescott",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "DAL"
       },
       {
        "espn_id": 4241416,
+       "espn_proj": 20.01,
        "injury": "ACTIVE",
        "name": "Chuba Hubbard",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "CAR"
       },
       {
        "espn_id": 4385690,
+       "espn_proj": 8.85,
        "injury": "QUESTIONABLE",
        "name": "Dalton Kincaid",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "BUF"
       },
       {
        "espn_id": -16034,
+       "espn_proj": 7.28,
        "injury": "NORMAL",
        "name": "Texans D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "HOU"
       },
       {
        "espn_id": 4426338,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Bo Nix",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "DEN"
       },
       {
        "espn_id": 3055899,
+       "espn_proj": 9.31,
        "injury": "ACTIVE",
        "name": "Harrison Butker",
        "pos": "K",
+       "pts": null,
        "slot": "BN",
        "team": "KC"
       },
       {
        "espn_id": 4683062,
+       "espn_proj": 8.31,
        "injury": "ACTIVE",
        "name": "Xavier Worthy",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "KC"
       },
       {
        "espn_id": 4567104,
+       "espn_proj": 9.41,
        "injury": "ACTIVE",
        "name": "Will Reichard",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "MIN"
       },
       {
        "espn_id": -16030,
+       "espn_proj": 6.41,
        "injury": "NORMAL",
        "name": "Jaguars D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "BN",
        "team": "JAX"
       }
      ],
+     "streak": "L7",
      "ties": 0,
      "wins": 1
     },
@@ -3796,149 +4603,186 @@
      "roster": [
       {
        "espn_id": 4362628,
+       "espn_proj": 22.92,
        "injury": "ACTIVE",
        "name": "Ja'Marr Chase",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "CIN"
       },
       {
        "espn_id": 4890973,
+       "espn_proj": 13.57,
        "injury": "ACTIVE",
        "name": "Ashton Jeanty",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "LV"
       },
       {
        "espn_id": 4047646,
+       "espn_proj": 12.56,
        "injury": "QUESTIONABLE",
        "name": "A.J. Brown",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "NE"
       },
       {
        "espn_id": 4239996,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Travis Etienne Jr.",
        "pos": "RB",
+       "pts": null,
        "slot": "IR",
        "team": "NO"
       },
       {
        "espn_id": 16800,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Davante Adams",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "LA"
       },
       {
        "espn_id": 4685278,
+       "espn_proj": 0.0,
        "injury": "QUESTIONABLE",
        "name": "Luther Burden III",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4248528,
+       "espn_proj": 15.7,
        "injury": "ACTIVE",
        "name": "Christian Watson",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "GB"
       },
       {
        "espn_id": 4572680,
+       "espn_proj": 9.4,
        "injury": "ACTIVE",
        "name": "Tucker Kraft",
        "pos": "TE",
+       "pts": null,
        "slot": "FLEX",
        "team": "GB"
       },
       {
        "espn_id": 4608686,
+       "espn_proj": 0.0,
        "injury": "OUT",
        "name": "Kyle Monangai",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4361050,
+       "espn_proj": 12.21,
        "injury": "ACTIVE",
        "name": "Isaiah Likely",
        "pos": "TE",
+       "pts": 14.1,
        "slot": "TE",
        "team": "NYG"
       },
       {
        "espn_id": -16007,
+       "espn_proj": 0.0,
        "injury": "NORMAL",
        "name": "Broncos D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "BN",
        "team": "DEN"
       },
       {
        "espn_id": 4711533,
+       "espn_proj": 15.7,
        "injury": "ACTIVE",
        "name": "Ollie Gordon II",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "MIA"
       },
       {
        "espn_id": 4571557,
+       "espn_proj": 10.63,
        "injury": "ACTIVE",
        "name": "Spencer Shrader",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "IND"
       },
       {
        "espn_id": 4431611,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Caleb Williams",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 3046439,
+       "espn_proj": 8.77,
        "injury": "QUESTIONABLE",
        "name": "Hunter Henry",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "NE"
       },
       {
        "espn_id": -16014,
+       "espn_proj": 8.26,
        "injury": "NORMAL",
        "name": "Rams D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "LA"
       },
       {
        "espn_id": 3924327,
+       "espn_proj": 17.59,
        "injury": "QUESTIONABLE",
        "name": "Drew Lock",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "SEA"
       },
       {
        "espn_id": 4366031,
+       "espn_proj": 8.39,
        "injury": "ACTIVE",
        "name": "Tank Dell",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "HOU"
       }
      ],
+     "streak": "W2",
      "ties": 0,
      "wins": 5
     },
@@ -3952,141 +4796,176 @@
      "roster": [
       {
        "espn_id": 4262921,
+       "espn_proj": 17.48,
        "injury": "ACTIVE",
        "name": "Justin Jefferson",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "MIN"
       },
       {
        "espn_id": 4379399,
+       "espn_proj": 20.54,
        "injury": "ACTIVE",
        "name": "James Cook III",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "BUF"
       },
       {
        "espn_id": 4361370,
+       "espn_proj": 15.81,
        "injury": "ACTIVE",
        "name": "Chris Olave",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "NO"
       },
       {
        "espn_id": 4569618,
+       "espn_proj": 12.71,
        "injury": "QUESTIONABLE",
        "name": "Garrett Wilson",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "NYJ"
       },
       {
        "espn_id": 4685702,
+       "espn_proj": 11.79,
        "injury": "ACTIVE",
        "name": "Quinshon Judkins",
        "pos": "RB",
+       "pts": null,
        "slot": "FLEX",
        "team": "CLE"
       },
       {
        "espn_id": 4882093,
+       "espn_proj": 17.26,
        "injury": "QUESTIONABLE",
        "name": "Bhayshul Tuten",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "JAX"
       },
       {
        "espn_id": 4432710,
+       "espn_proj": 0.0,
        "injury": "OUT",
        "name": "TreVeyon Henderson",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "NE"
       },
       {
        "espn_id": 3128429,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Courtland Sutton",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "DEN"
       },
       {
        "espn_id": 4360078,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Alec Pierce",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "IND"
       },
       {
        "espn_id": 4361741,
+       "espn_proj": 20.73,
        "injury": "ACTIVE",
        "name": "Brock Purdy",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "SF"
       },
       {
        "espn_id": 3139477,
+       "espn_proj": 17.52,
        "injury": "ACTIVE",
        "name": "Patrick Mahomes",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "KC"
       },
       {
        "espn_id": 3126486,
+       "espn_proj": 11.7,
        "injury": "QUESTIONABLE",
        "name": "Deebo Samuel Sr.",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "SF"
       },
       {
        "espn_id": 2473037,
+       "espn_proj": 9.04,
        "injury": "ACTIVE",
        "name": "Jason Myers",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "SEA"
       },
       {
        "espn_id": 4428718,
+       "espn_proj": 8.41,
        "injury": "ACTIVE",
        "name": "Tre Tucker",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "LV"
       },
       {
        "espn_id": 4361411,
+       "espn_proj": 8.2,
        "injury": "ACTIVE",
        "name": "Pat Freiermuth",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "PIT"
       },
       {
        "espn_id": 4430539,
+       "espn_proj": 9.58,
        "injury": "ACTIVE",
        "name": "Brenton Strange",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "JAX"
       },
       {
        "espn_id": -16016,
+       "espn_proj": 5.13,
        "injury": "NORMAL",
        "name": "Vikings D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "MIN"
       }
      ],
+     "streak": "L1",
      "ties": 0,
      "wins": 3
     },
@@ -4100,149 +4979,186 @@
      "roster": [
       {
        "espn_id": 4430878,
+       "espn_proj": 22.3,
        "injury": "ACTIVE",
        "name": "Jaxon Smith-Njigba",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "SEA"
       },
       {
        "espn_id": 3043078,
+       "espn_proj": 18.19,
        "injury": "ACTIVE",
        "name": "Derrick Henry",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "BAL"
       },
       {
        "espn_id": 4361307,
+       "espn_proj": 14.08,
        "injury": "ACTIVE",
        "name": "Trey McBride",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "ARI"
       },
       {
        "espn_id": 4595348,
+       "espn_proj": 16.07,
        "injury": "ACTIVE",
        "name": "Malik Nabers",
        "pos": "WR",
+       "pts": 7.4,
        "slot": "FLEX",
        "team": "NYG"
       },
       {
        "espn_id": 4426388,
+       "espn_proj": 12.09,
        "injury": "ACTIVE",
        "name": "Jameson Williams",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "DET"
       },
       {
        "espn_id": 4035538,
+       "espn_proj": 0.0,
        "injury": "QUESTIONABLE",
        "name": "David Montgomery",
        "pos": "RB",
+       "pts": null,
        "slot": "IR",
        "team": "HOU"
       },
       {
        "espn_id": 4426348,
+       "espn_proj": 17.67,
        "injury": "ACTIVE",
        "name": "Jayden Daniels",
        "pos": "QB",
+       "pts": 17.5,
        "slot": "QB",
        "team": "WAS"
       },
       {
        "espn_id": 3916148,
+       "espn_proj": 13.44,
        "injury": "QUESTIONABLE",
        "name": "Tony Pollard",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "TEN"
       },
       {
        "espn_id": 2976212,
+       "espn_proj": 10.27,
        "injury": "ACTIVE",
        "name": "Stefon Diggs",
        "pos": "WR",
+       "pts": 8.2,
        "slot": "WR",
        "team": "WAS"
       },
       {
        "espn_id": 4678008,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Jonathon Brooks",
        "pos": "RB",
+       "pts": null,
        "slot": "IR",
        "team": "CAR"
       },
       {
        "espn_id": 4426385,
+       "espn_proj": 14.53,
        "injury": "ACTIVE",
        "name": "Zach Charbonnet",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "SEA"
       },
       {
        "espn_id": 4360234,
+       "espn_proj": 7.8,
        "injury": "ACTIVE",
        "name": "Evan McPherson",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "CIN"
       },
       {
        "espn_id": 4432577,
+       "espn_proj": 18.28,
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "HOU"
       },
       {
        "espn_id": -16004,
+       "espn_proj": 5.31,
        "injury": "NORMAL",
        "name": "Bengals D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "CIN"
       },
       {
        "espn_id": 4429096,
+       "espn_proj": 11.58,
        "injury": "ACTIVE",
        "name": "Blake Corum",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "LA"
       },
       {
        "espn_id": 5083754,
+       "espn_proj": 8.41,
        "injury": "ACTIVE",
        "name": "Ryan Flournoy",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "DAL"
       },
       {
        "espn_id": 4597500,
+       "espn_proj": 10.34,
        "injury": "ACTIVE",
        "name": "Adonai Mitchell",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "NYJ"
       },
       {
        "espn_id": 4360438,
+       "espn_proj": null,
        "injury": "OUT",
        "name": "Brandon Aiyuk",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "SF"
       }
      ],
+     "streak": "L1",
      "ties": 0,
      "wins": 5
     },
@@ -4256,133 +5172,166 @@
      "roster": [
       {
        "espn_id": 4374302,
+       "espn_proj": 20.35,
        "injury": "QUESTIONABLE",
        "name": "Amon-Ra St. Brown",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "DET"
       },
       {
        "espn_id": 4362238,
+       "espn_proj": 13.53,
        "injury": "ACTIVE",
        "name": "Chase Brown",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "CIN"
       },
       {
        "espn_id": 3918298,
+       "espn_proj": 24.31,
        "injury": "ACTIVE",
        "name": "Josh Allen",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "BUF"
       },
       {
        "espn_id": 4685472,
+       "espn_proj": 16.06,
        "injury": "ACTIVE",
        "name": "Tetairoa McMillan",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "CAR"
       },
       {
        "espn_id": 4431299,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Rome Odunze",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4241985,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "J.K. Dobbins",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "DEN"
       },
       {
        "espn_id": 4576297,
+       "espn_proj": 8.66,
        "injury": "ACTIVE",
        "name": "AJ Barner",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "SEA"
       },
       {
        "espn_id": 3042519,
+       "espn_proj": 8.46,
        "injury": "ACTIVE",
        "name": "Aaron Jones Sr.",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "MIN"
       },
       {
        "espn_id": -16026,
+       "espn_proj": 7.05,
        "injury": "NORMAL",
        "name": "Seahawks D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "SEA"
       },
       {
        "espn_id": 4429059,
+       "espn_proj": 13.92,
        "injury": "QUESTIONABLE",
        "name": "Woody Marks",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "HOU"
       },
       {
        "espn_id": 4832800,
+       "espn_proj": 12.72,
        "injury": "QUESTIONABLE",
        "name": "Denzel Boston",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "CLE"
       },
       {
        "espn_id": 15818,
+       "espn_proj": 8.69,
        "injury": "ACTIVE",
        "name": "Keenan Allen",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "SF"
       },
       {
        "espn_id": 2973405,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Kalif Raymond",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 12483,
+       "espn_proj": 16.98,
        "injury": "ACTIVE",
        "name": "Matthew Stafford",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "LA"
       },
       {
        "espn_id": 4249087,
+       "espn_proj": 8.33,
        "injury": "ACTIVE",
        "name": "Matt Gay",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "LV"
       },
       {
        "espn_id": 3116165,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Chris Godwin Jr.",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "TB"
       }
      ],
+     "streak": "L5",
      "ties": 0,
      "wins": 2
     },
@@ -4396,149 +5345,186 @@
      "roster": [
       {
        "espn_id": 4241389,
+       "espn_proj": 20.93,
        "injury": "ACTIVE",
        "name": "CeeDee Lamb",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "DAL"
       },
       {
        "espn_id": 4426354,
+       "espn_proj": 12.3,
        "injury": "QUESTIONABLE",
        "name": "George Pickens",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "DAL"
       },
       {
        "espn_id": 4427366,
+       "espn_proj": 12.13,
        "injury": "ACTIVE",
        "name": "Breece Hall",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "NYJ"
       },
       {
        "espn_id": 4596448,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Bucky Irving",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "TB"
       },
       {
        "espn_id": 4431452,
+       "espn_proj": 21.95,
        "injury": "ACTIVE",
        "name": "Drake Maye",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "NE"
       },
       {
        "espn_id": 3040151,
+       "espn_proj": 15.35,
        "injury": "ACTIVE",
        "name": "George Kittle",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "SF"
       },
       {
        "espn_id": 4035687,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Michael Pittman Jr.",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "PIT"
       },
       {
        "espn_id": 3953687,
+       "espn_proj": 10.47,
        "injury": "ACTIVE",
        "name": "Brandon Aubrey",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "DAL"
       },
       {
        "espn_id": 3121023,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Dallas Goedert",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "PHI"
       },
       {
        "espn_id": 4373678,
+       "espn_proj": 10.17,
        "injury": "ACTIVE",
        "name": "Khalil Shakir",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "BUF"
       },
       {
        "espn_id": 4695883,
+       "espn_proj": 11.3,
        "injury": "ACTIVE",
        "name": "Jalen Coker",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "CAR"
       },
       {
        "espn_id": 3046779,
+       "espn_proj": 17.29,
        "injury": "ACTIVE",
        "name": "Jared Goff",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "DET"
       },
       {
        "espn_id": 4685247,
+       "espn_proj": 7.86,
        "injury": "ACTIVE",
        "name": "Braelon Allen",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "NYJ"
       },
       {
        "espn_id": 3054850,
+       "espn_proj": 10.25,
        "injury": "ACTIVE",
        "name": "Alvin Kamara",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "NO"
       },
       {
        "espn_id": 4361432,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Romeo Doubs",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "NE"
       },
       {
        "espn_id": 4427095,
+       "espn_proj": 10.03,
        "injury": "ACTIVE",
        "name": "DeMario Douglas",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "NE"
       },
       {
        "espn_id": 4373626,
+       "espn_proj": 8.73,
        "injury": "ACTIVE",
        "name": "Tyler Allgeier",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "ARI"
       },
       {
        "espn_id": -16002,
+       "espn_proj": 6.22,
        "injury": "NORMAL",
        "name": "Bills D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "BUF"
       }
      ],
+     "streak": "W1",
      "ties": 0,
      "wins": 5
     }
@@ -4566,560 +5552,700 @@
    "schedule": [
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 113.66,
      "home": 4,
+     "home_live": null,
      "home_pts": 156.06,
      "week": 1,
      "winner": "HOME"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 96.72,
      "home": 5,
+     "home_live": null,
      "home_pts": 122.44,
      "week": 1,
      "winner": "HOME"
     },
     {
      "away": 6,
+     "away_live": null,
      "away_pts": 150.3,
      "home": 3,
+     "home_live": null,
      "home_pts": 140.06,
      "week": 1,
      "winner": "AWAY"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 91.1,
      "home": 9,
+     "home_live": null,
      "home_pts": 111.32,
      "week": 1,
      "winner": "HOME"
     },
     {
      "away": 7,
+     "away_live": null,
      "away_pts": 171.3,
      "home": 1,
+     "home_live": null,
      "home_pts": 131.76,
      "week": 1,
      "winner": "AWAY"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 138.72,
      "home": 2,
+     "home_live": null,
      "home_pts": 136.64,
      "week": 2,
      "winner": "AWAY"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 71.0,
      "home": 6,
+     "home_live": null,
      "home_pts": 128.18,
      "week": 2,
      "winner": "HOME"
     },
     {
      "away": 5,
+     "away_live": null,
      "away_pts": 110.92,
      "home": 8,
+     "home_live": null,
      "home_pts": 122.88,
      "week": 2,
      "winner": "HOME"
     },
     {
      "away": 3,
+     "away_live": null,
      "away_pts": 171.52,
      "home": 7,
+     "home_live": null,
      "home_pts": 120.16,
      "week": 2,
      "winner": "AWAY"
     },
     {
      "away": 9,
+     "away_live": null,
      "away_pts": 101.1,
      "home": 1,
+     "home_live": null,
      "home_pts": 88.48,
      "week": 2,
      "winner": "AWAY"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 162.78,
      "home": 6,
+     "home_live": null,
      "home_pts": 143.88,
      "week": 3,
      "winner": "AWAY"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 143.66,
      "home": 10,
+     "home_live": null,
      "home_pts": 152.54,
      "week": 3,
      "winner": "HOME"
     },
     {
      "away": 7,
+     "away_live": null,
      "away_pts": 146.34,
      "home": 4,
+     "home_live": null,
      "home_pts": 147.64,
      "week": 3,
      "winner": "HOME"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 124.38,
      "home": 5,
+     "home_live": null,
      "home_pts": 104.96,
      "week": 3,
      "winner": "AWAY"
     },
     {
      "away": 9,
+     "away_live": null,
      "away_pts": 75.7,
      "home": 3,
+     "home_live": null,
      "home_pts": 143.86,
      "week": 3,
      "winner": "HOME"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 137.64,
      "home": 2,
+     "home_live": null,
      "home_pts": 146.88,
      "week": 4,
      "winner": "HOME"
     },
     {
      "away": 6,
+     "away_live": null,
      "away_pts": 135.42,
      "home": 7,
+     "home_live": null,
      "home_pts": 148.18,
      "week": 4,
      "winner": "HOME"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 163.3,
      "home": 1,
+     "home_live": null,
      "home_pts": 112.42,
      "week": 4,
      "winner": "AWAY"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 127.68,
      "home": 9,
+     "home_live": null,
      "home_pts": 119.5,
      "week": 4,
      "winner": "AWAY"
     },
     {
      "away": 5,
+     "away_live": null,
      "away_pts": 107.82,
      "home": 3,
+     "home_live": null,
      "home_pts": 166.42,
      "week": 4,
      "winner": "HOME"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 188.66,
      "home": 7,
+     "home_live": null,
      "home_pts": 151.18,
      "week": 5,
      "winner": "AWAY"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 165.2,
      "home": 8,
+     "home_live": null,
      "home_pts": 110.64,
      "week": 5,
      "winner": "AWAY"
     },
     {
      "away": 9,
+     "away_live": null,
      "away_pts": 88.94,
      "home": 6,
+     "home_live": null,
      "home_pts": 150.56,
      "week": 5,
      "winner": "HOME"
     },
     {
      "away": 3,
+     "away_live": null,
      "away_pts": 153.2,
      "home": 10,
+     "home_live": null,
      "home_pts": 172.04,
      "week": 5,
      "winner": "HOME"
     },
     {
      "away": 5,
+     "away_live": null,
      "away_pts": 148.2,
      "home": 4,
+     "home_live": null,
      "home_pts": 123.84,
      "week": 5,
      "winner": "AWAY"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 65.82,
      "home": 2,
+     "home_live": null,
      "home_pts": 112.4,
      "week": 6,
      "winner": "HOME"
     },
     {
      "away": 7,
+     "away_live": null,
      "away_pts": 151.24,
      "home": 9,
+     "home_live": null,
      "home_pts": 69.22,
      "week": 6,
      "winner": "AWAY"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 142.78,
      "home": 3,
+     "home_live": null,
      "home_pts": 127.2,
      "week": 6,
      "winner": "AWAY"
     },
     {
      "away": 6,
+     "away_live": null,
      "away_pts": 121.36,
      "home": 5,
+     "home_live": null,
      "home_pts": 138.6,
      "week": 6,
      "winner": "HOME"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 176.8,
      "home": 4,
+     "home_live": null,
      "home_pts": 84.88,
      "week": 6,
      "winner": "AWAY"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 108.96,
      "home": 9,
+     "home_live": null,
      "home_pts": 107.88,
      "week": 7,
      "winner": "AWAY"
     },
     {
      "away": 3,
+     "away_live": null,
      "away_pts": 128.18,
      "home": 1,
+     "home_live": null,
      "home_pts": 132.78,
      "week": 7,
      "winner": "HOME"
     },
     {
      "away": 5,
+     "away_live": null,
      "away_pts": 121.42,
      "home": 7,
+     "home_live": null,
      "home_pts": 158.02,
      "week": 7,
      "winner": "HOME"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 80.72,
      "home": 8,
+     "home_live": null,
      "home_pts": 182.2,
      "week": 7,
      "winner": "HOME"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 134.24,
      "home": 6,
+     "home_live": null,
      "home_pts": 114.32,
      "week": 7,
      "winner": "AWAY"
     },
     {
      "away": 3,
+     "away_live": null,
      "away_pts": 114.16,
      "home": 2,
+     "home_live": null,
      "home_pts": 77.48,
      "week": 8,
      "winner": "AWAY"
     },
     {
      "away": 9,
+     "away_live": null,
      "away_pts": 126.9,
      "home": 5,
+     "home_live": null,
      "home_pts": 132.76,
      "week": 8,
      "winner": "HOME"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 151.28,
      "home": 4,
+     "home_live": null,
      "home_pts": 73.5,
      "week": 8,
      "winner": "AWAY"
     },
     {
      "away": 7,
+     "away_live": null,
      "away_pts": 160.6,
      "home": 10,
+     "home_live": null,
      "home_pts": 194.06,
      "week": 8,
      "winner": "HOME"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 132.48,
      "home": 6,
+     "home_live": null,
      "home_pts": 108.76,
      "week": 8,
      "winner": "AWAY"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 99.66,
      "home": 5,
+     "home_live": null,
      "home_pts": 123.86,
      "week": 9,
      "winner": "HOME"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 99.5,
      "home": 3,
+     "home_live": null,
      "home_pts": 117.26,
      "week": 9,
      "winner": "HOME"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 138.36,
      "home": 9,
+     "home_live": null,
      "home_pts": 91.7,
      "week": 9,
      "winner": "AWAY"
     },
     {
      "away": 6,
+     "away_live": null,
      "away_pts": 131.28,
      "home": 1,
+     "home_live": null,
      "home_pts": 148.42,
      "week": 9,
      "winner": "HOME"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 140.72,
      "home": 7,
+     "home_live": null,
      "home_pts": 178.78,
      "week": 9,
      "winner": "HOME"
     },
     {
      "away": 4,
+     "away_live": 0.0,
      "away_pts": 0.0,
      "home": 2,
+     "home_live": 17.5,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 5,
+     "away_live": 14.1,
      "away_pts": 0.0,
      "home": 10,
+     "home_live": 7.4,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 3,
+     "away_live": 0.0,
      "away_pts": 0.0,
      "home": 6,
+     "home_live": 0.0,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 9,
+     "away_live": 8.2,
      "away_pts": 0.0,
      "home": 8,
+     "home_live": 4.3,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
+     "away_live": 25.3,
      "away_pts": 0.0,
      "home": 7,
+     "home_live": 0.0,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 10,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 6,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 4,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 5,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 7,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 3,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 9,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 6,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 2,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 8,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 7,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 5,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 1,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 3,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 9,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 2,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 8,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 13,
      "winner": "UNDECIDED"
     },
     {
      "away": 7,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 6,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 13,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 10,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 13,
      "winner": "UNDECIDED"
     },
     {
      "away": 9,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 4,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 13,
      "winner": "UNDECIDED"
     },
     {
      "away": 3,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 5,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 13,
      "winner": "UNDECIDED"
     },
     {
      "away": 7,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 2,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 14,
      "winner": "UNDECIDED"
     },
     {
      "away": 8,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 1,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 14,
      "winner": "UNDECIDED"
     },
     {
      "away": 6,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 9,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 14,
      "winner": "UNDECIDED"
     },
     {
      "away": 10,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 3,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 14,
      "winner": "UNDECIDED"
     },
     {
      "away": 4,
+     "away_live": null,
      "away_pts": 0.0,
      "home": 5,
+     "home_live": null,
      "home_pts": 0.0,
      "week": 14,
      "winner": "UNDECIDED"
@@ -5322,149 +6448,186 @@
      "roster": [
       {
        "espn_id": 4426515,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Puka Nacua",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "LA"
       },
       {
        "espn_id": 3043078,
+       "espn_proj": 18.19,
        "injury": "ACTIVE",
        "name": "Derrick Henry",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "BAL"
       },
       {
        "espn_id": 4428331,
+       "espn_proj": 12.83,
        "injury": "ACTIVE",
        "name": "Rashee Rice",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "KC"
       },
       {
        "espn_id": 4696981,
+       "espn_proj": 11.52,
        "injury": "ACTIVE",
        "name": "Cam Skattebo",
        "pos": "RB",
+       "pts": 25.3,
        "slot": "FLEX",
        "team": "NYG"
       },
       {
        "espn_id": 3915511,
+       "espn_proj": 19.03,
        "injury": "ACTIVE",
        "name": "Joe Burrow",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "CIN"
       },
       {
        "espn_id": 2473037,
+       "espn_proj": 9.04,
        "injury": "ACTIVE",
        "name": "Jason Myers",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "SEA"
       },
       {
        "espn_id": 4429096,
+       "espn_proj": 11.58,
        "injury": "ACTIVE",
        "name": "Blake Corum",
        "pos": "RB",
+       "pts": null,
        "slot": "FLEX",
        "team": "LA"
       },
       {
        "espn_id": 3121023,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Dallas Goedert",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "PHI"
       },
       {
        "espn_id": 4832800,
+       "espn_proj": 12.72,
        "injury": "QUESTIONABLE",
        "name": "Denzel Boston",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "CLE"
       },
       {
        "espn_id": 4373678,
+       "espn_proj": 10.17,
        "injury": "ACTIVE",
        "name": "Khalil Shakir",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "BUF"
       },
       {
        "espn_id": 4361579,
+       "espn_proj": 14.86,
        "injury": "ACTIVE",
        "name": "Javonte Williams",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "DAL"
       },
       {
        "espn_id": 4047646,
+       "espn_proj": 12.56,
        "injury": "QUESTIONABLE",
        "name": "A.J. Brown",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "NE"
       },
       {
        "espn_id": 4035538,
+       "espn_proj": 0.0,
        "injury": "QUESTIONABLE",
        "name": "David Montgomery",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "HOU"
       },
       {
        "espn_id": -16004,
+       "espn_proj": 5.31,
        "injury": "NORMAL",
        "name": "Bengals D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "CIN"
       },
       {
        "espn_id": 3116164,
+       "espn_proj": 7.62,
        "injury": "ACTIVE",
        "name": "Mike Gesicki",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "CIN"
       },
       {
        "espn_id": 4723086,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Colston Loveland",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4360438,
+       "espn_proj": null,
        "injury": "OUT",
        "name": "Brandon Aiyuk",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "SF"
       },
       {
        "espn_id": 4569682,
+       "espn_proj": 10.33,
        "injury": "ACTIVE",
        "name": "Audric Estime",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "NO"
       }
      ],
+     "streak": "W3",
      "ties": 0,
      "wins": 5
     },
@@ -5478,141 +6641,176 @@
      "roster": [
       {
        "espn_id": 4374302,
+       "espn_proj": 20.35,
        "injury": "QUESTIONABLE",
        "name": "Amon-Ra St. Brown",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "DET"
       },
       {
        "espn_id": 4426502,
+       "espn_proj": 14.83,
        "injury": "ACTIVE",
        "name": "Drake London",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "ATL"
       },
       {
        "espn_id": 4430737,
+       "espn_proj": 18.63,
        "injury": "ACTIVE",
        "name": "Kyren Williams",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "LA"
       },
       {
        "espn_id": 4427366,
+       "espn_proj": 12.13,
        "injury": "ACTIVE",
        "name": "Breece Hall",
        "pos": "RB",
+       "pts": null,
        "slot": "FLEX",
        "team": "NYJ"
       },
       {
        "espn_id": 4426348,
+       "espn_proj": 17.67,
        "injury": "ACTIVE",
        "name": "Jayden Daniels",
        "pos": "QB",
+       "pts": 17.5,
        "slot": "QB",
        "team": "WAS"
       },
       {
        "espn_id": 4047650,
+       "espn_proj": 11.17,
        "injury": "ACTIVE",
        "name": "DK Metcalf",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "PIT"
       },
       {
        "espn_id": 4430027,
+       "espn_proj": 11.44,
        "injury": "ACTIVE",
        "name": "Sam LaPorta",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "DET"
       },
       {
        "espn_id": 4569987,
+       "espn_proj": 15.55,
        "injury": "ACTIVE",
        "name": "Jaylen Warren",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "PIT"
       },
       {
        "espn_id": 4429205,
+       "espn_proj": 10.67,
        "injury": "ACTIVE",
        "name": "Jordan Addison",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "MIN"
       },
       {
        "espn_id": 4429025,
+       "espn_proj": 6.41,
        "injury": "ACTIVE",
        "name": "Quentin Johnston",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "LAC"
       },
       {
        "espn_id": 4575131,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Jacory Croskey-Merritt",
        "pos": "RB",
+       "pts": 0.0,
        "slot": "IR",
        "team": "WAS"
       },
       {
        "espn_id": -16034,
+       "espn_proj": 7.28,
        "injury": "NORMAL",
        "name": "Texans D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "HOU"
       },
       {
        "espn_id": 3046439,
+       "espn_proj": 8.77,
        "injury": "QUESTIONABLE",
        "name": "Hunter Henry",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "NE"
       },
       {
        "espn_id": 3054850,
+       "espn_proj": 10.25,
        "injury": "ACTIVE",
        "name": "Alvin Kamara",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "NO"
       },
       {
        "espn_id": 4036378,
+       "espn_proj": 16.02,
        "injury": "ACTIVE",
        "name": "Jordan Love",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "GB"
       },
       {
        "espn_id": 3116165,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Chris Godwin Jr.",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "TB"
       },
       {
        "espn_id": 3055899,
+       "espn_proj": 9.31,
        "injury": "ACTIVE",
        "name": "Harrison Butker",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "KC"
       }
      ],
+     "streak": "L2",
      "ties": 0,
      "wins": 5
     },
@@ -5626,149 +6824,186 @@
      "roster": [
       {
        "espn_id": 4361307,
+       "espn_proj": 14.08,
        "injury": "ACTIVE",
        "name": "Trey McBride",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "ARI"
       },
       {
        "espn_id": 3918298,
+       "espn_proj": 24.31,
        "injury": "ACTIVE",
        "name": "Josh Allen",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "BUF"
       },
       {
        "espn_id": 4685472,
+       "espn_proj": 16.06,
        "injury": "ACTIVE",
        "name": "Tetairoa McMillan",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "CAR"
       },
       {
        "espn_id": 16800,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Davante Adams",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "LA"
       },
       {
        "espn_id": 4871023,
+       "espn_proj": 12.23,
        "injury": "QUESTIONABLE",
        "name": "Carnell Tate",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "TEN"
       },
       {
        "espn_id": 4241985,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "J.K. Dobbins",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "DEN"
       },
       {
        "espn_id": -16026,
+       "espn_proj": 7.05,
        "injury": "NORMAL",
        "name": "Seahawks D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "SEA"
       },
       {
        "espn_id": 4366031,
+       "espn_proj": 8.39,
        "injury": "ACTIVE",
        "name": "Tank Dell",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "HOU"
       },
       {
        "espn_id": 15818,
+       "espn_proj": 8.69,
        "injury": "ACTIVE",
        "name": "Keenan Allen",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "SF"
       },
       {
        "espn_id": 4635008,
+       "espn_proj": 7.53,
        "injury": "ACTIVE",
        "name": "Keon Coleman",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "BUF"
       },
       {
        "espn_id": 4248528,
+       "espn_proj": 15.7,
        "injury": "ACTIVE",
        "name": "Christian Watson",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "GB"
       },
       {
        "espn_id": 4242335,
+       "espn_proj": 17.85,
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "IND"
       },
       {
        "espn_id": 4711533,
+       "espn_proj": 15.7,
        "injury": "ACTIVE",
        "name": "Ollie Gordon II",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "MIA"
       },
       {
        "espn_id": 4249087,
+       "espn_proj": 8.33,
        "injury": "ACTIVE",
        "name": "Matt Gay",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "LV"
       },
       {
        "espn_id": 8439,
+       "espn_proj": 14.79,
        "injury": "ACTIVE",
        "name": "Aaron Rodgers",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "PIT"
       },
       {
        "espn_id": 4586312,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Jaylin Noel",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "HOU"
       },
       {
        "espn_id": 4567156,
+       "espn_proj": 8.91,
        "injury": "ACTIVE",
        "name": "Treylon Burks",
        "pos": "WR",
+       "pts": 4.7,
        "slot": "BN",
        "team": "WAS"
       },
       {
        "espn_id": 4040761,
+       "espn_proj": 7.38,
        "injury": "ACTIVE",
        "name": "Devin Singletary",
        "pos": "RB",
+       "pts": 0.3,
        "slot": "BN",
        "team": "NYG"
       }
      ],
+     "streak": "W2",
      "ties": 0,
      "wins": 5
     },
@@ -5782,141 +7017,176 @@
      "roster": [
       {
        "espn_id": 4430807,
+       "espn_proj": 18.62,
        "injury": "ACTIVE",
        "name": "Bijan Robinson",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "ATL"
       },
       {
        "espn_id": 4870808,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Jeremiyah Love",
        "pos": "RB",
+       "pts": null,
        "slot": "IR",
        "team": "ARI"
       },
       {
        "espn_id": 4258173,
+       "espn_proj": 13.17,
        "injury": "ACTIVE",
        "name": "Nico Collins",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "HOU"
       },
       {
        "espn_id": 4567750,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Emeka Egbuka",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "TB"
       },
       {
        "espn_id": 3916387,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Lamar Jackson",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "BAL"
       },
       {
        "espn_id": 3915416,
+       "espn_proj": 13.34,
        "injury": "ACTIVE",
        "name": "DJ Moore",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "BUF"
       },
       {
        "espn_id": 4432708,
+       "espn_proj": 5.98,
        "injury": "QUESTIONABLE",
        "name": "Marvin Harrison Jr.",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "HOU"
       },
       {
        "espn_id": 4360248,
+       "espn_proj": 9.16,
        "injury": "ACTIVE",
        "name": "Kyle Pitts Sr.",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "ATL"
       },
       {
        "espn_id": 3042519,
+       "espn_proj": 8.46,
        "injury": "ACTIVE",
        "name": "Aaron Jones Sr.",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "MIN"
       },
       {
        "espn_id": 4385690,
+       "espn_proj": 8.85,
        "injury": "QUESTIONABLE",
        "name": "Dalton Kincaid",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "BUF"
       },
       {
        "espn_id": -16023,
+       "espn_proj": 5.32,
        "injury": "NORMAL",
        "name": "Steelers D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "PIT"
       },
       {
        "espn_id": 3046779,
+       "espn_proj": 17.29,
        "injury": "ACTIVE",
        "name": "Jared Goff",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "DET"
       },
       {
        "espn_id": 4569603,
+       "espn_proj": 9.06,
        "injury": "ACTIVE",
        "name": "Malik Washington",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "MIA"
       },
       {
        "espn_id": -16003,
+       "espn_proj": 0.0,
        "injury": "NORMAL",
        "name": "Bears D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4571557,
+       "espn_proj": 10.63,
        "injury": "ACTIVE",
        "name": "Spencer Shrader",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "IND"
       },
       {
        "espn_id": 4597500,
+       "espn_proj": 10.34,
        "injury": "ACTIVE",
        "name": "Adonai Mitchell",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "NYJ"
       },
       {
        "espn_id": 4696044,
+       "espn_proj": 7.59,
        "injury": "ACTIVE",
        "name": "Kaelon Black",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "SF"
       }
      ],
+     "streak": "L5",
      "ties": 0,
      "wins": 3
     },
@@ -5930,149 +7200,186 @@
      "roster": [
       {
        "espn_id": 4361370,
+       "espn_proj": 15.81,
        "injury": "ACTIVE",
        "name": "Chris Olave",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "NO"
       },
       {
        "espn_id": 4426354,
+       "espn_proj": 12.3,
        "injury": "QUESTIONABLE",
        "name": "George Pickens",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "DAL"
       },
       {
        "espn_id": 4596448,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Bucky Irving",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "TB"
       },
       {
        "espn_id": 4685512,
+       "espn_proj": 11.87,
        "injury": "ACTIVE",
        "name": "Jadarian Price",
        "pos": "RB",
+       "pts": null,
        "slot": "FLEX",
        "team": "SEA"
       },
       {
        "espn_id": 4047365,
+       "espn_proj": 0.0,
        "injury": "OUT",
        "name": "Josh Jacobs",
        "pos": "RB",
+       "pts": null,
        "slot": "IR",
        "team": "GB"
       },
       {
        "espn_id": -16014,
+       "espn_proj": 8.26,
        "injury": "NORMAL",
        "name": "Rams D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "LA"
       },
       {
        "espn_id": 15847,
+       "espn_proj": 11.16,
        "injury": "ACTIVE",
        "name": "Travis Kelce",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "KC"
       },
       {
        "espn_id": 4695883,
+       "espn_proj": 11.3,
        "injury": "ACTIVE",
        "name": "Jalen Coker",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "CAR"
       },
       {
        "espn_id": 4882093,
+       "espn_proj": 17.26,
        "injury": "QUESTIONABLE",
        "name": "Bhayshul Tuten",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "JAX"
       },
       {
        "espn_id": 4361050,
+       "espn_proj": 12.21,
        "injury": "ACTIVE",
        "name": "Isaiah Likely",
        "pos": "TE",
+       "pts": 14.1,
        "slot": "TE",
        "team": "NYG"
       },
       {
        "espn_id": 4362238,
+       "espn_proj": 13.53,
        "injury": "ACTIVE",
        "name": "Chase Brown",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "CIN"
       },
       {
        "espn_id": 4429059,
+       "espn_proj": 13.92,
        "injury": "QUESTIONABLE",
        "name": "Woody Marks",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "HOU"
       },
       {
        "espn_id": 4567104,
+       "espn_proj": 9.41,
        "injury": "ACTIVE",
        "name": "Will Reichard",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "MIN"
       },
       {
        "espn_id": 4431611,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Caleb Williams",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4038815,
+       "espn_proj": 9.78,
        "injury": "ACTIVE",
        "name": "Rico Dowdle",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "PIT"
       },
       {
        "espn_id": 3126486,
+       "espn_proj": 11.7,
        "injury": "QUESTIONABLE",
        "name": "Deebo Samuel Sr.",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "SF"
       },
       {
        "espn_id": 4433970,
+       "espn_proj": 15.21,
        "injury": "ACTIVE",
        "name": "J.J. McCarthy",
        "pos": "QB",
+       "pts": 11.84,
        "slot": "BN",
        "team": "NYG"
       },
       {
        "espn_id": 4360689,
+       "espn_proj": 17.35,
        "injury": "ACTIVE",
        "name": "Tyler Shough",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "NO"
       }
      ],
+     "streak": "W2",
      "ties": 0,
      "wins": 5
     },
@@ -6086,149 +7393,186 @@
      "roster": [
       {
        "espn_id": 4379399,
+       "espn_proj": 20.54,
        "injury": "ACTIVE",
        "name": "James Cook III",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "BUF"
       },
       {
        "espn_id": 4429615,
+       "espn_proj": 14.59,
        "injury": "ACTIVE",
        "name": "Zay Flowers",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "BAL"
       },
       {
        "espn_id": 3040151,
+       "espn_proj": 15.35,
        "injury": "ACTIVE",
        "name": "George Kittle",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "SF"
       },
       {
        "espn_id": 4608686,
+       "espn_proj": 0.0,
        "injury": "OUT",
        "name": "Kyle Monangai",
        "pos": "RB",
+       "pts": null,
        "slot": "IR",
        "team": "CHI"
       },
       {
        "espn_id": 4361741,
+       "espn_proj": 20.73,
        "injury": "ACTIVE",
        "name": "Brock Purdy",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "SF"
       },
       {
        "espn_id": 4426385,
+       "espn_proj": 14.53,
        "injury": "ACTIVE",
        "name": "Zach Charbonnet",
        "pos": "RB",
+       "pts": null,
        "slot": "FLEX",
        "team": "SEA"
       },
       {
        "espn_id": 4262921,
+       "espn_proj": 17.48,
        "injury": "ACTIVE",
        "name": "Justin Jefferson",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "MIN"
       },
       {
        "espn_id": 4880281,
+       "espn_proj": 8.59,
        "injury": "ACTIVE",
        "name": "Jordyn Tyson",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "NO"
       },
       {
        "espn_id": 4429795,
+       "espn_proj": 23.86,
        "injury": "ACTIVE",
        "name": "Jahmyr Gibbs",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "DET"
       },
       {
        "espn_id": 4427095,
+       "espn_proj": 10.03,
        "injury": "ACTIVE",
        "name": "DeMario Douglas",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "NE"
       },
       {
        "espn_id": 5081432,
+       "espn_proj": 7.79,
        "injury": "ACTIVE",
        "name": "Antonio Williams",
        "pos": "WR",
+       "pts": 10.1,
        "slot": "BN",
        "team": "WAS"
       },
       {
        "espn_id": 4036133,
+       "espn_proj": 11.53,
        "injury": "QUESTIONABLE",
        "name": "T.J. Hockenson",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "MIN"
       },
       {
        "espn_id": 4723820,
+       "espn_proj": 9.45,
        "injury": "QUESTIONABLE",
        "name": "Omar Cooper Jr.",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "NYJ"
       },
       {
        "espn_id": 4360635,
+       "espn_proj": 8.26,
        "injury": "QUESTIONABLE",
        "name": "Chig Okonkwo",
        "pos": "TE",
+       "pts": 3.7,
        "slot": "BN",
        "team": "WAS"
       },
       {
        "espn_id": 4686361,
+       "espn_proj": 9.83,
        "injury": "ACTIVE",
        "name": "Cam Little",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "JAX"
       },
       {
        "espn_id": 4432577,
+       "espn_proj": 18.28,
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "HOU"
       },
       {
        "espn_id": -16033,
+       "espn_proj": 7.71,
        "injury": "NORMAL",
        "name": "Ravens D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "BAL"
       },
       {
        "espn_id": 4710855,
+       "espn_proj": 8.84,
        "injury": "ACTIVE",
        "name": "Konata Mumpfield",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "LA"
       }
      ],
+     "streak": "L4",
      "ties": 0,
      "wins": 3
     },
@@ -6242,141 +7586,176 @@
      "roster": [
       {
        "espn_id": 4362628,
+       "espn_proj": 22.92,
        "injury": "ACTIVE",
        "name": "Ja'Marr Chase",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "CIN"
       },
       {
        "espn_id": 4890973,
+       "espn_proj": 13.57,
        "injury": "ACTIVE",
        "name": "Ashton Jeanty",
        "pos": "RB",
+       "pts": null,
        "slot": "FLEX",
        "team": "LV"
       },
       {
        "espn_id": 4567048,
+       "espn_proj": 26.13,
        "injury": "ACTIVE",
        "name": "Kenneth Walker III",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "KC"
       },
       {
        "espn_id": 4239993,
+       "espn_proj": 16.16,
        "injury": "ACTIVE",
        "name": "Tee Higgins",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "CIN"
       },
       {
        "espn_id": 4612826,
+       "espn_proj": 10.44,
        "injury": "QUESTIONABLE",
        "name": "Ladd McConkey",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "LAC"
       },
       {
        "espn_id": 4685278,
+       "espn_proj": 0.0,
        "injury": "QUESTIONABLE",
        "name": "Luther Burden III",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4432620,
+       "espn_proj": 14.39,
        "injury": "ACTIVE",
        "name": "Parker Washington",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "JAX"
       },
       {
        "espn_id": 4569173,
+       "espn_proj": 12.9,
        "injury": "QUESTIONABLE",
        "name": "Rhamondre Stevenson",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "NE"
       },
       {
        "espn_id": 4572680,
+       "espn_proj": 9.4,
        "injury": "ACTIVE",
        "name": "Tucker Kraft",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "GB"
       },
       {
        "espn_id": 4360310,
+       "espn_proj": 21.46,
        "injury": "ACTIVE",
        "name": "Trevor Lawrence",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "JAX"
       },
       {
        "espn_id": 4870653,
+       "espn_proj": 10.61,
        "injury": "ACTIVE",
        "name": "KC Concepcion",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "CLE"
       },
       {
        "espn_id": 2971573,
+       "espn_proj": 10.02,
        "injury": "ACTIVE",
        "name": "Ka'imi Fairbairn",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "HOU"
       },
       {
        "espn_id": -16016,
+       "espn_proj": 5.13,
        "injury": "NORMAL",
        "name": "Vikings D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "MIN"
       },
       {
        "espn_id": 4685261,
+       "espn_proj": 10.93,
        "injury": "ACTIVE",
        "name": "Germie Bernard",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "PIT"
       },
       {
        "espn_id": 4702555,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Jonah Coleman",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "DEN"
       },
       {
        "espn_id": 4373626,
+       "espn_proj": 8.73,
        "injury": "ACTIVE",
        "name": "Tyler Allgeier",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "ARI"
       },
       {
        "espn_id": 4431431,
+       "espn_proj": 6.55,
        "injury": "ACTIVE",
        "name": "Corey Kiner",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "NE"
       }
      ],
+     "streak": "W1",
      "ties": 0,
      "wins": 5
     },
@@ -6390,141 +7769,176 @@
      "roster": [
       {
        "espn_id": 4430878,
+       "espn_proj": 22.3,
        "injury": "ACTIVE",
        "name": "Jaxon Smith-Njigba",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "SEA"
       },
       {
        "espn_id": 3929630,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Saquon Barkley",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "PHI"
       },
       {
        "espn_id": 4431459,
+       "espn_proj": 10.59,
        "injury": "ACTIVE",
        "name": "Tyler Warren",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "IND"
       },
       {
        "espn_id": 4426388,
+       "espn_proj": 12.09,
        "injury": "ACTIVE",
        "name": "Jameson Williams",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "DET"
       },
       {
        "espn_id": 4701936,
+       "espn_proj": 17.22,
        "injury": "ACTIVE",
        "name": "Matthew Golden",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "GB"
       },
       {
        "espn_id": 12483,
+       "espn_proj": 16.98,
        "injury": "ACTIVE",
        "name": "Matthew Stafford",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "LA"
       },
       {
        "espn_id": 4428718,
+       "espn_proj": 8.41,
        "injury": "ACTIVE",
        "name": "Tre Tucker",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "LV"
       },
       {
        "espn_id": 3916433,
+       "espn_proj": 11.62,
        "injury": "QUESTIONABLE",
        "name": "Jakobi Meyers",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "JAX"
       },
       {
        "espn_id": 3128429,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Courtland Sutton",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "DEN"
       },
       {
        "espn_id": 4241389,
+       "espn_proj": 20.93,
        "injury": "ACTIVE",
        "name": "CeeDee Lamb",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "DAL"
       },
       {
        "espn_id": 4430539,
+       "espn_proj": 9.58,
        "injury": "ACTIVE",
        "name": "Brenton Strange",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "JAX"
       },
       {
        "espn_id": 3916148,
+       "espn_proj": 13.44,
        "injury": "QUESTIONABLE",
        "name": "Tony Pollard",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "TEN"
       },
       {
        "espn_id": 4697815,
+       "espn_proj": 10.85,
        "injury": "ACTIVE",
        "name": "Rachaad White",
        "pos": "RB",
+       "pts": 4.3,
        "slot": "RB",
        "team": "WAS"
       },
       {
        "espn_id": 4430802,
+       "espn_proj": 7.96,
        "injury": "ACTIVE",
        "name": "Darnell Washington",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "PIT"
       },
       {
        "espn_id": 4426338,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Bo Nix",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "DEN"
       },
       {
        "espn_id": -16006,
+       "espn_proj": 2.68,
        "injury": "NORMAL",
        "name": "Cowboys D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "DAL"
       },
       {
        "espn_id": 4689936,
+       "espn_proj": 9.32,
        "injury": "ACTIVE",
        "name": "Jake Bates",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "DET"
       }
      ],
+     "streak": "L1",
      "ties": 0,
      "wins": 4
     },
@@ -6538,141 +7952,176 @@
      "roster": [
       {
        "espn_id": 4685382,
+       "espn_proj": 7.88,
        "injury": "ACTIVE",
        "name": "Omarion Hampton",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "LAC"
       },
       {
        "espn_id": 16737,
+       "espn_proj": 0.0,
        "injury": "QUESTIONABLE",
        "name": "Mike Evans",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "SF"
       },
       {
        "espn_id": 4040715,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Jalen Hurts",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "PHI"
       },
       {
        "espn_id": 3953687,
+       "espn_proj": 10.47,
        "injury": "ACTIVE",
        "name": "Brandon Aubrey",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "DAL"
       },
       {
        "espn_id": 2577417,
+       "espn_proj": 16.55,
        "injury": "ACTIVE",
        "name": "Dak Prescott",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "DAL"
       },
       {
        "espn_id": 4688813,
+       "espn_proj": 9.16,
        "injury": "ACTIVE",
        "name": "Josh Downs",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "KC"
       },
       {
        "espn_id": 4428557,
+       "espn_proj": 6.09,
        "injury": "QUESTIONABLE",
        "name": "Tyjae Spears",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "TEN"
       },
       {
        "espn_id": -16008,
+       "espn_proj": 5.12,
        "injury": "NORMAL",
        "name": "Lions D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "DET"
       },
       {
        "espn_id": 4431299,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Rome Odunze",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4239996,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Travis Etienne Jr.",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "NO"
       },
       {
        "espn_id": 5083076,
+       "espn_proj": 10.08,
        "injury": "QUESTIONABLE",
        "name": "Harold Fannin Jr.",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "CLE"
       },
       {
        "espn_id": 4372016,
+       "espn_proj": 0.0,
        "injury": "QUESTIONABLE",
        "name": "Jaylen Waddle",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "DEN"
       },
       {
        "espn_id": 2976212,
+       "espn_proj": 10.27,
        "injury": "ACTIVE",
        "name": "Stefon Diggs",
        "pos": "WR",
+       "pts": 8.2,
        "slot": "FLEX",
        "team": "WAS"
       },
       {
        "espn_id": 4685702,
+       "espn_proj": 11.79,
        "injury": "ACTIVE",
        "name": "Quinshon Judkins",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "CLE"
       },
       {
        "espn_id": 3929645,
+       "espn_proj": 7.31,
        "injury": "ACTIVE",
        "name": "Juwan Johnson",
        "pos": "TE",
+       "pts": null,
        "slot": "BN",
        "team": "NO"
       },
       {
        "espn_id": 4569618,
+       "espn_proj": 12.71,
        "injury": "QUESTIONABLE",
        "name": "Garrett Wilson",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "NYJ"
       },
       {
        "espn_id": 4685247,
+       "espn_proj": 7.86,
        "injury": "ACTIVE",
        "name": "Braelon Allen",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "NYJ"
       }
      ],
+     "streak": "L7",
      "ties": 0,
      "wins": 2
     },
@@ -6686,154 +8135,191 @@
      "roster": [
       {
        "espn_id": 3117251,
+       "espn_proj": 21.75,
        "injury": "ACTIVE",
        "name": "Christian McCaffrey",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "SF"
       },
       {
        "espn_id": 4432665,
+       "espn_proj": 15.39,
        "injury": "ACTIVE",
        "name": "Brock Bowers",
        "pos": "TE",
+       "pts": null,
        "slot": "TE",
        "team": "LV"
       },
       {
        "espn_id": 4241478,
+       "espn_proj": 0.0,
        "injury": "OUT",
        "name": "DeVonta Smith",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "PHI"
       },
       {
        "espn_id": 4259545,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "D'Andre Swift",
        "pos": "RB",
+       "pts": null,
        "slot": "BN",
        "team": "CHI"
       },
       {
        "espn_id": 4431452,
+       "espn_proj": 21.95,
        "injury": "ACTIVE",
        "name": "Drake Maye",
        "pos": "QB",
+       "pts": null,
        "slot": "QB",
        "team": "NE"
       },
       {
        "espn_id": 4241416,
+       "espn_proj": 20.01,
        "injury": "ACTIVE",
        "name": "Chuba Hubbard",
        "pos": "RB",
+       "pts": null,
        "slot": "RB",
        "team": "CAR"
       },
       {
        "espn_id": 3139477,
+       "espn_proj": 17.52,
        "injury": "ACTIVE",
        "name": "Patrick Mahomes",
        "pos": "QB",
+       "pts": null,
        "slot": "BN",
        "team": "KC"
       },
       {
        "espn_id": 4360569,
+       "espn_proj": 9.15,
        "injury": "ACTIVE",
        "name": "Jordan Mason",
        "pos": "RB",
+       "pts": null,
        "slot": "FLEX",
        "team": "MIN"
       },
       {
        "espn_id": 4683062,
+       "espn_proj": 8.31,
        "injury": "ACTIVE",
        "name": "Xavier Worthy",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "KC"
       },
       {
        "espn_id": 4569559,
+       "espn_proj": 7.41,
        "injury": "ACTIVE",
        "name": "Devaughn Vele",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "NO"
       },
       {
        "espn_id": 4360761,
+       "espn_proj": 0.0,
        "injury": "INJURY_RESERVE",
        "name": "Michael Wilson",
        "pos": "WR",
+       "pts": null,
        "slot": "IR",
        "team": "ARI"
       },
       {
        "espn_id": 4595348,
+       "espn_proj": 16.07,
        "injury": "ACTIVE",
        "name": "Malik Nabers",
        "pos": "WR",
+       "pts": 7.4,
        "slot": "WR",
        "team": "NYG"
       },
       {
        "espn_id": 5083754,
+       "espn_proj": 8.41,
        "injury": "ACTIVE",
        "name": "Ryan Flournoy",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "DAL"
       },
       {
        "espn_id": -16030,
+       "espn_proj": 6.41,
        "injury": "NORMAL",
        "name": "Jaguars D/ST",
        "pos": "DST",
+       "pts": null,
        "slot": "DST",
        "team": "JAX"
       },
       {
        "espn_id": 3917232,
+       "espn_proj": 11.23,
        "injury": "ACTIVE",
        "name": "Tyler Bass",
        "pos": "K",
+       "pts": null,
        "slot": "K",
        "team": "BUF"
       },
       {
        "espn_id": 4870795,
+       "espn_proj": 0.0,
        "injury": "ACTIVE",
        "name": "Makai Lemon",
        "pos": "WR",
+       "pts": null,
        "slot": "BN",
        "team": "PHI"
       },
       {
        "espn_id": 2991662,
+       "espn_proj": 9.33,
        "injury": "ACTIVE",
        "name": "Mack Hollins",
        "pos": "WR",
+       "pts": null,
        "slot": "WR",
        "team": "NE"
       },
       {
        "espn_id": 4869645,
+       "espn_proj": 8.85,
        "injury": "ACTIVE",
        "name": "Caleb Douglas",
        "pos": "WR",
+       "pts": null,
        "slot": "FLEX",
        "team": "MIA"
       }
      ],
+     "streak": "W8",
      "ties": 0,
      "wins": 8
     }
    ]
   }
  ],
- "updated": "2026-11-13T02:28:29+00:00"
+ "updated": "2026-11-13T03:34:52+00:00"
 }
