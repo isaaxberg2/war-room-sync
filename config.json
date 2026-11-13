@@ -1,8 +1,8 @@
 {
   "season": 2026,
   "leagues": [
-    {"name": "Big Bind Fantasy", "my_team": "Isaac's Impressive Team", "id": "PASTE_LEAGUE_ID"},
-    {"name": "Isaac's Fantasy Family Fun", "my_team": "Baby Back Gibbs", "id": "PASTE_LEAGUE_ID"},
-    {"name": "26 Fantasy", "my_team": "Parker Washington", "id": "PASTE_LEAGUE_ID"}
+    {"name": "Big Bind Fantasy", "my_team": "Isaac's Impressive Team", "id": "2018591858"},
+    {"name": "Isaac's Fantasy Family Fun", "my_team": "Baby Back Gibbs", "id": "58449488"},
+    {"name": "26 Fantasy", "my_team": "Parker Washington", "id": "971893052"}
   ]
 }
