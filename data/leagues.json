@@ -485,14 +485,14 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 4,
-     "home_live": 31.3,
+     "home_live": 27.6,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
-     "away_live": 14.1,
+     "away_live": 32.7,
      "away_pts": 0.0,
      "home": 5,
      "home_live": 0.0,
@@ -505,7 +505,7 @@
      "away_live": 23.3,
      "away_pts": 0.0,
      "home": 3,
-     "home_live": 1.0,
+     "home_live": 2.0,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -1072,7 +1072,7 @@
        "injury": "ACTIVE",
        "name": "Isaiah Likely",
        "pos": "TE",
-       "pts": 14.1,
+       "pts": 32.7,
        "slot": "FLEX",
        "team": "NYG"
       },
@@ -1448,7 +1448,7 @@
        "injury": "ACTIVE",
        "name": "Dominic Zvada",
        "pos": "K",
-       "pts": 1.0,
+       "pts": 2.0,
        "slot": "K",
        "team": "NYG"
       },
@@ -1521,7 +1521,7 @@
        "injury": "ACTIVE",
        "name": "Cam Skattebo",
        "pos": "RB",
-       "pts": 25.3,
+       "pts": 25.6,
        "slot": "RB",
        "team": "NYG"
       },
@@ -1661,7 +1661,7 @@
        "injury": "NORMAL",
        "name": "Commanders D/ST",
        "pos": "DST",
-       "pts": 6.0,
+       "pts": 2.0,
        "slot": "DST",
        "team": "WAS"
       }
@@ -3255,7 +3255,7 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 12,
-     "home_live": 33.1,
+     "home_live": 33.18,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -3265,14 +3265,14 @@
      "away_live": 8.3,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 14.1,
+     "home_live": 27.7,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 8,
-     "away_live": 25.3,
+     "away_live": 25.6,
      "away_pts": 0.0,
      "home": 2,
      "home_live": 0.0,
@@ -4198,7 +4198,7 @@
        "injury": "ACTIVE",
        "name": "Dominic Zvada",
        "pos": "K",
-       "pts": 1.0,
+       "pts": 2.0,
        "slot": "BN",
        "team": "NYG"
       },
@@ -4464,7 +4464,7 @@
        "injury": "ACTIVE",
        "name": "Cam Skattebo",
        "pos": "RB",
-       "pts": 25.3,
+       "pts": 25.6,
        "slot": "FLEX",
        "team": "NYG"
       },
@@ -4697,7 +4697,7 @@
        "injury": "ACTIVE",
        "name": "Isaiah Likely",
        "pos": "TE",
-       "pts": 14.1,
+       "pts": 27.7,
        "slot": "TE",
        "team": "NYG"
       },
@@ -5043,7 +5043,7 @@
        "injury": "ACTIVE",
        "name": "Jayden Daniels",
        "pos": "QB",
-       "pts": 17.5,
+       "pts": 17.58,
        "slot": "QB",
        "team": "WAS"
       },
@@ -6005,14 +6005,14 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 17.5,
+     "home_live": 17.58,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 5,
-     "away_live": 14.1,
+     "away_live": 27.7,
      "away_pts": 0.0,
      "home": 10,
      "home_live": 7.4,
@@ -6042,7 +6042,7 @@
     },
     {
      "away": 1,
-     "away_live": 25.3,
+     "away_live": 25.6,
      "away_pts": 0.0,
      "home": 7,
      "home_live": 0.0,
@@ -6482,7 +6482,7 @@
        "injury": "ACTIVE",
        "name": "Cam Skattebo",
        "pos": "RB",
-       "pts": 25.3,
+       "pts": 25.6,
        "slot": "FLEX",
        "team": "NYG"
       },
@@ -6685,7 +6685,7 @@
        "injury": "ACTIVE",
        "name": "Jayden Daniels",
        "pos": "QB",
-       "pts": 17.5,
+       "pts": 17.58,
        "slot": "QB",
        "team": "WAS"
       },
@@ -7294,7 +7294,7 @@
        "injury": "ACTIVE",
        "name": "Isaiah Likely",
        "pos": "TE",
-       "pts": 14.1,
+       "pts": 27.7,
        "slot": "TE",
        "team": "NYG"
       },
@@ -7364,7 +7364,7 @@
        "injury": "ACTIVE",
        "name": "J.J. McCarthy",
        "pos": "QB",
-       "pts": 11.84,
+       "pts": 18.48,
        "slot": "BN",
        "team": "NYG"
       },
@@ -7527,7 +7527,7 @@
        "injury": "QUESTIONABLE",
        "name": "Chig Okonkwo",
        "pos": "TE",
-       "pts": 3.7,
+       "pts": 4.9,
        "slot": "BN",
        "team": "WAS"
       },
@@ -8321,5 +8321,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T03:34:52+00:00"
+ "updated": "2026-11-13T03:45:12+00:00"
 }
