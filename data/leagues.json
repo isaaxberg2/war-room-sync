@@ -1,0 +1,6839 @@
+{
+ "leagues": [
+  {
+   "current_week": 10,
+   "id": "2018591858",
+   "lineup": {
+    "BN": 7,
+    "DST": 1,
+    "FLEX": 1,
+    "IR": 2,
+    "K": 1,
+    "QB": 1,
+    "RB": 2,
+    "TE": 1,
+    "WR": 2
+   },
+   "my_team_name": "Isaac's Impressive Team",
+   "name": "Big Bind Fantasy",
+   "playoff_teams": 4,
+   "ppr": 1.0,
+   "regular_season_weeks": 14,
+   "schedule": [
+    {
+     "away": 2,
+     "away_pts": 172.5,
+     "home": 11,
+     "home_pts": 90.0,
+     "week": 1,
+     "winner": "AWAY"
+    },
+    {
+     "away": 4,
+     "away_pts": 136.2,
+     "home": 7,
+     "home_pts": 145.4,
+     "week": 1,
+     "winner": "HOME"
+    },
+    {
+     "away": 5,
+     "away_pts": 75.9,
+     "home": 1,
+     "home_pts": 149.2,
+     "week": 1,
+     "winner": "HOME"
+    },
+    {
+     "away": 3,
+     "away_pts": 125.7,
+     "home": 10,
+     "home_pts": 123.9,
+     "week": 1,
+     "winner": "AWAY"
+    },
+    {
+     "away": 8,
+     "away_pts": 137.6,
+     "home": 9,
+     "home_pts": 199.5,
+     "week": 1,
+     "winner": "HOME"
+    },
+    {
+     "away": 4,
+     "away_pts": 146.1,
+     "home": 2,
+     "home_pts": 161.3,
+     "week": 2,
+     "winner": "HOME"
+    },
+    {
+     "away": 11,
+     "away_pts": 95.7,
+     "home": 5,
+     "home_pts": 99.4,
+     "week": 2,
+     "winner": "HOME"
+    },
+    {
+     "away": 7,
+     "away_pts": 135.7,
+     "home": 3,
+     "home_pts": 85.3,
+     "week": 2,
+     "winner": "AWAY"
+    },
+    {
+     "away": 1,
+     "away_pts": 172.7,
+     "home": 8,
+     "home_pts": 125.8,
+     "week": 2,
+     "winner": "AWAY"
+    },
+    {
+     "away": 10,
+     "away_pts": 102.4,
+     "home": 9,
+     "home_pts": 128.6,
+     "week": 2,
+     "winner": "HOME"
+    },
+    {
+     "away": 2,
+     "away_pts": 125.4,
+     "home": 5,
+     "home_pts": 95.1,
+     "week": 3,
+     "winner": "AWAY"
+    },
+    {
+     "away": 3,
+     "away_pts": 149.3,
+     "home": 4,
+     "home_pts": 153.6,
+     "week": 3,
+     "winner": "HOME"
+    },
+    {
+     "away": 8,
+     "away_pts": 66.1,
+     "home": 11,
+     "home_pts": 100.9,
+     "week": 3,
+     "winner": "HOME"
+    },
+    {
+     "away": 9,
+     "away_pts": 142.7,
+     "home": 7,
+     "home_pts": 130.7,
+     "week": 3,
+     "winner": "AWAY"
+    },
+    {
+     "away": 10,
+     "away_pts": 121.6,
+     "home": 1,
+     "home_pts": 164.6,
+     "week": 3,
+     "winner": "HOME"
+    },
+    {
+     "away": 3,
+     "away_pts": 108.4,
+     "home": 2,
+     "home_pts": 130.5,
+     "week": 4,
+     "winner": "HOME"
+    },
+    {
+     "away": 5,
+     "away_pts": 174.0,
+     "home": 8,
+     "home_pts": 97.3,
+     "week": 4,
+     "winner": "AWAY"
+    },
+    {
+     "away": 4,
+     "away_pts": 111.5,
+     "home": 9,
+     "home_pts": 173.9,
+     "week": 4,
+     "winner": "HOME"
+    },
+    {
+     "away": 11,
+     "away_pts": 117.1,
+     "home": 10,
+     "home_pts": 125.4,
+     "week": 4,
+     "winner": "HOME"
+    },
+    {
+     "away": 7,
+     "away_pts": 196.7,
+     "home": 1,
+     "home_pts": 142.1,
+     "week": 4,
+     "winner": "AWAY"
+    },
+    {
+     "away": 2,
+     "away_pts": 125.1,
+     "home": 8,
+     "home_pts": 142.4,
+     "week": 5,
+     "winner": "HOME"
+    },
+    {
+     "away": 9,
+     "away_pts": 178.7,
+     "home": 3,
+     "home_pts": 127.2,
+     "week": 5,
+     "winner": "AWAY"
+    },
+    {
+     "away": 10,
+     "away_pts": 149.8,
+     "home": 5,
+     "home_pts": 78.0,
+     "week": 5,
+     "winner": "AWAY"
+    },
+    {
+     "away": 1,
+     "away_pts": 136.8,
+     "home": 4,
+     "home_pts": 165.4,
+     "week": 5,
+     "winner": "HOME"
+    },
+    {
+     "away": 7,
+     "away_pts": 137.4,
+     "home": 11,
+     "home_pts": 195.1,
+     "week": 5,
+     "winner": "HOME"
+    },
+    {
+     "away": 9,
+     "away_pts": 127.0,
+     "home": 2,
+     "home_pts": 129.9,
+     "week": 6,
+     "winner": "HOME"
+    },
+    {
+     "away": 8,
+     "away_pts": 102.8,
+     "home": 10,
+     "home_pts": 112.5,
+     "week": 6,
+     "winner": "HOME"
+    },
+    {
+     "away": 3,
+     "away_pts": 93.7,
+     "home": 1,
+     "home_pts": 127.4,
+     "week": 6,
+     "winner": "HOME"
+    },
+    {
+     "away": 5,
+     "away_pts": 113.0,
+     "home": 7,
+     "home_pts": 149.5,
+     "week": 6,
+     "winner": "HOME"
+    },
+    {
+     "away": 4,
+     "away_pts": 74.7,
+     "home": 11,
+     "home_pts": 125.1,
+     "week": 6,
+     "winner": "HOME"
+    },
+    {
+     "away": 2,
+     "away_pts": 114.9,
+     "home": 10,
+     "home_pts": 92.4,
+     "week": 7,
+     "winner": "AWAY"
+    },
+    {
+     "away": 1,
+     "away_pts": 112.0,
+     "home": 9,
+     "home_pts": 138.5,
+     "week": 7,
+     "winner": "HOME"
+    },
+    {
+     "away": 7,
+     "away_pts": 165.0,
+     "home": 8,
+     "home_pts": 121.4,
+     "week": 7,
+     "winner": "AWAY"
+    },
+    {
+     "away": 11,
+     "away_pts": 118.5,
+     "home": 3,
+     "home_pts": 161.2,
+     "week": 7,
+     "winner": "HOME"
+    },
+    {
+     "away": 4,
+     "away_pts": 112.3,
+     "home": 5,
+     "home_pts": 117.2,
+     "week": 7,
+     "winner": "HOME"
+    },
+    {
+     "away": 1,
+     "away_pts": 148.8,
+     "home": 2,
+     "home_pts": 161.7,
+     "week": 8,
+     "winner": "HOME"
+    },
+    {
+     "away": 10,
+     "away_pts": 112.1,
+     "home": 7,
+     "home_pts": 100.3,
+     "week": 8,
+     "winner": "AWAY"
+    },
+    {
+     "away": 9,
+     "away_pts": 132.8,
+     "home": 11,
+     "home_pts": 137.5,
+     "week": 8,
+     "winner": "HOME"
+    },
+    {
+     "away": 8,
+     "away_pts": 126.0,
+     "home": 4,
+     "home_pts": 142.5,
+     "week": 8,
+     "winner": "HOME"
+    },
+    {
+     "away": 3,
+     "away_pts": 95.6,
+     "home": 5,
+     "home_pts": 136.2,
+     "week": 8,
+     "winner": "HOME"
+    },
+    {
+     "away": 2,
+     "away_pts": 157.8,
+     "home": 7,
+     "home_pts": 147.8,
+     "week": 9,
+     "winner": "AWAY"
+    },
+    {
+     "away": 11,
+     "away_pts": 143.1,
+     "home": 1,
+     "home_pts": 150.1,
+     "week": 9,
+     "winner": "HOME"
+    },
+    {
+     "away": 4,
+     "away_pts": 138.3,
+     "home": 10,
+     "home_pts": 136.9,
+     "week": 9,
+     "winner": "AWAY"
+    },
+    {
+     "away": 5,
+     "away_pts": 114.3,
+     "home": 9,
+     "home_pts": 92.6,
+     "week": 9,
+     "winner": "AWAY"
+    },
+    {
+     "away": 3,
+     "away_pts": 125.2,
+     "home": 8,
+     "home_pts": 99.8,
+     "week": 9,
+     "winner": "AWAY"
+    },
+    {
+     "away": 11,
+     "away_pts": 0.0,
+     "home": 2,
+     "home_pts": 0.0,
+     "week": 10,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 7,
+     "away_pts": 0.0,
+     "home": 4,
+     "home_pts": 0.0,
+     "week": 10,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 1,
+     "away_pts": 0.0,
+     "home": 5,
+     "home_pts": 0.0,
+     "week": 10,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 10,
+     "away_pts": 0.0,
+     "home": 3,
+     "home_pts": 0.0,
+     "week": 10,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 9,
+     "away_pts": 0.0,
+     "home": 8,
+     "home_pts": 0.0,
+     "week": 10,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 2,
+     "away_pts": 0.0,
+     "home": 4,
+     "home_pts": 0.0,
+     "week": 11,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 5,
+     "away_pts": 0.0,
+     "home": 11,
+     "home_pts": 0.0,
+     "week": 11,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 3,
+     "away_pts": 0.0,
+     "home": 7,
+     "home_pts": 0.0,
+     "week": 11,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 8,
+     "away_pts": 0.0,
+     "home": 1,
+     "home_pts": 0.0,
+     "week": 11,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 9,
+     "away_pts": 0.0,
+     "home": 10,
+     "home_pts": 0.0,
+     "week": 11,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 5,
+     "away_pts": 0.0,
+     "home": 2,
+     "home_pts": 0.0,
+     "week": 12,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 4,
+     "away_pts": 0.0,
+     "home": 3,
+     "home_pts": 0.0,
+     "week": 12,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 11,
+     "away_pts": 0.0,
+     "home": 8,
+     "home_pts": 0.0,
+     "week": 12,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 7,
+     "away_pts": 0.0,
+     "home": 9,
+     "home_pts": 0.0,
+     "week": 12,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 1,
+     "away_pts": 0.0,
+     "home": 10,
+     "home_pts": 0.0,
+     "week": 12,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 2,
+     "away_pts": 0.0,
+     "home": 3,
+     "home_pts": 0.0,
+     "week": 13,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 8,
+     "away_pts": 0.0,
+     "home": 5,
+     "home_pts": 0.0,
+     "week": 13,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 9,
+     "away_pts": 0.0,
+     "home": 4,
+     "home_pts": 0.0,
+     "week": 13,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 10,
+     "away_pts": 0.0,
+     "home": 11,
+     "home_pts": 0.0,
+     "week": 13,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 1,
+     "away_pts": 0.0,
+     "home": 7,
+     "home_pts": 0.0,
+     "week": 13,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 8,
+     "away_pts": 0.0,
+     "home": 2,
+     "home_pts": 0.0,
+     "week": 14,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 3,
+     "away_pts": 0.0,
+     "home": 9,
+     "home_pts": 0.0,
+     "week": 14,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 5,
+     "away_pts": 0.0,
+     "home": 10,
+     "home_pts": 0.0,
+     "week": 14,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 4,
+     "away_pts": 0.0,
+     "home": 1,
+     "home_pts": 0.0,
+     "week": 14,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 11,
+     "away_pts": 0.0,
+     "home": 7,
+     "home_pts": 0.0,
+     "week": 14,
+     "winner": "UNDECIDED"
+    }
+   ],
+   "scoring": [
+    {
+     "points": 0.0,
+     "stat": 123
+    },
+    {
+     "points": 0.0,
+     "stat": 133
+    },
+    {
+     "points": 6.0,
+     "stat": 25
+    },
+    {
+     "points": 1.0,
+     "stat": 53
+    },
+    {
+     "points": -2.0,
+     "stat": 72
+    },
+    {
+     "points": 0.0,
+     "stat": 134
+    },
+    {
+     "points": -3.0,
+     "stat": 20
+    },
+    {
+     "points": 0.0,
+     "stat": 135
+    },
+    {
+     "points": 0.0,
+     "stat": 136
+    },
+    {
+     "points": 5.0,
+     "stat": 37
+    },
+    {
+     "points": 6.0,
+     "stat": 43
+    },
+    {
+     "points": 6.0,
+     "stat": 102
+    },
+    {
+     "points": 0.1,
+     "stat": 24
+    },
+    {
+     "points": 6.0,
+     "stat": 103
+    },
+    {
+     "points": 6.0,
+     "stat": 101
+    },
+    {
+     "points": 6.0,
+     "stat": 104
+    },
+    {
+     "points": 0.0,
+     "stat": 128
+    },
+    {
+     "points": 10.0,
+     "stat": 38
+    },
+    {
+     "points": 0.0,
+     "stat": 125
+    },
+    {
+     "points": -1.0,
+     "stat": 85
+    },
+    {
+     "points": 0.0,
+     "stat": 124
+    },
+    {
+     "points": 0.0,
+     "stat": 132
+    },
+    {
+     "points": 1.0,
+     "stat": 86
+    },
+    {
+     "points": 0.1,
+     "stat": 42
+    },
+    {
+     "points": 0.0,
+     "stat": 129
+    },
+    {
+     "points": 6.0,
+     "stat": 4
+    },
+    {
+     "points": 0.0,
+     "stat": 130
+    },
+    {
+     "points": 0.0,
+     "stat": 89
+    },
+    {
+     "points": 1.0,
+     "stat": 7
+    },
+    {
+     "points": 0.0,
+     "stat": 90
+    },
+    {
+     "points": 2.0,
+     "stat": 206
+    },
+    {
+     "points": 1.0,
+     "stat": 209
+    },
+    {
+     "points": 0.0,
+     "stat": 95
+    },
+    {
+     "points": 10.0,
+     "stat": 57
+    },
+    {
+     "points": 6.0,
+     "stat": 93
+    },
+    {
+     "points": 0.0,
+     "stat": 98
+    },
+    {
+     "points": -3.0,
+     "stat": 88
+    },
+    {
+     "points": 0.0,
+     "stat": 91
+    },
+    {
+     "points": 0.0,
+     "stat": 96
+    },
+    {
+     "points": 0.0,
+     "stat": 97
+    },
+    {
+     "points": 2.0,
+     "stat": 19
+    },
+    {
+     "points": 6.0,
+     "stat": 63
+    },
+    {
+     "points": 3.0,
+     "stat": 80
+    },
+    {
+     "points": 2.0,
+     "stat": 26
+    },
+    {
+     "points": 5.0,
+     "stat": 56
+    },
+    {
+     "points": 4.0,
+     "stat": 77
+    },
+    {
+     "points": 0.0,
+     "stat": 92
+    },
+    {
+     "points": 0.0,
+     "stat": 99
+    },
+    {
+     "points": 2.0,
+     "stat": 44
+    },
+    {
+     "points": 6.0,
+     "stat": 201
+    },
+    {
+     "points": 5.0,
+     "stat": 198
+    }
+   ],
+   "teams": [
+    {
+     "abbrev": "DURR",
+     "id": 1,
+     "losses": 4,
+     "name": "Senior Shnur",
+     "points_against": 1222.3999999999999,
+     "points_for": 1303.7,
+     "roster": [
+      {
+       "espn_id": 4429795,
+       "injury": "ACTIVE",
+       "name": "Jahmyr Gibbs",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4428331,
+       "injury": "ACTIVE",
+       "name": "Rashee Rice",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4567048,
+       "injury": "ACTIVE",
+       "name": "Kenneth Walker III",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4372016,
+       "injury": "QUESTIONABLE",
+       "name": "Jaylen Waddle",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "DEN"
+      },
+      {
+       "espn_id": 4239996,
+       "injury": "INJURY_RESERVE",
+       "name": "Travis Etienne Jr.",
+       "pos": "RB",
+       "slot": "IR",
+       "team": "NO"
+      },
+      {
+       "espn_id": 4871023,
+       "injury": "QUESTIONABLE",
+       "name": "Carnell Tate",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "TEN"
+      },
+      {
+       "espn_id": 3915511,
+       "injury": "ACTIVE",
+       "name": "Joe Burrow",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 4608686,
+       "injury": "OUT",
+       "name": "Kyle Monangai",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4360569,
+       "injury": "ACTIVE",
+       "name": "Jordan Mason",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 4036133,
+       "injury": "QUESTIONABLE",
+       "name": "T.J. Hockenson",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 4428718,
+       "injury": "ACTIVE",
+       "name": "Tre Tucker",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "LV"
+      },
+      {
+       "espn_id": 4597500,
+       "injury": "ACTIVE",
+       "name": "Adonai Mitchell",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "NYJ"
+      },
+      {
+       "espn_id": 4870795,
+       "injury": "ACTIVE",
+       "name": "Makai Lemon",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "PHI"
+      },
+      {
+       "espn_id": 4361050,
+       "injury": "ACTIVE",
+       "name": "Isaiah Likely",
+       "pos": "TE",
+       "slot": "FLEX",
+       "team": "NYG"
+      },
+      {
+       "espn_id": 5208518,
+       "injury": "ACTIVE",
+       "name": "Charlie Smyth",
+       "pos": "K",
+       "slot": "K",
+       "team": "NO"
+      },
+      {
+       "espn_id": -16033,
+       "injury": "NORMAL",
+       "name": "Ravens D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "BAL"
+      },
+      {
+       "espn_id": 4837248,
+       "injury": "ACTIVE",
+       "name": "Fernando Mendoza",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "LV"
+      }
+     ],
+     "ties": 0,
+     "wins": 5
+    },
+    {
+     "abbrev": "TTT",
+     "id": 2,
+     "losses": 1,
+     "name": "Tyce's Talented Team",
+     "points_against": 1098.0,
+     "points_for": 1279.1,
+     "roster": [
+      {
+       "espn_id": 4362628,
+       "injury": "ACTIVE",
+       "name": "Ja'Marr Chase",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 4890973,
+       "injury": "ACTIVE",
+       "name": "Ashton Jeanty",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "LV"
+      },
+      {
+       "espn_id": 4361370,
+       "injury": "ACTIVE",
+       "name": "Chris Olave",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "NO"
+      },
+      {
+       "espn_id": 4427366,
+       "injury": "ACTIVE",
+       "name": "Breece Hall",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "NYJ"
+      },
+      {
+       "espn_id": 4259545,
+       "injury": "ACTIVE",
+       "name": "D'Andre Swift",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4430027,
+       "injury": "ACTIVE",
+       "name": "Sam LaPorta",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "DET"
+      },
+      {
+       "espn_id": 2577417,
+       "injury": "ACTIVE",
+       "name": "Dak Prescott",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 4360761,
+       "injury": "INJURY_RESERVE",
+       "name": "Michael Wilson",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "ARI"
+      },
+      {
+       "espn_id": 4701936,
+       "injury": "ACTIVE",
+       "name": "Matthew Golden",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "GB"
+      },
+      {
+       "espn_id": 4688813,
+       "injury": "ACTIVE",
+       "name": "Josh Downs",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4362238,
+       "injury": "ACTIVE",
+       "name": "Chase Brown",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 14880,
+       "injury": "ACTIVE",
+       "name": "Kirk Cousins",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 4571557,
+       "injury": "ACTIVE",
+       "name": "Spencer Shrader",
+       "pos": "K",
+       "slot": "K",
+       "team": "IND"
+      },
+      {
+       "espn_id": 4870653,
+       "injury": "ACTIVE",
+       "name": "KC Concepcion",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "CLE"
+      },
+      {
+       "espn_id": -16023,
+       "injury": "NORMAL",
+       "name": "Steelers D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "PIT"
+      },
+      {
+       "espn_id": -16019,
+       "injury": "NORMAL",
+       "name": "Giants D/ST",
+       "pos": "DST",
+       "slot": "BN",
+       "team": "NYG"
+      }
+     ],
+     "ties": 0,
+     "wins": 8
+    },
+    {
+     "abbrev": "GRR",
+     "id": 3,
+     "losses": 6,
+     "name": "Big Band in Jacksonville",
+     "points_against": 1204.3,
+     "points_for": 1071.6000000000001,
+     "roster": [
+      {
+       "espn_id": 4430807,
+       "injury": "ACTIVE",
+       "name": "Bijan Robinson",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "ATL"
+      },
+      {
+       "espn_id": 4426502,
+       "injury": "ACTIVE",
+       "name": "Drake London",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "ATL"
+      },
+      {
+       "espn_id": 4361307,
+       "injury": "ACTIVE",
+       "name": "Trey McBride",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "ARI"
+      },
+      {
+       "espn_id": 4612826,
+       "injury": "QUESTIONABLE",
+       "name": "Ladd McConkey",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "LAC"
+      },
+      {
+       "espn_id": 3916387,
+       "injury": "INJURY_RESERVE",
+       "name": "Lamar Jackson",
+       "pos": "QB",
+       "slot": "IR",
+       "team": "BAL"
+      },
+      {
+       "espn_id": 4685512,
+       "injury": "ACTIVE",
+       "name": "Jadarian Price",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "SEA"
+      },
+      {
+       "espn_id": 4047365,
+       "injury": "OUT",
+       "name": "Josh Jacobs",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "GB"
+      },
+      {
+       "espn_id": 3916148,
+       "injury": "QUESTIONABLE",
+       "name": "Tony Pollard",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "TEN"
+      },
+      {
+       "espn_id": 4429205,
+       "injury": "ACTIVE",
+       "name": "Jordan Addison",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "MIN"
+      },
+      {
+       "espn_id": -16007,
+       "injury": "NORMAL",
+       "name": "Broncos D/ST",
+       "pos": "DST",
+       "slot": "BN",
+       "team": "DEN"
+      },
+      {
+       "espn_id": 4361432,
+       "injury": "INJURY_RESERVE",
+       "name": "Romeo Doubs",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "NE"
+      },
+      {
+       "espn_id": 4832800,
+       "injury": "QUESTIONABLE",
+       "name": "Denzel Boston",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "CLE"
+      },
+      {
+       "espn_id": 17372,
+       "injury": "ACTIVE",
+       "name": "Chris Boswell",
+       "pos": "K",
+       "slot": "BN",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 4360423,
+       "injury": "ACTIVE",
+       "name": "Michael Penix Jr.",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "ATL"
+      },
+      {
+       "espn_id": -16005,
+       "injury": "NORMAL",
+       "name": "Browns D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "CLE"
+      },
+      {
+       "espn_id": 5082424,
+       "injury": "ACTIVE",
+       "name": "Dominic Zvada",
+       "pos": "K",
+       "slot": "K",
+       "team": "NYG"
+      },
+      {
+       "espn_id": 4361741,
+       "injury": "ACTIVE",
+       "name": "Brock Purdy",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4427095,
+       "injury": "ACTIVE",
+       "name": "DeMario Douglas",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "NE"
+      }
+     ],
+     "ties": 0,
+     "wins": 3
+    },
+    {
+     "abbrev": "6D9",
+     "id": 4,
+     "losses": 5,
+     "name": "Rory Powers",
+     "points_against": 1271.9,
+     "points_for": 1180.6,
+     "roster": [
+      {
+       "espn_id": 4374302,
+       "injury": "QUESTIONABLE",
+       "name": "Amon-Ra St. Brown",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4432665,
+       "injury": "ACTIVE",
+       "name": "Brock Bowers",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "LV"
+      },
+      {
+       "espn_id": 4569618,
+       "injury": "QUESTIONABLE",
+       "name": "Garrett Wilson",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "NYJ"
+      },
+      {
+       "espn_id": 4696981,
+       "injury": "ACTIVE",
+       "name": "Cam Skattebo",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "NYG"
+      },
+      {
+       "espn_id": 16800,
+       "injury": "INJURY_RESERVE",
+       "name": "Davante Adams",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "LA"
+      },
+      {
+       "espn_id": 3128429,
+       "injury": "ACTIVE",
+       "name": "Courtland Sutton",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "DEN"
+      },
+      {
+       "espn_id": 4569987,
+       "injury": "ACTIVE",
+       "name": "Jaylen Warren",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 2976212,
+       "injury": "ACTIVE",
+       "name": "Stefon Diggs",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "WAS"
+      },
+      {
+       "espn_id": 4429023,
+       "injury": "ACTIVE",
+       "name": "MarShawn Lloyd",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "GB"
+      },
+      {
+       "espn_id": 4429096,
+       "injury": "ACTIVE",
+       "name": "Blake Corum",
+       "pos": "RB",
+       "slot": "FLEX",
+       "team": "LA"
+      },
+      {
+       "espn_id": 3116365,
+       "injury": "ACTIVE",
+       "name": "Mark Andrews",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "BAL"
+      },
+      {
+       "espn_id": 4685720,
+       "injury": "ACTIVE",
+       "name": "Bryce Young",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "CAR"
+      },
+      {
+       "espn_id": 3116406,
+       "injury": "QUESTIONABLE",
+       "name": "Tyreek Hill",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "FA"
+      },
+      {
+       "espn_id": 3917315,
+       "injury": "DOUBTFUL",
+       "name": "Kyler Murray",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 3055899,
+       "injury": "ACTIVE",
+       "name": "Harrison Butker",
+       "pos": "K",
+       "slot": "K",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4366031,
+       "injury": "ACTIVE",
+       "name": "Tank Dell",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4569682,
+       "injury": "ACTIVE",
+       "name": "Audric Estime",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "NO"
+      },
+      {
+       "espn_id": -16028,
+       "injury": "NORMAL",
+       "name": "Commanders D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "WAS"
+      }
+     ],
+     "ties": 0,
+     "wins": 4
+    },
+    {
+     "abbrev": "TK2",
+     "id": 5,
+     "losses": 4,
+     "name": "T.K. 2.0",
+     "points_against": 1067.3999999999999,
+     "points_for": 1003.0999999999999,
+     "roster": [
+      {
+       "espn_id": 4242335,
+       "injury": "ACTIVE",
+       "name": "Jonathan Taylor",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "IND"
+      },
+      {
+       "espn_id": 4047646,
+       "injury": "QUESTIONABLE",
+       "name": "A.J. Brown",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "NE"
+      },
+      {
+       "espn_id": 4685472,
+       "injury": "ACTIVE",
+       "name": "Tetairoa McMillan",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "CAR"
+      },
+      {
+       "espn_id": 3040151,
+       "injury": "ACTIVE",
+       "name": "George Kittle",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4432710,
+       "injury": "OUT",
+       "name": "TreVeyon Henderson",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "NE"
+      },
+      {
+       "espn_id": 16737,
+       "injury": "QUESTIONABLE",
+       "name": "Mike Evans",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "SF"
+      },
+      {
+       "espn_id": 3116165,
+       "injury": "ACTIVE",
+       "name": "Chris Godwin Jr.",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "TB"
+      },
+      {
+       "espn_id": 3046439,
+       "injury": "QUESTIONABLE",
+       "name": "Hunter Henry",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "NE"
+      },
+      {
+       "espn_id": 4426385,
+       "injury": "ACTIVE",
+       "name": "Zach Charbonnet",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "SEA"
+      },
+      {
+       "espn_id": 4360689,
+       "injury": "ACTIVE",
+       "name": "Tyler Shough",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "NO"
+      },
+      {
+       "espn_id": 4239993,
+       "injury": "ACTIVE",
+       "name": "Tee Higgins",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 4685382,
+       "injury": "ACTIVE",
+       "name": "Omarion Hampton",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "LAC"
+      },
+      {
+       "espn_id": 4431492,
+       "injury": "INJURY_RESERVE",
+       "name": "Roman Wilson",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 4431452,
+       "injury": "ACTIVE",
+       "name": "Drake Maye",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "NE"
+      },
+      {
+       "espn_id": -16030,
+       "injury": "NORMAL",
+       "name": "Jaguars D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 3917232,
+       "injury": "ACTIVE",
+       "name": "Tyler Bass",
+       "pos": "K",
+       "slot": "K",
+       "team": "BUF"
+      },
+      {
+       "espn_id": 4373678,
+       "injury": "ACTIVE",
+       "name": "Khalil Shakir",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "BUF"
+      }
+     ],
+     "ties": 0,
+     "wins": 5
+    },
+    {
+     "abbrev": "SB",
+     "id": 7,
+     "losses": 4,
+     "name": "ShuBiggity",
+     "points_against": 1205.6999999999998,
+     "points_for": 1308.5,
+     "roster": [
+      {
+       "espn_id": 4379399,
+       "injury": "ACTIVE",
+       "name": "James Cook III",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "BUF"
+      },
+      {
+       "espn_id": 4241389,
+       "injury": "ACTIVE",
+       "name": "CeeDee Lamb",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 4361579,
+       "injury": "ACTIVE",
+       "name": "Javonte Williams",
+       "pos": "RB",
+       "slot": "FLEX",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 4429615,
+       "injury": "ACTIVE",
+       "name": "Zay Flowers",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "BAL"
+      },
+      {
+       "espn_id": 4685702,
+       "injury": "ACTIVE",
+       "name": "Quinshon Judkins",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "CLE"
+      },
+      {
+       "espn_id": 4431459,
+       "injury": "ACTIVE",
+       "name": "Tyler Warren",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "IND"
+      },
+      {
+       "espn_id": 4432708,
+       "injury": "QUESTIONABLE",
+       "name": "Marvin Harrison Jr.",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4040715,
+       "injury": "INJURY_RESERVE",
+       "name": "Jalen Hurts",
+       "pos": "QB",
+       "slot": "IR",
+       "team": "PHI"
+      },
+      {
+       "espn_id": 4241416,
+       "injury": "ACTIVE",
+       "name": "Chuba Hubbard",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "CAR"
+      },
+      {
+       "espn_id": 15847,
+       "injury": "ACTIVE",
+       "name": "Travis Kelce",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4360310,
+       "injury": "ACTIVE",
+       "name": "Trevor Lawrence",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 4567104,
+       "injury": "ACTIVE",
+       "name": "Will Reichard",
+       "pos": "K",
+       "slot": "K",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 4880281,
+       "injury": "ACTIVE",
+       "name": "Jordyn Tyson",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "NO"
+      },
+      {
+       "espn_id": 4569559,
+       "injury": "ACTIVE",
+       "name": "Devaughn Vele",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "NO"
+      },
+      {
+       "espn_id": -16016,
+       "injury": "NORMAL",
+       "name": "Vikings D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 8439,
+       "injury": "ACTIVE",
+       "name": "Aaron Rodgers",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "PIT"
+      }
+     ],
+     "ties": 0,
+     "wins": 5
+    },
+    {
+     "abbrev": "CP",
+     "id": 8,
+     "losses": 8,
+     "name": "Nate Higgers ",
+     "points_against": 1317.4,
+     "points_for": 1019.1999999999999,
+     "roster": [
+      {
+       "espn_id": 3929630,
+       "injury": "ACTIVE",
+       "name": "Saquon Barkley",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "PHI"
+      },
+      {
+       "espn_id": 4241478,
+       "injury": "OUT",
+       "name": "DeVonta Smith",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "PHI"
+      },
+      {
+       "espn_id": 4596448,
+       "injury": "ACTIVE",
+       "name": "Bucky Irving",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "TB"
+      },
+      {
+       "espn_id": 4569173,
+       "injury": "QUESTIONABLE",
+       "name": "Rhamondre Stevenson",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "NE"
+      },
+      {
+       "espn_id": 4360248,
+       "injury": "ACTIVE",
+       "name": "Kyle Pitts Sr.",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "ATL"
+      },
+      {
+       "espn_id": 3916433,
+       "injury": "QUESTIONABLE",
+       "name": "Jakobi Meyers",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 4697815,
+       "injury": "ACTIVE",
+       "name": "Rachaad White",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "WAS"
+      },
+      {
+       "espn_id": 3121023,
+       "injury": "ACTIVE",
+       "name": "Dallas Goedert",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "PHI"
+      },
+      {
+       "espn_id": 12483,
+       "injury": "ACTIVE",
+       "name": "Matthew Stafford",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "LA"
+      },
+      {
+       "espn_id": -16021,
+       "injury": "NORMAL",
+       "name": "Eagles D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "PHI"
+      },
+      {
+       "espn_id": 4689936,
+       "injury": "ACTIVE",
+       "name": "Jake Bates",
+       "pos": "K",
+       "slot": "K",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4426388,
+       "injury": "ACTIVE",
+       "name": "Jameson Williams",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4426354,
+       "injury": "QUESTIONABLE",
+       "name": "George Pickens",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 4036378,
+       "injury": "ACTIVE",
+       "name": "Jordan Love",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "GB"
+      },
+      {
+       "espn_id": 4695883,
+       "injury": "ACTIVE",
+       "name": "Jalen Coker",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "CAR"
+      },
+      {
+       "espn_id": 4572680,
+       "injury": "ACTIVE",
+       "name": "Tucker Kraft",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "GB"
+      }
+     ],
+     "ties": 0,
+     "wins": 1
+    },
+    {
+     "abbrev": "CSN",
+     "id": 9,
+     "losses": 3,
+     "name": "Carson Schwesnibbas",
+     "points_against": 1103.1,
+     "points_for": 1314.3,
+     "roster": [
+      {
+       "espn_id": 4430878,
+       "injury": "ACTIVE",
+       "name": "Jaxon Smith-Njigba",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "SEA"
+      },
+      {
+       "espn_id": 3043078,
+       "injury": "ACTIVE",
+       "name": "Derrick Henry",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "BAL"
+      },
+      {
+       "espn_id": 4595348,
+       "injury": "ACTIVE",
+       "name": "Malik Nabers",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "NYG"
+      },
+      {
+       "espn_id": 4430737,
+       "injury": "ACTIVE",
+       "name": "Kyren Williams",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "LA"
+      },
+      {
+       "espn_id": 3915416,
+       "injury": "ACTIVE",
+       "name": "DJ Moore",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "BUF"
+      },
+      {
+       "espn_id": 5083076,
+       "injury": "QUESTIONABLE",
+       "name": "Harold Fannin Jr.",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "CLE"
+      },
+      {
+       "espn_id": 4431611,
+       "injury": "ACTIVE",
+       "name": "Caleb Williams",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4047650,
+       "injury": "ACTIVE",
+       "name": "DK Metcalf",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 3042519,
+       "injury": "ACTIVE",
+       "name": "Aaron Jones Sr.",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 4385690,
+       "injury": "QUESTIONABLE",
+       "name": "Dalton Kincaid",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "BUF"
+      },
+      {
+       "espn_id": -16026,
+       "injury": "NORMAL",
+       "name": "Seahawks D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "SEA"
+      },
+      {
+       "espn_id": 3046779,
+       "injury": "ACTIVE",
+       "name": "Jared Goff",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4686361,
+       "injury": "ACTIVE",
+       "name": "Cam Little",
+       "pos": "K",
+       "slot": "BN",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 3054850,
+       "injury": "ACTIVE",
+       "name": "Alvin Kamara",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "NO"
+      },
+      {
+       "espn_id": 4432577,
+       "injury": "ACTIVE",
+       "name": "C.J. Stroud",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4258620,
+       "injury": "ACTIVE",
+       "name": "Andre Szmyt",
+       "pos": "K",
+       "slot": "K",
+       "team": "CLE"
+      }
+     ],
+     "ties": 0,
+     "wins": 6
+    },
+    {
+     "abbrev": "SST",
+     "id": 10,
+     "losses": 5,
+     "name": "Sean\u2019s Sneaky Team",
+     "points_against": 1070.3,
+     "points_for": 1077.0,
+     "roster": [
+      {
+       "espn_id": 3117251,
+       "injury": "ACTIVE",
+       "name": "Christian McCaffrey",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4258173,
+       "injury": "ACTIVE",
+       "name": "Nico Collins",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4567750,
+       "injury": "ACTIVE",
+       "name": "Emeka Egbuka",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "TB"
+      },
+      {
+       "espn_id": 4426348,
+       "injury": "ACTIVE",
+       "name": "Jayden Daniels",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "WAS"
+      },
+      {
+       "espn_id": 4035687,
+       "injury": "INJURY_RESERVE",
+       "name": "Michael Pittman Jr.",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 4248528,
+       "injury": "ACTIVE",
+       "name": "Christian Watson",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "GB"
+      },
+      {
+       "espn_id": 4241985,
+       "injury": "ACTIVE",
+       "name": "J.K. Dobbins",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "DEN"
+      },
+      {
+       "espn_id": 3953687,
+       "injury": "ACTIVE",
+       "name": "Brandon Aubrey",
+       "pos": "K",
+       "slot": "K",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 3929645,
+       "injury": "ACTIVE",
+       "name": "Juwan Johnson",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "NO"
+      },
+      {
+       "espn_id": 3139477,
+       "injury": "ACTIVE",
+       "name": "Patrick Mahomes",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4685247,
+       "injury": "ACTIVE",
+       "name": "Braelon Allen",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "NYJ"
+      },
+      {
+       "espn_id": 4035538,
+       "injury": "QUESTIONABLE",
+       "name": "David Montgomery",
+       "pos": "RB",
+       "slot": "IR",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4429059,
+       "injury": "QUESTIONABLE",
+       "name": "Woody Marks",
+       "pos": "RB",
+       "slot": "FLEX",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4683062,
+       "injury": "ACTIVE",
+       "name": "Xavier Worthy",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4723820,
+       "injury": "QUESTIONABLE",
+       "name": "Omar Cooper Jr.",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "NYJ"
+      },
+      {
+       "espn_id": -16034,
+       "injury": "NORMAL",
+       "name": "Texans D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4430539,
+       "injury": "ACTIVE",
+       "name": "Brenton Strange",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 4038815,
+       "injury": "ACTIVE",
+       "name": "Rico Dowdle",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "PIT"
+      }
+     ],
+     "ties": 0,
+     "wins": 4
+    },
+    {
+     "abbrev": "IIT",
+     "id": 11,
+     "losses": 5,
+     "name": "Isaac's Impressive Team",
+     "points_against": 1119.6,
+     "points_for": 1123.0,
+     "roster": [
+      {
+       "espn_id": 4426515,
+       "injury": "INJURY_RESERVE",
+       "name": "Puka Nacua",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "LA"
+      },
+      {
+       "espn_id": 4882093,
+       "injury": "QUESTIONABLE",
+       "name": "Bhayshul Tuten",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 4685278,
+       "injury": "QUESTIONABLE",
+       "name": "Luther Burden III",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4432620,
+       "injury": "ACTIVE",
+       "name": "Parker Washington",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 2971573,
+       "injury": "ACTIVE",
+       "name": "Ka'imi Fairbairn",
+       "pos": "K",
+       "slot": "K",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4711533,
+       "injury": "ACTIVE",
+       "name": "Ollie Gordon II",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "MIA"
+      },
+      {
+       "espn_id": 3126486,
+       "injury": "QUESTIONABLE",
+       "name": "Deebo Samuel Sr.",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4870808,
+       "injury": "INJURY_RESERVE",
+       "name": "Jeremiyah Love",
+       "pos": "RB",
+       "slot": "IR",
+       "team": "ARI"
+      },
+      {
+       "espn_id": 4723086,
+       "injury": "ACTIVE",
+       "name": "Colston Loveland",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4685261,
+       "injury": "ACTIVE",
+       "name": "Germie Bernard",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 4702555,
+       "injury": "ACTIVE",
+       "name": "Jonah Coleman",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "DEN"
+      },
+      {
+       "espn_id": 4373626,
+       "injury": "ACTIVE",
+       "name": "Tyler Allgeier",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "ARI"
+      },
+      {
+       "espn_id": 4262921,
+       "injury": "ACTIVE",
+       "name": "Justin Jefferson",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 3918298,
+       "injury": "ACTIVE",
+       "name": "Josh Allen",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "BUF"
+      },
+      {
+       "espn_id": 4431299,
+       "injury": "ACTIVE",
+       "name": "Rome Odunze",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4431431,
+       "injury": "ACTIVE",
+       "name": "Corey Kiner",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "NE"
+      },
+      {
+       "espn_id": -16014,
+       "injury": "NORMAL",
+       "name": "Rams D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "LA"
+      },
+      {
+       "espn_id": 2576925,
+       "injury": "ACTIVE",
+       "name": "Darren Waller",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "CAR"
+      }
+     ],
+     "ties": 0,
+     "wins": 4
+    }
+   ]
+  },
+  {
+   "current_week": 10,
+   "id": "58449488",
+   "lineup": {
+    "BN": 6,
+    "DST": 1,
+    "FLEX": 2,
+    "IR": 2,
+    "K": 1,
+    "QB": 1,
+    "RB": 2,
+    "TE": 1,
+    "WR": 2
+   },
+   "my_team_name": "Baby Back Gibbs",
+   "name": "Isaac's Fantasy Family Fun",
+   "playoff_teams": 6,
+   "ppr": 1.0,
+   "regular_season_weeks": 14,
+   "schedule": [
+    {
+     "away": 14,
+     "away_pts": 124.22,
+     "home": 13,
+     "home_pts": 150.16,
+     "week": 1,
+     "winner": "HOME"
+    },
+    {
+     "away": 6,
+     "away_pts": 92.16,
+     "home": 1,
+     "home_pts": 159.2,
+     "week": 1,
+     "winner": "HOME"
+    },
+    {
+     "away": 12,
+     "away_pts": 178.36,
+     "home": 11,
+     "home_pts": 135.7,
+     "week": 1,
+     "winner": "AWAY"
+    },
+    {
+     "away": 10,
+     "away_pts": 119.62,
+     "home": 4,
+     "home_pts": 174.36,
+     "week": 1,
+     "winner": "HOME"
+    },
+    {
+     "away": 2,
+     "away_pts": 143.06,
+     "home": 8,
+     "home_pts": 102.7,
+     "week": 1,
+     "winner": "AWAY"
+    },
+    {
+     "away": 13,
+     "away_pts": 137.22,
+     "home": 8,
+     "home_pts": 141.86,
+     "week": 2,
+     "winner": "HOME"
+    },
+    {
+     "away": 6,
+     "away_pts": 115.18,
+     "home": 14,
+     "home_pts": 130.82,
+     "week": 2,
+     "winner": "HOME"
+    },
+    {
+     "away": 1,
+     "away_pts": 135.96,
+     "home": 12,
+     "home_pts": 130.34,
+     "week": 2,
+     "winner": "AWAY"
+    },
+    {
+     "away": 10,
+     "away_pts": 144.16,
+     "home": 11,
+     "home_pts": 135.38,
+     "week": 2,
+     "winner": "AWAY"
+    },
+    {
+     "away": 2,
+     "away_pts": 92.7,
+     "home": 4,
+     "home_pts": 80.28,
+     "week": 2,
+     "winner": "AWAY"
+    },
+    {
+     "away": 13,
+     "away_pts": 108.86,
+     "home": 6,
+     "home_pts": 119.14,
+     "week": 3,
+     "winner": "HOME"
+    },
+    {
+     "away": 14,
+     "away_pts": 112.76,
+     "home": 12,
+     "home_pts": 133.34,
+     "week": 3,
+     "winner": "HOME"
+    },
+    {
+     "away": 10,
+     "away_pts": 117.02,
+     "home": 1,
+     "home_pts": 178.02,
+     "week": 3,
+     "winner": "HOME"
+    },
+    {
+     "away": 11,
+     "away_pts": 140.98,
+     "home": 2,
+     "home_pts": 119.14,
+     "week": 3,
+     "winner": "AWAY"
+    },
+    {
+     "away": 4,
+     "away_pts": 162.98,
+     "home": 8,
+     "home_pts": 123.84,
+     "week": 3,
+     "winner": "AWAY"
+    },
+    {
+     "away": 12,
+     "away_pts": 127.38,
+     "home": 13,
+     "home_pts": 150.02,
+     "week": 4,
+     "winner": "HOME"
+    },
+    {
+     "away": 6,
+     "away_pts": 137.56,
+     "home": 8,
+     "home_pts": 104.8,
+     "week": 4,
+     "winner": "AWAY"
+    },
+    {
+     "away": 10,
+     "away_pts": 109.02,
+     "home": 14,
+     "home_pts": 156.08,
+     "week": 4,
+     "winner": "HOME"
+    },
+    {
+     "away": 1,
+     "away_pts": 142.38,
+     "home": 2,
+     "home_pts": 143.68,
+     "week": 4,
+     "winner": "HOME"
+    },
+    {
+     "away": 4,
+     "away_pts": 138.02,
+     "home": 11,
+     "home_pts": 133.62,
+     "week": 4,
+     "winner": "AWAY"
+    },
+    {
+     "away": 13,
+     "away_pts": 128.2,
+     "home": 10,
+     "home_pts": 189.18,
+     "week": 5,
+     "winner": "HOME"
+    },
+    {
+     "away": 12,
+     "away_pts": 167.76,
+     "home": 6,
+     "home_pts": 170.54,
+     "week": 5,
+     "winner": "HOME"
+    },
+    {
+     "away": 14,
+     "away_pts": 139.94,
+     "home": 2,
+     "home_pts": 128.44,
+     "week": 5,
+     "winner": "AWAY"
+    },
+    {
+     "away": 4,
+     "away_pts": 121.68,
+     "home": 1,
+     "home_pts": 179.14,
+     "week": 5,
+     "winner": "HOME"
+    },
+    {
+     "away": 11,
+     "away_pts": 138.16,
+     "home": 8,
+     "home_pts": 93.64,
+     "week": 5,
+     "winner": "AWAY"
+    },
+    {
+     "away": 2,
+     "away_pts": 114.76,
+     "home": 13,
+     "home_pts": 99.8,
+     "week": 6,
+     "winner": "AWAY"
+    },
+    {
+     "away": 6,
+     "away_pts": 93.74,
+     "home": 10,
+     "home_pts": 110.9,
+     "week": 6,
+     "winner": "HOME"
+    },
+    {
+     "away": 12,
+     "away_pts": 140.2,
+     "home": 8,
+     "home_pts": 114.22,
+     "week": 6,
+     "winner": "AWAY"
+    },
+    {
+     "away": 4,
+     "away_pts": 159.84,
+     "home": 14,
+     "home_pts": 129.1,
+     "week": 6,
+     "winner": "AWAY"
+    },
+    {
+     "away": 1,
+     "away_pts": 141.94,
+     "home": 11,
+     "home_pts": 128.16,
+     "week": 6,
+     "winner": "AWAY"
+    },
+    {
+     "away": 13,
+     "away_pts": 106.1,
+     "home": 4,
+     "home_pts": 148.26,
+     "week": 7,
+     "winner": "HOME"
+    },
+    {
+     "away": 6,
+     "away_pts": 113.78,
+     "home": 2,
+     "home_pts": 109.7,
+     "week": 7,
+     "winner": "AWAY"
+    },
+    {
+     "away": 12,
+     "away_pts": 165.12,
+     "home": 10,
+     "home_pts": 112.32,
+     "week": 7,
+     "winner": "AWAY"
+    },
+    {
+     "away": 14,
+     "away_pts": 149.54,
+     "home": 11,
+     "home_pts": 91.62,
+     "week": 7,
+     "winner": "AWAY"
+    },
+    {
+     "away": 1,
+     "away_pts": 135.2,
+     "home": 8,
+     "home_pts": 130.18,
+     "week": 7,
+     "winner": "AWAY"
+    },
+    {
+     "away": 11,
+     "away_pts": 126.54,
+     "home": 13,
+     "home_pts": 98.06,
+     "week": 8,
+     "winner": "AWAY"
+    },
+    {
+     "away": 4,
+     "away_pts": 178.88,
+     "home": 6,
+     "home_pts": 168.26,
+     "week": 8,
+     "winner": "AWAY"
+    },
+    {
+     "away": 2,
+     "away_pts": 48.3,
+     "home": 12,
+     "home_pts": 151.78,
+     "week": 8,
+     "winner": "HOME"
+    },
+    {
+     "away": 10,
+     "away_pts": 136.48,
+     "home": 8,
+     "home_pts": 116.4,
+     "week": 8,
+     "winner": "AWAY"
+    },
+    {
+     "away": 1,
+     "away_pts": 148.9,
+     "home": 14,
+     "home_pts": 139.76,
+     "week": 8,
+     "winner": "AWAY"
+    },
+    {
+     "away": 13,
+     "away_pts": 118.36,
+     "home": 1,
+     "home_pts": 156.48,
+     "week": 9,
+     "winner": "HOME"
+    },
+    {
+     "away": 11,
+     "away_pts": 118.28,
+     "home": 6,
+     "home_pts": 140.94,
+     "week": 9,
+     "winner": "HOME"
+    },
+    {
+     "away": 12,
+     "away_pts": 94.84,
+     "home": 4,
+     "home_pts": 173.44,
+     "week": 9,
+     "winner": "HOME"
+    },
+    {
+     "away": 10,
+     "away_pts": 149.66,
+     "home": 2,
+     "home_pts": 88.7,
+     "week": 9,
+     "winner": "AWAY"
+    },
+    {
+     "away": 14,
+     "away_pts": 143.76,
+     "home": 8,
+     "home_pts": 103.3,
+     "week": 9,
+     "winner": "AWAY"
+    },
+    {
+     "away": 13,
+     "away_pts": 0.0,
+     "home": 14,
+     "home_pts": 0.0,
+     "week": 10,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 1,
+     "away_pts": 0.0,
+     "home": 6,
+     "home_pts": 0.0,
+     "week": 10,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 11,
+     "away_pts": 0.0,
+     "home": 12,
+     "home_pts": 0.0,
+     "week": 10,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 4,
+     "away_pts": 0.0,
+     "home": 10,
+     "home_pts": 0.0,
+     "week": 10,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 8,
+     "away_pts": 0.0,
+     "home": 2,
+     "home_pts": 0.0,
+     "week": 10,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 8,
+     "away_pts": 0.0,
+     "home": 13,
+     "home_pts": 0.0,
+     "week": 11,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 14,
+     "away_pts": 0.0,
+     "home": 6,
+     "home_pts": 0.0,
+     "week": 11,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 12,
+     "away_pts": 0.0,
+     "home": 1,
+     "home_pts": 0.0,
+     "week": 11,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 11,
+     "away_pts": 0.0,
+     "home": 10,
+     "home_pts": 0.0,
+     "week": 11,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 4,
+     "away_pts": 0.0,
+     "home": 2,
+     "home_pts": 0.0,
+     "week": 11,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 6,
+     "away_pts": 0.0,
+     "home": 13,
+     "home_pts": 0.0,
+     "week": 12,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 12,
+     "away_pts": 0.0,
+     "home": 14,
+     "home_pts": 0.0,
+     "week": 12,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 1,
+     "away_pts": 0.0,
+     "home": 10,
+     "home_pts": 0.0,
+     "week": 12,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 2,
+     "away_pts": 0.0,
+     "home": 11,
+     "home_pts": 0.0,
+     "week": 12,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 8,
+     "away_pts": 0.0,
+     "home": 4,
+     "home_pts": 0.0,
+     "week": 12,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 13,
+     "away_pts": 0.0,
+     "home": 12,
+     "home_pts": 0.0,
+     "week": 13,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 8,
+     "away_pts": 0.0,
+     "home": 6,
+     "home_pts": 0.0,
+     "week": 13,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 14,
+     "away_pts": 0.0,
+     "home": 10,
+     "home_pts": 0.0,
+     "week": 13,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 2,
+     "away_pts": 0.0,
+     "home": 1,
+     "home_pts": 0.0,
+     "week": 13,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 11,
+     "away_pts": 0.0,
+     "home": 4,
+     "home_pts": 0.0,
+     "week": 13,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 10,
+     "away_pts": 0.0,
+     "home": 13,
+     "home_pts": 0.0,
+     "week": 14,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 6,
+     "away_pts": 0.0,
+     "home": 12,
+     "home_pts": 0.0,
+     "week": 14,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 2,
+     "away_pts": 0.0,
+     "home": 14,
+     "home_pts": 0.0,
+     "week": 14,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 1,
+     "away_pts": 0.0,
+     "home": 4,
+     "home_pts": 0.0,
+     "week": 14,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 8,
+     "away_pts": 0.0,
+     "home": 11,
+     "home_pts": 0.0,
+     "week": 14,
+     "winner": "UNDECIDED"
+    }
+   ],
+   "scoring": [
+    {
+     "points": 0.0,
+     "stat": 89
+    },
+    {
+     "points": 0.0,
+     "stat": 90
+    },
+    {
+     "points": 0.0,
+     "stat": 123
+    },
+    {
+     "points": 2.0,
+     "stat": 206
+    },
+    {
+     "points": 0.0,
+     "stat": 133
+    },
+    {
+     "points": 6.0,
+     "stat": 25
+    },
+    {
+     "points": 1.0,
+     "stat": 209
+    },
+    {
+     "points": 1.0,
+     "stat": 53
+    },
+    {
+     "points": -2.0,
+     "stat": 72
+    },
+    {
+     "points": 0.0,
+     "stat": 134
+    },
+    {
+     "points": 0.0,
+     "stat": 95
+    },
+    {
+     "points": 0.0,
+     "stat": 135
+    },
+    {
+     "points": 0.0,
+     "stat": 136
+    },
+    {
+     "points": 6.0,
+     "stat": 93
+    },
+    {
+     "points": 0.0,
+     "stat": 98
+    },
+    {
+     "points": 0.0,
+     "stat": 91
+    },
+    {
+     "points": 0.0,
+     "stat": 96
+    },
+    {
+     "points": 0.0,
+     "stat": 97
+    },
+    {
+     "points": 2.0,
+     "stat": 19
+    },
+    {
+     "points": 6.0,
+     "stat": 43
+    },
+    {
+     "points": -2.0,
+     "stat": 20
+    },
+    {
+     "points": 4.0,
+     "stat": 4
+    },
+    {
+     "points": 6.0,
+     "stat": 102
+    },
+    {
+     "points": 0.1,
+     "stat": 24
+    },
+    {
+     "points": 6.0,
+     "stat": 103
+    },
+    {
+     "points": 6.0,
+     "stat": 63
+    },
+    {
+     "points": 6.0,
+     "stat": 101
+    },
+    {
+     "points": 3.0,
+     "stat": 80
+    },
+    {
+     "points": 2.0,
+     "stat": 26
+    },
+    {
+     "points": 6.0,
+     "stat": 104
+    },
+    {
+     "points": 4.0,
+     "stat": 77
+    },
+    {
+     "points": 0.0,
+     "stat": 128
+    },
+    {
+     "points": 0.0,
+     "stat": 92
+    },
+    {
+     "points": 0.0,
+     "stat": 99
+    },
+    {
+     "points": 0.0,
+     "stat": 125
+    },
+    {
+     "points": -1.0,
+     "stat": 85
+    },
+    {
+     "points": 0.04,
+     "stat": 3
+    },
+    {
+     "points": 1.0,
+     "stat": 86
+    },
+    {
+     "points": 0.0,
+     "stat": 132
+    },
+    {
+     "points": 0.0,
+     "stat": 124
+    },
+    {
+     "points": 0.1,
+     "stat": 42
+    },
+    {
+     "points": 0.0,
+     "stat": 129
+    },
+    {
+     "points": 2.0,
+     "stat": 44
+    },
+    {
+     "points": 0.0,
+     "stat": 130
+    },
+    {
+     "points": 6.0,
+     "stat": 201
+    },
+    {
+     "points": 5.0,
+     "stat": 198
+    }
+   ],
+   "teams": [
+    {
+     "abbrev": "BBG",
+     "id": 1,
+     "losses": 1,
+     "name": "Baby Back Gibbs",
+     "points_against": 1121.34,
+     "points_for": 1377.22,
+     "roster": [
+      {
+       "espn_id": 4429795,
+       "injury": "ACTIVE",
+       "name": "Jahmyr Gibbs",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4567048,
+       "injury": "ACTIVE",
+       "name": "Kenneth Walker III",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4426502,
+       "injury": "ACTIVE",
+       "name": "Drake London",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "ATL"
+      },
+      {
+       "espn_id": 4241478,
+       "injury": "OUT",
+       "name": "DeVonta Smith",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "PHI"
+      },
+      {
+       "espn_id": 4239993,
+       "injury": "ACTIVE",
+       "name": "Tee Higgins",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 16737,
+       "injury": "QUESTIONABLE",
+       "name": "Mike Evans",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4432620,
+       "injury": "ACTIVE",
+       "name": "Parker Washington",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 4360310,
+       "injury": "ACTIVE",
+       "name": "Trevor Lawrence",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 4870653,
+       "injury": "ACTIVE",
+       "name": "KC Concepcion",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "CLE"
+      },
+      {
+       "espn_id": 3116406,
+       "injury": "QUESTIONABLE",
+       "name": "Tyreek Hill",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "FA"
+      },
+      {
+       "espn_id": 3915416,
+       "injury": "ACTIVE",
+       "name": "DJ Moore",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "BUF"
+      },
+      {
+       "espn_id": 4685261,
+       "injury": "ACTIVE",
+       "name": "Germie Bernard",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 4036133,
+       "injury": "QUESTIONABLE",
+       "name": "T.J. Hockenson",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 4702555,
+       "injury": "ACTIVE",
+       "name": "Jonah Coleman",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "DEN"
+      },
+      {
+       "espn_id": 2971573,
+       "injury": "ACTIVE",
+       "name": "Ka'imi Fairbairn",
+       "pos": "K",
+       "slot": "K",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4880281,
+       "injury": "ACTIVE",
+       "name": "Jordyn Tyson",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "NO"
+      },
+      {
+       "espn_id": 4431431,
+       "injury": "ACTIVE",
+       "name": "Corey Kiner",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "NE"
+      },
+      {
+       "espn_id": -16033,
+       "injury": "NORMAL",
+       "name": "Ravens D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "BAL"
+      }
+     ],
+     "ties": 0,
+     "wins": 8
+    },
+    {
+     "abbrev": "RBG",
+     "id": 2,
+     "losses": 5,
+     "name": "Cbus Rick's Rowdies",
+     "points_against": 1121.3,
+     "points_for": 988.48,
+     "roster": [
+      {
+       "espn_id": 3117251,
+       "injury": "ACTIVE",
+       "name": "Christian McCaffrey",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4685382,
+       "injury": "ACTIVE",
+       "name": "Omarion Hampton",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "LAC"
+      },
+      {
+       "espn_id": 4258173,
+       "injury": "ACTIVE",
+       "name": "Nico Collins",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4429615,
+       "injury": "ACTIVE",
+       "name": "Zay Flowers",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "BAL"
+      },
+      {
+       "espn_id": 3916387,
+       "injury": "INJURY_RESERVE",
+       "name": "Lamar Jackson",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "BAL"
+      },
+      {
+       "espn_id": 4431459,
+       "injury": "ACTIVE",
+       "name": "Tyler Warren",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "IND"
+      },
+      {
+       "espn_id": 4569173,
+       "injury": "QUESTIONABLE",
+       "name": "Rhamondre Stevenson",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "NE"
+      },
+      {
+       "espn_id": 4047650,
+       "injury": "ACTIVE",
+       "name": "DK Metcalf",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 4430027,
+       "injury": "ACTIVE",
+       "name": "Sam LaPorta",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4429205,
+       "injury": "ACTIVE",
+       "name": "Jordan Addison",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 4710714,
+       "injury": "INJURY_RESERVE",
+       "name": "De'Zhaun Stribling",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4688813,
+       "injury": "ACTIVE",
+       "name": "Josh Downs",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4361529,
+       "injury": "INJURY_RESERVE",
+       "name": "Isiah Pacheco",
+       "pos": "RB",
+       "slot": "IR",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4360689,
+       "injury": "ACTIVE",
+       "name": "Tyler Shough",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "NO"
+      },
+      {
+       "espn_id": 4887558,
+       "injury": "ACTIVE",
+       "name": "Emanuel Wilson",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "SEA"
+      },
+      {
+       "espn_id": -16005,
+       "injury": "NORMAL",
+       "name": "Browns D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "CLE"
+      },
+      {
+       "espn_id": 4431466,
+       "injury": "ACTIVE",
+       "name": "Jordan Watkins",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4568263,
+       "injury": "ACTIVE",
+       "name": "Ryan Fitzgerald",
+       "pos": "K",
+       "slot": "K",
+       "team": "CAR"
+      }
+     ],
+     "ties": 0,
+     "wins": 4
+    },
+    {
+     "abbrev": "SUE",
+     "id": 4,
+     "losses": 2,
+     "name": "Sue's Splashers ",
+     "points_against": 1147.22,
+     "points_for": 1337.74,
+     "roster": [
+      {
+       "espn_id": 4430807,
+       "injury": "ACTIVE",
+       "name": "Bijan Robinson",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "ATL"
+      },
+      {
+       "espn_id": 4259545,
+       "injury": "ACTIVE",
+       "name": "D'Andre Swift",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4361579,
+       "injury": "ACTIVE",
+       "name": "Javonte Williams",
+       "pos": "RB",
+       "slot": "FLEX",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 4612826,
+       "injury": "QUESTIONABLE",
+       "name": "Ladd McConkey",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "LAC"
+      },
+      {
+       "espn_id": 4723086,
+       "injury": "ACTIVE",
+       "name": "Colston Loveland",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4360248,
+       "injury": "ACTIVE",
+       "name": "Kyle Pitts Sr.",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "ATL"
+      },
+      {
+       "espn_id": 3915511,
+       "injury": "ACTIVE",
+       "name": "Joe Burrow",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 4569587,
+       "injury": "ACTIVE",
+       "name": "Wan'Dale Robinson",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "TEN"
+      },
+      {
+       "espn_id": 4697815,
+       "injury": "ACTIVE",
+       "name": "Rachaad White",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "WAS"
+      },
+      {
+       "espn_id": 4701936,
+       "injury": "ACTIVE",
+       "name": "Matthew Golden",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "GB"
+      },
+      {
+       "espn_id": -16023,
+       "injury": "NORMAL",
+       "name": "Steelers D/ST",
+       "pos": "DST",
+       "slot": "BN",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 17372,
+       "injury": "ACTIVE",
+       "name": "Chris Boswell",
+       "pos": "K",
+       "slot": "K",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 4036378,
+       "injury": "ACTIVE",
+       "name": "Jordan Love",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "GB"
+      },
+      {
+       "espn_id": 5082424,
+       "injury": "ACTIVE",
+       "name": "Dominic Zvada",
+       "pos": "K",
+       "slot": "BN",
+       "team": "NYG"
+      },
+      {
+       "espn_id": -16019,
+       "injury": "NORMAL",
+       "name": "Giants D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "NYG"
+      },
+      {
+       "espn_id": 2991662,
+       "injury": "ACTIVE",
+       "name": "Mack Hollins",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "NE"
+      }
+     ],
+     "ties": 0,
+     "wins": 7
+    },
+    {
+     "abbrev": "MARK",
+     "id": 6,
+     "losses": 4,
+     "name": "Mark Bergman",
+     "points_against": 1189.2,
+     "points_for": 1151.3,
+     "roster": [
+      {
+       "espn_id": 4426515,
+       "injury": "INJURY_RESERVE",
+       "name": "Puka Nacua",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "LA"
+      },
+      {
+       "espn_id": 3929630,
+       "injury": "ACTIVE",
+       "name": "Saquon Barkley",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "PHI"
+      },
+      {
+       "espn_id": 4432665,
+       "injury": "ACTIVE",
+       "name": "Brock Bowers",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "LV"
+      },
+      {
+       "espn_id": 4430737,
+       "injury": "ACTIVE",
+       "name": "Kyren Williams",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "LA"
+      },
+      {
+       "espn_id": 4372016,
+       "injury": "QUESTIONABLE",
+       "name": "Jaylen Waddle",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "DEN"
+      },
+      {
+       "espn_id": 4432708,
+       "injury": "QUESTIONABLE",
+       "name": "Marvin Harrison Jr.",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4569987,
+       "injury": "ACTIVE",
+       "name": "Jaylen Warren",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 15847,
+       "injury": "ACTIVE",
+       "name": "Travis Kelce",
+       "pos": "TE",
+       "slot": "FLEX",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4047365,
+       "injury": "OUT",
+       "name": "Josh Jacobs",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "GB"
+      },
+      {
+       "espn_id": 4575131,
+       "injury": "INJURY_RESERVE",
+       "name": "Jacory Croskey-Merritt",
+       "pos": "RB",
+       "slot": "IR",
+       "team": "WAS"
+      },
+      {
+       "espn_id": -16017,
+       "injury": "NORMAL",
+       "name": "Patriots D/ST",
+       "pos": "DST",
+       "slot": "BN",
+       "team": "NE"
+      },
+      {
+       "espn_id": 4685720,
+       "injury": "ACTIVE",
+       "name": "Bryce Young",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "CAR"
+      },
+      {
+       "espn_id": 8439,
+       "injury": "ACTIVE",
+       "name": "Aaron Rodgers",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 3917232,
+       "injury": "ACTIVE",
+       "name": "Tyler Bass",
+       "pos": "K",
+       "slot": "K",
+       "team": "BUF"
+      },
+      {
+       "espn_id": 4832955,
+       "injury": "ACTIVE",
+       "name": "Emmett Johnson",
+       "pos": "RB",
+       "slot": "FLEX",
+       "team": "KC"
+      },
+      {
+       "espn_id": -16012,
+       "injury": "NORMAL",
+       "name": "Chiefs D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "KC"
+      },
+      {
+       "espn_id": 3916433,
+       "injury": "QUESTIONABLE",
+       "name": "Jakobi Meyers",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "JAX"
+      }
+     ],
+     "ties": 0,
+     "wins": 5
+    },
+    {
+     "abbrev": "SCHM",
+     "id": 8,
+     "losses": 8,
+     "name": "JK All Day",
+     "points_against": 1274.62,
+     "points_for": 1030.94,
+     "roster": [
+      {
+       "espn_id": 4242335,
+       "injury": "ACTIVE",
+       "name": "Jonathan Taylor",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "IND"
+      },
+      {
+       "espn_id": 4870808,
+       "injury": "INJURY_RESERVE",
+       "name": "Jeremiyah Love",
+       "pos": "RB",
+       "slot": "IR",
+       "team": "ARI"
+      },
+      {
+       "espn_id": 4428331,
+       "injury": "ACTIVE",
+       "name": "Rashee Rice",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4567750,
+       "injury": "ACTIVE",
+       "name": "Emeka Egbuka",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "TB"
+      },
+      {
+       "espn_id": 4696981,
+       "injury": "ACTIVE",
+       "name": "Cam Skattebo",
+       "pos": "RB",
+       "slot": "FLEX",
+       "team": "NYG"
+      },
+      {
+       "espn_id": 4685512,
+       "injury": "ACTIVE",
+       "name": "Jadarian Price",
+       "pos": "RB",
+       "slot": "FLEX",
+       "team": "SEA"
+      },
+      {
+       "espn_id": 4871023,
+       "injury": "QUESTIONABLE",
+       "name": "Carnell Tate",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "TEN"
+      },
+      {
+       "espn_id": 5083076,
+       "injury": "QUESTIONABLE",
+       "name": "Harold Fannin Jr.",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "CLE"
+      },
+      {
+       "espn_id": 2577417,
+       "injury": "ACTIVE",
+       "name": "Dak Prescott",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 4241416,
+       "injury": "ACTIVE",
+       "name": "Chuba Hubbard",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "CAR"
+      },
+      {
+       "espn_id": 4385690,
+       "injury": "QUESTIONABLE",
+       "name": "Dalton Kincaid",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "BUF"
+      },
+      {
+       "espn_id": -16034,
+       "injury": "NORMAL",
+       "name": "Texans D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4426338,
+       "injury": "ACTIVE",
+       "name": "Bo Nix",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "DEN"
+      },
+      {
+       "espn_id": 3055899,
+       "injury": "ACTIVE",
+       "name": "Harrison Butker",
+       "pos": "K",
+       "slot": "BN",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4683062,
+       "injury": "ACTIVE",
+       "name": "Xavier Worthy",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4567104,
+       "injury": "ACTIVE",
+       "name": "Will Reichard",
+       "pos": "K",
+       "slot": "K",
+       "team": "MIN"
+      },
+      {
+       "espn_id": -16030,
+       "injury": "NORMAL",
+       "name": "Jaguars D/ST",
+       "pos": "DST",
+       "slot": "BN",
+       "team": "JAX"
+      }
+     ],
+     "ties": 0,
+     "wins": 1
+    },
+    {
+     "abbrev": "BERG",
+     "id": 10,
+     "losses": 4,
+     "name": "Max Bergman Baller",
+     "points_against": 1236.0000000000002,
+     "points_for": 1188.3600000000001,
+     "roster": [
+      {
+       "espn_id": 4362628,
+       "injury": "ACTIVE",
+       "name": "Ja'Marr Chase",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 4890973,
+       "injury": "ACTIVE",
+       "name": "Ashton Jeanty",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "LV"
+      },
+      {
+       "espn_id": 4047646,
+       "injury": "QUESTIONABLE",
+       "name": "A.J. Brown",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "NE"
+      },
+      {
+       "espn_id": 4239996,
+       "injury": "INJURY_RESERVE",
+       "name": "Travis Etienne Jr.",
+       "pos": "RB",
+       "slot": "IR",
+       "team": "NO"
+      },
+      {
+       "espn_id": 16800,
+       "injury": "INJURY_RESERVE",
+       "name": "Davante Adams",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "LA"
+      },
+      {
+       "espn_id": 4685278,
+       "injury": "QUESTIONABLE",
+       "name": "Luther Burden III",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4248528,
+       "injury": "ACTIVE",
+       "name": "Christian Watson",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "GB"
+      },
+      {
+       "espn_id": 4572680,
+       "injury": "ACTIVE",
+       "name": "Tucker Kraft",
+       "pos": "TE",
+       "slot": "FLEX",
+       "team": "GB"
+      },
+      {
+       "espn_id": 4608686,
+       "injury": "OUT",
+       "name": "Kyle Monangai",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4361050,
+       "injury": "ACTIVE",
+       "name": "Isaiah Likely",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "NYG"
+      },
+      {
+       "espn_id": -16007,
+       "injury": "NORMAL",
+       "name": "Broncos D/ST",
+       "pos": "DST",
+       "slot": "BN",
+       "team": "DEN"
+      },
+      {
+       "espn_id": 4711533,
+       "injury": "ACTIVE",
+       "name": "Ollie Gordon II",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "MIA"
+      },
+      {
+       "espn_id": 4571557,
+       "injury": "ACTIVE",
+       "name": "Spencer Shrader",
+       "pos": "K",
+       "slot": "K",
+       "team": "IND"
+      },
+      {
+       "espn_id": 4431611,
+       "injury": "ACTIVE",
+       "name": "Caleb Williams",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 3046439,
+       "injury": "QUESTIONABLE",
+       "name": "Hunter Henry",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "NE"
+      },
+      {
+       "espn_id": -16014,
+       "injury": "NORMAL",
+       "name": "Rams D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "LA"
+      },
+      {
+       "espn_id": 3924327,
+       "injury": "QUESTIONABLE",
+       "name": "Drew Lock",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "SEA"
+      },
+      {
+       "espn_id": 4366031,
+       "injury": "ACTIVE",
+       "name": "Tank Dell",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "HOU"
+      }
+     ],
+     "ties": 0,
+     "wins": 5
+    },
+    {
+     "abbrev": "BBB",
+     "id": 11,
+     "losses": 6,
+     "name": "Bergman Black Bears",
+     "points_against": 1203.8,
+     "points_for": 1148.4399999999998,
+     "roster": [
+      {
+       "espn_id": 4262921,
+       "injury": "ACTIVE",
+       "name": "Justin Jefferson",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 4379399,
+       "injury": "ACTIVE",
+       "name": "James Cook III",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "BUF"
+      },
+      {
+       "espn_id": 4361370,
+       "injury": "ACTIVE",
+       "name": "Chris Olave",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "NO"
+      },
+      {
+       "espn_id": 4569618,
+       "injury": "QUESTIONABLE",
+       "name": "Garrett Wilson",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "NYJ"
+      },
+      {
+       "espn_id": 4685702,
+       "injury": "ACTIVE",
+       "name": "Quinshon Judkins",
+       "pos": "RB",
+       "slot": "FLEX",
+       "team": "CLE"
+      },
+      {
+       "espn_id": 4882093,
+       "injury": "QUESTIONABLE",
+       "name": "Bhayshul Tuten",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 4432710,
+       "injury": "OUT",
+       "name": "TreVeyon Henderson",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "NE"
+      },
+      {
+       "espn_id": 3128429,
+       "injury": "ACTIVE",
+       "name": "Courtland Sutton",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "DEN"
+      },
+      {
+       "espn_id": 4360078,
+       "injury": "INJURY_RESERVE",
+       "name": "Alec Pierce",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "IND"
+      },
+      {
+       "espn_id": 4361741,
+       "injury": "ACTIVE",
+       "name": "Brock Purdy",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "SF"
+      },
+      {
+       "espn_id": 3139477,
+       "injury": "ACTIVE",
+       "name": "Patrick Mahomes",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "KC"
+      },
+      {
+       "espn_id": 3126486,
+       "injury": "QUESTIONABLE",
+       "name": "Deebo Samuel Sr.",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "SF"
+      },
+      {
+       "espn_id": 2473037,
+       "injury": "ACTIVE",
+       "name": "Jason Myers",
+       "pos": "K",
+       "slot": "K",
+       "team": "SEA"
+      },
+      {
+       "espn_id": 4428718,
+       "injury": "ACTIVE",
+       "name": "Tre Tucker",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "LV"
+      },
+      {
+       "espn_id": 4361411,
+       "injury": "ACTIVE",
+       "name": "Pat Freiermuth",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 4430539,
+       "injury": "ACTIVE",
+       "name": "Brenton Strange",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "JAX"
+      },
+      {
+       "espn_id": -16016,
+       "injury": "NORMAL",
+       "name": "Vikings D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "MIN"
+      }
+     ],
+     "ties": 0,
+     "wins": 3
+    },
+    {
+     "abbrev": "A",
+     "id": 12,
+     "losses": 4,
+     "name": "Team a",
+     "points_against": 1153.26,
+     "points_for": 1289.12,
+     "roster": [
+      {
+       "espn_id": 4430878,
+       "injury": "ACTIVE",
+       "name": "Jaxon Smith-Njigba",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "SEA"
+      },
+      {
+       "espn_id": 3043078,
+       "injury": "ACTIVE",
+       "name": "Derrick Henry",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "BAL"
+      },
+      {
+       "espn_id": 4361307,
+       "injury": "ACTIVE",
+       "name": "Trey McBride",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "ARI"
+      },
+      {
+       "espn_id": 4595348,
+       "injury": "ACTIVE",
+       "name": "Malik Nabers",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "NYG"
+      },
+      {
+       "espn_id": 4426388,
+       "injury": "ACTIVE",
+       "name": "Jameson Williams",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4035538,
+       "injury": "QUESTIONABLE",
+       "name": "David Montgomery",
+       "pos": "RB",
+       "slot": "IR",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4426348,
+       "injury": "ACTIVE",
+       "name": "Jayden Daniels",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "WAS"
+      },
+      {
+       "espn_id": 3916148,
+       "injury": "QUESTIONABLE",
+       "name": "Tony Pollard",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "TEN"
+      },
+      {
+       "espn_id": 2976212,
+       "injury": "ACTIVE",
+       "name": "Stefon Diggs",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "WAS"
+      },
+      {
+       "espn_id": 4678008,
+       "injury": "INJURY_RESERVE",
+       "name": "Jonathon Brooks",
+       "pos": "RB",
+       "slot": "IR",
+       "team": "CAR"
+      },
+      {
+       "espn_id": 4426385,
+       "injury": "ACTIVE",
+       "name": "Zach Charbonnet",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "SEA"
+      },
+      {
+       "espn_id": 4360234,
+       "injury": "ACTIVE",
+       "name": "Evan McPherson",
+       "pos": "K",
+       "slot": "K",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 4432577,
+       "injury": "ACTIVE",
+       "name": "C.J. Stroud",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "HOU"
+      },
+      {
+       "espn_id": -16004,
+       "injury": "NORMAL",
+       "name": "Bengals D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 4429096,
+       "injury": "ACTIVE",
+       "name": "Blake Corum",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "LA"
+      },
+      {
+       "espn_id": 5083754,
+       "injury": "ACTIVE",
+       "name": "Ryan Flournoy",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 4597500,
+       "injury": "ACTIVE",
+       "name": "Adonai Mitchell",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "NYJ"
+      },
+      {
+       "espn_id": 4360438,
+       "injury": "OUT",
+       "name": "Brandon Aiyuk",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "SF"
+      }
+     ],
+     "ties": 0,
+     "wins": 5
+    },
+    {
+     "abbrev": "DM",
+     "id": 13,
+     "losses": 7,
+     "name": "Michinators",
+     "points_against": 1247.82,
+     "points_for": 1096.78,
+     "roster": [
+      {
+       "espn_id": 4374302,
+       "injury": "QUESTIONABLE",
+       "name": "Amon-Ra St. Brown",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4362238,
+       "injury": "ACTIVE",
+       "name": "Chase Brown",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 3918298,
+       "injury": "ACTIVE",
+       "name": "Josh Allen",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "BUF"
+      },
+      {
+       "espn_id": 4685472,
+       "injury": "ACTIVE",
+       "name": "Tetairoa McMillan",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "CAR"
+      },
+      {
+       "espn_id": 4431299,
+       "injury": "ACTIVE",
+       "name": "Rome Odunze",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4241985,
+       "injury": "ACTIVE",
+       "name": "J.K. Dobbins",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "DEN"
+      },
+      {
+       "espn_id": 4576297,
+       "injury": "ACTIVE",
+       "name": "AJ Barner",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "SEA"
+      },
+      {
+       "espn_id": 3042519,
+       "injury": "ACTIVE",
+       "name": "Aaron Jones Sr.",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "MIN"
+      },
+      {
+       "espn_id": -16026,
+       "injury": "NORMAL",
+       "name": "Seahawks D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "SEA"
+      },
+      {
+       "espn_id": 4429059,
+       "injury": "QUESTIONABLE",
+       "name": "Woody Marks",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4832800,
+       "injury": "QUESTIONABLE",
+       "name": "Denzel Boston",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "CLE"
+      },
+      {
+       "espn_id": 15818,
+       "injury": "ACTIVE",
+       "name": "Keenan Allen",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "SF"
+      },
+      {
+       "espn_id": 2973405,
+       "injury": "ACTIVE",
+       "name": "Kalif Raymond",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 12483,
+       "injury": "ACTIVE",
+       "name": "Matthew Stafford",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "LA"
+      },
+      {
+       "espn_id": 4249087,
+       "injury": "ACTIVE",
+       "name": "Matt Gay",
+       "pos": "K",
+       "slot": "K",
+       "team": "LV"
+      },
+      {
+       "espn_id": 3116165,
+       "injury": "ACTIVE",
+       "name": "Chris Godwin Jr.",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "TB"
+      }
+     ],
+     "ties": 0,
+     "wins": 2
+    },
+    {
+     "abbrev": "NUBs",
+     "id": 14,
+     "losses": 4,
+     "name": "Tampa Crushers",
+     "points_against": 1139.8000000000002,
+     "points_for": 1225.9799999999998,
+     "roster": [
+      {
+       "espn_id": 4241389,
+       "injury": "ACTIVE",
+       "name": "CeeDee Lamb",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 4426354,
+       "injury": "QUESTIONABLE",
+       "name": "George Pickens",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 4427366,
+       "injury": "ACTIVE",
+       "name": "Breece Hall",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "NYJ"
+      },
+      {
+       "espn_id": 4596448,
+       "injury": "ACTIVE",
+       "name": "Bucky Irving",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "TB"
+      },
+      {
+       "espn_id": 4431452,
+       "injury": "ACTIVE",
+       "name": "Drake Maye",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "NE"
+      },
+      {
+       "espn_id": 3040151,
+       "injury": "ACTIVE",
+       "name": "George Kittle",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4035687,
+       "injury": "INJURY_RESERVE",
+       "name": "Michael Pittman Jr.",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 3953687,
+       "injury": "ACTIVE",
+       "name": "Brandon Aubrey",
+       "pos": "K",
+       "slot": "K",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 3121023,
+       "injury": "ACTIVE",
+       "name": "Dallas Goedert",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "PHI"
+      },
+      {
+       "espn_id": 4373678,
+       "injury": "ACTIVE",
+       "name": "Khalil Shakir",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "BUF"
+      },
+      {
+       "espn_id": 4695883,
+       "injury": "ACTIVE",
+       "name": "Jalen Coker",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "CAR"
+      },
+      {
+       "espn_id": 3046779,
+       "injury": "ACTIVE",
+       "name": "Jared Goff",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4685247,
+       "injury": "ACTIVE",
+       "name": "Braelon Allen",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "NYJ"
+      },
+      {
+       "espn_id": 3054850,
+       "injury": "ACTIVE",
+       "name": "Alvin Kamara",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "NO"
+      },
+      {
+       "espn_id": 4361432,
+       "injury": "INJURY_RESERVE",
+       "name": "Romeo Doubs",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "NE"
+      },
+      {
+       "espn_id": 4427095,
+       "injury": "ACTIVE",
+       "name": "DeMario Douglas",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "NE"
+      },
+      {
+       "espn_id": 4373626,
+       "injury": "ACTIVE",
+       "name": "Tyler Allgeier",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "ARI"
+      },
+      {
+       "espn_id": -16002,
+       "injury": "NORMAL",
+       "name": "Bills D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "BUF"
+      }
+     ],
+     "ties": 0,
+     "wins": 5
+    }
+   ]
+  },
+  {
+   "current_week": 10,
+   "id": "971893052",
+   "lineup": {
+    "BN": 7,
+    "DST": 1,
+    "FLEX": 2,
+    "IR": 1,
+    "K": 1,
+    "QB": 1,
+    "RB": 2,
+    "TE": 1,
+    "WR": 2
+   },
+   "my_team_name": "Parker Washington",
+   "name": "26 Fantasy",
+   "playoff_teams": 6,
+   "ppr": 1.0,
+   "regular_season_weeks": 14,
+   "schedule": [
+    {
+     "away": 2,
+     "away_pts": 113.66,
+     "home": 4,
+     "home_pts": 156.06,
+     "week": 1,
+     "winner": "HOME"
+    },
+    {
+     "away": 10,
+     "away_pts": 96.72,
+     "home": 5,
+     "home_pts": 122.44,
+     "week": 1,
+     "winner": "HOME"
+    },
+    {
+     "away": 6,
+     "away_pts": 150.3,
+     "home": 3,
+     "home_pts": 140.06,
+     "week": 1,
+     "winner": "AWAY"
+    },
+    {
+     "away": 8,
+     "away_pts": 91.1,
+     "home": 9,
+     "home_pts": 111.32,
+     "week": 1,
+     "winner": "HOME"
+    },
+    {
+     "away": 7,
+     "away_pts": 171.3,
+     "home": 1,
+     "home_pts": 131.76,
+     "week": 1,
+     "winner": "AWAY"
+    },
+    {
+     "away": 10,
+     "away_pts": 138.72,
+     "home": 2,
+     "home_pts": 136.64,
+     "week": 2,
+     "winner": "AWAY"
+    },
+    {
+     "away": 4,
+     "away_pts": 71.0,
+     "home": 6,
+     "home_pts": 128.18,
+     "week": 2,
+     "winner": "HOME"
+    },
+    {
+     "away": 5,
+     "away_pts": 110.92,
+     "home": 8,
+     "home_pts": 122.88,
+     "week": 2,
+     "winner": "HOME"
+    },
+    {
+     "away": 3,
+     "away_pts": 171.52,
+     "home": 7,
+     "home_pts": 120.16,
+     "week": 2,
+     "winner": "AWAY"
+    },
+    {
+     "away": 9,
+     "away_pts": 101.1,
+     "home": 1,
+     "home_pts": 88.48,
+     "week": 2,
+     "winner": "AWAY"
+    },
+    {
+     "away": 2,
+     "away_pts": 162.78,
+     "home": 6,
+     "home_pts": 143.88,
+     "week": 3,
+     "winner": "AWAY"
+    },
+    {
+     "away": 8,
+     "away_pts": 143.66,
+     "home": 10,
+     "home_pts": 152.54,
+     "week": 3,
+     "winner": "HOME"
+    },
+    {
+     "away": 7,
+     "away_pts": 146.34,
+     "home": 4,
+     "home_pts": 147.64,
+     "week": 3,
+     "winner": "HOME"
+    },
+    {
+     "away": 1,
+     "away_pts": 124.38,
+     "home": 5,
+     "home_pts": 104.96,
+     "week": 3,
+     "winner": "AWAY"
+    },
+    {
+     "away": 9,
+     "away_pts": 75.7,
+     "home": 3,
+     "home_pts": 143.86,
+     "week": 3,
+     "winner": "HOME"
+    },
+    {
+     "away": 8,
+     "away_pts": 137.64,
+     "home": 2,
+     "home_pts": 146.88,
+     "week": 4,
+     "winner": "HOME"
+    },
+    {
+     "away": 6,
+     "away_pts": 135.42,
+     "home": 7,
+     "home_pts": 148.18,
+     "week": 4,
+     "winner": "HOME"
+    },
+    {
+     "away": 10,
+     "away_pts": 163.3,
+     "home": 1,
+     "home_pts": 112.42,
+     "week": 4,
+     "winner": "AWAY"
+    },
+    {
+     "away": 4,
+     "away_pts": 127.68,
+     "home": 9,
+     "home_pts": 119.5,
+     "week": 4,
+     "winner": "AWAY"
+    },
+    {
+     "away": 5,
+     "away_pts": 107.82,
+     "home": 3,
+     "home_pts": 166.42,
+     "week": 4,
+     "winner": "HOME"
+    },
+    {
+     "away": 2,
+     "away_pts": 188.66,
+     "home": 7,
+     "home_pts": 151.18,
+     "week": 5,
+     "winner": "AWAY"
+    },
+    {
+     "away": 1,
+     "away_pts": 165.2,
+     "home": 8,
+     "home_pts": 110.64,
+     "week": 5,
+     "winner": "AWAY"
+    },
+    {
+     "away": 9,
+     "away_pts": 88.94,
+     "home": 6,
+     "home_pts": 150.56,
+     "week": 5,
+     "winner": "HOME"
+    },
+    {
+     "away": 3,
+     "away_pts": 153.2,
+     "home": 10,
+     "home_pts": 172.04,
+     "week": 5,
+     "winner": "HOME"
+    },
+    {
+     "away": 5,
+     "away_pts": 148.2,
+     "home": 4,
+     "home_pts": 123.84,
+     "week": 5,
+     "winner": "AWAY"
+    },
+    {
+     "away": 1,
+     "away_pts": 65.82,
+     "home": 2,
+     "home_pts": 112.4,
+     "week": 6,
+     "winner": "HOME"
+    },
+    {
+     "away": 7,
+     "away_pts": 151.24,
+     "home": 9,
+     "home_pts": 69.22,
+     "week": 6,
+     "winner": "AWAY"
+    },
+    {
+     "away": 8,
+     "away_pts": 142.78,
+     "home": 3,
+     "home_pts": 127.2,
+     "week": 6,
+     "winner": "AWAY"
+    },
+    {
+     "away": 6,
+     "away_pts": 121.36,
+     "home": 5,
+     "home_pts": 138.6,
+     "week": 6,
+     "winner": "HOME"
+    },
+    {
+     "away": 10,
+     "away_pts": 176.8,
+     "home": 4,
+     "home_pts": 84.88,
+     "week": 6,
+     "winner": "AWAY"
+    },
+    {
+     "away": 2,
+     "away_pts": 108.96,
+     "home": 9,
+     "home_pts": 107.88,
+     "week": 7,
+     "winner": "AWAY"
+    },
+    {
+     "away": 3,
+     "away_pts": 128.18,
+     "home": 1,
+     "home_pts": 132.78,
+     "week": 7,
+     "winner": "HOME"
+    },
+    {
+     "away": 5,
+     "away_pts": 121.42,
+     "home": 7,
+     "home_pts": 158.02,
+     "week": 7,
+     "winner": "HOME"
+    },
+    {
+     "away": 4,
+     "away_pts": 80.72,
+     "home": 8,
+     "home_pts": 182.2,
+     "week": 7,
+     "winner": "HOME"
+    },
+    {
+     "away": 10,
+     "away_pts": 134.24,
+     "home": 6,
+     "home_pts": 114.32,
+     "week": 7,
+     "winner": "AWAY"
+    },
+    {
+     "away": 3,
+     "away_pts": 114.16,
+     "home": 2,
+     "home_pts": 77.48,
+     "week": 8,
+     "winner": "AWAY"
+    },
+    {
+     "away": 9,
+     "away_pts": 126.9,
+     "home": 5,
+     "home_pts": 132.76,
+     "week": 8,
+     "winner": "HOME"
+    },
+    {
+     "away": 1,
+     "away_pts": 151.28,
+     "home": 4,
+     "home_pts": 73.5,
+     "week": 8,
+     "winner": "AWAY"
+    },
+    {
+     "away": 7,
+     "away_pts": 160.6,
+     "home": 10,
+     "home_pts": 194.06,
+     "week": 8,
+     "winner": "HOME"
+    },
+    {
+     "away": 8,
+     "away_pts": 132.48,
+     "home": 6,
+     "home_pts": 108.76,
+     "week": 8,
+     "winner": "AWAY"
+    },
+    {
+     "away": 2,
+     "away_pts": 99.66,
+     "home": 5,
+     "home_pts": 123.86,
+     "week": 9,
+     "winner": "HOME"
+    },
+    {
+     "away": 4,
+     "away_pts": 99.5,
+     "home": 3,
+     "home_pts": 117.26,
+     "week": 9,
+     "winner": "HOME"
+    },
+    {
+     "away": 10,
+     "away_pts": 138.36,
+     "home": 9,
+     "home_pts": 91.7,
+     "week": 9,
+     "winner": "AWAY"
+    },
+    {
+     "away": 6,
+     "away_pts": 131.28,
+     "home": 1,
+     "home_pts": 148.42,
+     "week": 9,
+     "winner": "HOME"
+    },
+    {
+     "away": 8,
+     "away_pts": 140.72,
+     "home": 7,
+     "home_pts": 178.78,
+     "week": 9,
+     "winner": "HOME"
+    },
+    {
+     "away": 4,
+     "away_pts": 0.0,
+     "home": 2,
+     "home_pts": 0.0,
+     "week": 10,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 5,
+     "away_pts": 0.0,
+     "home": 10,
+     "home_pts": 0.0,
+     "week": 10,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 3,
+     "away_pts": 0.0,
+     "home": 6,
+     "home_pts": 0.0,
+     "week": 10,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 9,
+     "away_pts": 0.0,
+     "home": 8,
+     "home_pts": 0.0,
+     "week": 10,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 1,
+     "away_pts": 0.0,
+     "home": 7,
+     "home_pts": 0.0,
+     "week": 10,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 2,
+     "away_pts": 0.0,
+     "home": 10,
+     "home_pts": 0.0,
+     "week": 11,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 6,
+     "away_pts": 0.0,
+     "home": 4,
+     "home_pts": 0.0,
+     "week": 11,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 8,
+     "away_pts": 0.0,
+     "home": 5,
+     "home_pts": 0.0,
+     "week": 11,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 7,
+     "away_pts": 0.0,
+     "home": 3,
+     "home_pts": 0.0,
+     "week": 11,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 1,
+     "away_pts": 0.0,
+     "home": 9,
+     "home_pts": 0.0,
+     "week": 11,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 6,
+     "away_pts": 0.0,
+     "home": 2,
+     "home_pts": 0.0,
+     "week": 12,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 10,
+     "away_pts": 0.0,
+     "home": 8,
+     "home_pts": 0.0,
+     "week": 12,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 4,
+     "away_pts": 0.0,
+     "home": 7,
+     "home_pts": 0.0,
+     "week": 12,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 5,
+     "away_pts": 0.0,
+     "home": 1,
+     "home_pts": 0.0,
+     "week": 12,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 3,
+     "away_pts": 0.0,
+     "home": 9,
+     "home_pts": 0.0,
+     "week": 12,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 2,
+     "away_pts": 0.0,
+     "home": 8,
+     "home_pts": 0.0,
+     "week": 13,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 7,
+     "away_pts": 0.0,
+     "home": 6,
+     "home_pts": 0.0,
+     "week": 13,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 1,
+     "away_pts": 0.0,
+     "home": 10,
+     "home_pts": 0.0,
+     "week": 13,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 9,
+     "away_pts": 0.0,
+     "home": 4,
+     "home_pts": 0.0,
+     "week": 13,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 3,
+     "away_pts": 0.0,
+     "home": 5,
+     "home_pts": 0.0,
+     "week": 13,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 7,
+     "away_pts": 0.0,
+     "home": 2,
+     "home_pts": 0.0,
+     "week": 14,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 8,
+     "away_pts": 0.0,
+     "home": 1,
+     "home_pts": 0.0,
+     "week": 14,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 6,
+     "away_pts": 0.0,
+     "home": 9,
+     "home_pts": 0.0,
+     "week": 14,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 10,
+     "away_pts": 0.0,
+     "home": 3,
+     "home_pts": 0.0,
+     "week": 14,
+     "winner": "UNDECIDED"
+    },
+    {
+     "away": 4,
+     "away_pts": 0.0,
+     "home": 5,
+     "home_pts": 0.0,
+     "week": 14,
+     "winner": "UNDECIDED"
+    }
+   ],
+   "scoring": [
+    {
+     "points": -2.0,
+     "stat": 20
+    },
+    {
+     "points": -2.0,
+     "stat": 72
+    },
+    {
+     "points": -1.0,
+     "stat": 85
+    },
+    {
+     "points": 0.0,
+     "stat": 89
+    },
+    {
+     "points": 0.0,
+     "stat": 90
+    },
+    {
+     "points": 0.0,
+     "stat": 91
+    },
+    {
+     "points": 0.0,
+     "stat": 92
+    },
+    {
+     "points": 0.0,
+     "stat": 95
+    },
+    {
+     "points": 0.0,
+     "stat": 96
+    },
+    {
+     "points": 0.0,
+     "stat": 97
+    },
+    {
+     "points": 0.0,
+     "stat": 98
+    },
+    {
+     "points": 0.0,
+     "stat": 99
+    },
+    {
+     "points": 0.0,
+     "stat": 123
+    },
+    {
+     "points": 0.0,
+     "stat": 124
+    },
+    {
+     "points": 0.0,
+     "stat": 125
+    },
+    {
+     "points": 0.0,
+     "stat": 128
+    },
+    {
+     "points": 0.0,
+     "stat": 129
+    },
+    {
+     "points": 0.0,
+     "stat": 130
+    },
+    {
+     "points": 0.0,
+     "stat": 132
+    },
+    {
+     "points": 0.0,
+     "stat": 133
+    },
+    {
+     "points": 0.0,
+     "stat": 134
+    },
+    {
+     "points": 0.0,
+     "stat": 135
+    },
+    {
+     "points": 0.0,
+     "stat": 136
+    },
+    {
+     "points": 0.04,
+     "stat": 3
+    },
+    {
+     "points": 0.1,
+     "stat": 24
+    },
+    {
+     "points": 0.1,
+     "stat": 42
+    },
+    {
+     "points": 1.0,
+     "stat": 53
+    },
+    {
+     "points": 1.0,
+     "stat": 86
+    },
+    {
+     "points": 1.0,
+     "stat": 209
+    },
+    {
+     "points": 2.0,
+     "stat": 19
+    },
+    {
+     "points": 2.0,
+     "stat": 26
+    },
+    {
+     "points": 2.0,
+     "stat": 44
+    },
+    {
+     "points": 2.0,
+     "stat": 206
+    },
+    {
+     "points": 3.0,
+     "stat": 80
+    },
+    {
+     "points": 4.0,
+     "stat": 4
+    },
+    {
+     "points": 4.0,
+     "stat": 77
+    },
+    {
+     "points": 5.0,
+     "stat": 198
+    },
+    {
+     "points": 6.0,
+     "stat": 25
+    },
+    {
+     "points": 6.0,
+     "stat": 43
+    },
+    {
+     "points": 6.0,
+     "stat": 63
+    },
+    {
+     "points": 6.0,
+     "stat": 93
+    },
+    {
+     "points": 6.0,
+     "stat": 101
+    },
+    {
+     "points": 6.0,
+     "stat": 102
+    },
+    {
+     "points": 6.0,
+     "stat": 103
+    },
+    {
+     "points": 6.0,
+     "stat": 104
+    },
+    {
+     "points": 6.0,
+     "stat": 201
+    }
+   ],
+   "teams": [
+    {
+     "abbrev": "CCT",
+     "id": 1,
+     "losses": 4,
+     "name": "Burrow it in er",
+     "points_against": 1096.6599999999999,
+     "points_for": 1120.54,
+     "roster": [
+      {
+       "espn_id": 4426515,
+       "injury": "INJURY_RESERVE",
+       "name": "Puka Nacua",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "LA"
+      },
+      {
+       "espn_id": 3043078,
+       "injury": "ACTIVE",
+       "name": "Derrick Henry",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "BAL"
+      },
+      {
+       "espn_id": 4428331,
+       "injury": "ACTIVE",
+       "name": "Rashee Rice",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4696981,
+       "injury": "ACTIVE",
+       "name": "Cam Skattebo",
+       "pos": "RB",
+       "slot": "FLEX",
+       "team": "NYG"
+      },
+      {
+       "espn_id": 3915511,
+       "injury": "ACTIVE",
+       "name": "Joe Burrow",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 2473037,
+       "injury": "ACTIVE",
+       "name": "Jason Myers",
+       "pos": "K",
+       "slot": "K",
+       "team": "SEA"
+      },
+      {
+       "espn_id": 4429096,
+       "injury": "ACTIVE",
+       "name": "Blake Corum",
+       "pos": "RB",
+       "slot": "FLEX",
+       "team": "LA"
+      },
+      {
+       "espn_id": 3121023,
+       "injury": "ACTIVE",
+       "name": "Dallas Goedert",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "PHI"
+      },
+      {
+       "espn_id": 4832800,
+       "injury": "QUESTIONABLE",
+       "name": "Denzel Boston",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "CLE"
+      },
+      {
+       "espn_id": 4373678,
+       "injury": "ACTIVE",
+       "name": "Khalil Shakir",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "BUF"
+      },
+      {
+       "espn_id": 4361579,
+       "injury": "ACTIVE",
+       "name": "Javonte Williams",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 4047646,
+       "injury": "QUESTIONABLE",
+       "name": "A.J. Brown",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "NE"
+      },
+      {
+       "espn_id": 4035538,
+       "injury": "QUESTIONABLE",
+       "name": "David Montgomery",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "HOU"
+      },
+      {
+       "espn_id": -16004,
+       "injury": "NORMAL",
+       "name": "Bengals D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 3116164,
+       "injury": "ACTIVE",
+       "name": "Mike Gesicki",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 4723086,
+       "injury": "ACTIVE",
+       "name": "Colston Loveland",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4360438,
+       "injury": "OUT",
+       "name": "Brandon Aiyuk",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4569682,
+       "injury": "ACTIVE",
+       "name": "Audric Estime",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "NO"
+      }
+     ],
+     "ties": 0,
+     "wins": 5
+    },
+    {
+     "abbrev": "JST",
+     "id": 2,
+     "losses": 4,
+     "name": "Amon Drugs",
+     "points_against": 1139.1999999999998,
+     "points_for": 1147.1200000000001,
+     "roster": [
+      {
+       "espn_id": 4374302,
+       "injury": "QUESTIONABLE",
+       "name": "Amon-Ra St. Brown",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4426502,
+       "injury": "ACTIVE",
+       "name": "Drake London",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "ATL"
+      },
+      {
+       "espn_id": 4430737,
+       "injury": "ACTIVE",
+       "name": "Kyren Williams",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "LA"
+      },
+      {
+       "espn_id": 4427366,
+       "injury": "ACTIVE",
+       "name": "Breece Hall",
+       "pos": "RB",
+       "slot": "FLEX",
+       "team": "NYJ"
+      },
+      {
+       "espn_id": 4426348,
+       "injury": "ACTIVE",
+       "name": "Jayden Daniels",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "WAS"
+      },
+      {
+       "espn_id": 4047650,
+       "injury": "ACTIVE",
+       "name": "DK Metcalf",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 4430027,
+       "injury": "ACTIVE",
+       "name": "Sam LaPorta",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4569987,
+       "injury": "ACTIVE",
+       "name": "Jaylen Warren",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 4429205,
+       "injury": "ACTIVE",
+       "name": "Jordan Addison",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 4429025,
+       "injury": "ACTIVE",
+       "name": "Quentin Johnston",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "LAC"
+      },
+      {
+       "espn_id": 4575131,
+       "injury": "INJURY_RESERVE",
+       "name": "Jacory Croskey-Merritt",
+       "pos": "RB",
+       "slot": "IR",
+       "team": "WAS"
+      },
+      {
+       "espn_id": -16034,
+       "injury": "NORMAL",
+       "name": "Texans D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 3046439,
+       "injury": "QUESTIONABLE",
+       "name": "Hunter Henry",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "NE"
+      },
+      {
+       "espn_id": 3054850,
+       "injury": "ACTIVE",
+       "name": "Alvin Kamara",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "NO"
+      },
+      {
+       "espn_id": 4036378,
+       "injury": "ACTIVE",
+       "name": "Jordan Love",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "GB"
+      },
+      {
+       "espn_id": 3116165,
+       "injury": "ACTIVE",
+       "name": "Chris Godwin Jr.",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "TB"
+      },
+      {
+       "espn_id": 3055899,
+       "injury": "ACTIVE",
+       "name": "Harrison Butker",
+       "pos": "K",
+       "slot": "K",
+       "team": "KC"
+      }
+     ],
+     "ties": 0,
+     "wins": 5
+    },
+    {
+     "abbrev": "GMH",
+     "id": 3,
+     "losses": 4,
+     "name": "JT save me ",
+     "points_against": 1078.56,
+     "points_for": 1261.8600000000001,
+     "roster": [
+      {
+       "espn_id": 4361307,
+       "injury": "ACTIVE",
+       "name": "Trey McBride",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "ARI"
+      },
+      {
+       "espn_id": 3918298,
+       "injury": "ACTIVE",
+       "name": "Josh Allen",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "BUF"
+      },
+      {
+       "espn_id": 4685472,
+       "injury": "ACTIVE",
+       "name": "Tetairoa McMillan",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "CAR"
+      },
+      {
+       "espn_id": 16800,
+       "injury": "INJURY_RESERVE",
+       "name": "Davante Adams",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "LA"
+      },
+      {
+       "espn_id": 4871023,
+       "injury": "QUESTIONABLE",
+       "name": "Carnell Tate",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "TEN"
+      },
+      {
+       "espn_id": 4241985,
+       "injury": "ACTIVE",
+       "name": "J.K. Dobbins",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "DEN"
+      },
+      {
+       "espn_id": -16026,
+       "injury": "NORMAL",
+       "name": "Seahawks D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "SEA"
+      },
+      {
+       "espn_id": 4366031,
+       "injury": "ACTIVE",
+       "name": "Tank Dell",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 15818,
+       "injury": "ACTIVE",
+       "name": "Keenan Allen",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4635008,
+       "injury": "ACTIVE",
+       "name": "Keon Coleman",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "BUF"
+      },
+      {
+       "espn_id": 4248528,
+       "injury": "ACTIVE",
+       "name": "Christian Watson",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "GB"
+      },
+      {
+       "espn_id": 4242335,
+       "injury": "ACTIVE",
+       "name": "Jonathan Taylor",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "IND"
+      },
+      {
+       "espn_id": 4711533,
+       "injury": "ACTIVE",
+       "name": "Ollie Gordon II",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "MIA"
+      },
+      {
+       "espn_id": 4249087,
+       "injury": "ACTIVE",
+       "name": "Matt Gay",
+       "pos": "K",
+       "slot": "K",
+       "team": "LV"
+      },
+      {
+       "espn_id": 8439,
+       "injury": "ACTIVE",
+       "name": "Aaron Rodgers",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 4586312,
+       "injury": "INJURY_RESERVE",
+       "name": "Jaylin Noel",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4567156,
+       "injury": "ACTIVE",
+       "name": "Treylon Burks",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "WAS"
+      },
+      {
+       "espn_id": 4040761,
+       "injury": "ACTIVE",
+       "name": "Devin Singletary",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "NYG"
+      }
+     ],
+     "ties": 0,
+     "wins": 5
+    },
+    {
+     "abbrev": "MMT",
+     "id": 4,
+     "losses": 6,
+     "name": "Max's Monstrous Team",
+     "points_against": 1283.42,
+     "points_for": 964.82,
+     "roster": [
+      {
+       "espn_id": 4430807,
+       "injury": "ACTIVE",
+       "name": "Bijan Robinson",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "ATL"
+      },
+      {
+       "espn_id": 4870808,
+       "injury": "INJURY_RESERVE",
+       "name": "Jeremiyah Love",
+       "pos": "RB",
+       "slot": "IR",
+       "team": "ARI"
+      },
+      {
+       "espn_id": 4258173,
+       "injury": "ACTIVE",
+       "name": "Nico Collins",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4567750,
+       "injury": "ACTIVE",
+       "name": "Emeka Egbuka",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "TB"
+      },
+      {
+       "espn_id": 3916387,
+       "injury": "INJURY_RESERVE",
+       "name": "Lamar Jackson",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "BAL"
+      },
+      {
+       "espn_id": 3915416,
+       "injury": "ACTIVE",
+       "name": "DJ Moore",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "BUF"
+      },
+      {
+       "espn_id": 4432708,
+       "injury": "QUESTIONABLE",
+       "name": "Marvin Harrison Jr.",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4360248,
+       "injury": "ACTIVE",
+       "name": "Kyle Pitts Sr.",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "ATL"
+      },
+      {
+       "espn_id": 3042519,
+       "injury": "ACTIVE",
+       "name": "Aaron Jones Sr.",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 4385690,
+       "injury": "QUESTIONABLE",
+       "name": "Dalton Kincaid",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "BUF"
+      },
+      {
+       "espn_id": -16023,
+       "injury": "NORMAL",
+       "name": "Steelers D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 3046779,
+       "injury": "ACTIVE",
+       "name": "Jared Goff",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4569603,
+       "injury": "ACTIVE",
+       "name": "Malik Washington",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "MIA"
+      },
+      {
+       "espn_id": -16003,
+       "injury": "NORMAL",
+       "name": "Bears D/ST",
+       "pos": "DST",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4571557,
+       "injury": "ACTIVE",
+       "name": "Spencer Shrader",
+       "pos": "K",
+       "slot": "K",
+       "team": "IND"
+      },
+      {
+       "espn_id": 4597500,
+       "injury": "ACTIVE",
+       "name": "Adonai Mitchell",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "NYJ"
+      },
+      {
+       "espn_id": 4696044,
+       "injury": "ACTIVE",
+       "name": "Kaelon Black",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "SF"
+      }
+     ],
+     "ties": 0,
+     "wins": 3
+    },
+    {
+     "abbrev": "LLT",
+     "id": 5,
+     "losses": 4,
+     "name": "Likely Picken cotton for Jacobs",
+     "points_against": 1140.18,
+     "points_for": 1110.9799999999998,
+     "roster": [
+      {
+       "espn_id": 4361370,
+       "injury": "ACTIVE",
+       "name": "Chris Olave",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "NO"
+      },
+      {
+       "espn_id": 4426354,
+       "injury": "QUESTIONABLE",
+       "name": "George Pickens",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 4596448,
+       "injury": "ACTIVE",
+       "name": "Bucky Irving",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "TB"
+      },
+      {
+       "espn_id": 4685512,
+       "injury": "ACTIVE",
+       "name": "Jadarian Price",
+       "pos": "RB",
+       "slot": "FLEX",
+       "team": "SEA"
+      },
+      {
+       "espn_id": 4047365,
+       "injury": "OUT",
+       "name": "Josh Jacobs",
+       "pos": "RB",
+       "slot": "IR",
+       "team": "GB"
+      },
+      {
+       "espn_id": -16014,
+       "injury": "NORMAL",
+       "name": "Rams D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "LA"
+      },
+      {
+       "espn_id": 15847,
+       "injury": "ACTIVE",
+       "name": "Travis Kelce",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4695883,
+       "injury": "ACTIVE",
+       "name": "Jalen Coker",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "CAR"
+      },
+      {
+       "espn_id": 4882093,
+       "injury": "QUESTIONABLE",
+       "name": "Bhayshul Tuten",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 4361050,
+       "injury": "ACTIVE",
+       "name": "Isaiah Likely",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "NYG"
+      },
+      {
+       "espn_id": 4362238,
+       "injury": "ACTIVE",
+       "name": "Chase Brown",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 4429059,
+       "injury": "QUESTIONABLE",
+       "name": "Woody Marks",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "HOU"
+      },
+      {
+       "espn_id": 4567104,
+       "injury": "ACTIVE",
+       "name": "Will Reichard",
+       "pos": "K",
+       "slot": "K",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 4431611,
+       "injury": "ACTIVE",
+       "name": "Caleb Williams",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4038815,
+       "injury": "ACTIVE",
+       "name": "Rico Dowdle",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 3126486,
+       "injury": "QUESTIONABLE",
+       "name": "Deebo Samuel Sr.",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4433970,
+       "injury": "ACTIVE",
+       "name": "J.J. McCarthy",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "NYG"
+      },
+      {
+       "espn_id": 4360689,
+       "injury": "ACTIVE",
+       "name": "Tyler Shough",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "NO"
+      }
+     ],
+     "ties": 0,
+     "wins": 5
+    },
+    {
+     "abbrev": "KP",
+     "id": 6,
+     "losses": 6,
+     "name": "Kade's Team",
+     "points_against": 1164.7,
+     "points_for": 1184.06,
+     "roster": [
+      {
+       "espn_id": 4379399,
+       "injury": "ACTIVE",
+       "name": "James Cook III",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "BUF"
+      },
+      {
+       "espn_id": 4429615,
+       "injury": "ACTIVE",
+       "name": "Zay Flowers",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "BAL"
+      },
+      {
+       "espn_id": 3040151,
+       "injury": "ACTIVE",
+       "name": "George Kittle",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4608686,
+       "injury": "OUT",
+       "name": "Kyle Monangai",
+       "pos": "RB",
+       "slot": "IR",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4361741,
+       "injury": "ACTIVE",
+       "name": "Brock Purdy",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4426385,
+       "injury": "ACTIVE",
+       "name": "Zach Charbonnet",
+       "pos": "RB",
+       "slot": "FLEX",
+       "team": "SEA"
+      },
+      {
+       "espn_id": 4262921,
+       "injury": "ACTIVE",
+       "name": "Justin Jefferson",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 4880281,
+       "injury": "ACTIVE",
+       "name": "Jordyn Tyson",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "NO"
+      },
+      {
+       "espn_id": 4429795,
+       "injury": "ACTIVE",
+       "name": "Jahmyr Gibbs",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4427095,
+       "injury": "ACTIVE",
+       "name": "DeMario Douglas",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "NE"
+      },
+      {
+       "espn_id": 5081432,
+       "injury": "ACTIVE",
+       "name": "Antonio Williams",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "WAS"
+      },
+      {
+       "espn_id": 4036133,
+       "injury": "QUESTIONABLE",
+       "name": "T.J. Hockenson",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 4723820,
+       "injury": "QUESTIONABLE",
+       "name": "Omar Cooper Jr.",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "NYJ"
+      },
+      {
+       "espn_id": 4360635,
+       "injury": "QUESTIONABLE",
+       "name": "Chig Okonkwo",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "WAS"
+      },
+      {
+       "espn_id": 4686361,
+       "injury": "ACTIVE",
+       "name": "Cam Little",
+       "pos": "K",
+       "slot": "K",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 4432577,
+       "injury": "ACTIVE",
+       "name": "C.J. Stroud",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "HOU"
+      },
+      {
+       "espn_id": -16033,
+       "injury": "NORMAL",
+       "name": "Ravens D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "BAL"
+      },
+      {
+       "espn_id": 4710855,
+       "injury": "ACTIVE",
+       "name": "Konata Mumpfield",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "LA"
+      }
+     ],
+     "ties": 0,
+     "wins": 3
+    },
+    {
+     "abbrev": "PW",
+     "id": 7,
+     "losses": 4,
+     "name": "Parker Washington",
+     "points_against": 1300.4199999999998,
+     "points_for": 1385.8,
+     "roster": [
+      {
+       "espn_id": 4362628,
+       "injury": "ACTIVE",
+       "name": "Ja'Marr Chase",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 4890973,
+       "injury": "ACTIVE",
+       "name": "Ashton Jeanty",
+       "pos": "RB",
+       "slot": "FLEX",
+       "team": "LV"
+      },
+      {
+       "espn_id": 4567048,
+       "injury": "ACTIVE",
+       "name": "Kenneth Walker III",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4239993,
+       "injury": "ACTIVE",
+       "name": "Tee Higgins",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 4612826,
+       "injury": "QUESTIONABLE",
+       "name": "Ladd McConkey",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "LAC"
+      },
+      {
+       "espn_id": 4685278,
+       "injury": "QUESTIONABLE",
+       "name": "Luther Burden III",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4432620,
+       "injury": "ACTIVE",
+       "name": "Parker Washington",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 4569173,
+       "injury": "QUESTIONABLE",
+       "name": "Rhamondre Stevenson",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "NE"
+      },
+      {
+       "espn_id": 4572680,
+       "injury": "ACTIVE",
+       "name": "Tucker Kraft",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "GB"
+      },
+      {
+       "espn_id": 4360310,
+       "injury": "ACTIVE",
+       "name": "Trevor Lawrence",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 4870653,
+       "injury": "ACTIVE",
+       "name": "KC Concepcion",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "CLE"
+      },
+      {
+       "espn_id": 2971573,
+       "injury": "ACTIVE",
+       "name": "Ka'imi Fairbairn",
+       "pos": "K",
+       "slot": "K",
+       "team": "HOU"
+      },
+      {
+       "espn_id": -16016,
+       "injury": "NORMAL",
+       "name": "Vikings D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 4685261,
+       "injury": "ACTIVE",
+       "name": "Germie Bernard",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 4702555,
+       "injury": "ACTIVE",
+       "name": "Jonah Coleman",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "DEN"
+      },
+      {
+       "espn_id": 4373626,
+       "injury": "ACTIVE",
+       "name": "Tyler Allgeier",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "ARI"
+      },
+      {
+       "espn_id": 4431431,
+       "injury": "ACTIVE",
+       "name": "Corey Kiner",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "NE"
+      }
+     ],
+     "ties": 0,
+     "wins": 5
+    },
+    {
+     "abbrev": "Ass",
+     "id": 8,
+     "losses": 5,
+     "name": "We ass ",
+     "points_against": 1182.32,
+     "points_for": 1204.1,
+     "roster": [
+      {
+       "espn_id": 4430878,
+       "injury": "ACTIVE",
+       "name": "Jaxon Smith-Njigba",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "SEA"
+      },
+      {
+       "espn_id": 3929630,
+       "injury": "ACTIVE",
+       "name": "Saquon Barkley",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "PHI"
+      },
+      {
+       "espn_id": 4431459,
+       "injury": "ACTIVE",
+       "name": "Tyler Warren",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "IND"
+      },
+      {
+       "espn_id": 4426388,
+       "injury": "ACTIVE",
+       "name": "Jameson Williams",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4701936,
+       "injury": "ACTIVE",
+       "name": "Matthew Golden",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "GB"
+      },
+      {
+       "espn_id": 12483,
+       "injury": "ACTIVE",
+       "name": "Matthew Stafford",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "LA"
+      },
+      {
+       "espn_id": 4428718,
+       "injury": "ACTIVE",
+       "name": "Tre Tucker",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "LV"
+      },
+      {
+       "espn_id": 3916433,
+       "injury": "QUESTIONABLE",
+       "name": "Jakobi Meyers",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 3128429,
+       "injury": "ACTIVE",
+       "name": "Courtland Sutton",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "DEN"
+      },
+      {
+       "espn_id": 4241389,
+       "injury": "ACTIVE",
+       "name": "CeeDee Lamb",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 4430539,
+       "injury": "ACTIVE",
+       "name": "Brenton Strange",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 3916148,
+       "injury": "QUESTIONABLE",
+       "name": "Tony Pollard",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "TEN"
+      },
+      {
+       "espn_id": 4697815,
+       "injury": "ACTIVE",
+       "name": "Rachaad White",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "WAS"
+      },
+      {
+       "espn_id": 4430802,
+       "injury": "ACTIVE",
+       "name": "Darnell Washington",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "PIT"
+      },
+      {
+       "espn_id": 4426338,
+       "injury": "ACTIVE",
+       "name": "Bo Nix",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "DEN"
+      },
+      {
+       "espn_id": -16006,
+       "injury": "NORMAL",
+       "name": "Cowboys D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 4689936,
+       "injury": "ACTIVE",
+       "name": "Jake Bates",
+       "pos": "K",
+       "slot": "K",
+       "team": "DET"
+      }
+     ],
+     "ties": 0,
+     "wins": 4
+    },
+    {
+     "abbrev": "TTT",
+     "id": 9,
+     "losses": 7,
+     "name": "Tommy's Talented Team",
+     "points_against": 1133.0,
+     "points_for": 892.26,
+     "roster": [
+      {
+       "espn_id": 4685382,
+       "injury": "ACTIVE",
+       "name": "Omarion Hampton",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "LAC"
+      },
+      {
+       "espn_id": 16737,
+       "injury": "QUESTIONABLE",
+       "name": "Mike Evans",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4040715,
+       "injury": "INJURY_RESERVE",
+       "name": "Jalen Hurts",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "PHI"
+      },
+      {
+       "espn_id": 3953687,
+       "injury": "ACTIVE",
+       "name": "Brandon Aubrey",
+       "pos": "K",
+       "slot": "K",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 2577417,
+       "injury": "ACTIVE",
+       "name": "Dak Prescott",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "DAL"
+      },
+      {
+       "espn_id": 4688813,
+       "injury": "ACTIVE",
+       "name": "Josh Downs",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4428557,
+       "injury": "QUESTIONABLE",
+       "name": "Tyjae Spears",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "TEN"
+      },
+      {
+       "espn_id": -16008,
+       "injury": "NORMAL",
+       "name": "Lions D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "DET"
+      },
+      {
+       "espn_id": 4431299,
+       "injury": "ACTIVE",
+       "name": "Rome Odunze",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4239996,
+       "injury": "INJURY_RESERVE",
+       "name": "Travis Etienne Jr.",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "NO"
+      },
+      {
+       "espn_id": 5083076,
+       "injury": "QUESTIONABLE",
+       "name": "Harold Fannin Jr.",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "CLE"
+      },
+      {
+       "espn_id": 4372016,
+       "injury": "QUESTIONABLE",
+       "name": "Jaylen Waddle",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "DEN"
+      },
+      {
+       "espn_id": 2976212,
+       "injury": "ACTIVE",
+       "name": "Stefon Diggs",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "WAS"
+      },
+      {
+       "espn_id": 4685702,
+       "injury": "ACTIVE",
+       "name": "Quinshon Judkins",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "CLE"
+      },
+      {
+       "espn_id": 3929645,
+       "injury": "ACTIVE",
+       "name": "Juwan Johnson",
+       "pos": "TE",
+       "slot": "BN",
+       "team": "NO"
+      },
+      {
+       "espn_id": 4569618,
+       "injury": "QUESTIONABLE",
+       "name": "Garrett Wilson",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "NYJ"
+      },
+      {
+       "espn_id": 4685247,
+       "injury": "ACTIVE",
+       "name": "Braelon Allen",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "NYJ"
+      }
+     ],
+     "ties": 0,
+     "wins": 2
+    },
+    {
+     "abbrev": "SAM",
+     "id": 10,
+     "losses": 1,
+     "name": "Alli Rausch",
+     "points_against": 1119.86,
+     "points_for": 1366.7799999999997,
+     "roster": [
+      {
+       "espn_id": 3117251,
+       "injury": "ACTIVE",
+       "name": "Christian McCaffrey",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4432665,
+       "injury": "ACTIVE",
+       "name": "Brock Bowers",
+       "pos": "TE",
+       "slot": "TE",
+       "team": "LV"
+      },
+      {
+       "espn_id": 4241478,
+       "injury": "OUT",
+       "name": "DeVonta Smith",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "PHI"
+      },
+      {
+       "espn_id": 4259545,
+       "injury": "ACTIVE",
+       "name": "D'Andre Swift",
+       "pos": "RB",
+       "slot": "BN",
+       "team": "CHI"
+      },
+      {
+       "espn_id": 4431452,
+       "injury": "ACTIVE",
+       "name": "Drake Maye",
+       "pos": "QB",
+       "slot": "QB",
+       "team": "NE"
+      },
+      {
+       "espn_id": 4241416,
+       "injury": "ACTIVE",
+       "name": "Chuba Hubbard",
+       "pos": "RB",
+       "slot": "RB",
+       "team": "CAR"
+      },
+      {
+       "espn_id": 3139477,
+       "injury": "ACTIVE",
+       "name": "Patrick Mahomes",
+       "pos": "QB",
+       "slot": "BN",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4360569,
+       "injury": "ACTIVE",
+       "name": "Jordan Mason",
+       "pos": "RB",
+       "slot": "FLEX",
+       "team": "MIN"
+      },
+      {
+       "espn_id": 4683062,
+       "injury": "ACTIVE",
+       "name": "Xavier Worthy",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "KC"
+      },
+      {
+       "espn_id": 4569559,
+       "injury": "ACTIVE",
+       "name": "Devaughn Vele",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "NO"
+      },
+      {
+       "espn_id": 4360761,
+       "injury": "INJURY_RESERVE",
+       "name": "Michael Wilson",
+       "pos": "WR",
+       "slot": "IR",
+       "team": "ARI"
+      },
+      {
+       "espn_id": 4595348,
+       "injury": "ACTIVE",
+       "name": "Malik Nabers",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "NYG"
+      },
+      {
+       "espn_id": 5083754,
+       "injury": "ACTIVE",
+       "name": "Ryan Flournoy",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "DAL"
+      },
+      {
+       "espn_id": -16030,
+       "injury": "NORMAL",
+       "name": "Jaguars D/ST",
+       "pos": "DST",
+       "slot": "DST",
+       "team": "JAX"
+      },
+      {
+       "espn_id": 3917232,
+       "injury": "ACTIVE",
+       "name": "Tyler Bass",
+       "pos": "K",
+       "slot": "K",
+       "team": "BUF"
+      },
+      {
+       "espn_id": 4870795,
+       "injury": "ACTIVE",
+       "name": "Makai Lemon",
+       "pos": "WR",
+       "slot": "BN",
+       "team": "PHI"
+      },
+      {
+       "espn_id": 2991662,
+       "injury": "ACTIVE",
+       "name": "Mack Hollins",
+       "pos": "WR",
+       "slot": "WR",
+       "team": "NE"
+      },
+      {
+       "espn_id": 4869645,
+       "injury": "ACTIVE",
+       "name": "Caleb Douglas",
+       "pos": "WR",
+       "slot": "FLEX",
+       "team": "MIA"
+      }
+     ],
+     "ties": 0,
+     "wins": 8
+    }
+   ]
+  }
+ ],
+ "updated": "2026-11-13T02:28:29+00:00"
+}
