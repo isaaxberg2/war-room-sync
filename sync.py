@@ -1,4 +1,4 @@
-"""War Room sync robot (runs on GitHub Actions; written Nov 12, 2026).
+"""War Room sync robot v2 (runs on GitHub Actions; Nov 12, 2026: v2 adds this week's live points, every player's injury status, streaks).
 
 Every run it saves, into data/:
   leagues.json      your ESPN leagues: settings (scoring, lineup slots, playoff format), every team (name, record, points),
@@ -47,7 +47,10 @@ def team_name(t):
 
 def league(lid):
     views = ['mTeam', 'mRoster', 'mSettings', 'mMatchupScore', 'mStatus']
-    raw = get(f'{BASE}/segments/0/leagues/{lid}', params=[('view', v) for v in views]).json()
+    url = f'{BASE}/segments/0/leagues/{lid}'
+    first = get(url, params=[('view', 'mStatus')]).json()
+    wk = (first.get('status') or {}).get('currentMatchupPeriod') or first.get('scoringPeriodId')
+    raw = get(url, params=[('view', v) for v in views] + ([('scoringPeriodId', wk)] if wk else [])).json()   # v2: this week's points per player
     if os.environ.get('SAVE_RAW') == 'true':   # manual runs keep one raw copy for debugging the parser
         os.makedirs('data/raw', exist_ok=True); json.dump(raw, open(f'data/raw/{lid}.json', 'w'))
     st, sc, rs = raw.get('settings', {}), raw.get('settings', {}).get('scheduleSettings', {}), raw.get('settings', {}).get('rosterSettings', {})
@@ -57,12 +60,20 @@ def league(lid):
         roster = []
         for e in (t.get('roster') or {}).get('entries', []):
             p = (e.get('playerPoolEntry') or {}).get('player') or {}
+            pts = proj = None
+            for x in p.get('stats') or []:
+                if x.get('scoringPeriodId') == raw.get('scoringPeriodId') and x.get('statSplitTypeId') in (1, None):
+                    if x.get('statSourceId') == 0: pts = x.get('appliedTotal')
+                    elif x.get('statSourceId') == 1: proj = x.get('appliedTotal')
             roster.append(dict(espn_id=e.get('playerId'), name=p.get('fullName'), pos=POS.get(p.get('defaultPositionId')), team=TEAM.get(p.get('proTeamId'), ''),
-                               slot=SLOT.get(e.get('lineupSlotId'), str(e.get('lineupSlotId'))), injury=p.get('injuryStatus') or e.get('injuryStatus')))
-        teams.append(dict(id=t.get('id'), name=team_name(t), abbrev=t.get('abbrev'), wins=rec.get('wins'), losses=rec.get('losses'), ties=rec.get('ties'),
+                               slot=SLOT.get(e.get('lineupSlotId'), str(e.get('lineupSlotId'))), injury=p.get('injuryStatus') or e.get('injuryStatus'),
+                               pts=None if pts is None else round(pts, 2), espn_proj=None if proj is None else round(proj, 2)))
+        stk = (rec.get('streakType') or '')[:1] + str(rec.get('streakLength') or '') if rec.get('streakLength') else None
+        teams.append(dict(id=t.get('id'), name=team_name(t), abbrev=t.get('abbrev'), wins=rec.get('wins'), losses=rec.get('losses'), ties=rec.get('ties'), streak=stk,
                           points_for=rec.get('pointsFor'), points_against=rec.get('pointsAgainst'), roster=roster))
     sched = [dict(week=m.get('matchupPeriodId'), home=(m.get('home') or {}).get('teamId'), away=(m.get('away') or {}).get('teamId'),
-                  home_pts=(m.get('home') or {}).get('totalPoints'), away_pts=(m.get('away') or {}).get('totalPoints'), winner=m.get('winner'))
+                  home_pts=(m.get('home') or {}).get('totalPoints'), away_pts=(m.get('away') or {}).get('totalPoints'), winner=m.get('winner'),
+                  home_live=(m.get('home') or {}).get('totalPointsLive'), away_live=(m.get('away') or {}).get('totalPointsLive'))
              for m in raw.get('schedule', [])]
     scoring = [dict(stat=s.get('statId'), points=s.get('points')) for s in (st.get('scoringSettings') or {}).get('scoringItems', [])]
     return dict(id=lid, name=st.get('name'), current_week=(raw.get('status') or {}).get('currentMatchupPeriod') or raw.get('scoringPeriodId'),
@@ -74,10 +85,19 @@ def league(lid):
 def players():
     flt = {'filterActive': {'value': True}}
     data = get(f'{BASE}/players', params={'scoringPeriodId': 0, 'view': 'players_wl'}, headers={'x-fantasy-filter': json.dumps(flt)}).json()
+    inj = {}
+    lid = next((str(L.get('id')) for L in CFG.get('leagues', []) if str(L.get('id', '')).isdigit()), None)
+    if lid:   # v2: ESPN injury status for every player (the plain player list doesn't carry it)
+        try:
+            f2 = {'players': {'filterActive': {'value': True}, 'limit': 2000, 'sortPercOwned': {'sortPriority': 1, 'sortAsc': False}}}
+            r = get(f'{BASE}/segments/0/leagues/{lid}', params={'view': 'kona_player_info'}, headers={'x-fantasy-filter': json.dumps(f2)}).json()
+            inj = {x['player']['id']: x['player'].get('injuryStatus') for x in r.get('players', []) if x.get('player')}
+        except Exception as e:
+            print('injury statuses skipped:', e)
     out = []
     for p in data:
         pos = POS.get(p.get('defaultPositionId'))
-        if pos: out.append(dict(id=p['id'], name=p.get('fullName'), pos=pos, team=TEAM.get(p.get('proTeamId'), ''), injury=p.get('injuryStatus')))
+        if pos: out.append(dict(id=p['id'], name=p.get('fullName'), pos=pos, team=TEAM.get(p.get('proTeamId'), ''), injury=inj.get(p['id']) or p.get('injuryStatus')))
     return out
 
 
