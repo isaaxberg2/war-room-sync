@@ -2,7 +2,9 @@ name: War Room sync
 
 on:
   schedule:
-    - cron: '17 */6 * * *'   # every 6 hours
+    - cron: '17 */6 * * *'        # every 6 hours, all week
+    - cron: '*/15 17-23 * * 0'    # every 15 minutes, Sunday 1 PM to 8 PM ET (games in progress)
+    - cron: '*/15 0-4 * * 1,2,5'  # every 15 minutes, Sunday/Monday/Thursday nights (UTC early morning)
   workflow_dispatch:          # adds a "Run workflow" button
 
 permissions:
