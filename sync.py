@@ -1,4 +1,5 @@
-"""War Room sync robot v2 (runs on GitHub Actions; Nov 12, 2026: v2 adds this week's live points, every player's injury status, streaks).
+"""War Room sync robot v3 (runs on GitHub Actions; Nov 12, 2026: v2 added live points, every player's injury status, streaks;
+v3 adds ESPN's projections for past weeks (data/espn_history.json) so the War Room can test whose projections are more accurate).
 
 Every run it saves, into data/:
   leagues.json      your ESPN leagues: settings (scoring, lineup slots, playoff format), every team (name, record, points),
@@ -115,6 +116,32 @@ def photo(pid):
         return None
 
 
+def history(lid, cur):
+    """ESPN's projection and actual points for past weeks (top 400 players by ownership), from a standard-PPR league so the
+    numbers compare cleanly with the War Room's. Each finished week is fetched once and kept in data/espn_history.json."""
+    H = json.load(open('data/espn_history.json')) if os.path.exists('data/espn_history.json') else {}
+    for w in range(1, int(cur)):
+        if str(w) in H and H[str(w)]: continue
+        f = {'players': {'filterActive': {'value': True}, 'limit': 400, 'sortPercOwned': {'sortPriority': 1, 'sortAsc': False}}}
+        try:
+            r = get(f'{BASE}/segments/0/leagues/{lid}', params={'view': 'kona_player_info', 'scoringPeriodId': w}, headers={'x-fantasy-filter': json.dumps(f)}).json()
+        except Exception as e:
+            print('history week', w, 'skipped:', e); continue
+        wk = {}
+        for x in r.get('players', []):
+            p = x.get('player') or {}; pos = POS.get(p.get('defaultPositionId'))
+            if not pos: continue
+            proj = act = None
+            for st in p.get('stats') or []:
+                if st.get('scoringPeriodId') == w and st.get('statSplitTypeId') in (1, None):
+                    if st.get('statSourceId') == 1: proj = st.get('appliedTotal')
+                    elif st.get('statSourceId') == 0: act = st.get('appliedTotal')
+            if proj is not None: wk[p.get('fullName')] = dict(pos=pos, team=TEAM.get(p.get('proTeamId'), ''), p=round(proj, 2), a=None if act is None else round(act, 2))
+        H[str(w)] = wk
+    json.dump(H, open('data/espn_history.json', 'w'), separators=(',', ':'), sort_keys=True)
+    return {k: len(v) for k, v in H.items()}
+
+
 def main():
     status = dict(ran=NOW.isoformat(timespec='seconds'), season=SEASON, cookies=bool(COOKIES), leagues={}, players=None, photos=None)
     out = []
@@ -127,6 +154,10 @@ def main():
         except Exception as e:
             status['leagues'][L.get('name') or lid] = f'ERROR {e}'
     if out: json.dump(dict(updated=status['ran'], leagues=out), open('data/leagues.json', 'w'), indent=1, sort_keys=True)
+    std = next((x for x in out if x.get('ppr') == 1 and next((sc['points'] for sc in x['scoring'] if sc['stat'] == 4), 4) == 4), None)   # a standard full-PPR league
+    if std:
+        try: status['history'] = history(std['id'], std['current_week'] or 1)
+        except Exception as e: status['history'] = f'ERROR {e}'
     try:
         pl = players(); json.dump(pl, open('data/espn_players.json', 'w'), separators=(',', ':'), sort_keys=True)
         status['players'] = len(pl)
