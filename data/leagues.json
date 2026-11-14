@@ -959,7 +959,7 @@
       {
        "espn_id": 4567048,
        "espn_proj": 29.06,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Kenneth Walker III",
        "pos": "RB",
        "pts": null,
@@ -978,7 +978,7 @@
       },
       {
        "espn_id": 4239996,
-       "espn_proj": 0.0,
+       "espn_proj": 11.29,
        "injury": "INJURY_RESERVE",
        "name": "Travis Etienne Jr.",
        "pos": "RB",
@@ -993,7 +993,7 @@
        "name": "Carnell Tate",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "IR",
        "team": "TEN"
       },
       {
@@ -1018,7 +1018,7 @@
       },
       {
        "espn_id": 4360569,
-       "espn_proj": 9.72,
+       "espn_proj": 9.78,
        "injury": "ACTIVE",
        "name": "Jordan Mason",
        "pos": "RB",
@@ -1028,12 +1028,12 @@
       },
       {
        "espn_id": 4036133,
-       "espn_proj": 11.86,
-       "injury": "QUESTIONABLE",
+       "espn_proj": 0.0,
+       "injury": "OUT",
        "name": "T.J. Hockenson",
        "pos": "TE",
        "pts": null,
-       "slot": "TE",
+       "slot": "BN",
        "team": "MIN"
       },
       {
@@ -1049,7 +1049,7 @@
       {
        "espn_id": 4597500,
        "espn_proj": 10.88,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Adonai Mitchell",
        "pos": "WR",
        "pts": null,
@@ -1105,6 +1105,16 @@
        "pts": null,
        "slot": "BN",
        "team": "LV"
+      },
+      {
+       "espn_id": 4361411,
+       "espn_proj": 8.97,
+       "injury": "ACTIVE",
+       "name": "Pat Freiermuth",
+       "pos": "TE",
+       "pts": null,
+       "slot": "TE",
+       "team": "PIT"
       }
      ],
      "streak": "W1",
@@ -1141,7 +1151,7 @@
       },
       {
        "espn_id": 4361370,
-       "espn_proj": 17.24,
+       "espn_proj": 17.19,
        "injury": "ACTIVE",
        "name": "Chris Olave",
        "pos": "WR",
@@ -1181,7 +1191,7 @@
       },
       {
        "espn_id": 2577417,
-       "espn_proj": 21.52,
+       "espn_proj": 21.5,
        "injury": "ACTIVE",
        "name": "Dak Prescott",
        "pos": "QB",
@@ -1201,7 +1211,7 @@
       },
       {
        "espn_id": 4701936,
-       "espn_proj": 18.86,
+       "espn_proj": 18.83,
        "injury": "ACTIVE",
        "name": "Matthew Golden",
        "pos": "WR",
@@ -1251,7 +1261,7 @@
       },
       {
        "espn_id": 4870653,
-       "espn_proj": 11.11,
+       "espn_proj": 11.13,
        "injury": "ACTIVE",
        "name": "KC Concepcion",
        "pos": "WR",
@@ -1365,7 +1375,7 @@
       {
        "espn_id": 3916148,
        "espn_proj": 14.81,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Tony Pollard",
        "pos": "RB",
        "pts": null,
@@ -1374,8 +1384,8 @@
       },
       {
        "espn_id": 4429205,
-       "espn_proj": 11.42,
-       "injury": "ACTIVE",
+       "espn_proj": 12.29,
+       "injury": "QUESTIONABLE",
        "name": "Jordan Addison",
        "pos": "WR",
        "pts": null,
@@ -1404,7 +1414,7 @@
       },
       {
        "espn_id": 4832800,
-       "espn_proj": 13.49,
+       "espn_proj": 13.52,
        "injury": "QUESTIONABLE",
        "name": "Denzel Boston",
        "pos": "WR",
@@ -1567,7 +1577,7 @@
       },
       {
        "espn_id": 4429023,
-       "espn_proj": 7.62,
+       "espn_proj": 7.61,
        "injury": "ACTIVE",
        "name": "MarShawn Lloyd",
        "pos": "RB",
@@ -1618,7 +1628,7 @@
       {
        "espn_id": 3917315,
        "espn_proj": 0.0,
-       "injury": "DOUBTFUL",
+       "injury": "OUT",
        "name": "Kyler Murray",
        "pos": "QB",
        "pts": null,
@@ -1637,7 +1647,7 @@
       },
       {
        "espn_id": 4366031,
-       "espn_proj": 8.64,
+       "espn_proj": 10.55,
        "injury": "ACTIVE",
        "name": "Tank Dell",
        "pos": "WR",
@@ -1647,7 +1657,7 @@
       },
       {
        "espn_id": 4569682,
-       "espn_proj": 10.98,
+       "espn_proj": 4.26,
        "injury": "ACTIVE",
        "name": "Audric Estime",
        "pos": "RB",
@@ -1680,7 +1690,7 @@
      "roster": [
       {
        "espn_id": 4242335,
-       "espn_proj": 19.34,
+       "espn_proj": 19.33,
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
@@ -1731,7 +1741,7 @@
       {
        "espn_id": 16737,
        "espn_proj": 0.0,
-       "injury": "QUESTIONABLE",
+       "injury": "OUT",
        "name": "Mike Evans",
        "pos": "WR",
        "pts": null,
@@ -1770,7 +1780,7 @@
       },
       {
        "espn_id": 4360689,
-       "espn_proj": 21.5,
+       "espn_proj": 21.65,
        "injury": "ACTIVE",
        "name": "Tyler Shough",
        "pos": "QB",
@@ -1873,7 +1883,7 @@
       },
       {
        "espn_id": 4241389,
-       "espn_proj": 22.96,
+       "espn_proj": 22.94,
        "injury": "ACTIVE",
        "name": "CeeDee Lamb",
        "pos": "WR",
@@ -1883,7 +1893,7 @@
       },
       {
        "espn_id": 4361579,
-       "espn_proj": 15.87,
+       "espn_proj": 15.73,
        "injury": "ACTIVE",
        "name": "Javonte Williams",
        "pos": "RB",
@@ -1903,7 +1913,7 @@
       },
       {
        "espn_id": 4685702,
-       "espn_proj": 12.55,
+       "espn_proj": 12.56,
        "injury": "ACTIVE",
        "name": "Quinshon Judkins",
        "pos": "RB",
@@ -1923,8 +1933,8 @@
       },
       {
        "espn_id": 4432708,
-       "espn_proj": 6.09,
-       "injury": "QUESTIONABLE",
+       "espn_proj": 0.0,
+       "injury": "OUT",
        "name": "Marvin Harrison Jr.",
        "pos": "WR",
        "pts": null,
@@ -1983,7 +1993,7 @@
       },
       {
        "espn_id": 4880281,
-       "espn_proj": 8.82,
+       "espn_proj": 8.8,
        "injury": "ACTIVE",
        "name": "Jordyn Tyson",
        "pos": "WR",
@@ -1993,7 +2003,7 @@
       },
       {
        "espn_id": 4569559,
-       "espn_proj": 7.53,
+       "espn_proj": 7.5,
        "injury": "ACTIVE",
        "name": "Devaughn Vele",
        "pos": "WR",
@@ -2087,7 +2097,7 @@
       {
        "espn_id": 3916433,
        "espn_proj": 12.03,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Jakobi Meyers",
        "pos": "WR",
        "pts": null,
@@ -2156,8 +2166,8 @@
       },
       {
        "espn_id": 4426354,
-       "espn_proj": 12.97,
-       "injury": "QUESTIONABLE",
+       "espn_proj": 12.96,
+       "injury": "ACTIVE",
        "name": "George Pickens",
        "pos": "WR",
        "pts": null,
@@ -2166,7 +2176,7 @@
       },
       {
        "espn_id": 4036378,
-       "espn_proj": 20.32,
+       "espn_proj": 20.33,
        "injury": "ACTIVE",
        "name": "Jordan Love",
        "pos": "QB",
@@ -2186,7 +2196,7 @@
       },
       {
        "espn_id": 4572680,
-       "espn_proj": 9.62,
+       "espn_proj": 9.61,
        "injury": "ACTIVE",
        "name": "Tucker Kraft",
        "pos": "TE",
@@ -2259,8 +2269,8 @@
       },
       {
        "espn_id": 5083076,
-       "espn_proj": 10.47,
-       "injury": "QUESTIONABLE",
+       "espn_proj": 10.49,
+       "injury": "ACTIVE",
        "name": "Harold Fannin Jr.",
        "pos": "TE",
        "pts": null,
@@ -2289,7 +2299,7 @@
       },
       {
        "espn_id": 3042519,
-       "espn_proj": 8.81,
+       "espn_proj": 8.9,
        "injury": "ACTIVE",
        "name": "Aaron Jones Sr.",
        "pos": "RB",
@@ -2300,7 +2310,7 @@
       {
        "espn_id": 4385690,
        "espn_proj": 9.15,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Dalton Kincaid",
        "pos": "TE",
        "pts": null,
@@ -2339,7 +2349,7 @@
       },
       {
        "espn_id": 3054850,
-       "espn_proj": 10.47,
+       "espn_proj": 8.74,
        "injury": "ACTIVE",
        "name": "Alvin Kamara",
        "pos": "RB",
@@ -2349,7 +2359,7 @@
       },
       {
        "espn_id": 4432577,
-       "espn_proj": 23.54,
+       "espn_proj": 23.39,
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
@@ -2392,7 +2402,7 @@
       },
       {
        "espn_id": 4258173,
-       "espn_proj": 13.88,
+       "espn_proj": 14.43,
        "injury": "ACTIVE",
        "name": "Nico Collins",
        "pos": "WR",
@@ -2432,7 +2442,7 @@
       },
       {
        "espn_id": 4248528,
-       "espn_proj": 17.13,
+       "espn_proj": 17.11,
        "injury": "ACTIVE",
        "name": "Christian Watson",
        "pos": "WR",
@@ -2462,7 +2472,7 @@
       },
       {
        "espn_id": 3929645,
-       "espn_proj": 7.4,
+       "espn_proj": 7.37,
        "injury": "ACTIVE",
        "name": "Juwan Johnson",
        "pos": "TE",
@@ -2472,7 +2482,7 @@
       },
       {
        "espn_id": 3139477,
-       "espn_proj": 22.24,
+       "espn_proj": 22.25,
        "injury": "ACTIVE",
        "name": "Patrick Mahomes",
        "pos": "QB",
@@ -2487,12 +2497,12 @@
        "name": "Braelon Allen",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "BN",
        "team": "NYJ"
       },
       {
        "espn_id": 4035538,
-       "espn_proj": 0.0,
+       "espn_proj": 11.67,
        "injury": "QUESTIONABLE",
        "name": "David Montgomery",
        "pos": "RB",
@@ -2502,8 +2512,8 @@
       },
       {
        "espn_id": 4429059,
-       "espn_proj": 15.27,
-       "injury": "QUESTIONABLE",
+       "espn_proj": 9.46,
+       "injury": "ACTIVE",
        "name": "Woody Marks",
        "pos": "RB",
        "pts": null,
@@ -2523,7 +2533,7 @@
       {
        "espn_id": 4723820,
        "espn_proj": 9.83,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Omar Cooper Jr.",
        "pos": "WR",
        "pts": null,
@@ -2532,7 +2542,7 @@
       },
       {
        "espn_id": -16034,
-       "espn_proj": 7.28,
+       "espn_proj": 7.13,
        "injury": "NORMAL",
        "name": "Texans D/ST",
        "pos": "DST",
@@ -2557,7 +2567,7 @@
        "name": "Rico Dowdle",
        "pos": "RB",
        "pts": null,
-       "slot": "BN",
+       "slot": "RB",
        "team": "PIT"
       }
      ],
@@ -2586,7 +2596,7 @@
       {
        "espn_id": 4882093,
        "espn_proj": 19.11,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Bhayshul Tuten",
        "pos": "RB",
        "pts": null,
@@ -2636,7 +2646,7 @@
       {
        "espn_id": 3126486,
        "espn_proj": 12.07,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Deebo Samuel Sr.",
        "pos": "WR",
        "pts": null,
@@ -2695,7 +2705,7 @@
       },
       {
        "espn_id": 4262921,
-       "espn_proj": 19.22,
+       "espn_proj": 19.63,
        "injury": "ACTIVE",
        "name": "Justin Jefferson",
        "pos": "WR",
@@ -3689,7 +3699,7 @@
       {
        "espn_id": 4567048,
        "espn_proj": 26.13,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Kenneth Walker III",
        "pos": "RB",
        "pts": null,
@@ -3698,7 +3708,7 @@
       },
       {
        "espn_id": 4426502,
-       "espn_proj": 14.83,
+       "espn_proj": 14.84,
        "injury": "ACTIVE",
        "name": "Drake London",
        "pos": "WR",
@@ -3729,7 +3739,7 @@
       {
        "espn_id": 16737,
        "espn_proj": 0.0,
-       "injury": "QUESTIONABLE",
+       "injury": "OUT",
        "name": "Mike Evans",
        "pos": "WR",
        "pts": null,
@@ -3758,7 +3768,7 @@
       },
       {
        "espn_id": 4870653,
-       "espn_proj": 10.6,
+       "espn_proj": 10.62,
        "injury": "ACTIVE",
        "name": "KC Concepcion",
        "pos": "WR",
@@ -3798,8 +3808,8 @@
       },
       {
        "espn_id": 4036133,
-       "espn_proj": 11.53,
-       "injury": "QUESTIONABLE",
+       "espn_proj": 0.0,
+       "injury": "OUT",
        "name": "T.J. Hockenson",
        "pos": "TE",
        "pts": null,
@@ -3828,7 +3838,7 @@
       },
       {
        "espn_id": 4880281,
-       "espn_proj": 8.59,
+       "espn_proj": 8.56,
        "injury": "ACTIVE",
        "name": "Jordyn Tyson",
        "pos": "WR",
@@ -3891,7 +3901,7 @@
       },
       {
        "espn_id": 4258173,
-       "espn_proj": 13.17,
+       "espn_proj": 13.66,
        "injury": "ACTIVE",
        "name": "Nico Collins",
        "pos": "WR",
@@ -3961,8 +3971,8 @@
       },
       {
        "espn_id": 4429205,
-       "espn_proj": 10.67,
-       "injury": "ACTIVE",
+       "espn_proj": 11.45,
+       "injury": "QUESTIONABLE",
        "name": "Jordan Addison",
        "pos": "WR",
        "pts": null,
@@ -4001,7 +4011,7 @@
       },
       {
        "espn_id": 4360689,
-       "espn_proj": 17.35,
+       "espn_proj": 17.5,
        "injury": "ACTIVE",
        "name": "Tyler Shough",
        "pos": "QB",
@@ -4064,7 +4074,7 @@
      "roster": [
       {
        "espn_id": 4430807,
-       "espn_proj": 18.62,
+       "espn_proj": 18.63,
        "injury": "ACTIVE",
        "name": "Bijan Robinson",
        "pos": "RB",
@@ -4084,7 +4094,7 @@
       },
       {
        "espn_id": 4361579,
-       "espn_proj": 14.97,
+       "espn_proj": 14.83,
        "injury": "ACTIVE",
        "name": "Javonte Williams",
        "pos": "RB",
@@ -4114,7 +4124,7 @@
       },
       {
        "espn_id": 4360248,
-       "espn_proj": 9.16,
+       "espn_proj": 9.17,
        "injury": "ACTIVE",
        "name": "Kyle Pitts Sr.",
        "pos": "TE",
@@ -4154,7 +4164,7 @@
       },
       {
        "espn_id": 4701936,
-       "espn_proj": 17.22,
+       "espn_proj": 17.19,
        "injury": "ACTIVE",
        "name": "Matthew Golden",
        "pos": "WR",
@@ -4184,7 +4194,7 @@
       },
       {
        "espn_id": 4036378,
-       "espn_proj": 16.02,
+       "espn_proj": 16.03,
        "injury": "ACTIVE",
        "name": "Jordan Love",
        "pos": "QB",
@@ -4287,8 +4297,8 @@
       },
       {
        "espn_id": 4432708,
-       "espn_proj": 5.98,
-       "injury": "QUESTIONABLE",
+       "espn_proj": 0.0,
+       "injury": "OUT",
        "name": "Marvin Harrison Jr.",
        "pos": "WR",
        "pts": null,
@@ -4387,7 +4397,7 @@
       },
       {
        "espn_id": -16012,
-       "espn_proj": 4.91,
+       "espn_proj": 4.89,
        "injury": "NORMAL",
        "name": "Chiefs D/ST",
        "pos": "DST",
@@ -4398,7 +4408,7 @@
       {
        "espn_id": 3916433,
        "espn_proj": 11.61,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Jakobi Meyers",
        "pos": "WR",
        "pts": null,
@@ -4420,7 +4430,7 @@
      "roster": [
       {
        "espn_id": 4242335,
-       "espn_proj": 17.85,
+       "espn_proj": 17.84,
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
@@ -4440,7 +4450,7 @@
       },
       {
        "espn_id": 4428331,
-       "espn_proj": 12.83,
+       "espn_proj": 12.84,
        "injury": "ACTIVE",
        "name": "Rashee Rice",
        "pos": "WR",
@@ -4490,8 +4500,8 @@
       },
       {
        "espn_id": 5083076,
-       "espn_proj": 10.07,
-       "injury": "QUESTIONABLE",
+       "espn_proj": 10.09,
+       "injury": "ACTIVE",
        "name": "Harold Fannin Jr.",
        "pos": "TE",
        "pts": null,
@@ -4500,7 +4510,7 @@
       },
       {
        "espn_id": 2577417,
-       "espn_proj": 16.57,
+       "espn_proj": 16.55,
        "injury": "ACTIVE",
        "name": "Dak Prescott",
        "pos": "QB",
@@ -4521,7 +4531,7 @@
       {
        "espn_id": 4385690,
        "espn_proj": 8.85,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Dalton Kincaid",
        "pos": "TE",
        "pts": null,
@@ -4530,7 +4540,7 @@
       },
       {
        "espn_id": -16034,
-       "espn_proj": 7.28,
+       "espn_proj": 7.13,
        "injury": "NORMAL",
        "name": "Texans D/ST",
        "pos": "DST",
@@ -4633,7 +4643,7 @@
       },
       {
        "espn_id": 4239996,
-       "espn_proj": 0.0,
+       "espn_proj": 10.85,
        "injury": "INJURY_RESERVE",
        "name": "Travis Etienne Jr.",
        "pos": "RB",
@@ -4663,7 +4673,7 @@
       },
       {
        "espn_id": 4248528,
-       "espn_proj": 15.7,
+       "espn_proj": 15.67,
        "injury": "ACTIVE",
        "name": "Christian Watson",
        "pos": "WR",
@@ -4673,7 +4683,7 @@
       },
       {
        "espn_id": 4572680,
-       "espn_proj": 9.4,
+       "espn_proj": 9.39,
        "injury": "ACTIVE",
        "name": "Tucker Kraft",
        "pos": "TE",
@@ -4764,7 +4774,7 @@
       {
        "espn_id": 3924327,
        "espn_proj": 17.59,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Drew Lock",
        "pos": "QB",
        "pts": null,
@@ -4773,7 +4783,7 @@
       },
       {
        "espn_id": 4366031,
-       "espn_proj": 8.39,
+       "espn_proj": 10.12,
        "injury": "ACTIVE",
        "name": "Tank Dell",
        "pos": "WR",
@@ -4796,7 +4806,7 @@
      "roster": [
       {
        "espn_id": 4262921,
-       "espn_proj": 17.48,
+       "espn_proj": 17.92,
        "injury": "ACTIVE",
        "name": "Justin Jefferson",
        "pos": "WR",
@@ -4816,7 +4826,7 @@
       },
       {
        "espn_id": 4361370,
-       "espn_proj": 15.81,
+       "espn_proj": 15.78,
        "injury": "ACTIVE",
        "name": "Chris Olave",
        "pos": "WR",
@@ -4836,7 +4846,7 @@
       },
       {
        "espn_id": 4685702,
-       "espn_proj": 11.79,
+       "espn_proj": 11.8,
        "injury": "ACTIVE",
        "name": "Quinshon Judkins",
        "pos": "RB",
@@ -4847,7 +4857,7 @@
       {
        "espn_id": 4882093,
        "espn_proj": 17.26,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Bhayshul Tuten",
        "pos": "RB",
        "pts": null,
@@ -4907,7 +4917,7 @@
       {
        "espn_id": 3126486,
        "espn_proj": 11.7,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Deebo Samuel Sr.",
        "pos": "WR",
        "pts": null,
@@ -5029,7 +5039,7 @@
       },
       {
        "espn_id": 4035538,
-       "espn_proj": 0.0,
+       "espn_proj": 10.91,
        "injury": "QUESTIONABLE",
        "name": "David Montgomery",
        "pos": "RB",
@@ -5050,7 +5060,7 @@
       {
        "espn_id": 3916148,
        "espn_proj": 13.47,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Tony Pollard",
        "pos": "RB",
        "pts": null,
@@ -5099,7 +5109,7 @@
       },
       {
        "espn_id": 4432577,
-       "espn_proj": 18.27,
+       "espn_proj": 18.13,
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
@@ -5140,7 +5150,7 @@
       {
        "espn_id": 4597500,
        "espn_proj": 10.34,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Adonai Mitchell",
        "pos": "WR",
        "pts": null,
@@ -5242,7 +5252,7 @@
       },
       {
        "espn_id": 3042519,
-       "espn_proj": 8.46,
+       "espn_proj": 8.54,
        "injury": "ACTIVE",
        "name": "Aaron Jones Sr.",
        "pos": "RB",
@@ -5262,8 +5272,8 @@
       },
       {
        "espn_id": 4429059,
-       "espn_proj": 13.92,
-       "injury": "QUESTIONABLE",
+       "espn_proj": 8.96,
+       "injury": "ACTIVE",
        "name": "Woody Marks",
        "pos": "RB",
        "pts": null,
@@ -5272,7 +5282,7 @@
       },
       {
        "espn_id": 4832800,
-       "espn_proj": 12.71,
+       "espn_proj": 12.73,
        "injury": "QUESTIONABLE",
        "name": "Denzel Boston",
        "pos": "WR",
@@ -5345,7 +5355,7 @@
      "roster": [
       {
        "espn_id": 4241389,
-       "espn_proj": 20.88,
+       "espn_proj": 20.86,
        "injury": "ACTIVE",
        "name": "CeeDee Lamb",
        "pos": "WR",
@@ -5356,7 +5366,7 @@
       {
        "espn_id": 4426354,
        "espn_proj": 12.27,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "George Pickens",
        "pos": "WR",
        "pts": null,
@@ -5475,7 +5485,7 @@
       },
       {
        "espn_id": 3054850,
-       "espn_proj": 10.25,
+       "espn_proj": 8.57,
        "injury": "ACTIVE",
        "name": "Alvin Kamara",
        "pos": "RB",
@@ -6468,7 +6478,7 @@
       },
       {
        "espn_id": 4428331,
-       "espn_proj": 12.83,
+       "espn_proj": 12.84,
        "injury": "ACTIVE",
        "name": "Rashee Rice",
        "pos": "WR",
@@ -6528,7 +6538,7 @@
       },
       {
        "espn_id": 4832800,
-       "espn_proj": 12.71,
+       "espn_proj": 12.73,
        "injury": "QUESTIONABLE",
        "name": "Denzel Boston",
        "pos": "WR",
@@ -6548,7 +6558,7 @@
       },
       {
        "espn_id": 4361579,
-       "espn_proj": 14.97,
+       "espn_proj": 14.83,
        "injury": "ACTIVE",
        "name": "Javonte Williams",
        "pos": "RB",
@@ -6568,7 +6578,7 @@
       },
       {
        "espn_id": 4035538,
-       "espn_proj": 0.0,
+       "espn_proj": 10.91,
        "injury": "QUESTIONABLE",
        "name": "David Montgomery",
        "pos": "RB",
@@ -6618,7 +6628,7 @@
       },
       {
        "espn_id": 4569682,
-       "espn_proj": 10.33,
+       "espn_proj": 4.15,
        "injury": "ACTIVE",
        "name": "Audric Estime",
        "pos": "RB",
@@ -6651,7 +6661,7 @@
       },
       {
        "espn_id": 4426502,
-       "espn_proj": 14.83,
+       "espn_proj": 14.84,
        "injury": "ACTIVE",
        "name": "Drake London",
        "pos": "WR",
@@ -6721,8 +6731,8 @@
       },
       {
        "espn_id": 4429205,
-       "espn_proj": 10.67,
-       "injury": "ACTIVE",
+       "espn_proj": 11.45,
+       "injury": "QUESTIONABLE",
        "name": "Jordan Addison",
        "pos": "WR",
        "pts": null,
@@ -6751,7 +6761,7 @@
       },
       {
        "espn_id": -16034,
-       "espn_proj": 7.28,
+       "espn_proj": 7.13,
        "injury": "NORMAL",
        "name": "Texans D/ST",
        "pos": "DST",
@@ -6771,7 +6781,7 @@
       },
       {
        "espn_id": 3054850,
-       "espn_proj": 10.25,
+       "espn_proj": 8.57,
        "injury": "ACTIVE",
        "name": "Alvin Kamara",
        "pos": "RB",
@@ -6781,7 +6791,7 @@
       },
       {
        "espn_id": 4036378,
-       "espn_proj": 16.02,
+       "espn_proj": 16.03,
        "injury": "ACTIVE",
        "name": "Jordan Love",
        "pos": "QB",
@@ -6869,7 +6879,7 @@
        "name": "Carnell Tate",
        "pos": "WR",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "TEN"
       },
       {
@@ -6894,12 +6904,12 @@
       },
       {
        "espn_id": 4366031,
-       "espn_proj": 8.39,
+       "espn_proj": 10.12,
        "injury": "ACTIVE",
        "name": "Tank Dell",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "FLEX",
        "team": "HOU"
       },
       {
@@ -6924,7 +6934,7 @@
       },
       {
        "espn_id": 4248528,
-       "espn_proj": 15.7,
+       "espn_proj": 15.67,
        "injury": "ACTIVE",
        "name": "Christian Watson",
        "pos": "WR",
@@ -6934,7 +6944,7 @@
       },
       {
        "espn_id": 4242335,
-       "espn_proj": 17.85,
+       "espn_proj": 17.84,
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
@@ -7017,7 +7027,7 @@
      "roster": [
       {
        "espn_id": 4430807,
-       "espn_proj": 18.62,
+       "espn_proj": 18.63,
        "injury": "ACTIVE",
        "name": "Bijan Robinson",
        "pos": "RB",
@@ -7037,7 +7047,7 @@
       },
       {
        "espn_id": 4258173,
-       "espn_proj": 13.17,
+       "espn_proj": 13.66,
        "injury": "ACTIVE",
        "name": "Nico Collins",
        "pos": "WR",
@@ -7077,8 +7087,8 @@
       },
       {
        "espn_id": 4432708,
-       "espn_proj": 5.98,
-       "injury": "QUESTIONABLE",
+       "espn_proj": 0.0,
+       "injury": "OUT",
        "name": "Marvin Harrison Jr.",
        "pos": "WR",
        "pts": null,
@@ -7087,7 +7097,7 @@
       },
       {
        "espn_id": 4360248,
-       "espn_proj": 9.16,
+       "espn_proj": 9.17,
        "injury": "ACTIVE",
        "name": "Kyle Pitts Sr.",
        "pos": "TE",
@@ -7097,7 +7107,7 @@
       },
       {
        "espn_id": 3042519,
-       "espn_proj": 8.46,
+       "espn_proj": 8.54,
        "injury": "ACTIVE",
        "name": "Aaron Jones Sr.",
        "pos": "RB",
@@ -7108,7 +7118,7 @@
       {
        "espn_id": 4385690,
        "espn_proj": 8.85,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Dalton Kincaid",
        "pos": "TE",
        "pts": null,
@@ -7137,7 +7147,7 @@
       },
       {
        "espn_id": 4569603,
-       "espn_proj": 8.95,
+       "espn_proj": 8.94,
        "injury": "ACTIVE",
        "name": "Malik Washington",
        "pos": "WR",
@@ -7168,7 +7178,7 @@
       {
        "espn_id": 4597500,
        "espn_proj": 10.34,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Adonai Mitchell",
        "pos": "WR",
        "pts": null,
@@ -7200,7 +7210,7 @@
      "roster": [
       {
        "espn_id": 4361370,
-       "espn_proj": 15.81,
+       "espn_proj": 15.78,
        "injury": "ACTIVE",
        "name": "Chris Olave",
        "pos": "WR",
@@ -7211,7 +7221,7 @@
       {
        "espn_id": 4426354,
        "espn_proj": 12.27,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "George Pickens",
        "pos": "WR",
        "pts": null,
@@ -7281,7 +7291,7 @@
       {
        "espn_id": 4882093,
        "espn_proj": 17.26,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Bhayshul Tuten",
        "pos": "RB",
        "pts": null,
@@ -7310,8 +7320,8 @@
       },
       {
        "espn_id": 4429059,
-       "espn_proj": 13.92,
-       "injury": "QUESTIONABLE",
+       "espn_proj": 8.96,
+       "injury": "ACTIVE",
        "name": "Woody Marks",
        "pos": "RB",
        "pts": null,
@@ -7351,7 +7361,7 @@
       {
        "espn_id": 3126486,
        "espn_proj": 11.7,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Deebo Samuel Sr.",
        "pos": "WR",
        "pts": null,
@@ -7370,7 +7380,7 @@
       },
       {
        "espn_id": 4360689,
-       "espn_proj": 17.35,
+       "espn_proj": 17.5,
        "injury": "ACTIVE",
        "name": "Tyler Shough",
        "pos": "QB",
@@ -7453,7 +7463,7 @@
       },
       {
        "espn_id": 4262921,
-       "espn_proj": 17.48,
+       "espn_proj": 17.92,
        "injury": "ACTIVE",
        "name": "Justin Jefferson",
        "pos": "WR",
@@ -7463,7 +7473,7 @@
       },
       {
        "espn_id": 4880281,
-       "espn_proj": 8.59,
+       "espn_proj": 8.56,
        "injury": "ACTIVE",
        "name": "Jordyn Tyson",
        "pos": "WR",
@@ -7488,7 +7498,7 @@
        "name": "DeMario Douglas",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "FLEX",
        "team": "NE"
       },
       {
@@ -7503,18 +7513,18 @@
       },
       {
        "espn_id": 4036133,
-       "espn_proj": 11.53,
-       "injury": "QUESTIONABLE",
+       "espn_proj": 0.0,
+       "injury": "OUT",
        "name": "T.J. Hockenson",
        "pos": "TE",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "MIN"
       },
       {
        "espn_id": 4723820,
        "espn_proj": 9.45,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Omar Cooper Jr.",
        "pos": "WR",
        "pts": null,
@@ -7543,7 +7553,7 @@
       },
       {
        "espn_id": 4432577,
-       "espn_proj": 18.27,
+       "espn_proj": 18.13,
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
@@ -7607,7 +7617,7 @@
       {
        "espn_id": 4567048,
        "espn_proj": 26.13,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Kenneth Walker III",
        "pos": "RB",
        "pts": null,
@@ -7666,7 +7676,7 @@
       },
       {
        "espn_id": 4572680,
-       "espn_proj": 9.4,
+       "espn_proj": 9.39,
        "injury": "ACTIVE",
        "name": "Tucker Kraft",
        "pos": "TE",
@@ -7686,7 +7696,7 @@
       },
       {
        "espn_id": 4870653,
-       "espn_proj": 10.6,
+       "espn_proj": 10.62,
        "injury": "ACTIVE",
        "name": "KC Concepcion",
        "pos": "WR",
@@ -7809,7 +7819,7 @@
       },
       {
        "espn_id": 4701936,
-       "espn_proj": 17.22,
+       "espn_proj": 17.19,
        "injury": "ACTIVE",
        "name": "Matthew Golden",
        "pos": "WR",
@@ -7840,7 +7850,7 @@
       {
        "espn_id": 3916433,
        "espn_proj": 11.61,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Jakobi Meyers",
        "pos": "WR",
        "pts": null,
@@ -7859,7 +7869,7 @@
       },
       {
        "espn_id": 4241389,
-       "espn_proj": 20.88,
+       "espn_proj": 20.86,
        "injury": "ACTIVE",
        "name": "CeeDee Lamb",
        "pos": "WR",
@@ -7880,7 +7890,7 @@
       {
        "espn_id": 3916148,
        "espn_proj": 13.47,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Tony Pollard",
        "pos": "RB",
        "pts": null,
@@ -7963,7 +7973,7 @@
       {
        "espn_id": 16737,
        "espn_proj": 0.0,
-       "injury": "QUESTIONABLE",
+       "injury": "OUT",
        "name": "Mike Evans",
        "pos": "WR",
        "pts": null,
@@ -7992,7 +8002,7 @@
       },
       {
        "espn_id": 2577417,
-       "espn_proj": 16.57,
+       "espn_proj": 16.55,
        "injury": "ACTIVE",
        "name": "Dak Prescott",
        "pos": "QB",
@@ -8042,7 +8052,7 @@
       },
       {
        "espn_id": 4239996,
-       "espn_proj": 0.0,
+       "espn_proj": 10.85,
        "injury": "INJURY_RESERVE",
        "name": "Travis Etienne Jr.",
        "pos": "RB",
@@ -8052,8 +8062,8 @@
       },
       {
        "espn_id": 5083076,
-       "espn_proj": 10.07,
-       "injury": "QUESTIONABLE",
+       "espn_proj": 10.09,
+       "injury": "ACTIVE",
        "name": "Harold Fannin Jr.",
        "pos": "TE",
        "pts": null,
@@ -8082,7 +8092,7 @@
       },
       {
        "espn_id": 4685702,
-       "espn_proj": 11.79,
+       "espn_proj": 11.8,
        "injury": "ACTIVE",
        "name": "Quinshon Judkins",
        "pos": "RB",
@@ -8092,7 +8102,7 @@
       },
       {
        "espn_id": 3929645,
-       "espn_proj": 7.31,
+       "espn_proj": 7.28,
        "injury": "ACTIVE",
        "name": "Juwan Johnson",
        "pos": "TE",
@@ -8205,7 +8215,7 @@
       },
       {
        "espn_id": 4360569,
-       "espn_proj": 9.15,
+       "espn_proj": 9.21,
        "injury": "ACTIVE",
        "name": "Jordan Mason",
        "pos": "RB",
@@ -8225,7 +8235,7 @@
       },
       {
        "espn_id": 4569559,
-       "espn_proj": 7.41,
+       "espn_proj": 7.38,
        "injury": "ACTIVE",
        "name": "Devaughn Vele",
        "pos": "WR",
@@ -8321,5 +8331,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T18:58:12+00:00"
+ "updated": "2026-11-14T01:06:16+00:00"
 }
