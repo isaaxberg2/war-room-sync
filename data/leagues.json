@@ -6617,24 +6617,14 @@
        "team": "CHI"
       },
       {
-       "espn_id": 4360438,
-       "espn_proj": null,
-       "injury": "OUT",
-       "name": "Brandon Aiyuk",
-       "pos": "WR",
-       "pts": null,
-       "slot": "IR",
-       "team": "SF"
-      },
-      {
-       "espn_id": 4569682,
-       "espn_proj": 4.15,
+       "espn_id": 4832955,
+       "espn_proj": 6.43,
        "injury": "ACTIVE",
-       "name": "Audric Estime",
+       "name": "Emmett Johnson",
        "pos": "RB",
        "pts": null,
        "slot": "BN",
-       "team": "NO"
+       "team": "KC"
       }
      ],
      "streak": "W3",
@@ -8331,5 +8321,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T01:06:16+00:00"
+ "updated": "2026-11-14T07:06:00+00:00"
 }
