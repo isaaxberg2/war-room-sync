@@ -4851,7 +4851,7 @@
        "name": "Quinshon Judkins",
        "pos": "RB",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "CLE"
       },
       {
@@ -4921,7 +4921,7 @@
        "name": "Deebo Samuel Sr.",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "FLEX",
        "team": "SF"
       },
       {
@@ -8321,5 +8321,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T07:06:00+00:00"
+ "updated": "2026-11-14T12:55:58+00:00"
 }
