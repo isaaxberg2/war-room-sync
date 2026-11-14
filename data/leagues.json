@@ -959,7 +959,7 @@
       {
        "espn_id": 4567048,
        "espn_proj": 29.06,
-       "injury": "QUESTIONABLE",
+       "injury": "OUT",
        "name": "Kenneth Walker III",
        "pos": "RB",
        "pts": null,
@@ -3699,7 +3699,7 @@
       {
        "espn_id": 4567048,
        "espn_proj": 26.13,
-       "injury": "QUESTIONABLE",
+       "injury": "OUT",
        "name": "Kenneth Walker III",
        "pos": "RB",
        "pts": null,
@@ -3797,23 +3797,13 @@
        "team": "BUF"
       },
       {
-       "espn_id": 4685261,
-       "espn_proj": 10.89,
-       "injury": "ACTIVE",
-       "name": "Germie Bernard",
-       "pos": "WR",
-       "pts": null,
-       "slot": "BN",
-       "team": "PIT"
-      },
-      {
        "espn_id": 4036133,
        "espn_proj": 0.0,
        "injury": "OUT",
        "name": "T.J. Hockenson",
        "pos": "TE",
        "pts": null,
-       "slot": "TE",
+       "slot": "BN",
        "team": "MIN"
       },
       {
@@ -3865,6 +3855,16 @@
        "pts": null,
        "slot": "DST",
        "team": "BAL"
+      },
+      {
+       "espn_id": 2576925,
+       "espn_proj": 8.49,
+       "injury": "ACTIVE",
+       "name": "Darren Waller",
+       "pos": "TE",
+       "pts": null,
+       "slot": "TE",
+       "team": "CAR"
       }
      ],
      "streak": "W5",
@@ -7601,13 +7601,13 @@
        "name": "Ashton Jeanty",
        "pos": "RB",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "RB",
        "team": "LV"
       },
       {
        "espn_id": 4567048,
        "espn_proj": 26.13,
-       "injury": "QUESTIONABLE",
+       "injury": "OUT",
        "name": "Kenneth Walker III",
        "pos": "RB",
        "pts": null,
@@ -7661,7 +7661,7 @@
        "name": "Rhamondre Stevenson",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "BN",
        "team": "NE"
       },
       {
@@ -7721,7 +7721,7 @@
        "name": "Germie Bernard",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "FLEX",
        "team": "PIT"
       },
       {
@@ -8321,5 +8321,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T12:55:58+00:00"
+ "updated": "2026-11-14T16:35:04+00:00"
 }
