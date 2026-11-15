@@ -1474,7 +1474,7 @@
       },
       {
        "espn_id": 4427095,
-       "espn_proj": 10.46,
+       "espn_proj": 10.41,
        "injury": "ACTIVE",
        "name": "DeMario Douglas",
        "pos": "WR",
@@ -1710,7 +1710,7 @@
       },
       {
        "espn_id": 4047646,
-       "espn_proj": 13.43,
+       "espn_proj": 13.36,
        "injury": "QUESTIONABLE",
        "name": "A.J. Brown",
        "pos": "WR",
@@ -1770,7 +1770,7 @@
       },
       {
        "espn_id": 3046439,
-       "espn_proj": 9.0,
+       "espn_proj": 8.95,
        "injury": "ACTIVE",
        "name": "Hunter Henry",
        "pos": "TE",
@@ -1830,7 +1830,7 @@
       },
       {
        "espn_id": 4431452,
-       "espn_proj": 28.12,
+       "espn_proj": 28.09,
        "injury": "ACTIVE",
        "name": "Drake Maye",
        "pos": "QB",
@@ -2076,7 +2076,7 @@
       },
       {
        "espn_id": 4569173,
-       "espn_proj": 0.0,
+       "espn_proj": 14.03,
        "injury": "QUESTIONABLE",
        "name": "Rhamondre Stevenson",
        "pos": "RB",
@@ -2735,7 +2735,7 @@
       },
       {
        "espn_id": 4431431,
-       "espn_proj": 10.92,
+       "espn_proj": 7.19,
        "injury": "ACTIVE",
        "name": "Corey Kiner",
        "pos": "RB",
@@ -3848,7 +3848,7 @@
       },
       {
        "espn_id": 4431431,
-       "espn_proj": 10.2,
+       "espn_proj": 6.83,
        "injury": "ACTIVE",
        "name": "Corey Kiner",
        "pos": "RB",
@@ -3951,7 +3951,7 @@
       },
       {
        "espn_id": 4569173,
-       "espn_proj": 0.0,
+       "espn_proj": 13.42,
        "injury": "QUESTIONABLE",
        "name": "Rhamondre Stevenson",
        "pos": "RB",
@@ -4234,7 +4234,7 @@
       },
       {
        "espn_id": 2991662,
-       "espn_proj": 9.35,
+       "espn_proj": 9.32,
        "injury": "ACTIVE",
        "name": "Mack Hollins",
        "pos": "WR",
@@ -4643,7 +4643,7 @@
       },
       {
        "espn_id": 4047646,
-       "espn_proj": 12.6,
+       "espn_proj": 12.55,
        "injury": "QUESTIONABLE",
        "name": "A.J. Brown",
        "pos": "WR",
@@ -4763,7 +4763,7 @@
       },
       {
        "espn_id": 3046439,
-       "espn_proj": 8.8,
+       "espn_proj": 8.77,
        "injury": "ACTIVE",
        "name": "Hunter Henry",
        "pos": "TE",
@@ -5405,7 +5405,7 @@
       },
       {
        "espn_id": 4431452,
-       "espn_proj": 21.99,
+       "espn_proj": 21.96,
        "injury": "ACTIVE",
        "name": "Drake Maye",
        "pos": "QB",
@@ -5515,7 +5515,7 @@
       },
       {
        "espn_id": 4427095,
-       "espn_proj": 10.06,
+       "espn_proj": 10.02,
        "injury": "ACTIVE",
        "name": "DeMario Douglas",
        "pos": "WR",
@@ -6578,7 +6578,7 @@
       },
       {
        "espn_id": 4047646,
-       "espn_proj": 12.6,
+       "espn_proj": 12.55,
        "injury": "QUESTIONABLE",
        "name": "A.J. Brown",
        "pos": "WR",
@@ -6771,7 +6771,7 @@
       },
       {
        "espn_id": 3046439,
-       "espn_proj": 8.8,
+       "espn_proj": 8.77,
        "injury": "ACTIVE",
        "name": "Hunter Henry",
        "pos": "TE",
@@ -7493,7 +7493,7 @@
       },
       {
        "espn_id": 4427095,
-       "espn_proj": 10.06,
+       "espn_proj": 10.02,
        "injury": "ACTIVE",
        "name": "DeMario Douglas",
        "pos": "WR",
@@ -7666,7 +7666,7 @@
       },
       {
        "espn_id": 4569173,
-       "espn_proj": 0.0,
+       "espn_proj": 13.42,
        "injury": "QUESTIONABLE",
        "name": "Rhamondre Stevenson",
        "pos": "RB",
@@ -7756,7 +7756,7 @@
       },
       {
        "espn_id": 4431431,
-       "espn_proj": 10.2,
+       "espn_proj": 6.83,
        "injury": "ACTIVE",
        "name": "Corey Kiner",
        "pos": "RB",
@@ -8042,7 +8042,7 @@
       },
       {
        "espn_id": -16008,
-       "espn_proj": 5.06,
+       "espn_proj": 5.14,
        "injury": "NORMAL",
        "name": "Lions D/ST",
        "pos": "DST",
@@ -8195,7 +8195,7 @@
       },
       {
        "espn_id": 4431452,
-       "espn_proj": 21.99,
+       "espn_proj": 21.96,
        "injury": "ACTIVE",
        "name": "Drake Maye",
        "pos": "QB",
@@ -8315,7 +8315,7 @@
       },
       {
        "espn_id": 2991662,
-       "espn_proj": 9.35,
+       "espn_proj": 9.32,
        "injury": "ACTIVE",
        "name": "Mack Hollins",
        "pos": "WR",
@@ -8341,5 +8341,5 @@
    ]
   }
  ],
- "updated": "2026-11-15T07:08:36+00:00"
+ "updated": "2026-11-15T12:58:17+00:00"
 }
