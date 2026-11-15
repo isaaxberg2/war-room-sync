@@ -472,7 +472,7 @@
     },
     {
      "away": 11,
-     "away_live": 0.0,
+     "away_live": 51.7,
      "away_pts": 0.0,
      "home": 2,
      "home_live": 2.6,
@@ -482,37 +482,37 @@
     },
     {
      "away": 7,
-     "away_live": 0.0,
+     "away_live": 39.8,
      "away_pts": 0.0,
      "home": 4,
-     "home_live": 57.0,
+     "home_live": 59.0,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
-     "away_live": 81.9,
+     "away_live": 89.8,
      "away_pts": 0.0,
      "home": 5,
-     "home_live": 7.8,
+     "home_live": 21.8,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 10,
-     "away_live": 26.8,
+     "away_live": 58.5,
      "away_pts": 0.0,
      "home": 3,
-     "home_live": 3.4,
+     "home_live": 15.7,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 9,
-     "away_live": 34.7,
+     "away_live": 37.8,
      "away_pts": 0.0,
      "home": 8,
      "home_live": 14.0,
@@ -952,7 +952,7 @@
        "injury": "ACTIVE",
        "name": "Rashee Rice",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "KC"
       },
@@ -962,7 +962,7 @@
        "injury": "OUT",
        "name": "Kenneth Walker III",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "KC"
       },
@@ -982,7 +982,7 @@
        "injury": "ACTIVE",
        "name": "Travis Etienne Jr.",
        "pos": "RB",
-       "pts": null,
+       "pts": 4.8,
        "slot": "RB",
        "team": "NO"
       },
@@ -992,7 +992,7 @@
        "injury": "OUT",
        "name": "Carnell Tate",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "TEN"
       },
@@ -1022,7 +1022,7 @@
        "injury": "ACTIVE",
        "name": "Jordan Mason",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.6,
        "slot": "BN",
        "team": "MIN"
       },
@@ -1032,7 +1032,7 @@
        "injury": "OUT",
        "name": "T.J. Hockenson",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "MIN"
       },
@@ -1072,7 +1072,7 @@
        "injury": "ACTIVE",
        "name": "Charlie Smyth",
        "pos": "K",
-       "pts": null,
+       "pts": 0.0,
        "slot": "K",
        "team": "NO"
       },
@@ -1112,7 +1112,7 @@
        "injury": "ACTIVE",
        "name": "Wan'Dale Robinson",
        "pos": "WR",
-       "pts": null,
+       "pts": 3.1,
        "slot": "WR",
        "team": "TEN"
       }
@@ -1155,7 +1155,7 @@
        "injury": "ACTIVE",
        "name": "Chris Olave",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "FLEX",
        "team": "NO"
       },
@@ -1165,7 +1165,7 @@
        "injury": "ACTIVE",
        "name": "Breece Hall",
        "pos": "RB",
-       "pts": null,
+       "pts": 3.1,
        "slot": "BN",
        "team": "NYJ"
       },
@@ -1215,7 +1215,7 @@
        "injury": "ACTIVE",
        "name": "Matthew Golden",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "GB"
       },
@@ -1225,7 +1225,7 @@
        "injury": "ACTIVE",
        "name": "Josh Downs",
        "pos": "WR",
-       "pts": null,
+       "pts": 3.1,
        "slot": "BN",
        "team": "KC"
       },
@@ -1245,7 +1245,7 @@
        "injury": "ACTIVE",
        "name": "Kirk Cousins",
        "pos": "QB",
-       "pts": null,
+       "pts": 8.4,
        "slot": "BN",
        "team": "MIN"
       },
@@ -1255,7 +1255,7 @@
        "injury": "ACTIVE",
        "name": "Spencer Shrader",
        "pos": "K",
-       "pts": null,
+       "pts": 0.0,
        "slot": "K",
        "team": "IND"
       },
@@ -1265,7 +1265,7 @@
        "injury": "ACTIVE",
        "name": "KC Concepcion",
        "pos": "WR",
-       "pts": null,
+       "pts": 1.6,
        "slot": "BN",
        "team": "CLE"
       },
@@ -1318,7 +1318,7 @@
        "injury": "ACTIVE",
        "name": "Bijan Robinson",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.8,
        "slot": "RB",
        "team": "ATL"
       },
@@ -1328,7 +1328,7 @@
        "injury": "ACTIVE",
        "name": "Drake London",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "ATL"
       },
@@ -1378,7 +1378,7 @@
        "injury": "OUT",
        "name": "Josh Jacobs",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "GB"
       },
@@ -1388,7 +1388,7 @@
        "injury": "ACTIVE",
        "name": "Tony Pollard",
        "pos": "RB",
-       "pts": null,
+       "pts": 1.5,
        "slot": "RB",
        "team": "TEN"
       },
@@ -1398,7 +1398,7 @@
        "injury": "OUT",
        "name": "Jordan Addison",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "MIN"
       },
@@ -1428,7 +1428,7 @@
        "injury": "ACTIVE",
        "name": "Denzel Boston",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "CLE"
       },
@@ -1448,7 +1448,7 @@
        "injury": "ACTIVE",
        "name": "Michael Penix Jr.",
        "pos": "QB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "ATL"
       },
@@ -1488,7 +1488,7 @@
        "injury": "NORMAL",
        "name": "Bills D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 10.0,
        "slot": "DST",
        "team": "BUF"
       }
@@ -1531,7 +1531,7 @@
        "injury": "ACTIVE",
        "name": "Garrett Wilson",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "NYJ"
       },
@@ -1591,7 +1591,7 @@
        "injury": "ACTIVE",
        "name": "MarShawn Lloyd",
        "pos": "RB",
-       "pts": null,
+       "pts": 5.2,
        "slot": "BN",
        "team": "GB"
       },
@@ -1621,7 +1621,7 @@
        "injury": "ACTIVE",
        "name": "Bryce Young",
        "pos": "QB",
-       "pts": null,
+       "pts": 1.0,
        "slot": "QB",
        "team": "CAR"
       },
@@ -1641,7 +1641,7 @@
        "injury": "OUT",
        "name": "Kyler Murray",
        "pos": "QB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "MIN"
       },
@@ -1651,7 +1651,7 @@
        "injury": "ACTIVE",
        "name": "Harrison Butker",
        "pos": "K",
-       "pts": null,
+       "pts": 1.0,
        "slot": "K",
        "team": "KC"
       },
@@ -1661,7 +1661,7 @@
        "injury": "ACTIVE",
        "name": "Tank Dell",
        "pos": "WR",
-       "pts": null,
+       "pts": 3.9,
        "slot": "BN",
        "team": "HOU"
       },
@@ -1671,7 +1671,7 @@
        "injury": "ACTIVE",
        "name": "Audric Estime",
        "pos": "RB",
-       "pts": null,
+       "pts": 2.1,
        "slot": "BN",
        "team": "NO"
       },
@@ -1704,7 +1704,7 @@
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
-       "pts": null,
+       "pts": 2.0,
        "slot": "RB",
        "team": "IND"
       },
@@ -1724,7 +1724,7 @@
        "injury": "ACTIVE",
        "name": "Tetairoa McMillan",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "CAR"
       },
@@ -1794,7 +1794,7 @@
        "injury": "ACTIVE",
        "name": "Tyler Shough",
        "pos": "QB",
-       "pts": null,
+       "pts": -1.5,
        "slot": "BN",
        "team": "NO"
       },
@@ -1844,7 +1844,7 @@
        "injury": "NORMAL",
        "name": "Jaguars D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 11.0,
        "slot": "DST",
        "team": "JAX"
       },
@@ -1854,7 +1854,7 @@
        "injury": "ACTIVE",
        "name": "Tyler Bass",
        "pos": "K",
-       "pts": null,
+       "pts": 1.0,
        "slot": "K",
        "team": "BUF"
       },
@@ -1864,7 +1864,7 @@
        "injury": "ACTIVE",
        "name": "Khalil Shakir",
        "pos": "WR",
-       "pts": null,
+       "pts": 4.1,
        "slot": "BN",
        "team": "BUF"
       }
@@ -1887,7 +1887,7 @@
        "injury": "ACTIVE",
        "name": "James Cook III",
        "pos": "RB",
-       "pts": null,
+       "pts": 2.2,
        "slot": "RB",
        "team": "BUF"
       },
@@ -1927,7 +1927,7 @@
        "injury": "ACTIVE",
        "name": "Quinshon Judkins",
        "pos": "RB",
-       "pts": null,
+       "pts": 1.9,
        "slot": "BN",
        "team": "CLE"
       },
@@ -1937,7 +1937,7 @@
        "injury": "ACTIVE",
        "name": "Tyler Warren",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.3,
        "slot": "BN",
        "team": "IND"
       },
@@ -1947,7 +1947,7 @@
        "injury": "OUT",
        "name": "Marvin Harrison Jr.",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "HOU"
       },
@@ -1967,17 +1967,17 @@
        "injury": "ACTIVE",
        "name": "Chuba Hubbard",
        "pos": "RB",
-       "pts": null,
+       "pts": 9.1,
        "slot": "RB",
        "team": "CAR"
       },
       {
        "espn_id": 15847,
        "espn_proj": 12.22,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Travis Kelce",
        "pos": "TE",
-       "pts": null,
+       "pts": 3.3,
        "slot": "TE",
        "team": "KC"
       },
@@ -1987,7 +1987,7 @@
        "injury": "ACTIVE",
        "name": "Trevor Lawrence",
        "pos": "QB",
-       "pts": null,
+       "pts": 8.2,
        "slot": "QB",
        "team": "JAX"
       },
@@ -1997,7 +1997,7 @@
        "injury": "ACTIVE",
        "name": "Will Reichard",
        "pos": "K",
-       "pts": null,
+       "pts": 4.0,
        "slot": "K",
        "team": "MIN"
       },
@@ -2007,7 +2007,7 @@
        "injury": "ACTIVE",
        "name": "Jordyn Tyson",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "NO"
       },
@@ -2017,7 +2017,7 @@
        "injury": "ACTIVE",
        "name": "Devaughn Vele",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "NO"
       },
@@ -2027,7 +2027,7 @@
        "injury": "NORMAL",
        "name": "Vikings D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 13.0,
        "slot": "DST",
        "team": "MIN"
       },
@@ -2090,7 +2090,7 @@
        "injury": "ACTIVE",
        "name": "Kyle Pitts Sr.",
        "pos": "TE",
-       "pts": null,
+       "pts": 1.8,
        "slot": "BN",
        "team": "ATL"
       },
@@ -2100,7 +2100,7 @@
        "injury": "ACTIVE",
        "name": "Jakobi Meyers",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "JAX"
       },
@@ -2180,7 +2180,7 @@
        "injury": "ACTIVE",
        "name": "Jordan Love",
        "pos": "QB",
-       "pts": null,
+       "pts": 2.0,
        "slot": "BN",
        "team": "GB"
       },
@@ -2190,7 +2190,7 @@
        "injury": "ACTIVE",
        "name": "Jalen Coker",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "CAR"
       },
@@ -2200,7 +2200,7 @@
        "injury": "ACTIVE",
        "name": "Tucker Kraft",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "TE",
        "team": "GB"
       },
@@ -2273,7 +2273,7 @@
        "injury": "ACTIVE",
        "name": "DJ Moore",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.4,
        "slot": "FLEX",
        "team": "BUF"
       },
@@ -2283,7 +2283,7 @@
        "injury": "ACTIVE",
        "name": "Harold Fannin Jr.",
        "pos": "TE",
-       "pts": null,
+       "pts": 1.7,
        "slot": "TE",
        "team": "CLE"
       },
@@ -2313,7 +2313,7 @@
        "injury": "ACTIVE",
        "name": "Aaron Jones Sr.",
        "pos": "RB",
-       "pts": null,
+       "pts": 1.1,
        "slot": "BN",
        "team": "MIN"
       },
@@ -2323,7 +2323,7 @@
        "injury": "ACTIVE",
        "name": "Dalton Kincaid",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "BUF"
       },
@@ -2353,7 +2353,7 @@
        "injury": "ACTIVE",
        "name": "Cam Little",
        "pos": "K",
-       "pts": null,
+       "pts": 1.0,
        "slot": "K",
        "team": "JAX"
       },
@@ -2363,7 +2363,7 @@
        "injury": "ACTIVE",
        "name": "Alvin Kamara",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "NO"
       },
@@ -2373,7 +2373,7 @@
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
-       "pts": null,
+       "pts": 13.8,
        "slot": "BN",
        "team": "HOU"
       },
@@ -2383,7 +2383,7 @@
        "injury": "ACTIVE",
        "name": "Andre Szmyt",
        "pos": "K",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "CLE"
       }
@@ -2416,7 +2416,7 @@
        "injury": "ACTIVE",
        "name": "Nico Collins",
        "pos": "WR",
-       "pts": null,
+       "pts": 13.7,
        "slot": "WR",
        "team": "HOU"
       },
@@ -2456,7 +2456,7 @@
        "injury": "ACTIVE",
        "name": "Christian Watson",
        "pos": "WR",
-       "pts": null,
+       "pts": 2.5,
        "slot": "WR",
        "team": "GB"
       },
@@ -2486,7 +2486,7 @@
        "injury": "ACTIVE",
        "name": "Juwan Johnson",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "NO"
       },
@@ -2496,7 +2496,7 @@
        "injury": "ACTIVE",
        "name": "Patrick Mahomes",
        "pos": "QB",
-       "pts": null,
+       "pts": 10.9,
        "slot": "BN",
        "team": "KC"
       },
@@ -2506,7 +2506,7 @@
        "injury": "ACTIVE",
        "name": "Braelon Allen",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "NYJ"
       },
@@ -2516,7 +2516,7 @@
        "injury": "OUT",
        "name": "David Montgomery",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "HOU"
       },
@@ -2526,7 +2526,7 @@
        "injury": "ACTIVE",
        "name": "Woody Marks",
        "pos": "RB",
-       "pts": null,
+       "pts": 3.9,
        "slot": "FLEX",
        "team": "HOU"
       },
@@ -2536,17 +2536,17 @@
        "injury": "ACTIVE",
        "name": "Xavier Worthy",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "KC"
       },
       {
        "espn_id": 4723820,
        "espn_proj": 9.83,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Omar Cooper Jr.",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "NYJ"
       },
@@ -2556,7 +2556,7 @@
        "injury": "NORMAL",
        "name": "Texans D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 10.0,
        "slot": "DST",
        "team": "HOU"
       },
@@ -2566,7 +2566,7 @@
        "injury": "ACTIVE",
        "name": "Brenton Strange",
        "pos": "TE",
-       "pts": null,
+       "pts": 1.6,
        "slot": "TE",
        "team": "JAX"
       },
@@ -2609,7 +2609,7 @@
        "injury": "ACTIVE",
        "name": "Bhayshul Tuten",
        "pos": "RB",
-       "pts": null,
+       "pts": 3.9,
        "slot": "RB",
        "team": "JAX"
       },
@@ -2629,7 +2629,7 @@
        "injury": "ACTIVE",
        "name": "Parker Washington",
        "pos": "WR",
-       "pts": null,
+       "pts": 16.6,
        "slot": "WR",
        "team": "JAX"
       },
@@ -2639,7 +2639,7 @@
        "injury": "ACTIVE",
        "name": "Ka'imi Fairbairn",
        "pos": "K",
-       "pts": null,
+       "pts": 5.0,
        "slot": "K",
        "team": "HOU"
       },
@@ -2649,7 +2649,7 @@
        "injury": "ACTIVE",
        "name": "Ollie Gordon II",
        "pos": "RB",
-       "pts": null,
+       "pts": 1.6,
        "slot": "FLEX",
        "team": "MIA"
       },
@@ -2719,7 +2719,7 @@
        "injury": "ACTIVE",
        "name": "Justin Jefferson",
        "pos": "WR",
-       "pts": null,
+       "pts": 2.3,
        "slot": "WR",
        "team": "MIN"
       },
@@ -2729,7 +2729,7 @@
        "injury": "ACTIVE",
        "name": "Josh Allen",
        "pos": "QB",
-       "pts": null,
+       "pts": 7.5,
        "slot": "QB",
        "team": "BUF"
       },
@@ -2759,7 +2759,7 @@
        "injury": "ACTIVE",
        "name": "Darren Waller",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "TE",
        "team": "CAR"
       },
@@ -2769,7 +2769,7 @@
        "injury": "ACTIVE",
        "name": "Emmett Johnson",
        "pos": "RB",
-       "pts": null,
+       "pts": 14.8,
        "slot": "RB",
        "team": "KC"
       }
@@ -3252,27 +3252,27 @@
     },
     {
      "away": 13,
-     "away_live": 25.8,
+     "away_live": 37.16,
      "away_pts": 0.0,
      "home": 14,
-     "home_live": 4.42,
+     "home_live": 17.52,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
-     "away_live": 44.2,
+     "away_live": 74.64,
      "away_pts": 0.0,
      "home": 6,
-     "home_live": 0.0,
+     "home_live": 31.42,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 11,
-     "away_live": 0.0,
+     "away_live": 23.0,
      "away_pts": 0.0,
      "home": 12,
      "home_live": 48.46,
@@ -3282,20 +3282,20 @@
     },
     {
      "away": 4,
-     "away_live": 11.2,
+     "away_live": 16.9,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 27.7,
+     "home_live": 35.7,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 8,
-     "away_live": 27.2,
+     "away_live": 54.0,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 2.6,
+     "home_live": 21.8,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -3712,7 +3712,7 @@
        "injury": "OUT",
        "name": "Kenneth Walker III",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "KC"
       },
@@ -3722,7 +3722,7 @@
        "injury": "ACTIVE",
        "name": "Drake London",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "ATL"
       },
@@ -3762,7 +3762,7 @@
        "injury": "ACTIVE",
        "name": "Parker Washington",
        "pos": "WR",
-       "pts": null,
+       "pts": 16.6,
        "slot": "WR",
        "team": "JAX"
       },
@@ -3772,7 +3772,7 @@
        "injury": "ACTIVE",
        "name": "Trevor Lawrence",
        "pos": "QB",
-       "pts": null,
+       "pts": 6.64,
        "slot": "QB",
        "team": "JAX"
       },
@@ -3782,7 +3782,7 @@
        "injury": "ACTIVE",
        "name": "KC Concepcion",
        "pos": "WR",
-       "pts": null,
+       "pts": 1.6,
        "slot": "FLEX",
        "team": "CLE"
       },
@@ -3792,7 +3792,7 @@
        "injury": "ACTIVE",
        "name": "DJ Moore",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.4,
        "slot": "BN",
        "team": "BUF"
       },
@@ -3802,7 +3802,7 @@
        "injury": "OUT",
        "name": "T.J. Hockenson",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "MIN"
       },
@@ -3822,7 +3822,7 @@
        "injury": "ACTIVE",
        "name": "Ka'imi Fairbairn",
        "pos": "K",
-       "pts": null,
+       "pts": 5.0,
        "slot": "K",
        "team": "HOU"
       },
@@ -3832,7 +3832,7 @@
        "injury": "ACTIVE",
        "name": "Jordyn Tyson",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "NO"
       },
@@ -3862,7 +3862,7 @@
        "injury": "ACTIVE",
        "name": "Darren Waller",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "TE",
        "team": "CAR"
       },
@@ -3872,7 +3872,7 @@
        "injury": "ACTIVE",
        "name": "Jordan Mason",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.6,
        "slot": "RB",
        "team": "MIN"
       }
@@ -3915,7 +3915,7 @@
        "injury": "ACTIVE",
        "name": "Nico Collins",
        "pos": "WR",
-       "pts": null,
+       "pts": 13.7,
        "slot": "WR",
        "team": "HOU"
       },
@@ -3945,7 +3945,7 @@
        "injury": "ACTIVE",
        "name": "Tyler Warren",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.3,
        "slot": "BN",
        "team": "IND"
       },
@@ -3985,7 +3985,7 @@
        "injury": "OUT",
        "name": "Jordan Addison",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "FLEX",
        "team": "MIN"
       },
@@ -4005,7 +4005,7 @@
        "injury": "ACTIVE",
        "name": "Josh Downs",
        "pos": "WR",
-       "pts": null,
+       "pts": 3.1,
        "slot": "BN",
        "team": "KC"
       },
@@ -4025,7 +4025,7 @@
        "injury": "ACTIVE",
        "name": "Tyler Shough",
        "pos": "QB",
-       "pts": null,
+       "pts": -0.5,
        "slot": "QB",
        "team": "NO"
       },
@@ -4045,7 +4045,7 @@
        "injury": "NORMAL",
        "name": "Browns D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 6.0,
        "slot": "DST",
        "team": "CLE"
       },
@@ -4065,7 +4065,7 @@
        "injury": "ACTIVE",
        "name": "Ryan Fitzgerald",
        "pos": "K",
-       "pts": null,
+       "pts": 0.0,
        "slot": "K",
        "team": "CAR"
       }
@@ -4088,7 +4088,7 @@
        "injury": "ACTIVE",
        "name": "Bijan Robinson",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.8,
        "slot": "RB",
        "team": "ATL"
       },
@@ -4138,7 +4138,7 @@
        "injury": "ACTIVE",
        "name": "Kyle Pitts Sr.",
        "pos": "TE",
-       "pts": null,
+       "pts": 1.8,
        "slot": "TE",
        "team": "ATL"
       },
@@ -4158,7 +4158,7 @@
        "injury": "ACTIVE",
        "name": "Wan'Dale Robinson",
        "pos": "WR",
-       "pts": null,
+       "pts": 3.1,
        "slot": "WR",
        "team": "TEN"
       },
@@ -4178,7 +4178,7 @@
        "injury": "ACTIVE",
        "name": "Matthew Golden",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "GB"
       },
@@ -4208,7 +4208,7 @@
        "injury": "ACTIVE",
        "name": "Jordan Love",
        "pos": "QB",
-       "pts": null,
+       "pts": 1.6,
        "slot": "BN",
        "team": "GB"
       },
@@ -4311,7 +4311,7 @@
        "injury": "OUT",
        "name": "Marvin Harrison Jr.",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "HOU"
       },
@@ -4328,10 +4328,10 @@
       {
        "espn_id": 15847,
        "espn_proj": 11.55,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Travis Kelce",
        "pos": "TE",
-       "pts": null,
+       "pts": 3.3,
        "slot": "FLEX",
        "team": "KC"
       },
@@ -4341,7 +4341,7 @@
        "injury": "OUT",
        "name": "Josh Jacobs",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "GB"
       },
@@ -4371,7 +4371,7 @@
        "injury": "ACTIVE",
        "name": "Bryce Young",
        "pos": "QB",
-       "pts": null,
+       "pts": 1.32,
        "slot": "QB",
        "team": "CAR"
       },
@@ -4391,7 +4391,7 @@
        "injury": "ACTIVE",
        "name": "Tyler Bass",
        "pos": "K",
-       "pts": null,
+       "pts": 1.0,
        "slot": "K",
        "team": "BUF"
       },
@@ -4401,7 +4401,7 @@
        "injury": "ACTIVE",
        "name": "Emmett Johnson",
        "pos": "RB",
-       "pts": null,
+       "pts": 14.8,
        "slot": "FLEX",
        "team": "KC"
       },
@@ -4411,7 +4411,7 @@
        "injury": "NORMAL",
        "name": "Chiefs D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 11.0,
        "slot": "DST",
        "team": "KC"
       },
@@ -4421,7 +4421,7 @@
        "injury": "ACTIVE",
        "name": "Jakobi Meyers",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "JAX"
       }
@@ -4444,7 +4444,7 @@
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
-       "pts": null,
+       "pts": 2.0,
        "slot": "RB",
        "team": "IND"
       },
@@ -4464,7 +4464,7 @@
        "injury": "ACTIVE",
        "name": "Rashee Rice",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "KC"
       },
@@ -4504,7 +4504,7 @@
        "injury": "OUT",
        "name": "Carnell Tate",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "TEN"
       },
@@ -4514,7 +4514,7 @@
        "injury": "ACTIVE",
        "name": "Harold Fannin Jr.",
        "pos": "TE",
-       "pts": null,
+       "pts": 1.7,
        "slot": "TE",
        "team": "CLE"
       },
@@ -4534,7 +4534,7 @@
        "injury": "ACTIVE",
        "name": "Chuba Hubbard",
        "pos": "RB",
-       "pts": null,
+       "pts": 9.1,
        "slot": "RB",
        "team": "CAR"
       },
@@ -4544,7 +4544,7 @@
        "injury": "ACTIVE",
        "name": "Dalton Kincaid",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "BUF"
       },
@@ -4554,7 +4554,7 @@
        "injury": "NORMAL",
        "name": "Texans D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 10.0,
        "slot": "DST",
        "team": "HOU"
       },
@@ -4574,7 +4574,7 @@
        "injury": "ACTIVE",
        "name": "Harrison Butker",
        "pos": "K",
-       "pts": null,
+       "pts": 1.0,
        "slot": "BN",
        "team": "KC"
       },
@@ -4584,7 +4584,7 @@
        "injury": "ACTIVE",
        "name": "Xavier Worthy",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "KC"
       },
@@ -4594,7 +4594,7 @@
        "injury": "ACTIVE",
        "name": "Will Reichard",
        "pos": "K",
-       "pts": null,
+       "pts": 4.0,
        "slot": "K",
        "team": "MIN"
       },
@@ -4604,7 +4604,7 @@
        "injury": "NORMAL",
        "name": "Jaguars D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 11.0,
        "slot": "BN",
        "team": "JAX"
       }
@@ -4657,7 +4657,7 @@
        "injury": "ACTIVE",
        "name": "Travis Etienne Jr.",
        "pos": "RB",
-       "pts": null,
+       "pts": 4.8,
        "slot": "IR",
        "team": "NO"
       },
@@ -4687,7 +4687,7 @@
        "injury": "ACTIVE",
        "name": "Christian Watson",
        "pos": "WR",
-       "pts": null,
+       "pts": 2.5,
        "slot": "WR",
        "team": "GB"
       },
@@ -4697,7 +4697,7 @@
        "injury": "ACTIVE",
        "name": "Tucker Kraft",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "FLEX",
        "team": "GB"
       },
@@ -4737,7 +4737,7 @@
        "injury": "ACTIVE",
        "name": "Ollie Gordon II",
        "pos": "RB",
-       "pts": null,
+       "pts": 1.6,
        "slot": "RB",
        "team": "MIA"
       },
@@ -4747,7 +4747,7 @@
        "injury": "ACTIVE",
        "name": "Spencer Shrader",
        "pos": "K",
-       "pts": null,
+       "pts": 0.0,
        "slot": "K",
        "team": "IND"
       },
@@ -4797,7 +4797,7 @@
        "injury": "ACTIVE",
        "name": "Tank Dell",
        "pos": "WR",
-       "pts": null,
+       "pts": 3.9,
        "slot": "FLEX",
        "team": "HOU"
       }
@@ -4820,7 +4820,7 @@
        "injury": "ACTIVE",
        "name": "Justin Jefferson",
        "pos": "WR",
-       "pts": null,
+       "pts": 2.3,
        "slot": "WR",
        "team": "MIN"
       },
@@ -4830,7 +4830,7 @@
        "injury": "ACTIVE",
        "name": "James Cook III",
        "pos": "RB",
-       "pts": null,
+       "pts": 2.2,
        "slot": "RB",
        "team": "BUF"
       },
@@ -4840,7 +4840,7 @@
        "injury": "ACTIVE",
        "name": "Chris Olave",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "NO"
       },
@@ -4850,7 +4850,7 @@
        "injury": "ACTIVE",
        "name": "Garrett Wilson",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "FLEX",
        "team": "NYJ"
       },
@@ -4860,7 +4860,7 @@
        "injury": "ACTIVE",
        "name": "Quinshon Judkins",
        "pos": "RB",
-       "pts": null,
+       "pts": 1.9,
        "slot": "BN",
        "team": "CLE"
       },
@@ -4870,7 +4870,7 @@
        "injury": "ACTIVE",
        "name": "Bhayshul Tuten",
        "pos": "RB",
-       "pts": null,
+       "pts": 3.9,
        "slot": "RB",
        "team": "JAX"
       },
@@ -4900,7 +4900,7 @@
        "injury": "INJURY_RESERVE",
        "name": "Alec Pierce",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "IND"
       },
@@ -4920,7 +4920,7 @@
        "injury": "ACTIVE",
        "name": "Patrick Mahomes",
        "pos": "QB",
-       "pts": null,
+       "pts": 8.3,
        "slot": "BN",
        "team": "KC"
       },
@@ -4970,7 +4970,7 @@
        "injury": "ACTIVE",
        "name": "Brenton Strange",
        "pos": "TE",
-       "pts": null,
+       "pts": 1.6,
        "slot": "TE",
        "team": "JAX"
       },
@@ -4980,7 +4980,7 @@
        "injury": "NORMAL",
        "name": "Vikings D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 13.0,
        "slot": "DST",
        "team": "MIN"
       }
@@ -5053,7 +5053,7 @@
        "injury": "OUT",
        "name": "David Montgomery",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "HOU"
       },
@@ -5073,7 +5073,7 @@
        "injury": "ACTIVE",
        "name": "Tony Pollard",
        "pos": "RB",
-       "pts": null,
+       "pts": 1.5,
        "slot": "BN",
        "team": "TEN"
       },
@@ -5093,7 +5093,7 @@
        "injury": "INJURY_RESERVE",
        "name": "Jonathon Brooks",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "CAR"
       },
@@ -5123,7 +5123,7 @@
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
-       "pts": null,
+       "pts": 10.88,
        "slot": "BN",
        "team": "HOU"
       },
@@ -5163,7 +5163,7 @@
        "injury": "ACTIVE",
        "name": "Adonai Mitchell",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "NYJ"
       },
@@ -5216,7 +5216,7 @@
        "injury": "ACTIVE",
        "name": "Josh Allen",
        "pos": "QB",
-       "pts": null,
+       "pts": 7.46,
        "slot": "QB",
        "team": "BUF"
       },
@@ -5226,7 +5226,7 @@
        "injury": "ACTIVE",
        "name": "Tetairoa McMillan",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "CAR"
       },
@@ -5266,7 +5266,7 @@
        "injury": "ACTIVE",
        "name": "Aaron Jones Sr.",
        "pos": "RB",
-       "pts": null,
+       "pts": 1.1,
        "slot": "BN",
        "team": "MIN"
       },
@@ -5286,7 +5286,7 @@
        "injury": "ACTIVE",
        "name": "Woody Marks",
        "pos": "RB",
-       "pts": null,
+       "pts": 3.9,
        "slot": "RB",
        "team": "HOU"
       },
@@ -5296,7 +5296,7 @@
        "injury": "ACTIVE",
        "name": "Denzel Boston",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "FLEX",
        "team": "CLE"
       },
@@ -5389,7 +5389,7 @@
        "injury": "ACTIVE",
        "name": "Breece Hall",
        "pos": "RB",
-       "pts": null,
+       "pts": 3.1,
        "slot": "RB",
        "team": "NYJ"
       },
@@ -5459,7 +5459,7 @@
        "injury": "ACTIVE",
        "name": "Khalil Shakir",
        "pos": "WR",
-       "pts": null,
+       "pts": 4.1,
        "slot": "BN",
        "team": "BUF"
       },
@@ -5469,7 +5469,7 @@
        "injury": "ACTIVE",
        "name": "Jalen Coker",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "FLEX",
        "team": "CAR"
       },
@@ -5489,7 +5489,7 @@
        "injury": "ACTIVE",
        "name": "Braelon Allen",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "NYJ"
       },
@@ -5499,7 +5499,7 @@
        "injury": "ACTIVE",
        "name": "Alvin Kamara",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "RB",
        "team": "NO"
       },
@@ -5539,7 +5539,7 @@
        "injury": "NORMAL",
        "name": "Bills D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 10.0,
        "slot": "DST",
        "team": "BUF"
       }
@@ -6022,50 +6022,50 @@
     },
     {
      "away": 4,
-     "away_live": 20.42,
+     "away_live": 38.22,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 49.16,
+     "home_live": 63.26,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 5,
-     "away_live": 27.7,
+     "away_live": 35.1,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 20.22,
+     "home_live": 41.92,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 3,
-     "away_live": 0.0,
+     "away_live": 17.46,
      "away_pts": 0.0,
      "home": 6,
-     "home_live": 45.6,
+     "home_live": 51.1,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 9,
-     "away_live": 33.3,
+     "away_live": 44.8,
      "away_pts": 0.0,
      "home": 8,
-     "home_live": 20.2,
+     "home_live": 33.0,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
-     "away_live": 31.9,
+     "away_live": 46.7,
      "away_pts": 0.0,
      "home": 7,
-     "home_live": 1.5,
+     "home_live": 42.74,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -6492,7 +6492,7 @@
        "injury": "ACTIVE",
        "name": "Rashee Rice",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "KC"
       },
@@ -6552,7 +6552,7 @@
        "injury": "ACTIVE",
        "name": "Denzel Boston",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "CLE"
       },
@@ -6562,7 +6562,7 @@
        "injury": "ACTIVE",
        "name": "Khalil Shakir",
        "pos": "WR",
-       "pts": null,
+       "pts": 4.1,
        "slot": "BN",
        "team": "BUF"
       },
@@ -6592,7 +6592,7 @@
        "injury": "OUT",
        "name": "David Montgomery",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "HOU"
       },
@@ -6632,7 +6632,7 @@
        "injury": "ACTIVE",
        "name": "Emmett Johnson",
        "pos": "RB",
-       "pts": null,
+       "pts": 14.8,
        "slot": "FLEX",
        "team": "KC"
       }
@@ -6665,7 +6665,7 @@
        "injury": "ACTIVE",
        "name": "Drake London",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "ATL"
       },
@@ -6685,7 +6685,7 @@
        "injury": "ACTIVE",
        "name": "Breece Hall",
        "pos": "RB",
-       "pts": null,
+       "pts": 3.1,
        "slot": "RB",
        "team": "NYJ"
       },
@@ -6735,7 +6735,7 @@
        "injury": "OUT",
        "name": "Jordan Addison",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "FLEX",
        "team": "MIN"
       },
@@ -6765,7 +6765,7 @@
        "injury": "NORMAL",
        "name": "Texans D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 10.0,
        "slot": "DST",
        "team": "HOU"
       },
@@ -6785,7 +6785,7 @@
        "injury": "ACTIVE",
        "name": "Alvin Kamara",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "NO"
       },
@@ -6795,7 +6795,7 @@
        "injury": "ACTIVE",
        "name": "Jordan Love",
        "pos": "QB",
-       "pts": null,
+       "pts": 1.6,
        "slot": "BN",
        "team": "GB"
       },
@@ -6815,7 +6815,7 @@
        "injury": "ACTIVE",
        "name": "Harrison Butker",
        "pos": "K",
-       "pts": null,
+       "pts": 1.0,
        "slot": "K",
        "team": "KC"
       }
@@ -6848,7 +6848,7 @@
        "injury": "ACTIVE",
        "name": "Josh Allen",
        "pos": "QB",
-       "pts": null,
+       "pts": 7.46,
        "slot": "QB",
        "team": "BUF"
       },
@@ -6858,7 +6858,7 @@
        "injury": "ACTIVE",
        "name": "Tetairoa McMillan",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "CAR"
       },
@@ -6878,7 +6878,7 @@
        "injury": "OUT",
        "name": "Carnell Tate",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "TEN"
       },
@@ -6908,7 +6908,7 @@
        "injury": "ACTIVE",
        "name": "Tank Dell",
        "pos": "WR",
-       "pts": null,
+       "pts": 3.9,
        "slot": "FLEX",
        "team": "HOU"
       },
@@ -6928,7 +6928,7 @@
        "injury": "ACTIVE",
        "name": "Keon Coleman",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "BUF"
       },
@@ -6938,7 +6938,7 @@
        "injury": "ACTIVE",
        "name": "Christian Watson",
        "pos": "WR",
-       "pts": null,
+       "pts": 2.5,
        "slot": "WR",
        "team": "GB"
       },
@@ -6948,7 +6948,7 @@
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
-       "pts": null,
+       "pts": 2.0,
        "slot": "RB",
        "team": "IND"
       },
@@ -6958,7 +6958,7 @@
        "injury": "ACTIVE",
        "name": "Ollie Gordon II",
        "pos": "RB",
-       "pts": null,
+       "pts": 1.6,
        "slot": "RB",
        "team": "MIA"
       },
@@ -6988,7 +6988,7 @@
        "injury": "INJURY_RESERVE",
        "name": "Jaylin Noel",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "HOU"
       },
@@ -7031,7 +7031,7 @@
        "injury": "ACTIVE",
        "name": "Bijan Robinson",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.8,
        "slot": "RB",
        "team": "ATL"
       },
@@ -7051,7 +7051,7 @@
        "injury": "ACTIVE",
        "name": "Nico Collins",
        "pos": "WR",
-       "pts": null,
+       "pts": 13.7,
        "slot": "WR",
        "team": "HOU"
       },
@@ -7081,7 +7081,7 @@
        "injury": "ACTIVE",
        "name": "DJ Moore",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.4,
        "slot": "WR",
        "team": "BUF"
       },
@@ -7091,7 +7091,7 @@
        "injury": "OUT",
        "name": "Marvin Harrison Jr.",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "HOU"
       },
@@ -7101,7 +7101,7 @@
        "injury": "ACTIVE",
        "name": "Kyle Pitts Sr.",
        "pos": "TE",
-       "pts": null,
+       "pts": 1.8,
        "slot": "TE",
        "team": "ATL"
       },
@@ -7111,7 +7111,7 @@
        "injury": "ACTIVE",
        "name": "Aaron Jones Sr.",
        "pos": "RB",
-       "pts": null,
+       "pts": 1.1,
        "slot": "RB",
        "team": "MIN"
       },
@@ -7121,7 +7121,7 @@
        "injury": "ACTIVE",
        "name": "Dalton Kincaid",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "BUF"
       },
@@ -7151,7 +7151,7 @@
        "injury": "ACTIVE",
        "name": "Malik Washington",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "FLEX",
        "team": "MIA"
       },
@@ -7171,7 +7171,7 @@
        "injury": "ACTIVE",
        "name": "Spencer Shrader",
        "pos": "K",
-       "pts": null,
+       "pts": 0.0,
        "slot": "K",
        "team": "IND"
       },
@@ -7181,7 +7181,7 @@
        "injury": "ACTIVE",
        "name": "Adonai Mitchell",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "FLEX",
        "team": "NYJ"
       },
@@ -7214,7 +7214,7 @@
        "injury": "ACTIVE",
        "name": "Chris Olave",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "NO"
       },
@@ -7254,7 +7254,7 @@
        "injury": "OUT",
        "name": "Josh Jacobs",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "GB"
       },
@@ -7271,10 +7271,10 @@
       {
        "espn_id": 15847,
        "espn_proj": 11.55,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Travis Kelce",
        "pos": "TE",
-       "pts": null,
+       "pts": 3.3,
        "slot": "BN",
        "team": "KC"
       },
@@ -7284,7 +7284,7 @@
        "injury": "ACTIVE",
        "name": "Jalen Coker",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "CAR"
       },
@@ -7294,7 +7294,7 @@
        "injury": "ACTIVE",
        "name": "Bhayshul Tuten",
        "pos": "RB",
-       "pts": null,
+       "pts": 3.9,
        "slot": "RB",
        "team": "JAX"
       },
@@ -7324,7 +7324,7 @@
        "injury": "ACTIVE",
        "name": "Woody Marks",
        "pos": "RB",
-       "pts": null,
+       "pts": 3.9,
        "slot": "BN",
        "team": "HOU"
       },
@@ -7334,7 +7334,7 @@
        "injury": "ACTIVE",
        "name": "Will Reichard",
        "pos": "K",
-       "pts": null,
+       "pts": 4.0,
        "slot": "K",
        "team": "MIN"
       },
@@ -7384,7 +7384,7 @@
        "injury": "ACTIVE",
        "name": "Tyler Shough",
        "pos": "QB",
-       "pts": null,
+       "pts": -0.5,
        "slot": "QB",
        "team": "NO"
       }
@@ -7407,7 +7407,7 @@
        "injury": "ACTIVE",
        "name": "James Cook III",
        "pos": "RB",
-       "pts": null,
+       "pts": 2.2,
        "slot": "RB",
        "team": "BUF"
       },
@@ -7467,7 +7467,7 @@
        "injury": "ACTIVE",
        "name": "Justin Jefferson",
        "pos": "WR",
-       "pts": null,
+       "pts": 2.3,
        "slot": "WR",
        "team": "MIN"
       },
@@ -7477,7 +7477,7 @@
        "injury": "ACTIVE",
        "name": "Jordyn Tyson",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "NO"
       },
@@ -7517,17 +7517,17 @@
        "injury": "OUT",
        "name": "T.J. Hockenson",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "MIN"
       },
       {
        "espn_id": 4723820,
        "espn_proj": 9.45,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Omar Cooper Jr.",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "NYJ"
       },
@@ -7547,7 +7547,7 @@
        "injury": "ACTIVE",
        "name": "Cam Little",
        "pos": "K",
-       "pts": null,
+       "pts": 1.0,
        "slot": "K",
        "team": "JAX"
       },
@@ -7557,7 +7557,7 @@
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
-       "pts": null,
+       "pts": 10.88,
        "slot": "BN",
        "team": "HOU"
       },
@@ -7620,7 +7620,7 @@
        "injury": "OUT",
        "name": "Kenneth Walker III",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "KC"
       },
@@ -7660,7 +7660,7 @@
        "injury": "ACTIVE",
        "name": "Parker Washington",
        "pos": "WR",
-       "pts": null,
+       "pts": 16.6,
        "slot": "WR",
        "team": "JAX"
       },
@@ -7680,7 +7680,7 @@
        "injury": "ACTIVE",
        "name": "Tucker Kraft",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "TE",
        "team": "GB"
       },
@@ -7690,7 +7690,7 @@
        "injury": "ACTIVE",
        "name": "Trevor Lawrence",
        "pos": "QB",
-       "pts": null,
+       "pts": 6.64,
        "slot": "QB",
        "team": "JAX"
       },
@@ -7700,7 +7700,7 @@
        "injury": "ACTIVE",
        "name": "KC Concepcion",
        "pos": "WR",
-       "pts": null,
+       "pts": 1.6,
        "slot": "BN",
        "team": "CLE"
       },
@@ -7710,7 +7710,7 @@
        "injury": "ACTIVE",
        "name": "Ka'imi Fairbairn",
        "pos": "K",
-       "pts": null,
+       "pts": 5.0,
        "slot": "K",
        "team": "HOU"
       },
@@ -7720,7 +7720,7 @@
        "injury": "NORMAL",
        "name": "Vikings D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 13.0,
        "slot": "DST",
        "team": "MIN"
       },
@@ -7813,7 +7813,7 @@
        "injury": "ACTIVE",
        "name": "Tyler Warren",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.3,
        "slot": "TE",
        "team": "IND"
       },
@@ -7833,7 +7833,7 @@
        "injury": "ACTIVE",
        "name": "Matthew Golden",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "FLEX",
        "team": "GB"
       },
@@ -7863,7 +7863,7 @@
        "injury": "ACTIVE",
        "name": "Jakobi Meyers",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "JAX"
       },
@@ -7893,7 +7893,7 @@
        "injury": "ACTIVE",
        "name": "Brenton Strange",
        "pos": "TE",
-       "pts": null,
+       "pts": 1.6,
        "slot": "BN",
        "team": "JAX"
       },
@@ -7903,7 +7903,7 @@
        "injury": "ACTIVE",
        "name": "Tony Pollard",
        "pos": "RB",
-       "pts": null,
+       "pts": 1.5,
        "slot": "RB",
        "team": "TEN"
       },
@@ -7953,7 +7953,7 @@
        "injury": "NORMAL",
        "name": "Chiefs D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 11.0,
        "slot": "DST",
        "team": "KC"
       }
@@ -8026,7 +8026,7 @@
        "injury": "ACTIVE",
        "name": "Josh Downs",
        "pos": "WR",
-       "pts": null,
+       "pts": 3.1,
        "slot": "WR",
        "team": "KC"
       },
@@ -8036,7 +8036,7 @@
        "injury": "ACTIVE",
        "name": "Tyjae Spears",
        "pos": "RB",
-       "pts": null,
+       "pts": -0.3,
        "slot": "BN",
        "team": "TEN"
       },
@@ -8066,7 +8066,7 @@
        "injury": "ACTIVE",
        "name": "Travis Etienne Jr.",
        "pos": "RB",
-       "pts": null,
+       "pts": 4.8,
        "slot": "FLEX",
        "team": "NO"
       },
@@ -8076,7 +8076,7 @@
        "injury": "ACTIVE",
        "name": "Harold Fannin Jr.",
        "pos": "TE",
-       "pts": null,
+       "pts": 1.7,
        "slot": "TE",
        "team": "CLE"
       },
@@ -8106,7 +8106,7 @@
        "injury": "ACTIVE",
        "name": "Quinshon Judkins",
        "pos": "RB",
-       "pts": null,
+       "pts": 1.9,
        "slot": "RB",
        "team": "CLE"
       },
@@ -8116,7 +8116,7 @@
        "injury": "ACTIVE",
        "name": "Juwan Johnson",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "NO"
       },
@@ -8126,7 +8126,7 @@
        "injury": "ACTIVE",
        "name": "Garrett Wilson",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "NYJ"
       },
@@ -8136,7 +8136,7 @@
        "injury": "ACTIVE",
        "name": "Braelon Allen",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "RB",
        "team": "NYJ"
       }
@@ -8209,7 +8209,7 @@
        "injury": "ACTIVE",
        "name": "Chuba Hubbard",
        "pos": "RB",
-       "pts": null,
+       "pts": 9.1,
        "slot": "RB",
        "team": "CAR"
       },
@@ -8219,7 +8219,7 @@
        "injury": "ACTIVE",
        "name": "Patrick Mahomes",
        "pos": "QB",
-       "pts": null,
+       "pts": 8.3,
        "slot": "BN",
        "team": "KC"
       },
@@ -8229,7 +8229,7 @@
        "injury": "ACTIVE",
        "name": "Jordan Mason",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.6,
        "slot": "FLEX",
        "team": "MIN"
       },
@@ -8239,7 +8239,7 @@
        "injury": "ACTIVE",
        "name": "Xavier Worthy",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "KC"
       },
@@ -8249,7 +8249,7 @@
        "injury": "ACTIVE",
        "name": "Devaughn Vele",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "NO"
       },
@@ -8289,7 +8289,7 @@
        "injury": "NORMAL",
        "name": "Jaguars D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 11.0,
        "slot": "DST",
        "team": "JAX"
       },
@@ -8299,7 +8299,7 @@
        "injury": "ACTIVE",
        "name": "Tyler Bass",
        "pos": "K",
-       "pts": null,
+       "pts": 1.0,
        "slot": "K",
        "team": "BUF"
       },
@@ -8329,7 +8329,7 @@
        "injury": "ACTIVE",
        "name": "Caleb Douglas",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "FLEX",
        "team": "MIA"
       }
@@ -8341,5 +8341,5 @@
    ]
   }
  ],
- "updated": "2026-11-15T17:59:42+00:00"
+ "updated": "2026-11-15T18:38:34+00:00"
 }
