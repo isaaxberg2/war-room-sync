@@ -979,7 +979,7 @@
       {
        "espn_id": 4239996,
        "espn_proj": 10.93,
-       "injury": "INJURY_RESERVE",
+       "injury": "QUESTIONABLE",
        "name": "Travis Etienne Jr.",
        "pos": "RB",
        "pts": null,
@@ -1288,6 +1288,16 @@
        "pts": 5.0,
        "slot": "BN",
        "team": "NYG"
+      },
+      {
+       "espn_id": 4360234,
+       "espn_proj": 7.65,
+       "injury": "ACTIVE",
+       "name": "Evan McPherson",
+       "pos": "K",
+       "pts": null,
+       "slot": "BN",
+       "team": "CIN"
       }
      ],
      "streak": "W4",
@@ -1731,7 +1741,7 @@
       {
        "espn_id": 4432710,
        "espn_proj": 0.0,
-       "injury": "OUT",
+       "injury": "INJURY_RESERVE",
        "name": "TreVeyon Henderson",
        "pos": "RB",
        "pts": null,
@@ -2055,16 +2065,6 @@
        "team": "PHI"
       },
       {
-       "espn_id": 4241478,
-       "espn_proj": 0.0,
-       "injury": "OUT",
-       "name": "DeVonta Smith",
-       "pos": "WR",
-       "pts": null,
-       "slot": "BN",
-       "team": "PHI"
-      },
-      {
        "espn_id": 4596448,
        "espn_proj": 0.0,
        "injury": "ACTIVE",
@@ -2081,7 +2081,7 @@
        "name": "Rhamondre Stevenson",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "BN",
        "team": "NE"
       },
       {
@@ -2161,7 +2161,7 @@
        "name": "Jameson Williams",
        "pos": "WR",
        "pts": null,
-       "slot": "WR",
+       "slot": "FLEX",
        "team": "DET"
       },
       {
@@ -2171,7 +2171,7 @@
        "name": "George Pickens",
        "pos": "WR",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "WR",
        "team": "DAL"
       },
       {
@@ -2203,6 +2203,16 @@
        "pts": null,
        "slot": "TE",
        "team": "GB"
+      },
+      {
+       "espn_id": 4696044,
+       "espn_proj": 8.02,
+       "injury": "ACTIVE",
+       "name": "Kaelon Black",
+       "pos": "RB",
+       "pts": null,
+       "slot": "RB",
+       "team": "SF"
       }
      ],
      "streak": "L4",
@@ -4644,7 +4654,7 @@
       {
        "espn_id": 4239996,
        "espn_proj": 10.53,
-       "injury": "INJURY_RESERVE",
+       "injury": "QUESTIONABLE",
        "name": "Travis Etienne Jr.",
        "pos": "RB",
        "pts": null,
@@ -4867,7 +4877,7 @@
       {
        "espn_id": 4432710,
        "espn_proj": 0.0,
-       "injury": "OUT",
+       "injury": "INJURY_RESERVE",
        "name": "TreVeyon Henderson",
        "pos": "RB",
        "pts": null,
@@ -6523,7 +6533,7 @@
        "name": "Blake Corum",
        "pos": "RB",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "LA"
       },
       {
@@ -6623,7 +6633,7 @@
        "name": "Emmett Johnson",
        "pos": "RB",
        "pts": null,
-       "slot": "BN",
+       "slot": "FLEX",
        "team": "KC"
       }
      ],
@@ -6696,7 +6706,7 @@
        "name": "DK Metcalf",
        "pos": "WR",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "PIT"
       },
       {
@@ -6726,7 +6736,7 @@
        "name": "Jordan Addison",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "FLEX",
        "team": "MIN"
       },
       {
@@ -7794,7 +7804,7 @@
        "name": "Saquon Barkley",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "BN",
        "team": "PHI"
       },
       {
@@ -7894,7 +7904,7 @@
        "name": "Tony Pollard",
        "pos": "RB",
        "pts": null,
-       "slot": "BN",
+       "slot": "RB",
        "team": "TEN"
       },
       {
@@ -7928,16 +7938,6 @@
        "team": "DEN"
       },
       {
-       "espn_id": -16006,
-       "espn_proj": 2.67,
-       "injury": "NORMAL",
-       "name": "Cowboys D/ST",
-       "pos": "DST",
-       "pts": null,
-       "slot": "DST",
-       "team": "DAL"
-      },
-      {
        "espn_id": 4689936,
        "espn_proj": 9.32,
        "injury": "ACTIVE",
@@ -7946,6 +7946,16 @@
        "pts": null,
        "slot": "K",
        "team": "DET"
+      },
+      {
+       "espn_id": -16012,
+       "espn_proj": 4.89,
+       "injury": "NORMAL",
+       "name": "Chiefs D/ST",
+       "pos": "DST",
+       "pts": null,
+       "slot": "DST",
+       "team": "KC"
       }
      ],
      "streak": "L1",
@@ -8053,7 +8063,7 @@
       {
        "espn_id": 4239996,
        "espn_proj": 10.53,
-       "injury": "INJURY_RESERVE",
+       "injury": "QUESTIONABLE",
        "name": "Travis Etienne Jr.",
        "pos": "RB",
        "pts": null,
@@ -8331,5 +8341,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T18:50:24+00:00"
+ "updated": "2026-11-15T01:11:44+00:00"
 }
