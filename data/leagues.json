@@ -1711,7 +1711,7 @@
       {
        "espn_id": 4047646,
        "espn_proj": 13.36,
-       "injury": "OUT",
+       "injury": "QUESTIONABLE",
        "name": "A.J. Brown",
        "pos": "WR",
        "pts": 4.7,
@@ -1831,7 +1831,7 @@
       {
        "espn_id": 4431452,
        "espn_proj": 28.09,
-       "injury": "OUT",
+       "injury": "QUESTIONABLE",
        "name": "Drake Maye",
        "pos": "QB",
        "pts": 3.1,
@@ -4644,7 +4644,7 @@
       {
        "espn_id": 4047646,
        "espn_proj": 12.55,
-       "injury": "OUT",
+       "injury": "QUESTIONABLE",
        "name": "A.J. Brown",
        "pos": "WR",
        "pts": 4.7,
@@ -5406,7 +5406,7 @@
       {
        "espn_id": 4431452,
        "espn_proj": 21.96,
-       "injury": "OUT",
+       "injury": "QUESTIONABLE",
        "name": "Drake Maye",
        "pos": "QB",
        "pts": 3.02,
@@ -6052,7 +6052,7 @@
     },
     {
      "away": 9,
-     "away_live": 32.3,
+     "away_live": 33.3,
      "away_pts": 0.0,
      "home": 8,
      "home_live": 20.2,
@@ -6579,7 +6579,7 @@
       {
        "espn_id": 4047646,
        "espn_proj": 12.55,
-       "injury": "OUT",
+       "injury": "QUESTIONABLE",
        "name": "A.J. Brown",
        "pos": "WR",
        "pts": 4.7,
@@ -8046,7 +8046,7 @@
        "injury": "NORMAL",
        "name": "Lions D/ST",
        "pos": "DST",
-       "pts": 12.0,
+       "pts": 13.0,
        "slot": "DST",
        "team": "DET"
       },
@@ -8196,7 +8196,7 @@
       {
        "espn_id": 4431452,
        "espn_proj": 21.96,
-       "injury": "OUT",
+       "injury": "QUESTIONABLE",
        "name": "Drake Maye",
        "pos": "QB",
        "pts": 3.02,
@@ -8341,5 +8341,5 @@
    ]
   }
  ],
- "updated": "2026-11-15T17:26:47+00:00"
+ "updated": "2026-11-15T17:59:42+00:00"
 }
