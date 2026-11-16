@@ -475,14 +475,14 @@
      "away_live": 177.4,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 75.7,
+     "home_live": 85.7,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 7,
-     "away_live": 153.0,
+     "away_live": 161.5,
      "away_pts": 0.0,
      "home": 4,
      "home_live": 122.4,
@@ -502,7 +502,7 @@
     },
     {
      "away": 10,
-     "away_live": 139.4,
+     "away_live": 139.6,
      "away_pts": 0.0,
      "home": 3,
      "home_live": 129.3,
@@ -515,7 +515,7 @@
      "away_live": 142.5,
      "away_pts": 0.0,
      "home": 8,
-     "home_live": 109.0,
+     "home_live": 113.2,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -1195,7 +1195,7 @@
        "injury": "ACTIVE",
        "name": "Dak Prescott",
        "pos": "QB",
-       "pts": 36.7,
+       "pts": 46.7,
        "slot": "QB",
        "team": "DAL"
       },
@@ -1897,7 +1897,7 @@
        "injury": "ACTIVE",
        "name": "CeeDee Lamb",
        "pos": "WR",
-       "pts": 13.1,
+       "pts": 20.2,
        "slot": "WR",
        "team": "DAL"
       },
@@ -1907,7 +1907,7 @@
        "injury": "ACTIVE",
        "name": "Javonte Williams",
        "pos": "RB",
-       "pts": 6.3,
+       "pts": 7.7,
        "slot": "FLEX",
        "team": "DAL"
       },
@@ -2170,7 +2170,7 @@
        "injury": "ACTIVE",
        "name": "George Pickens",
        "pos": "WR",
-       "pts": 44.5,
+       "pts": 48.5,
        "slot": "WR",
        "team": "DAL"
       },
@@ -2210,7 +2210,7 @@
        "injury": "ACTIVE",
        "name": "Kaelon Black",
        "pos": "RB",
-       "pts": 14.4,
+       "pts": 14.6,
        "slot": "RB",
        "team": "SF"
       }
@@ -2406,7 +2406,7 @@
        "injury": "ACTIVE",
        "name": "Christian McCaffrey",
        "pos": "RB",
-       "pts": 51.1,
+       "pts": 51.3,
        "slot": "RB",
        "team": "SF"
       },
@@ -3255,7 +3255,7 @@
      "away_live": 100.74,
      "away_pts": 0.0,
      "home": 14,
-     "home_live": 123.92,
+     "home_live": 135.02,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -3282,7 +3282,7 @@
     },
     {
      "away": 4,
-     "away_live": 58.2,
+     "away_live": 59.6,
      "away_pts": 0.0,
      "home": 10,
      "home_live": 107.9,
@@ -3292,10 +3292,10 @@
     },
     {
      "away": 8,
-     "away_live": 158.14,
+     "away_live": 165.82,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 99.08,
+     "home_live": 99.28,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -3895,7 +3895,7 @@
        "injury": "ACTIVE",
        "name": "Christian McCaffrey",
        "pos": "RB",
-       "pts": 46.1,
+       "pts": 46.3,
        "slot": "RB",
        "team": "SF"
       },
@@ -4108,7 +4108,7 @@
        "injury": "ACTIVE",
        "name": "Javonte Williams",
        "pos": "RB",
-       "pts": 6.3,
+       "pts": 7.7,
        "slot": "FLEX",
        "team": "DAL"
       },
@@ -4534,7 +4534,7 @@
        "injury": "ACTIVE",
        "name": "Dak Prescott",
        "pos": "QB",
-       "pts": 26.74,
+       "pts": 34.42,
        "slot": "QB",
        "team": "DAL"
       },
@@ -5163,7 +5163,7 @@
        "injury": "ACTIVE",
        "name": "Ryan Flournoy",
        "pos": "WR",
-       "pts": 16.9,
+       "pts": 19.1,
        "slot": "BN",
        "team": "DAL"
       },
@@ -5379,7 +5379,7 @@
        "injury": "ACTIVE",
        "name": "CeeDee Lamb",
        "pos": "WR",
-       "pts": 13.1,
+       "pts": 20.2,
        "slot": "WR",
        "team": "DAL"
       },
@@ -5389,7 +5389,7 @@
        "injury": "ACTIVE",
        "name": "George Pickens",
        "pos": "WR",
-       "pts": 39.5,
+       "pts": 43.5,
        "slot": "FLEX",
        "team": "DAL"
       },
@@ -6042,10 +6042,10 @@
     },
     {
      "away": 5,
-     "away_live": 168.78,
+     "away_live": 172.78,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 130.32,
+     "home_live": 130.52,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -6062,17 +6062,17 @@
     },
     {
      "away": 9,
-     "away_live": 147.14,
+     "away_live": 154.82,
      "away_pts": 0.0,
      "home": 8,
-     "home_live": 131.46,
+     "home_live": 138.56,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
-     "away_live": 88.5,
+     "away_live": 89.9,
      "away_pts": 0.0,
      "home": 7,
      "home_live": 97.78,
@@ -6582,7 +6582,7 @@
        "injury": "ACTIVE",
        "name": "Javonte Williams",
        "pos": "RB",
-       "pts": 6.3,
+       "pts": 7.7,
        "slot": "RB",
        "team": "DAL"
       },
@@ -7201,7 +7201,7 @@
        "injury": "ACTIVE",
        "name": "Kaelon Black",
        "pos": "RB",
-       "pts": 14.4,
+       "pts": 14.6,
        "slot": "BN",
        "team": "SF"
       }
@@ -7234,7 +7234,7 @@
        "injury": "ACTIVE",
        "name": "George Pickens",
        "pos": "WR",
-       "pts": 39.5,
+       "pts": 43.5,
        "slot": "WR",
        "team": "DAL"
       },
@@ -7893,7 +7893,7 @@
        "injury": "ACTIVE",
        "name": "CeeDee Lamb",
        "pos": "WR",
-       "pts": 13.1,
+       "pts": 20.2,
        "slot": "WR",
        "team": "DAL"
       },
@@ -8026,7 +8026,7 @@
        "injury": "ACTIVE",
        "name": "Dak Prescott",
        "pos": "QB",
-       "pts": 26.74,
+       "pts": 34.42,
        "slot": "QB",
        "team": "DAL"
       },
@@ -8169,7 +8169,7 @@
        "injury": "ACTIVE",
        "name": "Christian McCaffrey",
        "pos": "RB",
-       "pts": 46.1,
+       "pts": 46.3,
        "slot": "RB",
        "team": "SF"
       },
@@ -8289,7 +8289,7 @@
        "injury": "ACTIVE",
        "name": "Ryan Flournoy",
        "pos": "WR",
-       "pts": 16.9,
+       "pts": 19.1,
        "slot": "BN",
        "team": "DAL"
       },
@@ -8351,5 +8351,5 @@
    ]
   }
  ],
- "updated": "2026-11-16T00:30:09+00:00"
+ "updated": "2026-11-16T00:46:39+00:00"
 }
