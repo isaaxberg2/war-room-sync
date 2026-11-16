@@ -1325,7 +1325,7 @@
       {
        "espn_id": 4426502,
        "espn_proj": 16.36,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Drake London",
        "pos": "WR",
        "pts": 21.9,
@@ -3719,7 +3719,7 @@
       {
        "espn_id": 4426502,
        "espn_proj": 14.84,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Drake London",
        "pos": "WR",
        "pts": 16.9,
@@ -6672,7 +6672,7 @@
       {
        "espn_id": 4426502,
        "espn_proj": 14.84,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Drake London",
        "pos": "WR",
        "pts": 16.9,
@@ -8351,5 +8351,5 @@
    ]
   }
  ],
- "updated": "2026-11-16T15:11:25+00:00"
+ "updated": "2026-11-16T18:59:53+00:00"
 }
