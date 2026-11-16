@@ -475,7 +475,7 @@
      "away_live": 177.4,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 112.7,
+     "home_live": 141.5,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -485,24 +485,24 @@
      "away_live": 161.5,
      "away_pts": 0.0,
      "home": 4,
-     "home_live": 122.7,
+     "home_live": 128.4,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
-     "away_live": 127.3,
+     "away_live": 155.8,
      "away_pts": 0.0,
      "home": 5,
-     "home_live": 64.1,
+     "home_live": 71.0,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 10,
-     "away_live": 139.6,
+     "away_live": 141.6,
      "away_pts": 0.0,
      "home": 3,
      "home_live": 129.3,
@@ -1002,7 +1002,7 @@
        "injury": "ACTIVE",
        "name": "Joe Burrow",
        "pos": "QB",
-       "pts": 14.8,
+       "pts": 41.8,
        "slot": "QB",
        "team": "CIN"
       },
@@ -1102,7 +1102,7 @@
        "injury": "ACTIVE",
        "name": "Darnell Washington",
        "pos": "TE",
-       "pts": 0.0,
+       "pts": 1.5,
        "slot": "TE",
        "team": "PIT"
       },
@@ -1135,7 +1135,7 @@
        "injury": "ACTIVE",
        "name": "Ja'Marr Chase",
        "pos": "WR",
-       "pts": 13.2,
+       "pts": 33.8,
        "slot": "WR",
        "team": "CIN"
       },
@@ -1235,7 +1235,7 @@
        "injury": "ACTIVE",
        "name": "Chase Brown",
        "pos": "RB",
-       "pts": 7.8,
+       "pts": 25.0,
        "slot": "RB",
        "team": "CIN"
       },
@@ -1275,7 +1275,7 @@
        "injury": "NORMAL",
        "name": "Steelers D/ST",
        "pos": "DST",
-       "pts": 6.0,
+       "pts": -3.0,
        "slot": "DST",
        "team": "PIT"
       },
@@ -1295,7 +1295,7 @@
        "injury": "ACTIVE",
        "name": "Evan McPherson",
        "pos": "K",
-       "pts": 3.0,
+       "pts": 6.0,
        "slot": "BN",
        "team": "CIN"
       }
@@ -1438,7 +1438,7 @@
        "injury": "ACTIVE",
        "name": "Chris Boswell",
        "pos": "K",
-       "pts": 0.0,
+       "pts": 4.0,
        "slot": "BN",
        "team": "PIT"
       },
@@ -1571,7 +1571,7 @@
        "injury": "ACTIVE",
        "name": "Jaylen Warren",
        "pos": "RB",
-       "pts": 0.3,
+       "pts": 6.0,
        "slot": "RB",
        "team": "PIT"
       },
@@ -1804,7 +1804,7 @@
        "injury": "ACTIVE",
        "name": "Tee Higgins",
        "pos": "WR",
-       "pts": 4.7,
+       "pts": 11.6,
        "slot": "WR",
        "team": "CIN"
       },
@@ -2037,7 +2037,7 @@
        "injury": "ACTIVE",
        "name": "Aaron Rodgers",
        "pos": "QB",
-       "pts": 0.0,
+       "pts": 0.9,
        "slot": "BN",
        "team": "PIT"
       }
@@ -2576,7 +2576,7 @@
        "injury": "ACTIVE",
        "name": "Rico Dowdle",
        "pos": "RB",
-       "pts": 0.0,
+       "pts": 2.0,
        "slot": "RB",
        "team": "PIT"
       }
@@ -3252,7 +3252,7 @@
     },
     {
      "away": 13,
-     "away_live": 108.54,
+     "away_live": 125.74,
      "away_pts": 0.0,
      "home": 14,
      "home_live": 135.02,
@@ -3262,10 +3262,10 @@
     },
     {
      "away": 1,
-     "away_live": 149.78,
+     "away_live": 156.68,
      "away_pts": 0.0,
      "home": 6,
-     "home_live": 79.9,
+     "home_live": 85.6,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -3275,17 +3275,17 @@
      "away_live": 169.46,
      "away_pts": 0.0,
      "home": 12,
-     "home_live": 131.56,
+     "home_live": 136.56,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 4,
-     "away_live": 71.48,
+     "away_live": 94.76,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 121.1,
+     "home_live": 136.7,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -3742,7 +3742,7 @@
        "injury": "ACTIVE",
        "name": "Tee Higgins",
        "pos": "WR",
-       "pts": 4.7,
+       "pts": 11.6,
        "slot": "FLEX",
        "team": "CIN"
       },
@@ -4148,7 +4148,7 @@
        "injury": "ACTIVE",
        "name": "Joe Burrow",
        "pos": "QB",
-       "pts": 11.88,
+       "pts": 31.16,
        "slot": "QB",
        "team": "CIN"
       },
@@ -4188,7 +4188,7 @@
        "injury": "NORMAL",
        "name": "Steelers D/ST",
        "pos": "DST",
-       "pts": 6.0,
+       "pts": -3.0,
        "slot": "BN",
        "team": "PIT"
       },
@@ -4198,7 +4198,7 @@
        "injury": "ACTIVE",
        "name": "Chris Boswell",
        "pos": "K",
-       "pts": 0.0,
+       "pts": 4.0,
        "slot": "K",
        "team": "PIT"
       },
@@ -4331,7 +4331,7 @@
        "injury": "ACTIVE",
        "name": "Jaylen Warren",
        "pos": "RB",
-       "pts": 0.3,
+       "pts": 6.0,
        "slot": "RB",
        "team": "PIT"
       },
@@ -4391,7 +4391,7 @@
        "injury": "ACTIVE",
        "name": "Aaron Rodgers",
        "pos": "QB",
-       "pts": 0.0,
+       "pts": 0.78,
        "slot": "BN",
        "team": "PIT"
       },
@@ -4637,7 +4637,7 @@
        "injury": "ACTIVE",
        "name": "Ja'Marr Chase",
        "pos": "WR",
-       "pts": 13.2,
+       "pts": 28.8,
        "slot": "WR",
        "team": "CIN"
       },
@@ -5123,7 +5123,7 @@
        "injury": "ACTIVE",
        "name": "Evan McPherson",
        "pos": "K",
-       "pts": 3.0,
+       "pts": 6.0,
        "slot": "K",
        "team": "CIN"
       },
@@ -5143,7 +5143,7 @@
        "injury": "NORMAL",
        "name": "Bengals D/ST",
        "pos": "DST",
-       "pts": 10.0,
+       "pts": 12.0,
        "slot": "DST",
        "team": "CIN"
       },
@@ -5216,7 +5216,7 @@
        "injury": "ACTIVE",
        "name": "Chase Brown",
        "pos": "RB",
-       "pts": 7.8,
+       "pts": 25.0,
        "slot": "RB",
        "team": "CIN"
       },
@@ -6032,17 +6032,17 @@
     },
     {
      "away": 4,
-     "away_live": 137.68,
+     "away_live": 128.68,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 96.36,
+     "home_live": 102.06,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 5,
-     "away_live": 180.58,
+     "away_live": 197.78,
      "away_pts": 0.0,
      "home": 10,
      "home_live": 130.52,
@@ -6072,10 +6072,10 @@
     },
     {
      "away": 1,
-     "away_live": 113.68,
+     "away_live": 134.96,
      "away_pts": 0.0,
      "home": 7,
-     "home_live": 116.68,
+     "home_live": 139.18,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -6522,7 +6522,7 @@
        "injury": "ACTIVE",
        "name": "Joe Burrow",
        "pos": "QB",
-       "pts": 11.88,
+       "pts": 31.16,
        "slot": "QB",
        "team": "CIN"
       },
@@ -6612,7 +6612,7 @@
        "injury": "NORMAL",
        "name": "Bengals D/ST",
        "pos": "DST",
-       "pts": 10.0,
+       "pts": 12.0,
        "slot": "DST",
        "team": "CIN"
       },
@@ -6735,7 +6735,7 @@
        "injury": "ACTIVE",
        "name": "Jaylen Warren",
        "pos": "RB",
-       "pts": 0.3,
+       "pts": 6.0,
        "slot": "FLEX",
        "team": "PIT"
       },
@@ -6988,7 +6988,7 @@
        "injury": "ACTIVE",
        "name": "Aaron Rodgers",
        "pos": "QB",
-       "pts": 0.0,
+       "pts": 0.78,
        "slot": "BN",
        "team": "PIT"
       },
@@ -7141,7 +7141,7 @@
        "injury": "NORMAL",
        "name": "Steelers D/ST",
        "pos": "DST",
-       "pts": 6.0,
+       "pts": -3.0,
        "slot": "DST",
        "team": "PIT"
       },
@@ -7324,7 +7324,7 @@
        "injury": "ACTIVE",
        "name": "Chase Brown",
        "pos": "RB",
-       "pts": 7.8,
+       "pts": 25.0,
        "slot": "RB",
        "team": "CIN"
       },
@@ -7364,7 +7364,7 @@
        "injury": "ACTIVE",
        "name": "Rico Dowdle",
        "pos": "RB",
-       "pts": 0.0,
+       "pts": 2.0,
        "slot": "BN",
        "team": "PIT"
       },
@@ -7610,7 +7610,7 @@
        "injury": "ACTIVE",
        "name": "Ja'Marr Chase",
        "pos": "WR",
-       "pts": 13.2,
+       "pts": 28.8,
        "slot": "FLEX",
        "team": "CIN"
       },
@@ -7640,7 +7640,7 @@
        "injury": "ACTIVE",
        "name": "Tee Higgins",
        "pos": "WR",
-       "pts": 4.7,
+       "pts": 11.6,
        "slot": "WR",
        "team": "CIN"
       },
@@ -7933,7 +7933,7 @@
        "injury": "ACTIVE",
        "name": "Darnell Washington",
        "pos": "TE",
-       "pts": 0.0,
+       "pts": 1.5,
        "slot": "BN",
        "team": "PIT"
       },
@@ -8351,5 +8351,5 @@
    ]
   }
  ],
- "updated": "2026-11-16T02:16:42+00:00"
+ "updated": "2026-11-16T03:31:29+00:00"
 }
