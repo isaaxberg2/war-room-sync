@@ -475,14 +475,14 @@
      "away_live": 177.4,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 53.3,
+     "home_live": 75.7,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 7,
-     "away_live": 140.7,
+     "away_live": 153.0,
      "away_pts": 0.0,
      "home": 4,
      "home_live": 122.4,
@@ -495,27 +495,27 @@
      "away_live": 112.5,
      "away_pts": 0.0,
      "home": 5,
-     "home_live": 55.4,
+     "home_live": 59.4,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 10,
-     "away_live": 105.8,
+     "away_live": 139.4,
      "away_pts": 0.0,
      "home": 3,
-     "home_live": 115.3,
+     "home_live": 129.3,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 9,
-     "away_live": 141.5,
+     "away_live": 142.5,
      "away_pts": 0.0,
      "home": 8,
-     "home_live": 95.8,
+     "home_live": 109.0,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -1042,7 +1042,7 @@
        "injury": "ACTIVE",
        "name": "Tre Tucker",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 1.9,
        "slot": "BN",
        "team": "LV"
       },
@@ -1092,7 +1092,7 @@
        "injury": "ACTIVE",
        "name": "Fernando Mendoza",
        "pos": "QB",
-       "pts": 12.2,
+       "pts": 15.2,
        "slot": "BN",
        "team": "LV"
       },
@@ -1145,7 +1145,7 @@
        "injury": "ACTIVE",
        "name": "Ashton Jeanty",
        "pos": "RB",
-       "pts": 5.6,
+       "pts": 10.4,
        "slot": "RB",
        "team": "LV"
       },
@@ -1195,7 +1195,7 @@
        "injury": "ACTIVE",
        "name": "Dak Prescott",
        "pos": "QB",
-       "pts": 19.1,
+       "pts": 36.7,
        "slot": "QB",
        "team": "DAL"
       },
@@ -1468,7 +1468,7 @@
        "injury": "ACTIVE",
        "name": "Brock Purdy",
        "pos": "QB",
-       "pts": 27.1,
+       "pts": 41.1,
        "slot": "QB",
        "team": "SF"
       },
@@ -1518,7 +1518,7 @@
       {
        "espn_id": 4432665,
        "espn_proj": 16.47,
-       "injury": "OUT",
+       "injury": "QUESTIONABLE",
        "name": "Brock Bowers",
        "pos": "TE",
        "pts": 3.8,
@@ -1734,7 +1734,7 @@
        "injury": "ACTIVE",
        "name": "George Kittle",
        "pos": "TE",
-       "pts": 9.4,
+       "pts": 13.4,
        "slot": "TE",
        "team": "SF"
       },
@@ -1897,7 +1897,7 @@
        "injury": "ACTIVE",
        "name": "CeeDee Lamb",
        "pos": "WR",
-       "pts": 2.2,
+       "pts": 13.1,
        "slot": "WR",
        "team": "DAL"
       },
@@ -1907,7 +1907,7 @@
        "injury": "ACTIVE",
        "name": "Javonte Williams",
        "pos": "RB",
-       "pts": 4.9,
+       "pts": 6.3,
        "slot": "FLEX",
        "team": "DAL"
       },
@@ -2130,7 +2130,7 @@
        "injury": "ACTIVE",
        "name": "Matthew Stafford",
        "pos": "QB",
-       "pts": 27.0,
+       "pts": 26.8,
        "slot": "QB",
        "team": "LA"
       },
@@ -2170,7 +2170,7 @@
        "injury": "ACTIVE",
        "name": "George Pickens",
        "pos": "WR",
-       "pts": 34.4,
+       "pts": 44.5,
        "slot": "WR",
        "team": "DAL"
       },
@@ -2210,7 +2210,7 @@
        "injury": "ACTIVE",
        "name": "Kaelon Black",
        "pos": "RB",
-       "pts": 11.1,
+       "pts": 14.4,
        "slot": "RB",
        "team": "SF"
       }
@@ -2333,7 +2333,7 @@
        "injury": "NORMAL",
        "name": "Seahawks D/ST",
        "pos": "DST",
-       "pts": 11.0,
+       "pts": 12.0,
        "slot": "DST",
        "team": "SEA"
       },
@@ -2406,7 +2406,7 @@
        "injury": "ACTIVE",
        "name": "Christian McCaffrey",
        "pos": "RB",
-       "pts": 18.5,
+       "pts": 51.1,
        "slot": "RB",
        "team": "SF"
       },
@@ -2476,7 +2476,7 @@
        "injury": "ACTIVE",
        "name": "Brandon Aubrey",
        "pos": "K",
-       "pts": 8.0,
+       "pts": 9.0,
        "slot": "K",
        "team": "DAL"
       },
@@ -2659,7 +2659,7 @@
        "injury": "ACTIVE",
        "name": "Deebo Samuel Sr.",
        "pos": "WR",
-       "pts": 24.0,
+       "pts": 25.9,
        "slot": "BN",
        "team": "SF"
       },
@@ -3252,10 +3252,10 @@
     },
     {
      "away": 13,
-     "away_live": 93.94,
+     "away_live": 100.74,
      "away_pts": 0.0,
      "home": 14,
-     "home_live": 97.92,
+     "home_live": 123.92,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -3272,7 +3272,7 @@
     },
     {
      "away": 11,
-     "away_live": 156.8,
+     "away_live": 169.46,
      "away_pts": 0.0,
      "home": 12,
      "home_live": 118.56,
@@ -3282,20 +3282,20 @@
     },
     {
      "away": 4,
-     "away_live": 56.8,
+     "away_live": 58.2,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 101.6,
+     "home_live": 107.9,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 8,
-     "away_live": 145.42,
+     "away_live": 158.14,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 71.48,
+     "home_live": 99.08,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -3895,7 +3895,7 @@
        "injury": "ACTIVE",
        "name": "Christian McCaffrey",
        "pos": "RB",
-       "pts": 18.5,
+       "pts": 46.1,
        "slot": "RB",
        "team": "SF"
       },
@@ -4108,7 +4108,7 @@
        "injury": "ACTIVE",
        "name": "Javonte Williams",
        "pos": "RB",
-       "pts": 4.9,
+       "pts": 6.3,
        "slot": "FLEX",
        "team": "DAL"
       },
@@ -4288,7 +4288,7 @@
       {
        "espn_id": 4432665,
        "espn_proj": 15.41,
-       "injury": "OUT",
+       "injury": "QUESTIONABLE",
        "name": "Brock Bowers",
        "pos": "TE",
        "pts": 3.8,
@@ -4534,7 +4534,7 @@
        "injury": "ACTIVE",
        "name": "Dak Prescott",
        "pos": "QB",
-       "pts": 14.02,
+       "pts": 26.74,
        "slot": "QB",
        "team": "DAL"
       },
@@ -4647,7 +4647,7 @@
        "injury": "ACTIVE",
        "name": "Ashton Jeanty",
        "pos": "RB",
-       "pts": 5.6,
+       "pts": 10.4,
        "slot": "RB",
        "team": "LV"
       },
@@ -4797,7 +4797,7 @@
        "injury": "ACTIVE",
        "name": "Drew Lock",
        "pos": "QB",
-       "pts": 14.1,
+       "pts": 15.6,
        "slot": "QB",
        "team": "SEA"
       },
@@ -4920,7 +4920,7 @@
        "injury": "ACTIVE",
        "name": "Brock Purdy",
        "pos": "QB",
-       "pts": 20.9,
+       "pts": 31.66,
        "slot": "QB",
        "team": "SF"
       },
@@ -4940,7 +4940,7 @@
        "injury": "ACTIVE",
        "name": "Deebo Samuel Sr.",
        "pos": "WR",
-       "pts": 24.0,
+       "pts": 25.9,
        "slot": "FLEX",
        "team": "SF"
       },
@@ -4960,14 +4960,14 @@
        "injury": "ACTIVE",
        "name": "Tre Tucker",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 1.9,
        "slot": "BN",
        "team": "LV"
       },
       {
        "espn_id": 4361411,
        "espn_proj": 8.77,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Pat Freiermuth",
        "pos": "TE",
        "pts": null,
@@ -5163,7 +5163,7 @@
        "injury": "ACTIVE",
        "name": "Ryan Flournoy",
        "pos": "WR",
-       "pts": 5.0,
+       "pts": 16.9,
        "slot": "BN",
        "team": "DAL"
       },
@@ -5286,7 +5286,7 @@
        "injury": "NORMAL",
        "name": "Seahawks D/ST",
        "pos": "DST",
-       "pts": 11.0,
+       "pts": 12.0,
        "slot": "DST",
        "team": "SEA"
       },
@@ -5316,7 +5316,7 @@
        "injury": "ACTIVE",
        "name": "Keenan Allen",
        "pos": "WR",
-       "pts": 9.3,
+       "pts": 11.1,
        "slot": "FLEX",
        "team": "SF"
       },
@@ -5336,7 +5336,7 @@
        "injury": "ACTIVE",
        "name": "Matthew Stafford",
        "pos": "QB",
-       "pts": 19.96,
+       "pts": 19.76,
        "slot": "BN",
        "team": "LA"
       },
@@ -5346,7 +5346,7 @@
        "injury": "ACTIVE",
        "name": "Matt Gay",
        "pos": "K",
-       "pts": 4.0,
+       "pts": 8.0,
        "slot": "K",
        "team": "LV"
       },
@@ -5379,7 +5379,7 @@
        "injury": "ACTIVE",
        "name": "CeeDee Lamb",
        "pos": "WR",
-       "pts": 2.2,
+       "pts": 13.1,
        "slot": "WR",
        "team": "DAL"
       },
@@ -5389,7 +5389,7 @@
        "injury": "ACTIVE",
        "name": "George Pickens",
        "pos": "WR",
-       "pts": 29.4,
+       "pts": 39.5,
        "slot": "FLEX",
        "team": "DAL"
       },
@@ -5429,7 +5429,7 @@
        "injury": "ACTIVE",
        "name": "George Kittle",
        "pos": "TE",
-       "pts": 9.4,
+       "pts": 13.4,
        "slot": "TE",
        "team": "SF"
       },
@@ -5449,7 +5449,7 @@
        "injury": "ACTIVE",
        "name": "Brandon Aubrey",
        "pos": "K",
-       "pts": 11.0,
+       "pts": 12.0,
        "slot": "K",
        "team": "DAL"
       },
@@ -6042,40 +6042,40 @@
     },
     {
      "away": 5,
-     "away_live": 156.78,
+     "away_live": 168.78,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 102.72,
+     "home_live": 130.32,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 3,
-     "away_live": 101.44,
+     "away_live": 108.24,
      "away_pts": 0.0,
      "home": 6,
-     "home_live": 142.4,
+     "home_live": 157.16,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 9,
-     "away_live": 133.42,
+     "away_live": 147.14,
      "away_pts": 0.0,
      "home": 8,
-     "home_live": 120.76,
+     "home_live": 131.46,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
-     "away_live": 87.1,
+     "away_live": 88.5,
      "away_pts": 0.0,
      "home": 7,
-     "home_live": 92.98,
+     "home_live": 97.78,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -6582,7 +6582,7 @@
        "injury": "ACTIVE",
        "name": "Javonte Williams",
        "pos": "RB",
-       "pts": 4.9,
+       "pts": 6.3,
        "slot": "RB",
        "team": "DAL"
       },
@@ -6908,7 +6908,7 @@
        "injury": "NORMAL",
        "name": "Seahawks D/ST",
        "pos": "DST",
-       "pts": 11.0,
+       "pts": 12.0,
        "slot": "DST",
        "team": "SEA"
       },
@@ -6928,7 +6928,7 @@
        "injury": "ACTIVE",
        "name": "Keenan Allen",
        "pos": "WR",
-       "pts": 9.3,
+       "pts": 11.1,
        "slot": "FLEX",
        "team": "SF"
       },
@@ -6978,7 +6978,7 @@
        "injury": "ACTIVE",
        "name": "Matt Gay",
        "pos": "K",
-       "pts": 4.0,
+       "pts": 8.0,
        "slot": "K",
        "team": "LV"
       },
@@ -7201,7 +7201,7 @@
        "injury": "ACTIVE",
        "name": "Kaelon Black",
        "pos": "RB",
-       "pts": 11.1,
+       "pts": 14.4,
        "slot": "BN",
        "team": "SF"
       }
@@ -7234,7 +7234,7 @@
        "injury": "ACTIVE",
        "name": "George Pickens",
        "pos": "WR",
-       "pts": 29.4,
+       "pts": 39.5,
        "slot": "WR",
        "team": "DAL"
       },
@@ -7374,7 +7374,7 @@
        "injury": "ACTIVE",
        "name": "Deebo Samuel Sr.",
        "pos": "WR",
-       "pts": 24.0,
+       "pts": 25.9,
        "slot": "FLEX",
        "team": "SF"
       },
@@ -7437,7 +7437,7 @@
        "injury": "ACTIVE",
        "name": "George Kittle",
        "pos": "TE",
-       "pts": 9.4,
+       "pts": 13.4,
        "slot": "TE",
        "team": "SF"
       },
@@ -7457,7 +7457,7 @@
        "injury": "ACTIVE",
        "name": "Brock Purdy",
        "pos": "QB",
-       "pts": 20.9,
+       "pts": 31.66,
        "slot": "QB",
        "team": "SF"
       },
@@ -7620,7 +7620,7 @@
        "injury": "ACTIVE",
        "name": "Ashton Jeanty",
        "pos": "RB",
-       "pts": 5.6,
+       "pts": 10.4,
        "slot": "RB",
        "team": "LV"
       },
@@ -7853,7 +7853,7 @@
        "injury": "ACTIVE",
        "name": "Matthew Stafford",
        "pos": "QB",
-       "pts": 19.96,
+       "pts": 19.76,
        "slot": "QB",
        "team": "LA"
       },
@@ -7863,7 +7863,7 @@
        "injury": "ACTIVE",
        "name": "Tre Tucker",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 1.9,
        "slot": "BN",
        "team": "LV"
       },
@@ -7893,7 +7893,7 @@
        "injury": "ACTIVE",
        "name": "CeeDee Lamb",
        "pos": "WR",
-       "pts": 2.2,
+       "pts": 13.1,
        "slot": "WR",
        "team": "DAL"
       },
@@ -8016,7 +8016,7 @@
        "injury": "ACTIVE",
        "name": "Brandon Aubrey",
        "pos": "K",
-       "pts": 11.0,
+       "pts": 12.0,
        "slot": "K",
        "team": "DAL"
       },
@@ -8026,7 +8026,7 @@
        "injury": "ACTIVE",
        "name": "Dak Prescott",
        "pos": "QB",
-       "pts": 14.02,
+       "pts": 26.74,
        "slot": "QB",
        "team": "DAL"
       },
@@ -8169,14 +8169,14 @@
        "injury": "ACTIVE",
        "name": "Christian McCaffrey",
        "pos": "RB",
-       "pts": 18.5,
+       "pts": 46.1,
        "slot": "RB",
        "team": "SF"
       },
       {
        "espn_id": 4432665,
        "espn_proj": 15.41,
-       "injury": "OUT",
+       "injury": "QUESTIONABLE",
        "name": "Brock Bowers",
        "pos": "TE",
        "pts": 3.8,
@@ -8289,7 +8289,7 @@
        "injury": "ACTIVE",
        "name": "Ryan Flournoy",
        "pos": "WR",
-       "pts": 5.0,
+       "pts": 16.9,
        "slot": "BN",
        "team": "DAL"
       },
@@ -8351,5 +8351,5 @@
    ]
   }
  ],
- "updated": "2026-11-15T23:34:29+00:00"
+ "updated": "2026-11-16T00:30:09+00:00"
 }
