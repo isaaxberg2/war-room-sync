@@ -1831,7 +1831,7 @@
       {
        "espn_id": 4431452,
        "espn_proj": 28.1,
-       "injury": "QUESTIONABLE",
+       "injury": "DOUBTFUL",
        "name": "Drake Maye",
        "pos": "QB",
        "pts": 3.1,
@@ -5416,7 +5416,7 @@
       {
        "espn_id": 4431452,
        "espn_proj": 21.97,
-       "injury": "QUESTIONABLE",
+       "injury": "DOUBTFUL",
        "name": "Drake Maye",
        "pos": "QB",
        "pts": 3.02,
@@ -8206,7 +8206,7 @@
       {
        "espn_id": 4431452,
        "espn_proj": 21.97,
-       "injury": "QUESTIONABLE",
+       "injury": "DOUBTFUL",
        "name": "Drake Maye",
        "pos": "QB",
        "pts": 3.02,
@@ -8351,5 +8351,5 @@
    ]
   }
  ],
- "updated": "2026-11-16T08:51:34+00:00"
+ "updated": "2026-11-16T15:11:25+00:00"
 }
