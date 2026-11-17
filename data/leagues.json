@@ -492,7 +492,7 @@
     },
     {
      "away": 1,
-     "away_live": 168.8,
+     "away_live": 164.8,
      "away_pts": 0.0,
      "home": 5,
      "home_live": 71.0,
@@ -512,7 +512,7 @@
     },
     {
      "away": 9,
-     "away_live": 142.5,
+     "away_live": 143.7,
      "away_pts": 0.0,
      "home": 8,
      "home_live": 113.2,
@@ -1082,7 +1082,7 @@
        "injury": "NORMAL",
        "name": "Ravens D/ST",
        "pos": "DST",
-       "pts": 10.0,
+       "pts": 6.0,
        "slot": "DST",
        "team": "BAL"
       },
@@ -1611,7 +1611,7 @@
        "injury": "ACTIVE",
        "name": "Mark Andrews",
        "pos": "TE",
-       "pts": 0.0,
+       "pts": 1.7,
        "slot": "BN",
        "team": "BAL"
       },
@@ -1814,7 +1814,7 @@
        "injury": "ACTIVE",
        "name": "Omarion Hampton",
        "pos": "RB",
-       "pts": 0.0,
+       "pts": 2.6,
        "slot": "BN",
        "team": "LAC"
       },
@@ -2243,7 +2243,7 @@
        "injury": "ACTIVE",
        "name": "Derrick Henry",
        "pos": "RB",
-       "pts": 0.0,
+       "pts": 1.2,
        "slot": "RB",
        "team": "BAL"
       },
@@ -3262,7 +3262,7 @@
     },
     {
      "away": 1,
-     "away_live": 166.68,
+     "away_live": 162.68,
      "away_pts": 0.0,
      "home": 6,
      "home_live": 88.7,
@@ -3275,7 +3275,7 @@
      "away_live": 169.46,
      "away_pts": 0.0,
      "home": 12,
-     "home_live": 130.56,
+     "home_live": 131.76,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -3295,7 +3295,7 @@
      "away_live": 165.82,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 114.68,
+     "home_live": 117.28,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -3852,7 +3852,7 @@
        "injury": "NORMAL",
        "name": "Ravens D/ST",
        "pos": "DST",
-       "pts": 10.0,
+       "pts": 6.0,
        "slot": "DST",
        "team": "BAL"
       },
@@ -3905,7 +3905,7 @@
        "injury": "ACTIVE",
        "name": "Omarion Hampton",
        "pos": "RB",
-       "pts": 0.0,
+       "pts": 2.6,
        "slot": "RB",
        "team": "LAC"
       },
@@ -5023,7 +5023,7 @@
        "injury": "ACTIVE",
        "name": "Derrick Henry",
        "pos": "RB",
-       "pts": 0.0,
+       "pts": 1.2,
        "slot": "RB",
        "team": "BAL"
       },
@@ -6055,7 +6055,7 @@
      "away_live": 108.24,
      "away_pts": 0.0,
      "home": 6,
-     "home_live": 167.16,
+     "home_live": 163.16,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -6072,7 +6072,7 @@
     },
     {
      "away": 1,
-     "away_live": 129.96,
+     "away_live": 131.16,
      "away_pts": 0.0,
      "home": 7,
      "home_live": 144.48,
@@ -6492,7 +6492,7 @@
        "injury": "ACTIVE",
        "name": "Derrick Henry",
        "pos": "RB",
-       "pts": 0.0,
+       "pts": 1.2,
        "slot": "RB",
        "team": "BAL"
       },
@@ -7577,7 +7577,7 @@
        "injury": "NORMAL",
        "name": "Ravens D/ST",
        "pos": "DST",
-       "pts": 10.0,
+       "pts": 6.0,
        "slot": "DST",
        "team": "BAL"
       },
@@ -7986,7 +7986,7 @@
        "injury": "ACTIVE",
        "name": "Omarion Hampton",
        "pos": "RB",
-       "pts": 0.0,
+       "pts": 2.6,
        "slot": "BN",
        "team": "LAC"
       },
@@ -8351,5 +8351,5 @@
    ]
   }
  ],
- "updated": "2026-11-17T01:16:51+00:00"
+ "updated": "2026-11-17T01:55:00+00:00"
 }
