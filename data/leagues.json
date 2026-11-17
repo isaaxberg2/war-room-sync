@@ -4032,7 +4032,7 @@
       {
        "espn_id": 4887558,
        "espn_proj": 0.0,
-       "injury": "OUT",
+       "injury": "ACTIVE",
        "name": "Emanuel Wilson",
        "pos": "RB",
        "pts": 0.0,
@@ -8351,5 +8351,5 @@
    ]
   }
  ],
- "updated": "2026-11-16T18:59:53+00:00"
+ "updated": "2026-11-17T00:38:53+00:00"
 }
