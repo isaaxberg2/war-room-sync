@@ -492,7 +492,7 @@
     },
     {
      "away": 1,
-     "away_live": 158.8,
+     "away_live": 168.8,
      "away_pts": 0.0,
      "home": 5,
      "home_live": 71.0,
@@ -1082,7 +1082,7 @@
        "injury": "NORMAL",
        "name": "Ravens D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 10.0,
        "slot": "DST",
        "team": "BAL"
       },
@@ -1348,7 +1348,7 @@
        "injury": "OUT",
        "name": "Ladd McConkey",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "LAC"
       },
@@ -1358,7 +1358,7 @@
        "injury": "INJURY_RESERVE",
        "name": "Lamar Jackson",
        "pos": "QB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "BAL"
       },
@@ -1611,7 +1611,7 @@
        "injury": "ACTIVE",
        "name": "Mark Andrews",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "BAL"
       },
@@ -1814,7 +1814,7 @@
        "injury": "ACTIVE",
        "name": "Omarion Hampton",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "LAC"
       },
@@ -1917,7 +1917,7 @@
        "injury": "ACTIVE",
        "name": "Zay Flowers",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "BAL"
       },
@@ -2243,7 +2243,7 @@
        "injury": "ACTIVE",
        "name": "Derrick Henry",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "RB",
        "team": "BAL"
       },
@@ -2513,7 +2513,7 @@
       {
        "espn_id": 4035538,
        "espn_proj": 0.0,
-       "injury": "OUT",
+       "injury": "ACTIVE",
        "name": "David Montgomery",
        "pos": "RB",
        "pts": 0.0,
@@ -3262,7 +3262,7 @@
     },
     {
      "away": 1,
-     "away_live": 156.68,
+     "away_live": 166.68,
      "away_pts": 0.0,
      "home": 6,
      "home_live": 88.7,
@@ -3852,7 +3852,7 @@
        "injury": "NORMAL",
        "name": "Ravens D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 10.0,
        "slot": "DST",
        "team": "BAL"
       },
@@ -3905,7 +3905,7 @@
        "injury": "ACTIVE",
        "name": "Omarion Hampton",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "RB",
        "team": "LAC"
       },
@@ -3925,7 +3925,7 @@
        "injury": "ACTIVE",
        "name": "Zay Flowers",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "FLEX",
        "team": "BAL"
       },
@@ -3935,7 +3935,7 @@
        "injury": "INJURY_RESERVE",
        "name": "Lamar Jackson",
        "pos": "QB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "BAL"
       },
@@ -4118,7 +4118,7 @@
        "injury": "OUT",
        "name": "Ladd McConkey",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "LAC"
       },
@@ -4248,7 +4248,7 @@
        "injury": "ACTIVE",
        "name": "Quentin Johnston",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "FLEX",
        "team": "LAC"
       }
@@ -5023,7 +5023,7 @@
        "injury": "ACTIVE",
        "name": "Derrick Henry",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "RB",
        "team": "BAL"
       },
@@ -5060,7 +5060,7 @@
       {
        "espn_id": 4035538,
        "espn_proj": 0.0,
-       "injury": "OUT",
+       "injury": "ACTIVE",
        "name": "David Montgomery",
        "pos": "RB",
        "pts": 0.0,
@@ -6055,7 +6055,7 @@
      "away_live": 108.24,
      "away_pts": 0.0,
      "home": 6,
-     "home_live": 157.16,
+     "home_live": 167.16,
      "home_pts": 0.0,
      "week": 10,
      "winner": "UNDECIDED"
@@ -6492,7 +6492,7 @@
        "injury": "ACTIVE",
        "name": "Derrick Henry",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "RB",
        "team": "BAL"
       },
@@ -6599,7 +6599,7 @@
       {
        "espn_id": 4035538,
        "espn_proj": 0.0,
-       "injury": "OUT",
+       "injury": "ACTIVE",
        "name": "David Montgomery",
        "pos": "RB",
        "pts": 0.0,
@@ -6755,7 +6755,7 @@
        "injury": "ACTIVE",
        "name": "Quentin Johnston",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "LAC"
       },
@@ -7081,7 +7081,7 @@
        "injury": "INJURY_RESERVE",
        "name": "Lamar Jackson",
        "pos": "QB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "BAL"
       },
@@ -7427,7 +7427,7 @@
        "injury": "ACTIVE",
        "name": "Zay Flowers",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "BAL"
       },
@@ -7577,7 +7577,7 @@
        "injury": "NORMAL",
        "name": "Ravens D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 10.0,
        "slot": "DST",
        "team": "BAL"
       },
@@ -7650,7 +7650,7 @@
        "injury": "OUT",
        "name": "Ladd McConkey",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "LAC"
       },
@@ -7986,7 +7986,7 @@
        "injury": "ACTIVE",
        "name": "Omarion Hampton",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "LAC"
       },
@@ -8351,5 +8351,5 @@
    ]
   }
  ],
- "updated": "2026-11-17T00:38:53+00:00"
+ "updated": "2026-11-17T01:16:51+00:00"
 }
