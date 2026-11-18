@@ -6413,7 +6413,7 @@
        "name": "Puka Nacua",
        "pos": "WR",
        "pts": null,
-       "slot": "IR",
+       "slot": "BN",
        "team": "LA"
       },
       {
@@ -6544,16 +6544,6 @@
        "pos": "DST",
        "pts": null,
        "slot": "DST",
-       "team": "CIN"
-      },
-      {
-       "espn_id": 3116164,
-       "espn_proj": 7.37,
-       "injury": "ACTIVE",
-       "name": "Mike Gesicki",
-       "pos": "TE",
-       "pts": null,
-       "slot": "BN",
        "team": "CIN"
       },
       {
@@ -8251,5 +8241,5 @@
    ]
   }
  ],
- "updated": "2026-11-18T01:22:35+00:00"
+ "updated": "2026-11-18T07:24:53+00:00"
 }
