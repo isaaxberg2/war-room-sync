@@ -988,7 +988,7 @@
       },
       {
        "espn_id": 4871023,
-       "espn_proj": 14.3,
+       "espn_proj": 14.14,
        "injury": "QUESTIONABLE",
        "name": "Carnell Tate",
        "pos": "WR",
@@ -1088,8 +1088,8 @@
       },
       {
        "espn_id": 4569587,
-       "espn_proj": 10.23,
-       "injury": "QUESTIONABLE",
+       "espn_proj": 0.0,
+       "injury": "INJURY_RESERVE",
        "name": "Wan'Dale Robinson",
        "pos": "WR",
        "pts": null,
@@ -1537,7 +1537,7 @@
       },
       {
        "espn_id": 2976212,
-       "espn_proj": 13.54,
+       "espn_proj": 13.59,
        "injury": "ACTIVE",
        "name": "Stefon Diggs",
        "pos": "WR",
@@ -1820,7 +1820,7 @@
       },
       {
        "espn_id": 4373678,
-       "espn_proj": 9.73,
+       "espn_proj": 9.72,
        "injury": "ACTIVE",
        "name": "Khalil Shakir",
        "pos": "WR",
@@ -1843,7 +1843,7 @@
      "roster": [
       {
        "espn_id": 4379399,
-       "espn_proj": 23.95,
+       "espn_proj": 23.94,
        "injury": "ACTIVE",
        "name": "James Cook III",
        "pos": "RB",
@@ -2066,7 +2066,7 @@
       },
       {
        "espn_id": 4697815,
-       "espn_proj": 11.41,
+       "espn_proj": 7.95,
        "injury": "ACTIVE",
        "name": "Rachaad White",
        "pos": "RB",
@@ -2229,7 +2229,7 @@
       },
       {
        "espn_id": 3915416,
-       "espn_proj": 14.63,
+       "espn_proj": 14.62,
        "injury": "ACTIVE",
        "name": "DJ Moore",
        "pos": "WR",
@@ -2279,7 +2279,7 @@
       },
       {
        "espn_id": 4385690,
-       "espn_proj": 8.89,
+       "espn_proj": 8.88,
        "injury": "ACTIVE",
        "name": "Dalton Kincaid",
        "pos": "TE",
@@ -2392,7 +2392,7 @@
       },
       {
        "espn_id": 4426348,
-       "espn_proj": 24.04,
+       "espn_proj": 24.01,
        "injury": "ACTIVE",
        "name": "Jayden Daniels",
        "pos": "QB",
@@ -3673,7 +3673,7 @@
        "name": "Kenneth Walker III",
        "pos": "RB",
        "pts": null,
-       "slot": "IR",
+       "slot": "RB",
        "team": "KC"
       },
       {
@@ -3693,7 +3693,7 @@
        "name": "DeVonta Smith",
        "pos": "WR",
        "pts": null,
-       "slot": "IR",
+       "slot": "BN",
        "team": "PHI"
       },
       {
@@ -3713,7 +3713,7 @@
        "name": "Mike Evans",
        "pos": "WR",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "SF"
       },
       {
@@ -3773,7 +3773,7 @@
        "name": "Jonah Coleman",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "FLEX",
        "team": "DEN"
       },
       {
@@ -3815,26 +3815,6 @@
        "pts": null,
        "slot": "DST",
        "team": "BAL"
-      },
-      {
-       "espn_id": 2576925,
-       "espn_proj": 8.43,
-       "injury": "ACTIVE",
-       "name": "Darren Waller",
-       "pos": "TE",
-       "pts": null,
-       "slot": "BN",
-       "team": "CAR"
-      },
-      {
-       "espn_id": 4360569,
-       "espn_proj": 8.57,
-       "injury": "ACTIVE",
-       "name": "Jordan Mason",
-       "pos": "RB",
-       "pts": null,
-       "slot": "BN",
-       "team": "MIN"
       }
      ],
      "streak": "W6",
@@ -4049,7 +4029,7 @@
        "name": "Bijan Robinson",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "BN",
        "team": "ATL"
       },
       {
@@ -4059,7 +4039,7 @@
        "name": "D'Andre Swift",
        "pos": "RB",
        "pts": null,
-       "slot": "BN",
+       "slot": "RB",
        "team": "CHI"
       },
       {
@@ -4079,7 +4059,7 @@
        "name": "Ladd McConkey",
        "pos": "WR",
        "pts": null,
-       "slot": "IR",
+       "slot": "WR",
        "team": "LAC"
       },
       {
@@ -4089,7 +4069,7 @@
        "name": "Colston Loveland",
        "pos": "TE",
        "pts": null,
-       "slot": "BN",
+       "slot": "TE",
        "team": "CHI"
       },
       {
@@ -4099,7 +4079,7 @@
        "name": "Kyle Pitts Sr.",
        "pos": "TE",
        "pts": null,
-       "slot": "TE",
+       "slot": "BN",
        "team": "ATL"
       },
       {
@@ -4114,8 +4094,8 @@
       },
       {
        "espn_id": 4569587,
-       "espn_proj": 9.93,
-       "injury": "QUESTIONABLE",
+       "espn_proj": 0.0,
+       "injury": "INJURY_RESERVE",
        "name": "Wan'Dale Robinson",
        "pos": "WR",
        "pts": null,
@@ -4124,7 +4104,7 @@
       },
       {
        "espn_id": 4697815,
-       "espn_proj": 10.87,
+       "espn_proj": 7.71,
        "injury": "ACTIVE",
        "name": "Rachaad White",
        "pos": "RB",
@@ -4139,7 +4119,7 @@
        "name": "Matthew Golden",
        "pos": "WR",
        "pts": null,
-       "slot": "WR",
+       "slot": "BN",
        "team": "GB"
       },
       {
@@ -4149,7 +4129,7 @@
        "name": "Steelers D/ST",
        "pos": "DST",
        "pts": null,
-       "slot": "BN",
+       "slot": "DST",
        "team": "PIT"
       },
       {
@@ -4180,16 +4160,6 @@
        "pos": "K",
        "pts": null,
        "slot": "BN",
-       "team": "NYG"
-      },
-      {
-       "espn_id": -16019,
-       "espn_proj": 3.68,
-       "injury": "NORMAL",
-       "name": "Giants D/ST",
-       "pos": "DST",
-       "pts": null,
-       "slot": "DST",
        "team": "NYG"
       },
       {
@@ -4317,7 +4287,7 @@
       },
       {
        "espn_id": 4575131,
-       "espn_proj": 0.0,
+       "espn_proj": 7.49,
        "injury": "INJURY_RESERVE",
        "name": "Jacory Croskey-Merritt",
        "pos": "RB",
@@ -4470,7 +4440,7 @@
       },
       {
        "espn_id": 4871023,
-       "espn_proj": 13.28,
+       "espn_proj": 13.19,
        "injury": "QUESTIONABLE",
        "name": "Carnell Tate",
        "pos": "WR",
@@ -4510,7 +4480,7 @@
       },
       {
        "espn_id": 4385690,
-       "espn_proj": 8.6,
+       "espn_proj": 8.59,
        "injury": "ACTIVE",
        "name": "Dalton Kincaid",
        "pos": "TE",
@@ -4796,7 +4766,7 @@
       },
       {
        "espn_id": 4379399,
-       "espn_proj": 20.87,
+       "espn_proj": 20.86,
        "injury": "ACTIVE",
        "name": "James Cook III",
        "pos": "RB",
@@ -5029,7 +4999,7 @@
       },
       {
        "espn_id": 4426348,
-       "espn_proj": 19.6,
+       "espn_proj": 19.57,
        "injury": "ACTIVE",
        "name": "Jayden Daniels",
        "pos": "QB",
@@ -5039,7 +5009,7 @@
       },
       {
        "espn_id": 3916148,
-       "espn_proj": 18.45,
+       "espn_proj": 18.44,
        "injury": "ACTIVE",
        "name": "Tony Pollard",
        "pos": "RB",
@@ -5049,7 +5019,7 @@
       },
       {
        "espn_id": 2976212,
-       "espn_proj": 12.86,
+       "espn_proj": 12.91,
        "injury": "ACTIVE",
        "name": "Stefon Diggs",
        "pos": "WR",
@@ -5182,7 +5152,7 @@
       },
       {
        "espn_id": 3918298,
-       "espn_proj": 23.4,
+       "espn_proj": 23.39,
        "injury": "ACTIVE",
        "name": "Josh Allen",
        "pos": "QB",
@@ -6661,7 +6631,7 @@
       },
       {
        "espn_id": 4426348,
-       "espn_proj": 19.6,
+       "espn_proj": 19.57,
        "injury": "ACTIVE",
        "name": "Jayden Daniels",
        "pos": "QB",
@@ -6721,7 +6691,7 @@
       },
       {
        "espn_id": 4575131,
-       "espn_proj": 0.0,
+       "espn_proj": 7.49,
        "injury": "INJURY_RESERVE",
        "name": "Jacory Croskey-Merritt",
        "pos": "RB",
@@ -6814,7 +6784,7 @@
       },
       {
        "espn_id": 3918298,
-       "espn_proj": 23.4,
+       "espn_proj": 23.39,
        "injury": "ACTIVE",
        "name": "Josh Allen",
        "pos": "QB",
@@ -6844,7 +6814,7 @@
       },
       {
        "espn_id": 4871023,
-       "espn_proj": 13.28,
+       "espn_proj": 13.19,
        "injury": "QUESTIONABLE",
        "name": "Carnell Tate",
        "pos": "WR",
@@ -6964,7 +6934,7 @@
       },
       {
        "espn_id": 4567156,
-       "espn_proj": 8.47,
+       "espn_proj": 8.5,
        "injury": "ACTIVE",
        "name": "Treylon Burks",
        "pos": "WR",
@@ -7087,7 +7057,7 @@
       },
       {
        "espn_id": 4385690,
-       "espn_proj": 8.6,
+       "espn_proj": 8.59,
        "injury": "ACTIVE",
        "name": "Dalton Kincaid",
        "pos": "TE",
@@ -7353,7 +7323,7 @@
      "roster": [
       {
        "espn_id": 4379399,
-       "espn_proj": 20.87,
+       "espn_proj": 20.86,
        "injury": "ACTIVE",
        "name": "James Cook III",
        "pos": "RB",
@@ -7453,7 +7423,7 @@
       },
       {
        "espn_id": 5081432,
-       "espn_proj": 8.94,
+       "espn_proj": 8.97,
        "injury": "ACTIVE",
        "name": "Antonio Williams",
        "pos": "WR",
@@ -7483,7 +7453,7 @@
       },
       {
        "espn_id": 4360635,
-       "espn_proj": 10.02,
+       "espn_proj": 10.06,
        "injury": "ACTIVE",
        "name": "Chig Okonkwo",
        "pos": "TE",
@@ -7561,7 +7531,7 @@
        "name": "Ashton Jeanty",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "BN",
        "team": "LV"
       },
       {
@@ -7571,7 +7541,7 @@
        "name": "Kenneth Walker III",
        "pos": "RB",
        "pts": null,
-       "slot": "IR",
+       "slot": "RB",
        "team": "KC"
       },
       {
@@ -7703,16 +7673,6 @@
        "pts": null,
        "slot": "BN",
        "team": "ARI"
-      },
-      {
-       "espn_id": 4431431,
-       "espn_proj": 0.0,
-       "injury": "ACTIVE",
-       "name": "Corey Kiner",
-       "pos": "RB",
-       "pts": null,
-       "slot": "BN",
-       "team": "NE"
       },
       {
        "espn_id": 4360797,
@@ -7849,7 +7809,7 @@
       },
       {
        "espn_id": 3916148,
-       "espn_proj": 18.45,
+       "espn_proj": 18.44,
        "injury": "ACTIVE",
        "name": "Tony Pollard",
        "pos": "RB",
@@ -7859,7 +7819,7 @@
       },
       {
        "espn_id": 4697815,
-       "espn_proj": 10.87,
+       "espn_proj": 7.71,
        "injury": "ACTIVE",
        "name": "Rachaad White",
        "pos": "RB",
@@ -8042,7 +8002,7 @@
       },
       {
        "espn_id": 2976212,
-       "espn_proj": 12.86,
+       "espn_proj": 12.91,
        "injury": "ACTIVE",
        "name": "Stefon Diggs",
        "pos": "WR",
@@ -8291,5 +8251,5 @@
    ]
   }
  ],
- "updated": "2026-11-17T19:07:04+00:00"
+ "updated": "2026-11-18T01:22:35+00:00"
 }
