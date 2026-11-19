@@ -5410,7 +5410,7 @@
        "name": "Jared Goff",
        "pos": "QB",
        "pts": null,
-       "slot": "BN",
+       "slot": "QB",
        "team": "DET"
       },
       {
@@ -5480,7 +5480,7 @@
        "name": "Kirk Cousins",
        "pos": "QB",
        "pts": null,
-       "slot": "QB",
+       "slot": "BN",
        "team": "MIN"
       }
      ],
@@ -6413,7 +6413,7 @@
        "name": "Puka Nacua",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "IR",
        "team": "LA"
       },
       {
@@ -8271,5 +8271,5 @@
    ]
   }
  ],
- "updated": "2026-11-19T01:18:55+00:00"
+ "updated": "2026-11-19T07:24:24+00:00"
 }
