@@ -532,7 +532,7 @@
     },
     {
      "away": 5,
-     "away_live": 5.3,
+     "away_live": 6.7,
      "away_pts": 0.0,
      "home": 11,
      "home_live": 6.0,
@@ -565,7 +565,7 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 37.9,
+     "home_live": 50.2,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -1694,7 +1694,7 @@
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
-       "pts": 5.3,
+       "pts": 6.7,
        "slot": "RB",
        "team": "IND"
       },
@@ -2363,7 +2363,7 @@
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
-       "pts": 23.5,
+       "pts": 26.7,
        "slot": "BN",
        "team": "HOU"
       },
@@ -2416,7 +2416,7 @@
        "injury": "ACTIVE",
        "name": "Nico Collins",
        "pos": "WR",
-       "pts": 12.8,
+       "pts": 14.8,
        "slot": "WR",
        "team": "HOU"
       },
@@ -2516,7 +2516,7 @@
        "injury": "ACTIVE",
        "name": "David Montgomery",
        "pos": "RB",
-       "pts": 10.1,
+       "pts": 20.4,
        "slot": "FLEX",
        "team": "HOU"
       },
@@ -3292,7 +3292,7 @@
     },
     {
      "away": 8,
-     "away_live": 20.3,
+     "away_live": 21.7,
      "away_pts": 0.0,
      "home": 13,
      "home_live": 0.0,
@@ -3312,7 +3312,7 @@
     },
     {
      "away": 12,
-     "away_live": 27.76,
+     "away_live": 35.86,
      "away_pts": 0.0,
      "home": 1,
      "home_live": 6.0,
@@ -3335,7 +3335,7 @@
      "away_live": 3.3,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 12.8,
+     "home_live": 14.8,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -3885,7 +3885,7 @@
        "injury": "ACTIVE",
        "name": "Nico Collins",
        "pos": "WR",
-       "pts": 12.8,
+       "pts": 14.8,
        "slot": "WR",
        "team": "HOU"
       },
@@ -4414,7 +4414,7 @@
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
-       "pts": 5.3,
+       "pts": 6.7,
        "slot": "RB",
        "team": "IND"
       },
@@ -5023,7 +5023,7 @@
        "injury": "ACTIVE",
        "name": "David Montgomery",
        "pos": "RB",
-       "pts": 10.1,
+       "pts": 15.4,
        "slot": "RB",
        "team": "HOU"
       },
@@ -5093,7 +5093,7 @@
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
-       "pts": 17.66,
+       "pts": 20.46,
        "slot": "QB",
        "team": "HOU"
       },
@@ -6042,10 +6042,10 @@
     },
     {
      "away": 6,
-     "away_live": 17.66,
+     "away_live": 20.46,
      "away_pts": 0.0,
      "home": 4,
-     "home_live": 13.8,
+     "home_live": 15.8,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -6065,7 +6065,7 @@
      "away_live": 6.0,
      "away_pts": 0.0,
      "home": 3,
-     "home_live": 11.0,
+     "home_live": 12.4,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -6542,7 +6542,7 @@
        "injury": "ACTIVE",
        "name": "David Montgomery",
        "pos": "RB",
-       "pts": 10.1,
+       "pts": 15.4,
        "slot": "BN",
        "team": "HOU"
       },
@@ -6908,7 +6908,7 @@
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
-       "pts": 5.3,
+       "pts": 6.7,
        "slot": "RB",
        "team": "IND"
       },
@@ -7011,7 +7011,7 @@
        "injury": "ACTIVE",
        "name": "Nico Collins",
        "pos": "WR",
-       "pts": 12.8,
+       "pts": 14.8,
        "slot": "WR",
        "team": "HOU"
       },
@@ -7354,7 +7354,7 @@
        "injury": "ACTIVE",
        "name": "Emari Demercado",
        "pos": "RB",
-       "pts": 3.2,
+       "pts": 4.9,
        "slot": "BN",
        "team": "HOU"
       }
@@ -7408,7 +7408,7 @@
        "name": "Kyle Monangai",
        "pos": "RB",
        "pts": null,
-       "slot": "IR",
+       "slot": "BN",
        "team": "CHI"
       },
       {
@@ -7460,16 +7460,6 @@
        "pts": null,
        "slot": "RB",
        "team": "DET"
-      },
-      {
-       "espn_id": 4427095,
-       "espn_proj": 0.0,
-       "injury": "ACTIVE",
-       "name": "DeMario Douglas",
-       "pos": "WR",
-       "pts": null,
-       "slot": "BN",
-       "team": "NE"
       },
       {
        "espn_id": 5081432,
@@ -7527,7 +7517,7 @@
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
-       "pts": 17.66,
+       "pts": 20.46,
        "slot": "QB",
        "team": "HOU"
       },
@@ -8301,5 +8291,5 @@
    ]
   }
  ],
- "updated": "2026-11-20T03:32:39+00:00"
+ "updated": "2026-11-20T04:39:48+00:00"
 }
