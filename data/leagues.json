@@ -5207,7 +5207,7 @@
        "name": "Rome Odunze",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "FLEX",
        "team": "CHI"
       },
       {
@@ -5221,16 +5221,6 @@
        "team": "DEN"
       },
       {
-       "espn_id": 4576297,
-       "espn_proj": 0.0,
-       "injury": "ACTIVE",
-       "name": "AJ Barner",
-       "pos": "TE",
-       "pts": null,
-       "slot": "TE",
-       "team": "SEA"
-      },
-      {
        "espn_id": 3042519,
        "espn_proj": 8.42,
        "injury": "ACTIVE",
@@ -5239,16 +5229,6 @@
        "pts": null,
        "slot": "BN",
        "team": "MIN"
-      },
-      {
-       "espn_id": -16026,
-       "espn_proj": 0.0,
-       "injury": "NORMAL",
-       "name": "Seahawks D/ST",
-       "pos": "DST",
-       "pts": null,
-       "slot": "DST",
-       "team": "SEA"
       },
       {
        "espn_id": 4429059,
@@ -5267,7 +5247,7 @@
        "name": "Denzel Boston",
        "pos": "WR",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "CLE"
       },
       {
@@ -5301,16 +5281,6 @@
        "team": "LA"
       },
       {
-       "espn_id": 4249087,
-       "espn_proj": 8.02,
-       "injury": "QUESTIONABLE",
-       "name": "Matt Gay",
-       "pos": "K",
-       "pts": null,
-       "slot": "K",
-       "team": "LV"
-      },
-      {
        "espn_id": 3116165,
        "espn_proj": 6.22,
        "injury": "ACTIVE",
@@ -5319,6 +5289,36 @@
        "pts": null,
        "slot": "BN",
        "team": "TB"
+      },
+      {
+       "espn_id": -16008,
+       "espn_proj": 6.54,
+       "injury": "NORMAL",
+       "name": "Lions D/ST",
+       "pos": "DST",
+       "pts": null,
+       "slot": "DST",
+       "team": "DET"
+      },
+      {
+       "espn_id": 3116164,
+       "espn_proj": 7.37,
+       "injury": "ACTIVE",
+       "name": "Mike Gesicki",
+       "pos": "TE",
+       "pts": null,
+       "slot": "TE",
+       "team": "CIN"
+      },
+      {
+       "espn_id": 4686361,
+       "espn_proj": 10.85,
+       "injury": "ACTIVE",
+       "name": "Cam Little",
+       "pos": "K",
+       "pts": null,
+       "slot": "K",
+       "team": "JAX"
       }
      ],
      "streak": "L6",
@@ -8291,5 +8291,5 @@
    ]
   }
  ],
- "updated": "2026-11-20T04:39:48+00:00"
+ "updated": "2026-11-20T05:41:10+00:00"
 }
