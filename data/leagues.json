@@ -1068,7 +1068,7 @@
       },
       {
        "espn_id": -16033,
-       "espn_proj": 4.99,
+       "espn_proj": 4.85,
        "injury": "NORMAL",
        "name": "Ravens D/ST",
        "pos": "DST",
@@ -1309,7 +1309,7 @@
        "name": "Bijan Robinson",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "BN",
        "team": "ATL"
       },
       {
@@ -1389,7 +1389,7 @@
        "name": "Jordan Addison",
        "pos": "WR",
        "pts": null,
-       "slot": "WR",
+       "slot": "BN",
        "team": "MIN"
       },
       {
@@ -1423,16 +1423,6 @@
        "team": "PIT"
       },
       {
-       "espn_id": 4360423,
-       "espn_proj": 0.0,
-       "injury": "ACTIVE",
-       "name": "Michael Penix Jr.",
-       "pos": "QB",
-       "pts": null,
-       "slot": "BN",
-       "team": "ATL"
-      },
-      {
        "espn_id": 4361741,
        "espn_proj": 21.62,
        "injury": "ACTIVE",
@@ -1449,7 +1439,7 @@
        "name": "DeMario Douglas",
        "pos": "WR",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "NE"
       },
       {
@@ -1463,14 +1453,34 @@
        "team": "BUF"
       },
       {
-       "espn_id": 4429025,
-       "espn_proj": 6.29,
+       "espn_id": 4597500,
+       "espn_proj": 11.37,
        "injury": "ACTIVE",
-       "name": "Quentin Johnston",
+       "name": "Adonai Mitchell",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
-       "team": "LAC"
+       "slot": "WR",
+       "team": "NYJ"
+      },
+      {
+       "espn_id": 4371733,
+       "espn_proj": 8.89,
+       "injury": "ACTIVE",
+       "name": "Kenny Gainwell",
+       "pos": "RB",
+       "pts": null,
+       "slot": "RB",
+       "team": "TB"
+      },
+      {
+       "espn_id": 5083754,
+       "espn_proj": 9.89,
+       "injury": "ACTIVE",
+       "name": "Ryan Flournoy",
+       "pos": "WR",
+       "pts": null,
+       "slot": "FLEX",
+       "team": "DAL"
       }
      ],
      "streak": "L1",
@@ -1597,7 +1607,7 @@
       },
       {
        "espn_id": 4685720,
-       "espn_proj": 22.2,
+       "espn_proj": 22.25,
        "injury": "ACTIVE",
        "name": "Bryce Young",
        "pos": "QB",
@@ -1695,7 +1705,7 @@
        "name": "A.J. Brown",
        "pos": "WR",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "NE"
       },
       {
@@ -1725,7 +1735,7 @@
        "name": "TreVeyon Henderson",
        "pos": "RB",
        "pts": null,
-       "slot": "BN",
+       "slot": "IR",
        "team": "NE"
       },
       {
@@ -1765,7 +1775,7 @@
        "name": "Zach Charbonnet",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "BN",
        "team": "SEA"
       },
       {
@@ -1775,7 +1785,7 @@
        "name": "Tyler Shough",
        "pos": "QB",
        "pts": null,
-       "slot": "BN",
+       "slot": "QB",
        "team": "NO"
       },
       {
@@ -1795,7 +1805,7 @@
        "name": "Omarion Hampton",
        "pos": "RB",
        "pts": null,
-       "slot": "BN",
+       "slot": "RB",
        "team": "LAC"
       },
       {
@@ -1815,7 +1825,7 @@
        "name": "Drake Maye",
        "pos": "QB",
        "pts": null,
-       "slot": "QB",
+       "slot": "BN",
        "team": "NE"
       },
       {
@@ -1845,8 +1855,18 @@
        "name": "Khalil Shakir",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "FLEX",
        "team": "BUF"
+      },
+      {
+       "espn_id": 5081432,
+       "espn_proj": 9.29,
+       "injury": "ACTIVE",
+       "name": "Antonio Williams",
+       "pos": "WR",
+       "pts": null,
+       "slot": "BN",
+       "team": "WAS"
       }
      ],
      "streak": "L1",
@@ -2187,7 +2207,7 @@
       {
        "espn_id": 4241478,
        "espn_proj": 13.86,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "DeVonta Smith",
        "pos": "WR",
        "pts": null,
@@ -2580,7 +2600,7 @@
        "name": "Bhayshul Tuten",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "BN",
        "team": "JAX"
       },
       {
@@ -2590,7 +2610,7 @@
        "name": "Luther Burden III",
        "pos": "WR",
        "pts": null,
-       "slot": "WR",
+       "slot": "BN",
        "team": "CHI"
       },
       {
@@ -2600,7 +2620,7 @@
        "name": "Parker Washington",
        "pos": "WR",
        "pts": null,
-       "slot": "WR",
+       "slot": "BN",
        "team": "JAX"
       },
       {
@@ -2650,7 +2670,7 @@
        "name": "Colston Loveland",
        "pos": "TE",
        "pts": null,
-       "slot": "TE",
+       "slot": "BN",
        "team": "CHI"
       },
       {
@@ -2660,7 +2680,7 @@
        "name": "Jonah Coleman",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "BN",
        "team": "DEN"
       },
       {
@@ -2670,7 +2690,7 @@
        "name": "Justin Jefferson",
        "pos": "WR",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "MIN"
       },
       {
@@ -2680,7 +2700,7 @@
        "name": "Josh Allen",
        "pos": "QB",
        "pts": null,
-       "slot": "QB",
+       "slot": "BN",
        "team": "BUF"
       },
       {
@@ -3699,7 +3719,7 @@
       {
        "espn_id": 4241478,
        "espn_proj": 13.01,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "DeVonta Smith",
        "pos": "WR",
        "pts": null,
@@ -4317,7 +4337,7 @@
       },
       {
        "espn_id": 4685720,
-       "espn_proj": 17.36,
+       "espn_proj": 17.39,
        "injury": "ACTIVE",
        "name": "Bryce Young",
        "pos": "QB",
@@ -4445,7 +4465,7 @@
        "name": "Jadarian Price",
        "pos": "RB",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "SEA"
       },
       {
@@ -4455,7 +4475,7 @@
        "name": "Carnell Tate",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "FLEX",
        "team": "TEN"
       },
       {
@@ -4465,7 +4485,7 @@
        "name": "Harold Fannin Jr.",
        "pos": "TE",
        "pts": null,
-       "slot": "TE",
+       "slot": "BN",
        "team": "CLE"
       },
       {
@@ -4495,7 +4515,7 @@
        "name": "Dalton Kincaid",
        "pos": "TE",
        "pts": null,
-       "slot": "BN",
+       "slot": "TE",
        "team": "BUF"
       },
       {
@@ -5395,7 +5415,7 @@
       },
       {
        "espn_id": 4695883,
-       "espn_proj": 8.79,
+       "espn_proj": 8.78,
        "injury": "ACTIVE",
        "name": "Jalen Coker",
        "pos": "WR",
@@ -7230,7 +7250,7 @@
       },
       {
        "espn_id": 4695883,
-       "espn_proj": 8.79,
+       "espn_proj": 8.78,
        "injury": "ACTIVE",
        "name": "Jalen Coker",
        "pos": "WR",
@@ -8116,7 +8136,7 @@
       {
        "espn_id": 4241478,
        "espn_proj": 13.01,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "DeVonta Smith",
        "pos": "WR",
        "pts": null,
@@ -8281,5 +8301,5 @@
    ]
   }
  ],
- "updated": "2026-11-19T19:05:42+00:00"
+ "updated": "2026-11-20T00:39:18+00:00"
 }
