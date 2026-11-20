@@ -4984,7 +4984,7 @@
        "name": "Derrick Henry",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "FLEX",
        "team": "BAL"
       },
       {
@@ -5024,7 +5024,7 @@
        "name": "David Montgomery",
        "pos": "RB",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "RB",
        "team": "HOU"
       },
       {
@@ -5034,7 +5034,7 @@
        "name": "Jayden Daniels",
        "pos": "QB",
        "pts": null,
-       "slot": "QB",
+       "slot": "BN",
        "team": "WAS"
       },
       {
@@ -5094,7 +5094,7 @@
        "name": "C.J. Stroud",
        "pos": "QB",
        "pts": null,
-       "slot": "BN",
+       "slot": "QB",
        "team": "HOU"
       },
       {
@@ -8301,5 +8301,5 @@
    ]
   }
  ],
- "updated": "2026-11-20T00:39:18+00:00"
+ "updated": "2026-11-20T01:12:52+00:00"
 }
