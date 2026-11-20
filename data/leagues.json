@@ -532,10 +532,10 @@
     },
     {
      "away": 5,
-     "away_live": 2.6,
+     "away_live": 5.3,
      "away_pts": 0.0,
      "home": 11,
-     "home_live": 2.0,
+     "home_live": 6.0,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -565,7 +565,7 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 29.6,
+     "home_live": 37.9,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -1651,7 +1651,7 @@
        "injury": "ACTIVE",
        "name": "Tank Dell",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 5.7,
        "slot": "BN",
        "team": "HOU"
       },
@@ -1694,7 +1694,7 @@
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
-       "pts": 2.6,
+       "pts": 5.3,
        "slot": "RB",
        "team": "IND"
       },
@@ -2363,7 +2363,7 @@
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
-       "pts": 15.4,
+       "pts": 23.5,
        "slot": "BN",
        "team": "HOU"
       },
@@ -2516,7 +2516,7 @@
        "injury": "ACTIVE",
        "name": "David Montgomery",
        "pos": "RB",
-       "pts": 5.8,
+       "pts": 10.1,
        "slot": "FLEX",
        "team": "HOU"
       },
@@ -2546,7 +2546,7 @@
        "injury": "NORMAL",
        "name": "Texans D/ST",
        "pos": "DST",
-       "pts": 11.0,
+       "pts": 15.0,
        "slot": "DST",
        "team": "HOU"
       },
@@ -2629,7 +2629,7 @@
        "injury": "ACTIVE",
        "name": "Ka'imi Fairbairn",
        "pos": "K",
-       "pts": 2.0,
+       "pts": 6.0,
        "slot": "K",
        "team": "HOU"
       },
@@ -3292,7 +3292,7 @@
     },
     {
      "away": 8,
-     "away_live": 13.6,
+     "away_live": 20.3,
      "away_pts": 0.0,
      "home": 13,
      "home_live": 0.0,
@@ -3312,10 +3312,10 @@
     },
     {
      "away": 12,
-     "away_live": 17.56,
+     "away_live": 27.76,
      "away_pts": 0.0,
      "home": 1,
-     "home_live": 2.0,
+     "home_live": 6.0,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -3325,7 +3325,7 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 1.0,
+     "home_live": 6.7,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -3812,7 +3812,7 @@
        "injury": "ACTIVE",
        "name": "Ka'imi Fairbairn",
        "pos": "K",
-       "pts": 2.0,
+       "pts": 6.0,
        "slot": "K",
        "team": "HOU"
       },
@@ -4414,7 +4414,7 @@
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
-       "pts": 2.6,
+       "pts": 5.3,
        "slot": "RB",
        "team": "IND"
       },
@@ -4524,7 +4524,7 @@
        "injury": "NORMAL",
        "name": "Texans D/ST",
        "pos": "DST",
-       "pts": 11.0,
+       "pts": 15.0,
        "slot": "DST",
        "team": "HOU"
       },
@@ -4767,7 +4767,7 @@
        "injury": "ACTIVE",
        "name": "Tank Dell",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 5.7,
        "slot": "FLEX",
        "team": "HOU"
       }
@@ -5023,7 +5023,7 @@
        "injury": "ACTIVE",
        "name": "David Montgomery",
        "pos": "RB",
-       "pts": 5.8,
+       "pts": 10.1,
        "slot": "RB",
        "team": "HOU"
       },
@@ -5093,7 +5093,7 @@
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
-       "pts": 11.76,
+       "pts": 17.66,
        "slot": "QB",
        "team": "HOU"
       },
@@ -6032,7 +6032,7 @@
     },
     {
      "away": 2,
-     "away_live": 11.0,
+     "away_live": 15.0,
      "away_pts": 0.0,
      "home": 10,
      "home_live": 0.0,
@@ -6042,7 +6042,7 @@
     },
     {
      "away": 6,
-     "away_live": 11.76,
+     "away_live": 17.66,
      "away_pts": 0.0,
      "home": 4,
      "home_live": 13.8,
@@ -6062,10 +6062,10 @@
     },
     {
      "away": 7,
-     "away_live": 2.0,
+     "away_live": 6.0,
      "away_pts": 0.0,
      "home": 3,
-     "home_live": 2.6,
+     "home_live": 11.0,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -6542,7 +6542,7 @@
        "injury": "ACTIVE",
        "name": "David Montgomery",
        "pos": "RB",
-       "pts": 5.8,
+       "pts": 10.1,
        "slot": "BN",
        "team": "HOU"
       },
@@ -6725,7 +6725,7 @@
        "injury": "NORMAL",
        "name": "Texans D/ST",
        "pos": "DST",
-       "pts": 11.0,
+       "pts": 15.0,
        "slot": "DST",
        "team": "HOU"
       },
@@ -6868,7 +6868,7 @@
        "injury": "ACTIVE",
        "name": "Tank Dell",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 5.7,
        "slot": "FLEX",
        "team": "HOU"
       },
@@ -6908,7 +6908,7 @@
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
-       "pts": 2.6,
+       "pts": 5.3,
        "slot": "RB",
        "team": "IND"
       },
@@ -7354,7 +7354,7 @@
        "injury": "ACTIVE",
        "name": "Emari Demercado",
        "pos": "RB",
-       "pts": 2.0,
+       "pts": 3.2,
        "slot": "BN",
        "team": "HOU"
       }
@@ -7527,7 +7527,7 @@
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
-       "pts": 11.76,
+       "pts": 17.66,
        "slot": "QB",
        "team": "HOU"
       },
@@ -7680,7 +7680,7 @@
        "injury": "ACTIVE",
        "name": "Ka'imi Fairbairn",
        "pos": "K",
-       "pts": 2.0,
+       "pts": 6.0,
        "slot": "K",
        "team": "HOU"
       },
@@ -8301,5 +8301,5 @@
    ]
   }
  ],
- "updated": "2026-11-20T02:41:22+00:00"
+ "updated": "2026-11-20T03:32:39+00:00"
 }
