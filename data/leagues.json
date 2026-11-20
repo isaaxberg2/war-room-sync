@@ -522,7 +522,7 @@
     },
     {
      "away": 2,
-     "away_live": 2.0,
+     "away_live": 1.0,
      "away_pts": 0.0,
      "home": 4,
      "home_live": 0.0,
@@ -532,10 +532,10 @@
     },
     {
      "away": 5,
-     "away_live": 2.3,
+     "away_live": 2.6,
      "away_pts": 0.0,
      "home": 11,
-     "home_live": 1.0,
+     "home_live": 2.0,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -565,7 +565,7 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 21.3,
+     "home_live": 29.6,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -1102,7 +1102,7 @@
        "injury": "ACTIVE",
        "name": "Xavier Hutchinson",
        "pos": "WR",
-       "pts": 1.2,
+       "pts": 3.3,
        "slot": "BN",
        "team": "HOU"
       }
@@ -1245,7 +1245,7 @@
        "injury": "ACTIVE",
        "name": "Spencer Shrader",
        "pos": "K",
-       "pts": 2.0,
+       "pts": 1.0,
        "slot": "K",
        "team": "IND"
       },
@@ -1572,7 +1572,7 @@
        "name": "Stefon Diggs",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "FLEX",
        "team": "WAS"
       },
       {
@@ -1592,7 +1592,7 @@
        "name": "Blake Corum",
        "pos": "RB",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "LA"
       },
       {
@@ -1694,7 +1694,7 @@
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
-       "pts": 2.3,
+       "pts": 2.6,
        "slot": "RB",
        "team": "IND"
       },
@@ -1937,7 +1937,7 @@
        "injury": "ACTIVE",
        "name": "Tyler Warren",
        "pos": "TE",
-       "pts": 0.0,
+       "pts": 3.2,
        "slot": "BN",
        "team": "IND"
       },
@@ -2363,7 +2363,7 @@
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
-       "pts": 5.4,
+       "pts": 15.4,
        "slot": "BN",
        "team": "HOU"
       },
@@ -2416,7 +2416,7 @@
        "injury": "ACTIVE",
        "name": "Nico Collins",
        "pos": "WR",
-       "pts": 11.2,
+       "pts": 12.8,
        "slot": "WR",
        "team": "HOU"
       },
@@ -2516,7 +2516,7 @@
        "injury": "ACTIVE",
        "name": "David Montgomery",
        "pos": "RB",
-       "pts": 1.1,
+       "pts": 5.8,
        "slot": "FLEX",
        "team": "HOU"
       },
@@ -2546,7 +2546,7 @@
        "injury": "NORMAL",
        "name": "Texans D/ST",
        "pos": "DST",
-       "pts": 9.0,
+       "pts": 11.0,
        "slot": "DST",
        "team": "HOU"
       },
@@ -2629,7 +2629,7 @@
        "injury": "ACTIVE",
        "name": "Ka'imi Fairbairn",
        "pos": "K",
-       "pts": 1.0,
+       "pts": 2.0,
        "slot": "K",
        "team": "HOU"
       },
@@ -3292,7 +3292,7 @@
     },
     {
      "away": 8,
-     "away_live": 11.3,
+     "away_live": 13.6,
      "away_pts": 0.0,
      "home": 13,
      "home_live": 0.0,
@@ -3312,10 +3312,10 @@
     },
     {
      "away": 12,
-     "away_live": 5.82,
+     "away_live": 17.56,
      "away_pts": 0.0,
      "home": 1,
-     "home_live": 1.0,
+     "home_live": 2.0,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -3325,17 +3325,17 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 2.0,
+     "home_live": 1.0,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 4,
-     "away_live": 1.2,
+     "away_live": 3.3,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 11.2,
+     "home_live": 12.8,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -3812,7 +3812,7 @@
        "injury": "ACTIVE",
        "name": "Ka'imi Fairbairn",
        "pos": "K",
-       "pts": 1.0,
+       "pts": 2.0,
        "slot": "K",
        "team": "HOU"
       },
@@ -3885,7 +3885,7 @@
        "injury": "ACTIVE",
        "name": "Nico Collins",
        "pos": "WR",
-       "pts": 11.2,
+       "pts": 12.8,
        "slot": "WR",
        "team": "HOU"
       },
@@ -3915,7 +3915,7 @@
        "injury": "ACTIVE",
        "name": "Tyler Warren",
        "pos": "TE",
-       "pts": 0.0,
+       "pts": 3.2,
        "slot": "BN",
        "team": "IND"
       },
@@ -4198,7 +4198,7 @@
        "injury": "ACTIVE",
        "name": "Xavier Hutchinson",
        "pos": "WR",
-       "pts": 1.2,
+       "pts": 3.3,
        "slot": "WR",
        "team": "HOU"
       },
@@ -4414,7 +4414,7 @@
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
-       "pts": 2.3,
+       "pts": 2.6,
        "slot": "RB",
        "team": "IND"
       },
@@ -4524,7 +4524,7 @@
        "injury": "NORMAL",
        "name": "Texans D/ST",
        "pos": "DST",
-       "pts": 9.0,
+       "pts": 11.0,
        "slot": "DST",
        "team": "HOU"
       },
@@ -4717,7 +4717,7 @@
        "injury": "ACTIVE",
        "name": "Spencer Shrader",
        "pos": "K",
-       "pts": 2.0,
+       "pts": 1.0,
        "slot": "K",
        "team": "IND"
       },
@@ -5023,7 +5023,7 @@
        "injury": "ACTIVE",
        "name": "David Montgomery",
        "pos": "RB",
-       "pts": 1.1,
+       "pts": 5.8,
        "slot": "RB",
        "team": "HOU"
       },
@@ -5093,7 +5093,7 @@
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
-       "pts": 4.72,
+       "pts": 11.76,
        "slot": "QB",
        "team": "HOU"
       },
@@ -6032,7 +6032,7 @@
     },
     {
      "away": 2,
-     "away_live": 9.0,
+     "away_live": 11.0,
      "away_pts": 0.0,
      "home": 10,
      "home_live": 0.0,
@@ -6042,17 +6042,17 @@
     },
     {
      "away": 6,
-     "away_live": 4.72,
+     "away_live": 11.76,
      "away_pts": 0.0,
      "home": 4,
-     "home_live": 13.2,
+     "home_live": 13.8,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 8,
-     "away_live": 0.0,
+     "away_live": 3.2,
      "away_pts": 0.0,
      "home": 5,
      "home_live": 0.0,
@@ -6062,17 +6062,17 @@
     },
     {
      "away": 7,
-     "away_live": 1.0,
+     "away_live": 2.0,
      "away_pts": 0.0,
      "home": 3,
-     "home_live": 2.3,
+     "home_live": 2.6,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
-     "away_live": 1.2,
+     "away_live": 3.3,
      "away_pts": 0.0,
      "home": 9,
      "home_live": 0.0,
@@ -6542,7 +6542,7 @@
        "injury": "ACTIVE",
        "name": "David Montgomery",
        "pos": "RB",
-       "pts": 1.1,
+       "pts": 5.8,
        "slot": "BN",
        "team": "HOU"
       },
@@ -6582,7 +6582,7 @@
        "injury": "ACTIVE",
        "name": "Xavier Hutchinson",
        "pos": "WR",
-       "pts": 1.2,
+       "pts": 3.3,
        "slot": "WR",
        "team": "HOU"
       },
@@ -6725,7 +6725,7 @@
        "injury": "NORMAL",
        "name": "Texans D/ST",
        "pos": "DST",
-       "pts": 9.0,
+       "pts": 11.0,
        "slot": "DST",
        "team": "HOU"
       },
@@ -6908,7 +6908,7 @@
        "injury": "ACTIVE",
        "name": "Jonathan Taylor",
        "pos": "RB",
-       "pts": 2.3,
+       "pts": 2.6,
        "slot": "RB",
        "team": "IND"
       },
@@ -7011,7 +7011,7 @@
        "injury": "ACTIVE",
        "name": "Nico Collins",
        "pos": "WR",
-       "pts": 11.2,
+       "pts": 12.8,
        "slot": "WR",
        "team": "HOU"
       },
@@ -7131,7 +7131,7 @@
        "injury": "ACTIVE",
        "name": "Spencer Shrader",
        "pos": "K",
-       "pts": 2.0,
+       "pts": 1.0,
        "slot": "K",
        "team": "IND"
       },
@@ -7354,7 +7354,7 @@
        "injury": "ACTIVE",
        "name": "Emari Demercado",
        "pos": "RB",
-       "pts": 1.0,
+       "pts": 2.0,
        "slot": "BN",
        "team": "HOU"
       }
@@ -7527,7 +7527,7 @@
        "injury": "ACTIVE",
        "name": "C.J. Stroud",
        "pos": "QB",
-       "pts": 4.72,
+       "pts": 11.76,
        "slot": "QB",
        "team": "HOU"
       },
@@ -7680,7 +7680,7 @@
        "injury": "ACTIVE",
        "name": "Ka'imi Fairbairn",
        "pos": "K",
-       "pts": 1.0,
+       "pts": 2.0,
        "slot": "K",
        "team": "HOU"
       },
@@ -7773,7 +7773,7 @@
        "injury": "ACTIVE",
        "name": "Tyler Warren",
        "pos": "TE",
-       "pts": 0.0,
+       "pts": 3.2,
        "slot": "TE",
        "team": "IND"
       },
@@ -8301,5 +8301,5 @@
    ]
   }
  ],
- "updated": "2026-11-20T01:52:50+00:00"
+ "updated": "2026-11-20T02:41:22+00:00"
 }
