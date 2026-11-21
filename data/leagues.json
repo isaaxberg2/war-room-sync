@@ -1800,7 +1800,7 @@
       },
       {
        "espn_id": 4685382,
-       "espn_proj": 14.71,
+       "espn_proj": 14.7,
        "injury": "ACTIVE",
        "name": "Omarion Hampton",
        "pos": "RB",
@@ -2156,7 +2156,7 @@
       },
       {
        "espn_id": 4426388,
-       "espn_proj": 11.82,
+       "espn_proj": 11.83,
        "injury": "ACTIVE",
        "name": "Jameson Williams",
        "pos": "WR",
@@ -2339,7 +2339,7 @@
       },
       {
        "espn_id": 3046779,
-       "espn_proj": 19.22,
+       "espn_proj": 19.23,
        "injury": "ACTIVE",
        "name": "Jared Goff",
        "pos": "QB",
@@ -2502,7 +2502,7 @@
       },
       {
        "espn_id": 4685247,
-       "espn_proj": 8.07,
+       "espn_proj": 8.08,
        "injury": "ACTIVE",
        "name": "Braelon Allen",
        "pos": "RB",
@@ -4084,7 +4084,7 @@
       },
       {
        "espn_id": 4612826,
-       "espn_proj": 10.75,
+       "espn_proj": 10.76,
        "injury": "QUESTIONABLE",
        "name": "Ladd McConkey",
        "pos": "WR",
@@ -4347,7 +4347,7 @@
       },
       {
        "espn_id": 8439,
-       "espn_proj": 15.16,
+       "espn_proj": 15.17,
        "injury": "ACTIVE",
        "name": "Aaron Rodgers",
        "pos": "QB",
@@ -5162,7 +5162,7 @@
      "roster": [
       {
        "espn_id": 4374302,
-       "espn_proj": 17.7,
+       "espn_proj": 17.71,
        "injury": "ACTIVE",
        "name": "Amon-Ra St. Brown",
        "pos": "WR",
@@ -5212,7 +5212,7 @@
       },
       {
        "espn_id": 4241985,
-       "espn_proj": 8.52,
+       "espn_proj": 8.53,
        "injury": "ACTIVE",
        "name": "J.K. Dobbins",
        "pos": "RB",
@@ -5425,7 +5425,7 @@
       },
       {
        "espn_id": 3046779,
-       "espn_proj": 14.76,
+       "espn_proj": 14.77,
        "injury": "ACTIVE",
        "name": "Jared Goff",
        "pos": "QB",
@@ -5435,7 +5435,7 @@
       },
       {
        "espn_id": 4685247,
-       "espn_proj": 7.66,
+       "espn_proj": 7.67,
        "injury": "ACTIVE",
        "name": "Braelon Allen",
        "pos": "RB",
@@ -6621,7 +6621,7 @@
      "roster": [
       {
        "espn_id": 4374302,
-       "espn_proj": 17.7,
+       "espn_proj": 17.71,
        "injury": "ACTIVE",
        "name": "Amon-Ra St. Brown",
        "pos": "WR",
@@ -6854,7 +6854,7 @@
       },
       {
        "espn_id": 4241985,
-       "espn_proj": 8.52,
+       "espn_proj": 8.53,
        "injury": "ACTIVE",
        "name": "J.K. Dobbins",
        "pos": "RB",
@@ -6944,7 +6944,7 @@
       },
       {
        "espn_id": 8439,
-       "espn_proj": 15.16,
+       "espn_proj": 15.17,
        "injury": "ACTIVE",
        "name": "Aaron Rodgers",
        "pos": "QB",
@@ -6974,7 +6974,7 @@
       },
       {
        "espn_id": -16020,
-       "espn_proj": 6.17,
+       "espn_proj": 6.21,
        "injury": "NORMAL",
        "name": "Jets D/ST",
        "pos": "DST",
@@ -7107,7 +7107,7 @@
       },
       {
        "espn_id": 3046779,
-       "espn_proj": 14.76,
+       "espn_proj": 14.77,
        "injury": "ACTIVE",
        "name": "Jared Goff",
        "pos": "QB",
@@ -7167,7 +7167,7 @@
       },
       {
        "espn_id": 4688380,
-       "espn_proj": 16.95,
+       "espn_proj": 16.96,
        "injury": "ACTIVE",
        "name": "Cam Ward",
        "pos": "QB",
@@ -7543,7 +7543,7 @@
       },
       {
        "espn_id": -16027,
-       "espn_proj": 4.63,
+       "espn_proj": 4.53,
        "injury": "NORMAL",
        "name": "Buccaneers D/ST",
        "pos": "DST",
@@ -7591,7 +7591,7 @@
        "name": "Kenneth Walker III",
        "pos": "RB",
        "pts": null,
-       "slot": "BN",
+       "slot": "IR",
        "team": "KC"
       },
       {
@@ -7606,7 +7606,7 @@
       },
       {
        "espn_id": 4612826,
-       "espn_proj": 10.75,
+       "espn_proj": 10.76,
        "injury": "QUESTIONABLE",
        "name": "Ladd McConkey",
        "pos": "WR",
@@ -7993,7 +7993,7 @@
       {
        "espn_id": 4428557,
        "espn_proj": 7.86,
-       "injury": "QUESTIONABLE",
+       "injury": "INJURY_RESERVE",
        "name": "Tyjae Spears",
        "pos": "RB",
        "pts": null,
@@ -8092,7 +8092,7 @@
       },
       {
        "espn_id": 4685247,
-       "espn_proj": 7.66,
+       "espn_proj": 7.67,
        "injury": "ACTIVE",
        "name": "Braelon Allen",
        "pos": "RB",
@@ -8301,5 +8301,5 @@
    ]
   }
  ],
- "updated": "2026-11-21T13:01:35+00:00"
+ "updated": "2026-11-21T18:54:16+00:00"
 }
