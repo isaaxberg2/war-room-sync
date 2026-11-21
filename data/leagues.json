@@ -6595,6 +6595,16 @@
        "pts": null,
        "slot": "K",
        "team": "TB"
+      },
+      {
+       "espn_id": 4371733,
+       "espn_proj": 8.85,
+       "injury": "ACTIVE",
+       "name": "Kenny Gainwell",
+       "pos": "RB",
+       "pts": null,
+       "slot": "BN",
+       "team": "TB"
       }
      ],
      "streak": "W4",
@@ -8291,5 +8301,5 @@
    ]
   }
  ],
- "updated": "2026-11-21T01:16:29+00:00"
+ "updated": "2026-11-21T07:15:17+00:00"
 }
