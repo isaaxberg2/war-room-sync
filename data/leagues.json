@@ -1811,7 +1811,7 @@
       {
        "espn_id": 4431492,
        "espn_proj": 7.49,
-       "injury": "INJURY_RESERVE",
+       "injury": "QUESTIONABLE",
        "name": "Roman Wilson",
        "pos": "WR",
        "pts": null,
@@ -2260,7 +2260,7 @@
       {
        "espn_id": 4430737,
        "espn_proj": 0.0,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Kyren Williams",
        "pos": "RB",
        "pts": null,
@@ -2600,7 +2600,7 @@
        "name": "Bhayshul Tuten",
        "pos": "RB",
        "pts": null,
-       "slot": "BN",
+       "slot": "FLEX",
        "team": "JAX"
       },
       {
@@ -2620,7 +2620,7 @@
        "name": "Parker Washington",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "WR",
        "team": "JAX"
       },
       {
@@ -2670,7 +2670,7 @@
        "name": "Colston Loveland",
        "pos": "TE",
        "pts": null,
-       "slot": "BN",
+       "slot": "TE",
        "team": "CHI"
       },
       {
@@ -2680,7 +2680,7 @@
        "name": "Jonah Coleman",
        "pos": "RB",
        "pts": null,
-       "slot": "BN",
+       "slot": "RB",
        "team": "DEN"
       },
       {
@@ -2690,7 +2690,7 @@
        "name": "Justin Jefferson",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "WR",
        "team": "MIN"
       },
       {
@@ -2700,7 +2700,7 @@
        "name": "Josh Allen",
        "pos": "QB",
        "pts": null,
-       "slot": "BN",
+       "slot": "QB",
        "team": "BUF"
       },
       {
@@ -2720,7 +2720,7 @@
        "name": "Emmett Johnson",
        "pos": "RB",
        "pts": null,
-       "slot": "BN",
+       "slot": "RB",
        "team": "KC"
       },
       {
@@ -4258,7 +4258,7 @@
       {
        "espn_id": 4430737,
        "espn_proj": 0.0,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Kyren Williams",
        "pos": "RB",
        "pts": null,
@@ -4851,7 +4851,7 @@
        "name": "TreVeyon Henderson",
        "pos": "RB",
        "pts": null,
-       "slot": "BN",
+       "slot": "IR",
        "team": "NE"
       },
       {
@@ -4905,16 +4905,6 @@
        "team": "SF"
       },
       {
-       "espn_id": 2473037,
-       "espn_proj": 0.0,
-       "injury": "ACTIVE",
-       "name": "Jason Myers",
-       "pos": "K",
-       "pts": null,
-       "slot": "K",
-       "team": "SEA"
-      },
-      {
        "espn_id": 4428718,
        "espn_proj": 8.18,
        "injury": "ACTIVE",
@@ -4931,7 +4921,7 @@
        "name": "Pat Freiermuth",
        "pos": "TE",
        "pts": null,
-       "slot": "BN",
+       "slot": "TE",
        "team": "PIT"
       },
       {
@@ -4941,7 +4931,7 @@
        "name": "Brenton Strange",
        "pos": "TE",
        "pts": null,
-       "slot": "TE",
+       "slot": "BN",
        "team": "JAX"
       },
       {
@@ -4953,6 +4943,26 @@
        "pts": null,
        "slot": "DST",
        "team": "MIN"
+      },
+      {
+       "espn_id": 4371733,
+       "espn_proj": 8.85,
+       "injury": "ACTIVE",
+       "name": "Kenny Gainwell",
+       "pos": "RB",
+       "pts": null,
+       "slot": "BN",
+       "team": "TB"
+      },
+      {
+       "espn_id": 3150744,
+       "espn_proj": 9.51,
+       "injury": "ACTIVE",
+       "name": "Chase McLaughlin",
+       "pos": "K",
+       "pts": null,
+       "slot": "K",
+       "team": "TB"
       }
      ],
      "streak": "W1",
@@ -6642,7 +6652,7 @@
       {
        "espn_id": 4430737,
        "espn_proj": 0.0,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Kyren Williams",
        "pos": "RB",
        "pts": null,
@@ -6955,7 +6965,7 @@
       {
        "espn_id": 4567156,
        "espn_proj": 8.5,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Treylon Burks",
        "pos": "WR",
        "pts": null,
@@ -8301,5 +8311,5 @@
    ]
   }
  ],
- "updated": "2026-11-21T18:54:16+00:00"
+ "updated": "2026-11-22T01:12:58+00:00"
 }
