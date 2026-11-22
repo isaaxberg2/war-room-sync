@@ -6523,7 +6523,7 @@
        "name": "Khalil Shakir",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "FLEX",
        "team": "BUF"
       },
       {
@@ -6533,7 +6533,7 @@
        "name": "Javonte Williams",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "BN",
        "team": "DAL"
       },
       {
@@ -6583,7 +6583,7 @@
        "name": "Emmett Johnson",
        "pos": "RB",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "KC"
       },
       {
@@ -6613,7 +6613,7 @@
        "name": "Kenny Gainwell",
        "pos": "RB",
        "pts": null,
-       "slot": "BN",
+       "slot": "RB",
        "team": "TB"
       }
      ],
@@ -8311,5 +8311,5 @@
    ]
   }
  ],
- "updated": "2026-11-22T01:12:58+00:00"
+ "updated": "2026-11-22T07:15:56+00:00"
 }
