@@ -1648,7 +1648,7 @@
       {
        "espn_id": 4569682,
        "espn_proj": 0.0,
-       "injury": "OUT",
+       "injury": "ACTIVE",
        "name": "Audric Estime",
        "pos": "RB",
        "pts": 0.0,
@@ -2350,7 +2350,7 @@
       {
        "espn_id": 4686361,
        "espn_proj": 10.65,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Cam Little",
        "pos": "K",
        "pts": 13.0,
@@ -5333,7 +5333,7 @@
       {
        "espn_id": 4686361,
        "espn_proj": 10.85,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Cam Little",
        "pos": "K",
        "pts": 13.0,
@@ -5436,7 +5436,7 @@
       {
        "espn_id": 4695883,
        "espn_proj": 8.79,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Jalen Coker",
        "pos": "WR",
        "pts": 8.7,
@@ -7281,7 +7281,7 @@
       {
        "espn_id": 4695883,
        "espn_proj": 8.79,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Jalen Coker",
        "pos": "WR",
        "pts": 8.7,
@@ -7534,7 +7534,7 @@
       {
        "espn_id": 4686361,
        "espn_proj": 10.85,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Cam Little",
        "pos": "K",
        "pts": 13.0,
@@ -8321,5 +8321,5 @@
    ]
   }
  ],
- "updated": "2026-11-23T13:26:44+00:00"
+ "updated": "2026-11-23T19:08:41+00:00"
 }
