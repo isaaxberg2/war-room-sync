@@ -532,20 +532,20 @@
     },
     {
      "away": 5,
-     "away_live": 104.5,
+     "away_live": 112.3,
      "away_pts": 0.0,
      "home": 11,
-     "home_live": 152.6,
+     "home_live": 154.4,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 3,
-     "away_live": 99.5,
+     "away_live": 117.5,
      "away_pts": 0.0,
      "home": 7,
-     "home_live": 174.0,
+     "home_live": 172.0,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -562,10 +562,10 @@
     },
     {
      "away": 9,
-     "away_live": 109.4,
+     "away_live": 112.2,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 106.2,
+     "home_live": 109.7,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -1022,7 +1022,7 @@
        "injury": "ACTIVE",
        "name": "Jordan Mason",
        "pos": "RB",
-       "pts": 0.9,
+       "pts": 2.2,
        "slot": "BN",
        "team": "MIN"
       },
@@ -1032,7 +1032,7 @@
        "injury": "ACTIVE",
        "name": "T.J. Hockenson",
        "pos": "TE",
-       "pts": 5.6,
+       "pts": 8.0,
        "slot": "BN",
        "team": "MIN"
       },
@@ -1428,7 +1428,7 @@
        "injury": "ACTIVE",
        "name": "Brock Purdy",
        "pos": "QB",
-       "pts": 8.0,
+       "pts": 26.0,
        "slot": "QB",
        "team": "SF"
       },
@@ -1724,7 +1724,7 @@
        "injury": "ACTIVE",
        "name": "George Kittle",
        "pos": "TE",
-       "pts": 8.7,
+       "pts": 16.5,
        "slot": "TE",
        "team": "SF"
       },
@@ -1744,7 +1744,7 @@
        "injury": "ACTIVE",
        "name": "Mike Evans",
        "pos": "WR",
-       "pts": 2.4,
+       "pts": 20.1,
        "slot": "BN",
        "team": "SF"
       },
@@ -1997,7 +1997,7 @@
        "injury": "ACTIVE",
        "name": "Will Reichard",
        "pos": "K",
-       "pts": 0.0,
+       "pts": 4.0,
        "slot": "K",
        "team": "MIN"
       },
@@ -2027,7 +2027,7 @@
        "injury": "NORMAL",
        "name": "Vikings D/ST",
        "pos": "DST",
-       "pts": 9.0,
+       "pts": 3.0,
        "slot": "DST",
        "team": "MIN"
       },
@@ -2200,7 +2200,7 @@
        "injury": "ACTIVE",
        "name": "Kaelon Black",
        "pos": "RB",
-       "pts": 0.0,
+       "pts": 0.4,
        "slot": "BN",
        "team": "SF"
       },
@@ -2313,7 +2313,7 @@
        "injury": "ACTIVE",
        "name": "Aaron Jones Sr.",
        "pos": "RB",
-       "pts": 7.4,
+       "pts": 10.2,
        "slot": "RB",
        "team": "MIN"
       },
@@ -2406,7 +2406,7 @@
        "injury": "ACTIVE",
        "name": "Christian McCaffrey",
        "pos": "RB",
-       "pts": 0.8,
+       "pts": 4.3,
        "slot": "RB",
        "team": "SF"
       },
@@ -2689,7 +2689,7 @@
        "injury": "ACTIVE",
        "name": "Justin Jefferson",
        "pos": "WR",
-       "pts": 3.9,
+       "pts": 5.7,
        "slot": "WR",
        "team": "MIN"
       },
@@ -2759,7 +2759,7 @@
        "injury": "ACTIVE",
        "name": "Keenan Allen",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 2.7,
        "slot": "BN",
        "team": "SF"
       }
@@ -3292,7 +3292,7 @@
     },
     {
      "away": 8,
-     "away_live": 126.3,
+     "away_live": 130.3,
      "away_pts": 0.0,
      "home": 13,
      "home_live": 73.46,
@@ -3302,7 +3302,7 @@
     },
     {
      "away": 14,
-     "away_live": 163.56,
+     "away_live": 171.36,
      "away_pts": 0.0,
      "home": 6,
      "home_live": 130.66,
@@ -3322,7 +3322,7 @@
     },
     {
      "away": 11,
-     "away_live": 86.2,
+     "away_live": 94.84,
      "away_pts": 0.0,
      "home": 10,
      "home_live": 79.24,
@@ -3335,7 +3335,7 @@
      "away_live": 91.9,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 101.82,
+     "home_live": 105.32,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -3742,7 +3742,7 @@
        "injury": "ACTIVE",
        "name": "Mike Evans",
        "pos": "WR",
-       "pts": 2.4,
+       "pts": 20.1,
        "slot": "BN",
        "team": "SF"
       },
@@ -3792,7 +3792,7 @@
        "injury": "ACTIVE",
        "name": "T.J. Hockenson",
        "pos": "TE",
-       "pts": 5.6,
+       "pts": 8.0,
        "slot": "BN",
        "team": "MIN"
       },
@@ -3875,7 +3875,7 @@
        "injury": "ACTIVE",
        "name": "Christian McCaffrey",
        "pos": "RB",
-       "pts": 0.8,
+       "pts": 4.3,
        "slot": "RB",
        "team": "SF"
       },
@@ -4015,7 +4015,7 @@
        "injury": "ACTIVE",
        "name": "Jordan Watkins",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 2.9,
        "slot": "BN",
        "team": "SF"
       },
@@ -4574,7 +4574,7 @@
        "injury": "ACTIVE",
        "name": "Will Reichard",
        "pos": "K",
-       "pts": 0.0,
+       "pts": 4.0,
        "slot": "K",
        "team": "MIN"
       },
@@ -4800,7 +4800,7 @@
        "injury": "ACTIVE",
        "name": "Justin Jefferson",
        "pos": "WR",
-       "pts": 3.9,
+       "pts": 5.7,
        "slot": "WR",
        "team": "MIN"
       },
@@ -4890,7 +4890,7 @@
        "injury": "ACTIVE",
        "name": "Brock Purdy",
        "pos": "QB",
-       "pts": 6.2,
+       "pts": 19.04,
        "slot": "QB",
        "team": "SF"
       },
@@ -4950,7 +4950,7 @@
        "injury": "NORMAL",
        "name": "Vikings D/ST",
        "pos": "DST",
-       "pts": 9.0,
+       "pts": 3.0,
        "slot": "DST",
        "team": "MIN"
       },
@@ -5246,7 +5246,7 @@
        "injury": "ACTIVE",
        "name": "Aaron Jones Sr.",
        "pos": "RB",
-       "pts": 7.4,
+       "pts": 10.2,
        "slot": "BN",
        "team": "MIN"
       },
@@ -5276,7 +5276,7 @@
        "injury": "ACTIVE",
        "name": "Keenan Allen",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 2.7,
        "slot": "BN",
        "team": "SF"
       },
@@ -5399,7 +5399,7 @@
        "injury": "ACTIVE",
        "name": "George Kittle",
        "pos": "TE",
-       "pts": 8.7,
+       "pts": 16.5,
        "slot": "TE",
        "team": "SF"
       },
@@ -5519,7 +5519,7 @@
        "injury": "ACTIVE",
        "name": "Kirk Cousins",
        "pos": "QB",
-       "pts": 3.16,
+       "pts": 2.84,
        "slot": "BN",
        "team": "MIN"
       }
@@ -6055,17 +6055,17 @@
      "away_live": 124.4,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 118.26,
+     "home_live": 121.76,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 6,
-     "away_live": 114.06,
+     "away_live": 126.06,
      "away_pts": 0.0,
      "home": 4,
-     "home_live": 84.32,
+     "home_live": 87.52,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -6075,7 +6075,7 @@
      "away_live": 104.7,
      "away_pts": 0.0,
      "home": 5,
-     "home_live": 104.64,
+     "home_live": 108.64,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -6085,7 +6085,7 @@
      "away_live": 114.54,
      "away_pts": 0.0,
      "home": 3,
-     "home_live": 94.96,
+     "home_live": 97.66,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -6908,7 +6908,7 @@
        "injury": "ACTIVE",
        "name": "Keenan Allen",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 2.7,
        "slot": "FLEX",
        "team": "SF"
       },
@@ -7101,7 +7101,7 @@
        "injury": "ACTIVE",
        "name": "Aaron Jones Sr.",
        "pos": "RB",
-       "pts": 7.4,
+       "pts": 10.2,
        "slot": "RB",
        "team": "MIN"
       },
@@ -7181,7 +7181,7 @@
        "injury": "ACTIVE",
        "name": "Kaelon Black",
        "pos": "RB",
-       "pts": 0.0,
+       "pts": 0.4,
        "slot": "RB",
        "team": "SF"
       },
@@ -7334,7 +7334,7 @@
        "injury": "ACTIVE",
        "name": "Will Reichard",
        "pos": "K",
-       "pts": 0.0,
+       "pts": 4.0,
        "slot": "K",
        "team": "MIN"
       },
@@ -7427,7 +7427,7 @@
        "injury": "ACTIVE",
        "name": "George Kittle",
        "pos": "TE",
-       "pts": 8.7,
+       "pts": 16.5,
        "slot": "TE",
        "team": "SF"
       },
@@ -7447,7 +7447,7 @@
        "injury": "ACTIVE",
        "name": "Brock Purdy",
        "pos": "QB",
-       "pts": 6.2,
+       "pts": 19.04,
        "slot": "BN",
        "team": "SF"
       },
@@ -7467,7 +7467,7 @@
        "injury": "ACTIVE",
        "name": "Justin Jefferson",
        "pos": "WR",
-       "pts": 3.9,
+       "pts": 5.7,
        "slot": "WR",
        "team": "MIN"
       },
@@ -7507,7 +7507,7 @@
        "injury": "ACTIVE",
        "name": "T.J. Hockenson",
        "pos": "TE",
-       "pts": 5.6,
+       "pts": 8.0,
        "slot": "FLEX",
        "team": "MIN"
       },
@@ -7710,7 +7710,7 @@
        "injury": "NORMAL",
        "name": "Vikings D/ST",
        "pos": "DST",
-       "pts": 9.0,
+       "pts": 3.0,
        "slot": "BN",
        "team": "MIN"
       },
@@ -7966,7 +7966,7 @@
        "injury": "ACTIVE",
        "name": "Mike Evans",
        "pos": "WR",
-       "pts": 2.4,
+       "pts": 20.1,
        "slot": "BN",
        "team": "SF"
       },
@@ -8139,7 +8139,7 @@
        "injury": "ACTIVE",
        "name": "Christian McCaffrey",
        "pos": "RB",
-       "pts": 0.8,
+       "pts": 4.3,
        "slot": "RB",
        "team": "SF"
       },
@@ -8209,7 +8209,7 @@
        "injury": "ACTIVE",
        "name": "Jordan Mason",
        "pos": "RB",
-       "pts": 0.9,
+       "pts": 2.2,
        "slot": "BN",
        "team": "MIN"
       },
@@ -8321,5 +8321,5 @@
    ]
   }
  ],
- "updated": "2026-11-23T01:58:31+00:00"
+ "updated": "2026-11-23T02:52:14+00:00"
 }
