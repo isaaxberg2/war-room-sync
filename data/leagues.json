@@ -525,7 +525,7 @@
      "away_live": 128.1,
      "away_pts": 0.0,
      "home": 4,
-     "home_live": 65.2,
+     "home_live": 66.5,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -535,7 +535,7 @@
      "away_live": 95.8,
      "away_pts": 0.0,
      "home": 11,
-     "home_live": 148.8,
+     "home_live": 148.7,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -545,7 +545,7 @@
      "away_live": 91.5,
      "away_pts": 0.0,
      "home": 7,
-     "home_live": 163.0,
+     "home_live": 165.0,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -562,7 +562,7 @@
     },
     {
      "away": 9,
-     "away_live": 99.0,
+     "away_live": 102.0,
      "away_pts": 0.0,
      "home": 10,
      "home_live": 105.4,
@@ -1275,7 +1275,7 @@
        "injury": "NORMAL",
        "name": "Giants D/ST",
        "pos": "DST",
-       "pts": 8.0,
+       "pts": 6.0,
        "slot": "BN",
        "team": "NYG"
       },
@@ -1531,7 +1531,7 @@
        "injury": "ACTIVE",
        "name": "Cam Skattebo",
        "pos": "RB",
-       "pts": 4.5,
+       "pts": 5.8,
        "slot": "RB",
        "team": "NYG"
       },
@@ -1987,7 +1987,7 @@
        "injury": "ACTIVE",
        "name": "Trevor Lawrence",
        "pos": "QB",
-       "pts": 13.7,
+       "pts": 15.7,
        "slot": "QB",
        "team": "JAX"
       },
@@ -2100,7 +2100,7 @@
        "injury": "ACTIVE",
        "name": "Jakobi Meyers",
        "pos": "WR",
-       "pts": 9.2,
+       "pts": 12.5,
        "slot": "BN",
        "team": "JAX"
       },
@@ -2353,7 +2353,7 @@
        "injury": "ACTIVE",
        "name": "Cam Little",
        "pos": "K",
-       "pts": 10.0,
+       "pts": 13.0,
        "slot": "K",
        "team": "JAX"
       },
@@ -2619,7 +2619,7 @@
        "injury": "ACTIVE",
        "name": "Parker Washington",
        "pos": "WR",
-       "pts": 23.4,
+       "pts": 23.3,
        "slot": "WR",
        "team": "JAX"
       },
@@ -3292,10 +3292,10 @@
     },
     {
      "away": 8,
-     "away_live": 125.0,
+     "away_live": 126.3,
      "away_pts": 0.0,
      "home": 13,
-     "home_live": 70.46,
+     "home_live": 73.46,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -3305,7 +3305,7 @@
      "away_live": 154.86,
      "away_pts": 0.0,
      "home": 6,
-     "home_live": 127.36,
+     "home_live": 130.66,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -3315,7 +3315,7 @@
      "away_live": 101.36,
      "away_pts": 0.0,
      "home": 1,
-     "home_live": 125.94,
+     "home_live": 127.24,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -3325,7 +3325,7 @@
      "away_live": 63.6,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 77.24,
+     "home_live": 79.24,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -3752,7 +3752,7 @@
        "injury": "ACTIVE",
        "name": "Parker Washington",
        "pos": "WR",
-       "pts": 18.4,
+       "pts": 18.3,
        "slot": "FLEX",
        "team": "JAX"
       },
@@ -3762,7 +3762,7 @@
        "injury": "ACTIVE",
        "name": "Trevor Lawrence",
        "pos": "QB",
-       "pts": 11.34,
+       "pts": 12.74,
        "slot": "QB",
        "team": "JAX"
       },
@@ -3852,7 +3852,7 @@
        "injury": "NORMAL",
        "name": "Giants D/ST",
        "pos": "DST",
-       "pts": 8.0,
+       "pts": 6.0,
        "slot": "BN",
        "team": "NYG"
       }
@@ -4401,7 +4401,7 @@
        "injury": "ACTIVE",
        "name": "Jakobi Meyers",
        "pos": "WR",
-       "pts": 9.2,
+       "pts": 12.5,
        "slot": "WR",
        "team": "JAX"
       }
@@ -4464,7 +4464,7 @@
        "injury": "ACTIVE",
        "name": "Cam Skattebo",
        "pos": "RB",
-       "pts": 4.5,
+       "pts": 5.8,
        "slot": "FLEX",
        "team": "NYG"
       },
@@ -4544,7 +4544,7 @@
        "injury": "ACTIVE",
        "name": "Bo Nix",
        "pos": "QB",
-       "pts": 11.7,
+       "pts": 11.5,
        "slot": "BN",
        "team": "DEN"
       },
@@ -4707,7 +4707,7 @@
        "injury": "NORMAL",
        "name": "Broncos D/ST",
        "pos": "DST",
-       "pts": 10.0,
+       "pts": 12.0,
        "slot": "DST",
        "team": "DEN"
       },
@@ -5336,7 +5336,7 @@
        "injury": "ACTIVE",
        "name": "Cam Little",
        "pos": "K",
-       "pts": 10.0,
+       "pts": 13.0,
        "slot": "K",
        "team": "JAX"
       }
@@ -6062,7 +6062,7 @@
     },
     {
      "away": 6,
-     "away_live": 92.86,
+     "away_live": 95.86,
      "away_pts": 0.0,
      "home": 4,
      "home_live": 76.92,
@@ -6072,17 +6072,17 @@
     },
     {
      "away": 8,
-     "away_live": 104.9,
+     "away_live": 104.7,
      "away_pts": 0.0,
      "home": 5,
-     "home_live": 99.14,
+     "home_live": 101.14,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 7,
-     "away_live": 113.24,
+     "away_live": 114.54,
      "away_pts": 0.0,
      "home": 3,
      "home_live": 94.96,
@@ -6092,7 +6092,7 @@
     },
     {
      "away": 1,
-     "away_live": 78.3,
+     "away_live": 79.6,
      "away_pts": 0.0,
      "home": 9,
      "home_live": 96.0,
@@ -6482,7 +6482,7 @@
        "injury": "ACTIVE",
        "name": "Cam Skattebo",
        "pos": "RB",
-       "pts": 4.5,
+       "pts": 5.8,
        "slot": "FLEX",
        "team": "NYG"
       },
@@ -7374,7 +7374,7 @@
        "injury": "NORMAL",
        "name": "Broncos D/ST",
        "pos": "DST",
-       "pts": 10.0,
+       "pts": 12.0,
        "slot": "DST",
        "team": "DEN"
       },
@@ -7537,7 +7537,7 @@
        "injury": "ACTIVE",
        "name": "Cam Little",
        "pos": "K",
-       "pts": 10.0,
+       "pts": 13.0,
        "slot": "K",
        "team": "JAX"
       },
@@ -7650,7 +7650,7 @@
        "injury": "ACTIVE",
        "name": "Parker Washington",
        "pos": "WR",
-       "pts": 18.4,
+       "pts": 18.3,
        "slot": "WR",
        "team": "JAX"
       },
@@ -7680,7 +7680,7 @@
        "injury": "ACTIVE",
        "name": "Trevor Lawrence",
        "pos": "QB",
-       "pts": 11.34,
+       "pts": 12.74,
        "slot": "QB",
        "team": "JAX"
       },
@@ -7750,7 +7750,7 @@
        "injury": "NORMAL",
        "name": "Giants D/ST",
        "pos": "DST",
-       "pts": 8.0,
+       "pts": 6.0,
        "slot": "BN",
        "team": "NYG"
       }
@@ -7843,7 +7843,7 @@
        "injury": "ACTIVE",
        "name": "Jakobi Meyers",
        "pos": "WR",
-       "pts": 9.2,
+       "pts": 12.5,
        "slot": "BN",
        "team": "JAX"
       },
@@ -7913,7 +7913,7 @@
        "injury": "ACTIVE",
        "name": "Bo Nix",
        "pos": "QB",
-       "pts": 11.7,
+       "pts": 11.5,
        "slot": "QB",
        "team": "DEN"
       },
@@ -8321,5 +8321,5 @@
    ]
   }
  ],
- "updated": "2026-11-23T00:40:11+00:00"
+ "updated": "2026-11-23T01:19:55+00:00"
 }
