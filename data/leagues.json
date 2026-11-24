@@ -522,17 +522,17 @@
     },
     {
      "away": 2,
-     "away_live": 141.7,
+     "away_live": 144.8,
      "away_pts": 0.0,
      "home": 4,
-     "home_live": 74.8,
+     "home_live": 78.0,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 5,
-     "away_live": 124.3,
+     "away_live": 126.5,
      "away_pts": 0.0,
      "home": 11,
      "home_live": 162.4,
@@ -555,7 +555,7 @@
      "away_live": 110.5,
      "away_pts": 0.0,
      "home": 1,
-     "home_live": 108.2,
+     "home_live": 112.2,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -565,7 +565,7 @@
      "away_live": 113.3,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 127.9,
+     "home_live": 130.2,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -1002,7 +1002,7 @@
        "injury": "ACTIVE",
        "name": "Joe Burrow",
        "pos": "QB",
-       "pts": 22.9,
+       "pts": 26.9,
        "slot": "QB",
        "team": "CIN"
       },
@@ -1125,7 +1125,7 @@
        "injury": "ACTIVE",
        "name": "Ja'Marr Chase",
        "pos": "WR",
-       "pts": 5.0,
+       "pts": 8.1,
        "slot": "WR",
        "team": "CIN"
       },
@@ -1285,7 +1285,7 @@
        "injury": "ACTIVE",
        "name": "Evan McPherson",
        "pos": "K",
-       "pts": 5.0,
+       "pts": 10.0,
        "slot": "BN",
        "team": "CIN"
       }
@@ -1571,7 +1571,7 @@
        "injury": "ACTIVE",
        "name": "Stefon Diggs",
        "pos": "WR",
-       "pts": 3.3,
+       "pts": 8.5,
        "slot": "FLEX",
        "team": "WAS"
       },
@@ -1661,7 +1661,7 @@
        "injury": "NORMAL",
        "name": "Commanders D/ST",
        "pos": "DST",
-       "pts": 5.0,
+       "pts": 3.0,
        "slot": "DST",
        "team": "WAS"
       },
@@ -1794,7 +1794,7 @@
        "injury": "ACTIVE",
        "name": "Tee Higgins",
        "pos": "WR",
-       "pts": 10.1,
+       "pts": 12.3,
        "slot": "WR",
        "team": "CIN"
       },
@@ -1864,7 +1864,7 @@
        "injury": "ACTIVE",
        "name": "Antonio Williams",
        "pos": "WR",
-       "pts": 11.7,
+       "pts": 26.2,
        "slot": "BN",
        "team": "WAS"
       }
@@ -2436,7 +2436,7 @@
        "injury": "ACTIVE",
        "name": "Jayden Daniels",
        "pos": "QB",
-       "pts": 13.5,
+       "pts": 19.5,
        "slot": "BN",
        "team": "WAS"
       },
@@ -2566,7 +2566,7 @@
        "injury": "ACTIVE",
        "name": "Chig Okonkwo",
        "pos": "TE",
-       "pts": 8.3,
+       "pts": 10.6,
        "slot": "TE",
        "team": "WAS"
       }
@@ -3295,7 +3295,7 @@
      "away_live": 129.3,
      "away_pts": 0.0,
      "home": 13,
-     "home_live": 90.56,
+     "home_live": 94.76,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -3312,10 +3312,10 @@
     },
     {
      "away": 12,
-     "away_live": 115.66,
+     "away_live": 119.86,
      "away_pts": 0.0,
      "home": 1,
-     "home_live": 137.34,
+     "home_live": 139.54,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -3325,14 +3325,14 @@
      "away_live": 107.2,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 84.24,
+     "home_live": 87.34,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
     },
     {
      "away": 4,
-     "away_live": 117.42,
+     "away_live": 122.4,
      "away_pts": 0.0,
      "home": 2,
      "home_live": 115.22,
@@ -3732,7 +3732,7 @@
        "injury": "ACTIVE",
        "name": "Tee Higgins",
        "pos": "WR",
-       "pts": 10.1,
+       "pts": 12.3,
        "slot": "FLEX",
        "team": "CIN"
       },
@@ -4128,7 +4128,7 @@
        "injury": "ACTIVE",
        "name": "Joe Burrow",
        "pos": "QB",
-       "pts": 17.22,
+       "pts": 19.9,
        "slot": "QB",
        "team": "CIN"
       },
@@ -4218,7 +4218,7 @@
        "injury": "ACTIVE",
        "name": "Chig Okonkwo",
        "pos": "TE",
-       "pts": 8.3,
+       "pts": 10.6,
        "slot": "FLEX",
        "team": "WAS"
       }
@@ -4331,7 +4331,7 @@
        "injury": "ACTIVE",
        "name": "Jacory Croskey-Merritt",
        "pos": "RB",
-       "pts": 13.6,
+       "pts": 15.7,
        "slot": "IR",
        "team": "WAS"
       },
@@ -4607,7 +4607,7 @@
        "injury": "ACTIVE",
        "name": "Ja'Marr Chase",
        "pos": "WR",
-       "pts": 5.0,
+       "pts": 8.1,
        "slot": "WR",
        "team": "CIN"
       },
@@ -5053,7 +5053,7 @@
        "injury": "ACTIVE",
        "name": "Jayden Daniels",
        "pos": "QB",
-       "pts": 12.46,
+       "pts": 17.06,
        "slot": "BN",
        "team": "WAS"
       },
@@ -5073,7 +5073,7 @@
        "injury": "ACTIVE",
        "name": "Stefon Diggs",
        "pos": "WR",
-       "pts": 3.3,
+       "pts": 8.5,
        "slot": "WR",
        "team": "WAS"
       },
@@ -5103,7 +5103,7 @@
        "injury": "ACTIVE",
        "name": "Evan McPherson",
        "pos": "K",
-       "pts": 5.0,
+       "pts": 10.0,
        "slot": "K",
        "team": "CIN"
       },
@@ -5123,7 +5123,7 @@
        "injury": "NORMAL",
        "name": "Bengals D/ST",
        "pos": "DST",
-       "pts": 6.0,
+       "pts": 0.0,
        "slot": "DST",
        "team": "CIN"
       },
@@ -5326,7 +5326,7 @@
        "injury": "ACTIVE",
        "name": "Mike Gesicki",
        "pos": "TE",
-       "pts": 8.5,
+       "pts": 12.7,
        "slot": "TE",
        "team": "CIN"
       },
@@ -6052,10 +6052,10 @@
     },
     {
      "away": 2,
-     "away_live": 136.86,
+     "away_live": 141.46,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 140.16,
+     "home_live": 144.36,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -6082,7 +6082,7 @@
     },
     {
      "away": 7,
-     "away_live": 129.64,
+     "away_live": 134.94,
      "away_pts": 0.0,
      "home": 3,
      "home_live": 101.76,
@@ -6092,10 +6092,10 @@
     },
     {
      "away": 1,
-     "away_live": 102.82,
+     "away_live": 99.5,
      "away_pts": 0.0,
      "home": 9,
-     "home_live": 99.3,
+     "home_live": 104.5,
      "home_pts": 0.0,
      "week": 11,
      "winner": "UNDECIDED"
@@ -6492,7 +6492,7 @@
        "injury": "ACTIVE",
        "name": "Joe Burrow",
        "pos": "QB",
-       "pts": 17.22,
+       "pts": 19.9,
        "slot": "QB",
        "team": "CIN"
       },
@@ -6562,7 +6562,7 @@
        "injury": "NORMAL",
        "name": "Bengals D/ST",
        "pos": "DST",
-       "pts": 6.0,
+       "pts": 0.0,
        "slot": "DST",
        "team": "CIN"
       },
@@ -6665,7 +6665,7 @@
        "injury": "ACTIVE",
        "name": "Jayden Daniels",
        "pos": "QB",
-       "pts": 12.46,
+       "pts": 17.06,
        "slot": "QB",
        "team": "WAS"
       },
@@ -6725,7 +6725,7 @@
        "injury": "ACTIVE",
        "name": "Jacory Croskey-Merritt",
        "pos": "RB",
-       "pts": 13.6,
+       "pts": 15.7,
        "slot": "IR",
        "team": "WAS"
       },
@@ -7497,7 +7497,7 @@
        "injury": "ACTIVE",
        "name": "Antonio Williams",
        "pos": "WR",
-       "pts": 11.7,
+       "pts": 21.2,
        "slot": "BN",
        "team": "WAS"
       },
@@ -7527,7 +7527,7 @@
        "injury": "ACTIVE",
        "name": "Chig Okonkwo",
        "pos": "TE",
-       "pts": 8.3,
+       "pts": 10.6,
        "slot": "BN",
        "team": "WAS"
       },
@@ -7590,7 +7590,7 @@
        "injury": "ACTIVE",
        "name": "Ja'Marr Chase",
        "pos": "WR",
-       "pts": 5.0,
+       "pts": 8.1,
        "slot": "FLEX",
        "team": "CIN"
       },
@@ -7620,7 +7620,7 @@
        "injury": "ACTIVE",
        "name": "Tee Higgins",
        "pos": "WR",
-       "pts": 10.1,
+       "pts": 12.3,
        "slot": "FLEX",
        "team": "CIN"
       },
@@ -8076,7 +8076,7 @@
        "injury": "ACTIVE",
        "name": "Stefon Diggs",
        "pos": "WR",
-       "pts": 3.3,
+       "pts": 8.5,
        "slot": "FLEX",
        "team": "WAS"
       },
@@ -8309,7 +8309,7 @@
        "injury": "ACTIVE",
        "name": "Mike Gesicki",
        "pos": "TE",
-       "pts": 8.5,
+       "pts": 12.7,
        "slot": "TE",
        "team": "CIN"
       }
@@ -8321,5 +8321,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T03:46:59+00:00"
+ "updated": "2026-11-24T04:53:53+00:00"
 }
