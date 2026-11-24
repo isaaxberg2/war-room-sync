@@ -1,11 +1,11 @@
 {
- "ran": "2026-11-24T07:25:48+00:00",
+ "ran": "2026-11-24T13:23:35+00:00",
  "season": 2026,
  "cookies": true,
  "leagues": {
-  "Big Bind Fantasy": "ok: 10 teams, week 11",
-  "Isaac's Fantasy Family Fun": "ok: 10 teams, week 11",
-  "26 Fantasy": "ok: 10 teams, week 11"
+  "Big Bind Fantasy": "ok: 10 teams, week 12",
+  "Isaac's Fantasy Family Fun": "ok: 10 teams, week 12",
+  "26 Fantasy": "ok: 10 teams, week 12"
  },
  "players": 1063,
  "photos": "1028 saved (4 checked this run)",
@@ -20,6 +20,7 @@
   "6": 393,
   "7": 394,
   "8": 395,
-  "9": 396
+  "9": 396,
+  "12": 396
  }
 }
