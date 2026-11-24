@@ -1172,7 +1172,7 @@
       {
        "espn_id": 4430027,
        "espn_proj": 9.81,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Sam LaPorta",
        "pos": "TE",
        "pts": 9.2,
@@ -2107,7 +2107,7 @@
       {
        "espn_id": 4697815,
        "espn_proj": 7.95,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Rachaad White",
        "pos": "RB",
        "pts": null,
@@ -2117,7 +2117,7 @@
       {
        "espn_id": 3121023,
        "espn_proj": 8.47,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Dallas Goedert",
        "pos": "TE",
        "pts": 4.8,
@@ -2260,7 +2260,7 @@
       {
        "espn_id": 4430737,
        "espn_proj": 0.0,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Kyren Williams",
        "pos": "RB",
        "pts": null,
@@ -3952,7 +3952,7 @@
       {
        "espn_id": 4430027,
        "espn_proj": 9.53,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Sam LaPorta",
        "pos": "TE",
        "pts": 9.2,
@@ -4135,7 +4135,7 @@
       {
        "espn_id": 4697815,
        "espn_proj": 7.71,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Rachaad White",
        "pos": "RB",
        "pts": null,
@@ -4268,7 +4268,7 @@
       {
        "espn_id": 4430737,
        "espn_proj": 0.0,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Kyren Williams",
        "pos": "RB",
        "pts": null,
@@ -4328,7 +4328,7 @@
       {
        "espn_id": 4575131,
        "espn_proj": 7.49,
-       "injury": "INJURY_RESERVE",
+       "injury": "ACTIVE",
        "name": "Jacory Croskey-Merritt",
        "pos": "RB",
        "pts": null,
@@ -5160,7 +5160,7 @@
       {
        "espn_id": 4360438,
        "espn_proj": null,
-       "injury": "OUT",
+       "injury": "ACTIVE",
        "name": "Brandon Aiyuk",
        "pos": "WR",
        "pts": 0.0,
@@ -5416,7 +5416,7 @@
       {
        "espn_id": 3121023,
        "espn_proj": 8.22,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Dallas Goedert",
        "pos": "TE",
        "pts": 4.8,
@@ -6509,7 +6509,7 @@
       {
        "espn_id": 3121023,
        "espn_proj": 8.22,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Dallas Goedert",
        "pos": "TE",
        "pts": 4.8,
@@ -6609,7 +6609,7 @@
       {
        "espn_id": 4430737,
        "espn_proj": 0.0,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Kyren Williams",
        "pos": "RB",
        "pts": null,
@@ -6682,7 +6682,7 @@
       {
        "espn_id": 4430027,
        "espn_proj": 9.53,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Sam LaPorta",
        "pos": "TE",
        "pts": 9.2,
@@ -6722,7 +6722,7 @@
       {
        "espn_id": 4575131,
        "espn_proj": 7.49,
-       "injury": "INJURY_RESERVE",
+       "injury": "ACTIVE",
        "name": "Jacory Croskey-Merritt",
        "pos": "RB",
        "pts": null,
@@ -7890,7 +7890,7 @@
       {
        "espn_id": 4697815,
        "espn_proj": 7.71,
-       "injury": "QUESTIONABLE",
+       "injury": "ACTIVE",
        "name": "Rachaad White",
        "pos": "RB",
        "pts": null,
@@ -8321,5 +8321,5 @@
    ]
   }
  ],
- "updated": "2026-11-23T19:08:41+00:00"
+ "updated": "2026-11-24T00:43:25+00:00"
 }
