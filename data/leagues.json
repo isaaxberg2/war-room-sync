@@ -615,7 +615,7 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 0.0,
+     "home_live": 1.6,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
@@ -963,7 +963,7 @@
        "name": "Kenneth Walker III",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "BN",
        "team": "KC"
       },
       {
@@ -983,7 +983,7 @@
        "name": "Travis Etienne Jr.",
        "pos": "RB",
        "pts": null,
-       "slot": "BN",
+       "slot": "RB",
        "team": "NO"
       },
       {
@@ -1059,7 +1059,7 @@
       {
        "espn_id": 4361050,
        "espn_proj": 12.88,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Isaiah Likely",
        "pos": "TE",
        "pts": null,
@@ -1205,7 +1205,7 @@
        "injury": "ACTIVE",
        "name": "Matthew Golden",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "GB"
       },
@@ -1365,10 +1365,10 @@
       {
        "espn_id": 4047365,
        "espn_proj": 0.0,
-       "injury": "QUESTIONABLE",
+       "injury": "OUT",
        "name": "Josh Jacobs",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "GB"
       },
@@ -1425,7 +1425,7 @@
       {
        "espn_id": 4361741,
        "espn_proj": 23.65,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Brock Purdy",
        "pos": "QB",
        "pts": null,
@@ -1541,7 +1541,7 @@
        "injury": "INJURY_RESERVE",
        "name": "Davante Adams",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "LA"
       },
@@ -1568,7 +1568,7 @@
       {
        "espn_id": 2976212,
        "espn_proj": 13.23,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Stefon Diggs",
        "pos": "WR",
        "pts": null,
@@ -1581,7 +1581,7 @@
        "injury": "ACTIVE",
        "name": "MarShawn Lloyd",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "GB"
       },
@@ -1591,7 +1591,7 @@
        "injury": "ACTIVE",
        "name": "Blake Corum",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.8,
        "slot": "BN",
        "team": "LA"
       },
@@ -1711,7 +1711,7 @@
       {
        "espn_id": 4685472,
        "espn_proj": 14.45,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Tetairoa McMillan",
        "pos": "WR",
        "pts": null,
@@ -1741,7 +1741,7 @@
       {
        "espn_id": 16737,
        "espn_proj": 16.17,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Mike Evans",
        "pos": "WR",
        "pts": null,
@@ -1914,7 +1914,7 @@
       {
        "espn_id": 4429615,
        "espn_proj": 16.03,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Zay Flowers",
        "pos": "WR",
        "pts": null,
@@ -2039,7 +2039,7 @@
        "pos": "QB",
        "pts": null,
        "slot": "BN",
-       "team": "PIT"
+       "team": "FA"
       }
      ],
      "streak": "W2",
@@ -2097,7 +2097,7 @@
       {
        "espn_id": 3916433,
        "espn_proj": 12.91,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Jakobi Meyers",
        "pos": "WR",
        "pts": null,
@@ -2130,7 +2130,7 @@
        "injury": "ACTIVE",
        "name": "Matthew Stafford",
        "pos": "QB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "LA"
       },
@@ -2180,7 +2180,7 @@
        "injury": "ACTIVE",
        "name": "Jordan Love",
        "pos": "QB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "QB",
        "team": "GB"
       },
@@ -2190,7 +2190,7 @@
        "injury": "ACTIVE",
        "name": "Tucker Kraft",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "GB"
       },
@@ -2230,7 +2230,7 @@
       {
        "espn_id": 4430878,
        "espn_proj": 23.9,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Jaxon Smith-Njigba",
        "pos": "WR",
        "pts": null,
@@ -2240,7 +2240,7 @@
       {
        "espn_id": 3043078,
        "espn_proj": 15.55,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Derrick Henry",
        "pos": "RB",
        "pts": null,
@@ -2263,7 +2263,7 @@
        "injury": "ACTIVE",
        "name": "Kyren Williams",
        "pos": "RB",
-       "pts": null,
+       "pts": 1.5,
        "slot": "BN",
        "team": "LA"
       },
@@ -2280,7 +2280,7 @@
       {
        "espn_id": 5083076,
        "espn_proj": 11.55,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Harold Fannin Jr.",
        "pos": "TE",
        "pts": null,
@@ -2427,7 +2427,7 @@
        "name": "Emeka Egbuka",
        "pos": "WR",
        "pts": null,
-       "slot": "WR",
+       "slot": "FLEX",
        "team": "TB"
       },
       {
@@ -2437,7 +2437,7 @@
        "name": "Jayden Daniels",
        "pos": "QB",
        "pts": null,
-       "slot": "BN",
+       "slot": "QB",
        "team": "WAS"
       },
       {
@@ -2456,14 +2456,14 @@
        "injury": "ACTIVE",
        "name": "Christian Watson",
        "pos": "WR",
-       "pts": null,
-       "slot": "BN",
+       "pts": 1.6,
+       "slot": "WR",
        "team": "GB"
       },
       {
        "espn_id": 4241985,
        "espn_proj": 0.0,
-       "injury": "OUT",
+       "injury": "SUSPENSION",
        "name": "J.K. Dobbins",
        "pos": "RB",
        "pts": null,
@@ -2497,7 +2497,7 @@
        "name": "Patrick Mahomes",
        "pos": "QB",
        "pts": null,
-       "slot": "QB",
+       "slot": "BN",
        "team": "KC"
       },
       {
@@ -2517,7 +2517,7 @@
        "name": "David Montgomery",
        "pos": "RB",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "RB",
        "team": "HOU"
       },
       {
@@ -2557,7 +2557,7 @@
        "name": "Rico Dowdle",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "BN",
        "team": "PIT"
       },
       {
@@ -2589,7 +2589,7 @@
        "injury": "INJURY_RESERVE",
        "name": "Puka Nacua",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "LA"
       },
@@ -3342,7 +3342,7 @@
     },
     {
      "away": 6,
-     "away_live": 0.0,
+     "away_live": 1.5,
      "away_pts": 0.0,
      "home": 13,
      "home_live": 0.0,
@@ -3365,7 +3365,7 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 0.0,
+     "home_live": 11.6,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
@@ -3739,7 +3739,7 @@
       {
        "espn_id": 16737,
        "espn_proj": 14.91,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Mike Evans",
        "pos": "WR",
        "pts": null,
@@ -3902,7 +3902,7 @@
       {
        "espn_id": 4429615,
        "espn_proj": 14.62,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Zay Flowers",
        "pos": "WR",
        "pts": null,
@@ -4138,7 +4138,7 @@
        "injury": "ACTIVE",
        "name": "Matthew Golden",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "WR",
        "team": "GB"
       },
@@ -4168,7 +4168,7 @@
        "injury": "ACTIVE",
        "name": "Jordan Love",
        "pos": "QB",
-       "pts": null,
+       "pts": 0.24,
        "slot": "BN",
        "team": "GB"
       },
@@ -4241,7 +4241,7 @@
        "injury": "INJURY_RESERVE",
        "name": "Puka Nacua",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "LA"
       },
@@ -4271,7 +4271,7 @@
        "injury": "ACTIVE",
        "name": "Kyren Williams",
        "pos": "RB",
-       "pts": null,
+       "pts": 1.5,
        "slot": "FLEX",
        "team": "LA"
       },
@@ -4318,10 +4318,10 @@
       {
        "espn_id": 4047365,
        "espn_proj": 0.0,
-       "injury": "QUESTIONABLE",
+       "injury": "OUT",
        "name": "Josh Jacobs",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "GB"
       },
@@ -4363,7 +4363,7 @@
        "pos": "QB",
        "pts": null,
        "slot": "BN",
-       "team": "PIT"
+       "team": "FA"
       },
       {
        "espn_id": 3917232,
@@ -4398,7 +4398,7 @@
       {
        "espn_id": 3916433,
        "espn_proj": 12.39,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Jakobi Meyers",
        "pos": "WR",
        "pts": null,
@@ -4491,7 +4491,7 @@
       {
        "espn_id": 5083076,
        "espn_proj": 11.07,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Harold Fannin Jr.",
        "pos": "TE",
        "pts": null,
@@ -4647,7 +4647,7 @@
        "injury": "INJURY_RESERVE",
        "name": "Davante Adams",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "LA"
       },
@@ -4667,7 +4667,7 @@
        "injury": "ACTIVE",
        "name": "Christian Watson",
        "pos": "WR",
-       "pts": null,
+       "pts": 1.6,
        "slot": "FLEX",
        "team": "GB"
       },
@@ -4677,7 +4677,7 @@
        "injury": "ACTIVE",
        "name": "Tucker Kraft",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "GB"
       },
@@ -4694,7 +4694,7 @@
       {
        "espn_id": 4361050,
        "espn_proj": 12.24,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Isaiah Likely",
        "pos": "TE",
        "pts": null,
@@ -4747,7 +4747,7 @@
        "injury": "NORMAL",
        "name": "Rams D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 10.0,
        "slot": "DST",
        "team": "LA"
       },
@@ -4877,7 +4877,7 @@
       {
        "espn_id": 4361741,
        "espn_proj": 18.79,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Brock Purdy",
        "pos": "QB",
        "pts": null,
@@ -4980,7 +4980,7 @@
       {
        "espn_id": 4430878,
        "espn_proj": 21.6,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Jaxon Smith-Njigba",
        "pos": "WR",
        "pts": null,
@@ -4990,7 +4990,7 @@
       {
        "espn_id": 3043078,
        "espn_proj": 14.48,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Derrick Henry",
        "pos": "RB",
        "pts": null,
@@ -5060,7 +5060,7 @@
       {
        "espn_id": 2976212,
        "espn_proj": 12.62,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Stefon Diggs",
        "pos": "WR",
        "pts": null,
@@ -5123,7 +5123,7 @@
        "injury": "ACTIVE",
        "name": "Blake Corum",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.8,
        "slot": "BN",
        "team": "LA"
       },
@@ -5203,7 +5203,7 @@
       {
        "espn_id": 4685472,
        "espn_proj": 13.38,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Tetairoa McMillan",
        "pos": "WR",
        "pts": null,
@@ -5223,7 +5223,7 @@
       {
        "espn_id": 4241985,
        "espn_proj": 0.0,
-       "injury": "OUT",
+       "injury": "SUSPENSION",
        "name": "J.K. Dobbins",
        "pos": "RB",
        "pts": null,
@@ -5286,7 +5286,7 @@
        "injury": "ACTIVE",
        "name": "Matthew Stafford",
        "pos": "QB",
-       "pts": null,
+       "pts": 0.2,
        "slot": "BN",
        "team": "LA"
       },
@@ -6125,14 +6125,14 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 1,
-     "home_live": 0.0,
+     "home_live": 2.3,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 3,
-     "away_live": 0.0,
+     "away_live": 1.6,
      "away_pts": 0.0,
      "home": 9,
      "home_live": 0.0,
@@ -6442,14 +6442,14 @@
        "injury": "INJURY_RESERVE",
        "name": "Puka Nacua",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "LA"
       },
       {
        "espn_id": 3043078,
        "espn_proj": 14.48,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Derrick Henry",
        "pos": "RB",
        "pts": null,
@@ -6492,7 +6492,7 @@
        "injury": "ACTIVE",
        "name": "Blake Corum",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.8,
        "slot": "FLEX",
        "team": "LA"
       },
@@ -6602,7 +6602,7 @@
        "injury": "ACTIVE",
        "name": "Kyren Williams",
        "pos": "RB",
-       "pts": null,
+       "pts": 1.5,
        "slot": "RB",
        "team": "LA"
       },
@@ -6745,7 +6745,7 @@
        "injury": "ACTIVE",
        "name": "Jordan Love",
        "pos": "QB",
-       "pts": null,
+       "pts": 0.24,
        "slot": "BN",
        "team": "GB"
       },
@@ -6833,39 +6833,19 @@
        "team": "BUF"
       },
       {
-       "espn_id": 4685472,
-       "espn_proj": 13.38,
-       "injury": "ACTIVE",
-       "name": "Tetairoa McMillan",
-       "pos": "WR",
-       "pts": null,
-       "slot": "WR",
-       "team": "CAR"
-      },
-      {
-       "espn_id": 16800,
-       "espn_proj": 0.0,
-       "injury": "INJURY_RESERVE",
-       "name": "Davante Adams",
-       "pos": "WR",
-       "pts": null,
-       "slot": "IR",
-       "team": "LA"
-      },
-      {
        "espn_id": 4871023,
        "espn_proj": 11.77,
        "injury": "ACTIVE",
        "name": "Carnell Tate",
        "pos": "WR",
        "pts": null,
-       "slot": "WR",
+       "slot": "FLEX",
        "team": "TEN"
       },
       {
        "espn_id": 4241985,
        "espn_proj": 0.0,
-       "injury": "OUT",
+       "injury": "SUSPENSION",
        "name": "J.K. Dobbins",
        "pos": "RB",
        "pts": null,
@@ -6918,8 +6898,8 @@
        "injury": "ACTIVE",
        "name": "Christian Watson",
        "pos": "WR",
-       "pts": null,
-       "slot": "FLEX",
+       "pts": 1.6,
+       "slot": "WR",
        "team": "GB"
       },
       {
@@ -6960,7 +6940,7 @@
        "pos": "QB",
        "pts": null,
        "slot": "BN",
-       "team": "PIT"
+       "team": "FA"
       },
       {
        "espn_id": 4040761,
@@ -6973,16 +6953,6 @@
        "team": "NYG"
       },
       {
-       "espn_id": -16020,
-       "espn_proj": 6.56,
-       "injury": "NORMAL",
-       "name": "Jets D/ST",
-       "pos": "DST",
-       "pts": null,
-       "slot": "DST",
-       "team": "NYJ"
-      },
-      {
        "espn_id": 4038441,
        "espn_proj": 9.52,
        "injury": "ACTIVE",
@@ -6991,6 +6961,26 @@
        "pts": null,
        "slot": "BN",
        "team": "BAL"
+      },
+      {
+       "espn_id": -16025,
+       "espn_proj": 7.54,
+       "injury": "NORMAL",
+       "name": "49ers D/ST",
+       "pos": "DST",
+       "pts": null,
+       "slot": "DST",
+       "team": "SF"
+      },
+      {
+       "espn_id": 4595348,
+       "espn_proj": 16.48,
+       "injury": "ACTIVE",
+       "name": "Malik Nabers",
+       "pos": "WR",
+       "pts": null,
+       "slot": "WR",
+       "team": "NYG"
       }
      ],
      "streak": "L2",
@@ -7241,10 +7231,10 @@
       {
        "espn_id": 4047365,
        "espn_proj": 0.0,
-       "injury": "QUESTIONABLE",
+       "injury": "OUT",
        "name": "Josh Jacobs",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "GB"
       },
@@ -7254,7 +7244,7 @@
        "injury": "NORMAL",
        "name": "Rams D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 10.0,
        "slot": "BN",
        "team": "LA"
       },
@@ -7291,7 +7281,7 @@
       {
        "espn_id": 4361050,
        "espn_proj": 12.24,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Isaiah Likely",
        "pos": "TE",
        "pts": null,
@@ -7394,7 +7384,7 @@
       {
        "espn_id": 4429615,
        "espn_proj": 14.62,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Zay Flowers",
        "pos": "WR",
        "pts": null,
@@ -7424,7 +7414,7 @@
       {
        "espn_id": 4361741,
        "espn_proj": 18.79,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Brock Purdy",
        "pos": "QB",
        "pts": null,
@@ -7557,7 +7547,7 @@
        "injury": "ACTIVE",
        "name": "Konata Mumpfield",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "BN",
        "team": "LA"
       }
@@ -7660,7 +7650,7 @@
        "injury": "ACTIVE",
        "name": "Tucker Kraft",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "TE",
        "team": "GB"
       },
@@ -7770,7 +7760,7 @@
       {
        "espn_id": 4430878,
        "espn_proj": 21.6,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Jaxon Smith-Njigba",
        "pos": "WR",
        "pts": null,
@@ -7813,7 +7803,7 @@
        "injury": "ACTIVE",
        "name": "Matthew Golden",
        "pos": "WR",
-       "pts": null,
+       "pts": 0.0,
        "slot": "FLEX",
        "team": "GB"
       },
@@ -7823,7 +7813,7 @@
        "injury": "ACTIVE",
        "name": "Matthew Stafford",
        "pos": "QB",
-       "pts": null,
+       "pts": 0.2,
        "slot": "BN",
        "team": "LA"
       },
@@ -7840,7 +7830,7 @@
       {
        "espn_id": 3916433,
        "espn_proj": 12.39,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Jakobi Meyers",
        "pos": "WR",
        "pts": null,
@@ -7963,7 +7953,7 @@
       {
        "espn_id": 16737,
        "espn_proj": 14.91,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Mike Evans",
        "pos": "WR",
        "pts": null,
@@ -8053,7 +8043,7 @@
       {
        "espn_id": 5083076,
        "espn_proj": 11.07,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Harold Fannin Jr.",
        "pos": "TE",
        "pts": null,
@@ -8073,7 +8063,7 @@
       {
        "espn_id": 2976212,
        "espn_proj": 12.62,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "Stefon Diggs",
        "pos": "WR",
        "pts": null,
@@ -8234,26 +8224,6 @@
        "team": "NO"
       },
       {
-       "espn_id": 4360761,
-       "espn_proj": 0.0,
-       "injury": "INJURY_RESERVE",
-       "name": "Michael Wilson",
-       "pos": "WR",
-       "pts": null,
-       "slot": "BN",
-       "team": "ARI"
-      },
-      {
-       "espn_id": 4595348,
-       "espn_proj": 16.48,
-       "injury": "ACTIVE",
-       "name": "Malik Nabers",
-       "pos": "WR",
-       "pts": null,
-       "slot": "WR",
-       "team": "NYG"
-      },
-      {
        "espn_id": 5083754,
        "espn_proj": 8.0,
        "injury": "ACTIVE",
@@ -8312,6 +8282,26 @@
        "pts": null,
        "slot": "DST",
        "team": "WAS"
+      },
+      {
+       "espn_id": 4685472,
+       "espn_proj": 13.38,
+       "injury": "QUESTIONABLE",
+       "name": "Tetairoa McMillan",
+       "pos": "WR",
+       "pts": null,
+       "slot": "WR",
+       "team": "CAR"
+      },
+      {
+       "espn_id": 16800,
+       "espn_proj": 0.0,
+       "injury": "INJURY_RESERVE",
+       "name": "Davante Adams",
+       "pos": "WR",
+       "pts": 0.0,
+       "slot": "BN",
+       "team": "LA"
       }
      ],
      "streak": "W1",
@@ -8321,5 +8311,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T18:59:17+00:00"
+ "updated": "2026-11-26T01:23:34+00:00"
 }
