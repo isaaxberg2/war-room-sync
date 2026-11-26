@@ -575,14 +575,14 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 4.9,
+     "home_live": 15.3,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 4,
-     "away_live": 0.0,
+     "away_live": 9.9,
      "away_pts": 0.0,
      "home": 3,
      "home_live": 0.0,
@@ -592,10 +592,10 @@
     },
     {
      "away": 11,
-     "away_live": 0.0,
+     "away_live": 0.9,
      "away_pts": 0.0,
      "home": 8,
-     "home_live": 9.7,
+     "home_live": 14.9,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
@@ -605,14 +605,14 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 9,
-     "home_live": 0.0,
+     "home_live": 6.0,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
-     "away_live": 0.0,
+     "away_live": 14.9,
      "away_pts": 0.0,
      "home": 10,
      "home_live": 16.5,
@@ -942,7 +942,7 @@
        "injury": "ACTIVE",
        "name": "Jahmyr Gibbs",
        "pos": "RB",
-       "pts": null,
+       "pts": 14.9,
        "slot": "RB",
        "team": "DET"
       },
@@ -1012,7 +1012,7 @@
        "injury": "ACTIVE",
        "name": "Kyle Monangai",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.2,
        "slot": "BN",
        "team": "CHI"
       },
@@ -1165,7 +1165,7 @@
        "injury": "ACTIVE",
        "name": "D'Andre Swift",
        "pos": "RB",
-       "pts": null,
+       "pts": 10.4,
        "slot": "FLEX",
        "team": "CHI"
       },
@@ -1175,7 +1175,7 @@
        "injury": "ACTIVE",
        "name": "Sam LaPorta",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "TE",
        "team": "DET"
       },
@@ -1309,7 +1309,7 @@
        "name": "Bijan Robinson",
        "pos": "RB",
        "pts": null,
-       "slot": "BN",
+       "slot": "RB",
        "team": "ATL"
       },
       {
@@ -1319,7 +1319,7 @@
        "name": "Drake London",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "WR",
        "team": "ATL"
       },
       {
@@ -1409,7 +1409,7 @@
        "name": "Denzel Boston",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "FLEX",
        "team": "CLE"
       },
       {
@@ -1459,7 +1459,7 @@
        "name": "Adonai Mitchell",
        "pos": "WR",
        "pts": null,
-       "slot": "WR",
+       "slot": "BN",
        "team": "NYJ"
       },
       {
@@ -1469,7 +1469,7 @@
        "name": "Kenny Gainwell",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "BN",
        "team": "TB"
       },
       {
@@ -1479,7 +1479,7 @@
        "name": "Ryan Flournoy",
        "pos": "WR",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "DAL"
       }
      ],
@@ -1501,7 +1501,7 @@
        "injury": "ACTIVE",
        "name": "Amon-Ra St. Brown",
        "pos": "WR",
-       "pts": null,
+       "pts": 9.9,
        "slot": "WR",
        "team": "DET"
       },
@@ -2150,7 +2150,7 @@
        "injury": "ACTIVE",
        "name": "Jake Bates",
        "pos": "K",
-       "pts": null,
+       "pts": 4.0,
        "slot": "K",
        "team": "DET"
       },
@@ -2160,7 +2160,7 @@
        "injury": "ACTIVE",
        "name": "Jameson Williams",
        "pos": "WR",
-       "pts": null,
+       "pts": 1.2,
        "slot": "FLEX",
        "team": "DET"
       },
@@ -2234,7 +2234,7 @@
        "name": "Jaxon Smith-Njigba",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "WR",
        "team": "SEA"
       },
       {
@@ -2284,7 +2284,7 @@
        "name": "Harold Fannin Jr.",
        "pos": "TE",
        "pts": null,
-       "slot": "BN",
+       "slot": "TE",
        "team": "CLE"
       },
       {
@@ -2293,19 +2293,9 @@
        "injury": "ACTIVE",
        "name": "Caleb Williams",
        "pos": "QB",
-       "pts": null,
+       "pts": 6.0,
        "slot": "QB",
        "team": "CHI"
-      },
-      {
-       "espn_id": 4047650,
-       "espn_proj": 10.37,
-       "injury": "ACTIVE",
-       "name": "DK Metcalf",
-       "pos": "WR",
-       "pts": null,
-       "slot": "WR",
-       "team": "PIT"
       },
       {
        "espn_id": 3042519,
@@ -2324,7 +2314,7 @@
        "name": "Dalton Kincaid",
        "pos": "TE",
        "pts": null,
-       "slot": "TE",
+       "slot": "BN",
        "team": "BUF"
       },
       {
@@ -2343,7 +2333,7 @@
        "injury": "ACTIVE",
        "name": "Jared Goff",
        "pos": "QB",
-       "pts": null,
+       "pts": 4.0,
        "slot": "BN",
        "team": "DET"
       },
@@ -2386,6 +2376,16 @@
        "pts": null,
        "slot": "DST",
        "team": "KC"
+      },
+      {
+       "espn_id": 4360438,
+       "espn_proj": null,
+       "injury": "ACTIVE",
+       "name": "Brandon Aiyuk",
+       "pos": "WR",
+       "pts": null,
+       "slot": "BN",
+       "team": "FA"
       }
      ],
      "streak": "L1",
@@ -2600,7 +2600,7 @@
        "name": "Bhayshul Tuten",
        "pos": "RB",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "JAX"
       },
       {
@@ -2609,8 +2609,8 @@
        "injury": "ACTIVE",
        "name": "Luther Burden III",
        "pos": "WR",
-       "pts": null,
-       "slot": "BN",
+       "pts": 1.4,
+       "slot": "WR",
        "team": "CHI"
       },
       {
@@ -2620,7 +2620,7 @@
        "name": "Parker Washington",
        "pos": "WR",
        "pts": null,
-       "slot": "WR",
+       "slot": "FLEX",
        "team": "JAX"
       },
       {
@@ -2666,10 +2666,10 @@
       {
        "espn_id": 4723086,
        "espn_proj": 10.85,
-       "injury": "ACTIVE",
+       "injury": "OUT",
        "name": "Colston Loveland",
        "pos": "TE",
-       "pts": null,
+       "pts": -0.5,
        "slot": "TE",
        "team": "CHI"
       },
@@ -2719,7 +2719,7 @@
        "injury": "ACTIVE",
        "name": "Rome Odunze",
        "pos": "WR",
-       "pts": null,
+       "pts": 1.9,
        "slot": "BN",
        "team": "CHI"
       },
@@ -3345,27 +3345,27 @@
      "away_live": 16.5,
      "away_pts": 0.0,
      "home": 13,
-     "home_live": 0.0,
+     "home_live": 21.8,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 12,
-     "away_live": 0.0,
+     "away_live": 1.2,
      "away_pts": 0.0,
      "home": 14,
-     "home_live": 0.0,
+     "home_live": 3.76,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
-     "away_live": 0.0,
+     "away_live": 14.9,
      "away_pts": 0.0,
      "home": 10,
-     "home_live": 28.5,
+     "home_live": 34.7,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
@@ -3385,7 +3385,7 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 4,
-     "home_live": 4.9,
+     "home_live": 14.8,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
@@ -3692,7 +3692,7 @@
        "injury": "ACTIVE",
        "name": "Jahmyr Gibbs",
        "pos": "RB",
-       "pts": null,
+       "pts": 14.9,
        "slot": "RB",
        "team": "DET"
       },
@@ -3955,7 +3955,7 @@
        "injury": "ACTIVE",
        "name": "Sam LaPorta",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "TE",
        "team": "DET"
       },
@@ -3985,7 +3985,7 @@
        "injury": "INJURY_RESERVE",
        "name": "Isiah Pacheco",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.0,
        "slot": "IR",
        "team": "DET"
       },
@@ -4078,7 +4078,7 @@
        "injury": "ACTIVE",
        "name": "D'Andre Swift",
        "pos": "RB",
-       "pts": null,
+       "pts": 10.4,
        "slot": "RB",
        "team": "CHI"
       },
@@ -4105,10 +4105,10 @@
       {
        "espn_id": 4723086,
        "espn_proj": 10.48,
-       "injury": "ACTIVE",
+       "injury": "OUT",
        "name": "Colston Loveland",
        "pos": "TE",
-       "pts": null,
+       "pts": -0.5,
        "slot": "TE",
        "team": "CHI"
       },
@@ -4657,7 +4657,7 @@
        "injury": "ACTIVE",
        "name": "Luther Burden III",
        "pos": "WR",
-       "pts": null,
+       "pts": 1.4,
        "slot": "WR",
        "team": "CHI"
       },
@@ -4687,7 +4687,7 @@
        "injury": "ACTIVE",
        "name": "Kyle Monangai",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.2,
        "slot": "BN",
        "team": "CHI"
       },
@@ -4737,7 +4737,7 @@
        "injury": "ACTIVE",
        "name": "Caleb Williams",
        "pos": "QB",
-       "pts": null,
+       "pts": 4.8,
        "slot": "QB",
        "team": "CHI"
       },
@@ -5023,7 +5023,7 @@
        "injury": "ACTIVE",
        "name": "Jameson Williams",
        "pos": "WR",
-       "pts": null,
+       "pts": 1.2,
        "slot": "WR",
        "team": "DET"
       },
@@ -5044,7 +5044,7 @@
        "name": "Jayden Daniels",
        "pos": "QB",
        "pts": null,
-       "slot": "BN",
+       "slot": "QB",
        "team": "WAS"
       },
       {
@@ -5104,7 +5104,7 @@
        "name": "C.J. Stroud",
        "pos": "QB",
        "pts": null,
-       "slot": "QB",
+       "slot": "BN",
        "team": "HOU"
       },
       {
@@ -5176,7 +5176,7 @@
        "injury": "ACTIVE",
        "name": "Amon-Ra St. Brown",
        "pos": "WR",
-       "pts": null,
+       "pts": 9.9,
        "slot": "WR",
        "team": "DET"
       },
@@ -5216,7 +5216,7 @@
        "injury": "ACTIVE",
        "name": "Rome Odunze",
        "pos": "WR",
-       "pts": null,
+       "pts": 1.9,
        "slot": "FLEX",
        "team": "CHI"
       },
@@ -5276,7 +5276,7 @@
        "injury": "ACTIVE",
        "name": "Kalif Raymond",
        "pos": "WR",
-       "pts": null,
+       "pts": 3.7,
        "slot": "BN",
        "team": "CHI"
       },
@@ -5306,7 +5306,7 @@
        "injury": "NORMAL",
        "name": "Lions D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 10.0,
        "slot": "DST",
        "team": "DET"
       },
@@ -5439,7 +5439,7 @@
        "injury": "ACTIVE",
        "name": "Jared Goff",
        "pos": "QB",
-       "pts": null,
+       "pts": 3.76,
        "slot": "QB",
        "team": "DET"
       },
@@ -6092,20 +6092,20 @@
     },
     {
      "away": 6,
-     "away_live": 0.0,
+     "away_live": 14.9,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 0.0,
+     "home_live": 9.9,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 10,
-     "away_live": 0.0,
+     "away_live": 10.4,
      "away_pts": 0.0,
      "home": 8,
-     "home_live": 4.9,
+     "home_live": 10.1,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
@@ -6115,17 +6115,17 @@
      "away_live": 0.0,
      "away_pts": 0.0,
      "home": 7,
-     "home_live": 3.4,
+     "home_live": 4.8,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 5,
-     "away_live": 0.0,
+     "away_live": 4.8,
      "away_pts": 0.0,
      "home": 1,
-     "home_live": 45.0,
+     "home_live": 44.5,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
@@ -6135,7 +6135,7 @@
      "away_live": 16.5,
      "away_pts": 0.0,
      "home": 9,
-     "home_live": 0.0,
+     "home_live": 10.0,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
@@ -6559,10 +6559,10 @@
       {
        "espn_id": 4723086,
        "espn_proj": 10.48,
-       "injury": "ACTIVE",
+       "injury": "OUT",
        "name": "Colston Loveland",
        "pos": "TE",
-       "pts": null,
+       "pts": -0.5,
        "slot": "TE",
        "team": "CHI"
       },
@@ -6635,7 +6635,7 @@
        "injury": "ACTIVE",
        "name": "Amon-Ra St. Brown",
        "pos": "WR",
-       "pts": null,
+       "pts": 9.9,
        "slot": "WR",
        "team": "DET"
       },
@@ -6666,7 +6666,7 @@
        "name": "DK Metcalf",
        "pos": "WR",
        "pts": null,
-       "slot": "WR",
+       "slot": "BN",
        "team": "PIT"
       },
       {
@@ -6675,7 +6675,7 @@
        "injury": "ACTIVE",
        "name": "Sam LaPorta",
        "pos": "TE",
-       "pts": null,
+       "pts": 0.0,
        "slot": "TE",
        "team": "DET"
       },
@@ -6796,7 +6796,7 @@
        "name": "Calvin Ridley",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "WR",
        "team": "TEN"
       }
      ],
@@ -7111,7 +7111,7 @@
        "injury": "ACTIVE",
        "name": "Jared Goff",
        "pos": "QB",
-       "pts": null,
+       "pts": 3.76,
        "slot": "BN",
        "team": "DET"
       },
@@ -7131,7 +7131,7 @@
        "injury": "NORMAL",
        "name": "Bears D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 6.0,
        "slot": "BN",
        "team": "CHI"
       },
@@ -7255,7 +7255,7 @@
        "name": "Travis Kelce",
        "pos": "TE",
        "pts": null,
-       "slot": "BN",
+       "slot": "TE",
        "team": "KC"
       },
       {
@@ -7285,7 +7285,7 @@
        "name": "Isaiah Likely",
        "pos": "TE",
        "pts": null,
-       "slot": "TE",
+       "slot": "FLEX",
        "team": "NYG"
       },
       {
@@ -7314,7 +7314,7 @@
        "injury": "ACTIVE",
        "name": "Caleb Williams",
        "pos": "QB",
-       "pts": null,
+       "pts": 4.8,
        "slot": "QB",
        "team": "CHI"
       },
@@ -7335,7 +7335,7 @@
        "name": "Deebo Samuel Sr.",
        "pos": "WR",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "SF"
       },
       {
@@ -7407,7 +7407,7 @@
        "injury": "ACTIVE",
        "name": "Kyle Monangai",
        "pos": "RB",
-       "pts": null,
+       "pts": 0.2,
        "slot": "BN",
        "team": "CHI"
       },
@@ -7457,7 +7457,7 @@
        "injury": "ACTIVE",
        "name": "Jahmyr Gibbs",
        "pos": "RB",
-       "pts": null,
+       "pts": 14.9,
        "slot": "RB",
        "team": "DET"
       },
@@ -7522,16 +7522,6 @@
        "team": "HOU"
       },
       {
-       "espn_id": 4870847,
-       "espn_proj": 4.96,
-       "injury": "ACTIVE",
-       "name": "Ja'Kobi Lane",
-       "pos": "WR",
-       "pts": null,
-       "slot": "BN",
-       "team": "BAL"
-      },
-      {
        "espn_id": -16027,
        "espn_proj": 6.5,
        "injury": "NORMAL",
@@ -7550,6 +7540,16 @@
        "pts": 10.9,
        "slot": "BN",
        "team": "LA"
+      },
+      {
+       "espn_id": -16012,
+       "espn_proj": 5.18,
+       "injury": "NORMAL",
+       "name": "Chiefs D/ST",
+       "pos": "DST",
+       "pts": null,
+       "slot": "BN",
+       "team": "KC"
       }
      ],
      "streak": "W2",
@@ -7620,7 +7620,7 @@
        "injury": "ACTIVE",
        "name": "Luther Burden III",
        "pos": "WR",
-       "pts": null,
+       "pts": 1.4,
        "slot": "WR",
        "team": "CHI"
       },
@@ -7793,7 +7793,7 @@
        "injury": "ACTIVE",
        "name": "Jameson Williams",
        "pos": "WR",
-       "pts": null,
+       "pts": 1.2,
        "slot": "FLEX",
        "team": "DET"
       },
@@ -7903,7 +7903,7 @@
        "injury": "ACTIVE",
        "name": "Jake Bates",
        "pos": "K",
-       "pts": null,
+       "pts": 4.0,
        "slot": "K",
        "team": "DET"
       },
@@ -8016,7 +8016,7 @@
        "injury": "NORMAL",
        "name": "Lions D/ST",
        "pos": "DST",
-       "pts": null,
+       "pts": 10.0,
        "slot": "DST",
        "team": "DET"
       },
@@ -8026,7 +8026,7 @@
        "injury": "ACTIVE",
        "name": "Rome Odunze",
        "pos": "WR",
-       "pts": null,
+       "pts": 1.9,
        "slot": "BN",
        "team": "CHI"
       },
@@ -8159,8 +8159,8 @@
        "injury": "ACTIVE",
        "name": "D'Andre Swift",
        "pos": "RB",
-       "pts": null,
-       "slot": "FLEX",
+       "pts": 10.4,
+       "slot": "RB",
        "team": "CHI"
       },
       {
@@ -8180,7 +8180,7 @@
        "name": "Chuba Hubbard",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "FLEX",
        "team": "CAR"
       },
       {
@@ -8311,5 +8311,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T13:27:49+00:00"
+ "updated": "2026-11-26T19:05:49+00:00"
 }
