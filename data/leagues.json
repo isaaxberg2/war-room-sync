@@ -582,17 +582,17 @@
     },
     {
      "away": 4,
-     "away_live": 26.6,
+     "away_live": 30.6,
      "away_pts": 0.0,
      "home": 3,
-     "home_live": 10.0,
+     "home_live": 6.0,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 11,
-     "away_live": 11.4,
+     "away_live": 21.1,
      "away_pts": 0.0,
      "home": 8,
      "home_live": 105.0,
@@ -602,17 +602,17 @@
     },
     {
      "away": 7,
-     "away_live": 78.3,
+     "away_live": 89.7,
      "away_pts": 0.0,
      "home": 9,
-     "home_live": 40.5,
+     "home_live": 41.9,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 1,
-     "away_live": 58.2,
+     "away_live": 62.1,
      "away_pts": 0.0,
      "home": 10,
      "home_live": 25.5,
@@ -952,7 +952,7 @@
        "injury": "ACTIVE",
        "name": "Rashee Rice",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 3.9,
        "slot": "WR",
        "team": "KC"
       },
@@ -1215,7 +1215,7 @@
        "injury": "ACTIVE",
        "name": "Josh Downs",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 2.3,
        "slot": "BN",
        "team": "KC"
       },
@@ -1448,7 +1448,7 @@
        "injury": "NORMAL",
        "name": "Bills D/ST",
        "pos": "DST",
-       "pts": 10.0,
+       "pts": 6.0,
        "slot": "DST",
        "team": "BUF"
       },
@@ -1631,7 +1631,7 @@
        "injury": "ACTIVE",
        "name": "Harrison Butker",
        "pos": "K",
-       "pts": 0.0,
+       "pts": 4.0,
        "slot": "K",
        "team": "KC"
       },
@@ -1887,7 +1887,7 @@
        "injury": "ACTIVE",
        "name": "James Cook III",
        "pos": "RB",
-       "pts": 12.0,
+       "pts": 14.9,
        "slot": "RB",
        "team": "BUF"
       },
@@ -1977,7 +1977,7 @@
        "injury": "ACTIVE",
        "name": "Travis Kelce",
        "pos": "TE",
-       "pts": 2.6,
+       "pts": 11.1,
        "slot": "TE",
        "team": "KC"
       },
@@ -2207,7 +2207,7 @@
       {
        "espn_id": 4241478,
        "espn_proj": 15.57,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "DeVonta Smith",
        "pos": "WR",
        "pts": 53.0,
@@ -2273,7 +2273,7 @@
        "injury": "ACTIVE",
        "name": "DJ Moore",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 1.4,
        "slot": "FLEX",
        "team": "BUF"
       },
@@ -2496,7 +2496,7 @@
        "injury": "ACTIVE",
        "name": "Patrick Mahomes",
        "pos": "QB",
-       "pts": 1.0,
+       "pts": 6.2,
        "slot": "BN",
        "team": "KC"
       },
@@ -2699,7 +2699,7 @@
        "injury": "ACTIVE",
        "name": "Josh Allen",
        "pos": "QB",
-       "pts": 2.0,
+       "pts": 0.0,
        "slot": "QB",
        "team": "BUF"
       },
@@ -2709,7 +2709,7 @@
        "injury": "ACTIVE",
        "name": "Emmett Johnson",
        "pos": "RB",
-       "pts": 2.4,
+       "pts": 14.1,
        "slot": "RB",
        "team": "KC"
       },
@@ -3342,10 +3342,10 @@
     },
     {
      "away": 6,
-     "away_live": 28.8,
+     "away_live": 37.3,
      "away_pts": 0.0,
      "home": 13,
-     "home_live": 50.5,
+     "home_live": 48.94,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
@@ -3375,14 +3375,14 @@
      "away_live": 14.4,
      "away_pts": 0.0,
      "home": 11,
-     "home_live": 12.0,
+     "home_live": 14.9,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 8,
-     "away_live": 25.54,
+     "away_live": 29.44,
      "away_pts": 0.0,
      "home": 4,
      "home_live": 66.9,
@@ -3719,7 +3719,7 @@
       {
        "espn_id": 4241478,
        "espn_proj": 14.4,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "DeVonta Smith",
        "pos": "WR",
        "pts": 43.0,
@@ -3782,7 +3782,7 @@
        "injury": "ACTIVE",
        "name": "DJ Moore",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 1.4,
        "slot": "BN",
        "team": "BUF"
       },
@@ -3975,7 +3975,7 @@
        "injury": "ACTIVE",
        "name": "Josh Downs",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 2.3,
        "slot": "BN",
        "team": "KC"
       },
@@ -4311,7 +4311,7 @@
        "injury": "ACTIVE",
        "name": "Travis Kelce",
        "pos": "TE",
-       "pts": 2.6,
+       "pts": 11.1,
        "slot": "FLEX",
        "team": "KC"
       },
@@ -4381,7 +4381,7 @@
        "injury": "ACTIVE",
        "name": "Emmett Johnson",
        "pos": "RB",
-       "pts": 2.4,
+       "pts": 14.1,
        "slot": "BN",
        "team": "KC"
       },
@@ -4444,7 +4444,7 @@
        "injury": "ACTIVE",
        "name": "Rashee Rice",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 3.9,
        "slot": "WR",
        "team": "KC"
       },
@@ -4554,7 +4554,7 @@
        "injury": "ACTIVE",
        "name": "Harrison Butker",
        "pos": "K",
-       "pts": 0.0,
+       "pts": 4.0,
        "slot": "BN",
        "team": "KC"
       },
@@ -4800,7 +4800,7 @@
        "injury": "ACTIVE",
        "name": "James Cook III",
        "pos": "RB",
-       "pts": 12.0,
+       "pts": 14.9,
        "slot": "RB",
        "team": "BUF"
       },
@@ -4890,7 +4890,7 @@
        "injury": "ACTIVE",
        "name": "Patrick Mahomes",
        "pos": "QB",
-       "pts": 0.92,
+       "pts": 5.0,
        "slot": "BN",
        "team": "KC"
       },
@@ -5196,7 +5196,7 @@
        "injury": "ACTIVE",
        "name": "Josh Allen",
        "pos": "QB",
-       "pts": 2.2,
+       "pts": 0.64,
        "slot": "QB",
        "team": "BUF"
       },
@@ -6092,17 +6092,17 @@
     },
     {
      "away": 6,
-     "away_live": 60.2,
+     "away_live": 63.1,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 71.7,
+     "home_live": 87.4,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 10,
-     "away_live": 74.12,
+     "away_live": 78.2,
      "away_pts": 0.0,
      "home": 8,
      "home_live": 53.0,
@@ -6112,7 +6112,7 @@
     },
     {
      "away": 4,
-     "away_live": 0.0,
+     "away_live": 1.4,
      "away_pts": 0.0,
      "home": 7,
      "home_live": 10.9,
@@ -6122,17 +6122,17 @@
     },
     {
      "away": 5,
-     "away_live": 39.6,
+     "away_live": 48.1,
      "away_pts": 0.0,
      "home": 1,
-     "home_live": 44.5,
+     "home_live": 48.4,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 3,
-     "away_live": 18.7,
+     "away_live": 17.14,
      "away_pts": 0.0,
      "home": 9,
      "home_live": 34.54,
@@ -6462,7 +6462,7 @@
        "injury": "ACTIVE",
        "name": "Rashee Rice",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 3.9,
        "slot": "WR",
        "team": "KC"
       },
@@ -6765,7 +6765,7 @@
        "injury": "ACTIVE",
        "name": "Harrison Butker",
        "pos": "K",
-       "pts": 0.0,
+       "pts": 4.0,
        "slot": "K",
        "team": "KC"
       },
@@ -6775,7 +6775,7 @@
        "injury": "ACTIVE",
        "name": "Emmett Johnson",
        "pos": "RB",
-       "pts": 2.4,
+       "pts": 14.1,
        "slot": "FLEX",
        "team": "KC"
       },
@@ -6828,7 +6828,7 @@
        "injury": "ACTIVE",
        "name": "Josh Allen",
        "pos": "QB",
-       "pts": 2.2,
+       "pts": 0.64,
        "slot": "QB",
        "team": "BUF"
       },
@@ -7051,7 +7051,7 @@
        "injury": "ACTIVE",
        "name": "DJ Moore",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 1.4,
        "slot": "WR",
        "team": "BUF"
       },
@@ -7254,7 +7254,7 @@
        "injury": "ACTIVE",
        "name": "Travis Kelce",
        "pos": "TE",
-       "pts": 2.6,
+       "pts": 11.1,
        "slot": "TE",
        "team": "KC"
       },
@@ -7377,7 +7377,7 @@
        "injury": "ACTIVE",
        "name": "James Cook III",
        "pos": "RB",
-       "pts": 12.0,
+       "pts": 14.9,
        "slot": "RB",
        "team": "BUF"
       },
@@ -7996,7 +7996,7 @@
        "injury": "ACTIVE",
        "name": "Josh Downs",
        "pos": "WR",
-       "pts": 0.0,
+       "pts": 2.3,
        "slot": "BN",
        "team": "KC"
       },
@@ -8146,7 +8146,7 @@
       {
        "espn_id": 4241478,
        "espn_proj": 14.4,
-       "injury": "ACTIVE",
+       "injury": "QUESTIONABLE",
        "name": "DeVonta Smith",
        "pos": "WR",
        "pts": 43.0,
@@ -8189,7 +8189,7 @@
        "injury": "ACTIVE",
        "name": "Patrick Mahomes",
        "pos": "QB",
-       "pts": 0.92,
+       "pts": 5.0,
        "slot": "QB",
        "team": "KC"
       },
@@ -8311,5 +8311,5 @@
    ]
   }
  ],
- "updated": "2026-11-27T02:14:08+00:00"
+ "updated": "2026-11-27T03:12:22+00:00"
 }
