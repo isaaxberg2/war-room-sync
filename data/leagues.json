@@ -572,7 +572,7 @@
     },
     {
      "away": 5,
-     "away_live": 12.3,
+     "away_live": 17.3,
      "away_pts": 0.0,
      "home": 2,
      "home_live": 79.4,
@@ -592,7 +592,7 @@
     },
     {
      "away": 11,
-     "away_live": 27.4,
+     "away_live": 28.9,
      "away_pts": 0.0,
      "home": 8,
      "home_live": 105.0,
@@ -605,7 +605,7 @@
      "away_live": 99.3,
      "away_pts": 0.0,
      "home": 9,
-     "home_live": 43.9,
+     "home_live": 47.0,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
@@ -1844,7 +1844,7 @@
        "injury": "ACTIVE",
        "name": "Tyler Bass",
        "pos": "K",
-       "pts": 6.0,
+       "pts": 11.0,
        "slot": "K",
        "team": "BUF"
       },
@@ -2273,7 +2273,7 @@
        "injury": "ACTIVE",
        "name": "DJ Moore",
        "pos": "WR",
-       "pts": 1.4,
+       "pts": 3.5,
        "slot": "FLEX",
        "team": "BUF"
       },
@@ -2373,7 +2373,7 @@
        "injury": "NORMAL",
        "name": "Chiefs D/ST",
        "pos": "DST",
-       "pts": 10.0,
+       "pts": 11.0,
        "slot": "DST",
        "team": "KC"
       },
@@ -2699,7 +2699,7 @@
        "injury": "ACTIVE",
        "name": "Josh Allen",
        "pos": "QB",
-       "pts": 1.3,
+       "pts": 2.3,
        "slot": "QB",
        "team": "BUF"
       },
@@ -2709,7 +2709,7 @@
        "injury": "ACTIVE",
        "name": "Emmett Johnson",
        "pos": "RB",
-       "pts": 19.1,
+       "pts": 19.6,
        "slot": "RB",
        "team": "KC"
       },
@@ -3342,10 +3342,10 @@
     },
     {
      "away": 6,
-     "away_live": 44.3,
+     "away_live": 50.3,
      "away_pts": 0.0,
      "home": 13,
-     "home_live": 51.4,
+     "home_live": 51.84,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
@@ -3782,7 +3782,7 @@
        "injury": "ACTIVE",
        "name": "DJ Moore",
        "pos": "WR",
-       "pts": 1.4,
+       "pts": 3.5,
        "slot": "BN",
        "team": "BUF"
       },
@@ -4371,7 +4371,7 @@
        "injury": "ACTIVE",
        "name": "Tyler Bass",
        "pos": "K",
-       "pts": 6.0,
+       "pts": 11.0,
        "slot": "K",
        "team": "BUF"
       },
@@ -4381,7 +4381,7 @@
        "injury": "ACTIVE",
        "name": "Emmett Johnson",
        "pos": "RB",
-       "pts": 19.1,
+       "pts": 19.6,
        "slot": "BN",
        "team": "KC"
       },
@@ -4391,7 +4391,7 @@
        "injury": "NORMAL",
        "name": "Chiefs D/ST",
        "pos": "DST",
-       "pts": 10.0,
+       "pts": 11.0,
        "slot": "DST",
        "team": "KC"
       },
@@ -5196,7 +5196,7 @@
        "injury": "ACTIVE",
        "name": "Josh Allen",
        "pos": "QB",
-       "pts": 3.1,
+       "pts": 3.54,
        "slot": "QB",
        "team": "BUF"
       },
@@ -6095,14 +6095,14 @@
      "away_live": 67.7,
      "away_pts": 0.0,
      "home": 2,
-     "home_live": 91.4,
+     "home_live": 91.9,
      "home_pts": 0.0,
      "week": 12,
      "winner": "UNDECIDED"
     },
     {
      "away": 10,
-     "away_live": 85.36,
+     "away_live": 90.36,
      "away_pts": 0.0,
      "home": 8,
      "home_live": 53.0,
@@ -6112,7 +6112,7 @@
     },
     {
      "away": 4,
-     "away_live": 1.4,
+     "away_live": 3.5,
      "away_pts": 0.0,
      "home": 7,
      "home_live": 10.9,
@@ -6132,7 +6132,7 @@
     },
     {
      "away": 3,
-     "away_live": 19.6,
+     "away_live": 20.04,
      "away_pts": 0.0,
      "home": 9,
      "home_live": 34.54,
@@ -6775,7 +6775,7 @@
        "injury": "ACTIVE",
        "name": "Emmett Johnson",
        "pos": "RB",
-       "pts": 19.1,
+       "pts": 19.6,
        "slot": "FLEX",
        "team": "KC"
       },
@@ -6828,7 +6828,7 @@
        "injury": "ACTIVE",
        "name": "Josh Allen",
        "pos": "QB",
-       "pts": 3.1,
+       "pts": 3.54,
        "slot": "QB",
        "team": "BUF"
       },
@@ -7051,7 +7051,7 @@
        "injury": "ACTIVE",
        "name": "DJ Moore",
        "pos": "WR",
-       "pts": 1.4,
+       "pts": 3.5,
        "slot": "WR",
        "team": "BUF"
       },
@@ -7547,7 +7547,7 @@
        "injury": "NORMAL",
        "name": "Chiefs D/ST",
        "pos": "DST",
-       "pts": 10.0,
+       "pts": 11.0,
        "slot": "BN",
        "team": "KC"
       }
@@ -8239,7 +8239,7 @@
        "injury": "ACTIVE",
        "name": "Tyler Bass",
        "pos": "K",
-       "pts": 6.0,
+       "pts": 11.0,
        "slot": "K",
        "team": "BUF"
       },
@@ -8311,5 +8311,5 @@
    ]
   }
  ],
- "updated": "2026-11-27T04:17:32+00:00"
+ "updated": "2026-11-27T05:32:27+00:00"
 }
