@@ -1701,7 +1701,7 @@
       {
        "espn_id": 4047646,
        "espn_proj": 0.0,
-       "injury": "DOUBTFUL",
+       "injury": "OUT",
        "name": "A.J. Brown",
        "pos": "WR",
        "pts": null,
@@ -2533,7 +2533,7 @@
       {
        "espn_id": 4723820,
        "espn_proj": 9.3,
-       "injury": "QUESTIONABLE",
+       "injury": "OUT",
        "name": "Omar Cooper Jr.",
        "pos": "WR",
        "pts": null,
@@ -2600,7 +2600,7 @@
        "name": "Bhayshul Tuten",
        "pos": "RB",
        "pts": null,
-       "slot": "BN",
+       "slot": "FLEX",
        "team": "JAX"
       },
       {
@@ -2616,11 +2616,11 @@
       {
        "espn_id": 4432620,
        "espn_proj": 19.45,
-       "injury": "QUESTIONABLE",
+       "injury": "OUT",
        "name": "Parker Washington",
        "pos": "WR",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "JAX"
       },
       {
@@ -2666,7 +2666,7 @@
       {
        "espn_id": 4723086,
        "espn_proj": 10.88,
-       "injury": "QUESTIONABLE",
+       "injury": "DOUBTFUL",
        "name": "Colston Loveland",
        "pos": "TE",
        "pts": -0.5,
@@ -3713,7 +3713,7 @@
        "name": "Drake London",
        "pos": "WR",
        "pts": null,
-       "slot": "BN",
+       "slot": "FLEX",
        "team": "ATL"
       },
       {
@@ -3749,11 +3749,11 @@
       {
        "espn_id": 4432620,
        "espn_proj": 17.76,
-       "injury": "QUESTIONABLE",
+       "injury": "OUT",
        "name": "Parker Washington",
        "pos": "WR",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "IR",
        "team": "JAX"
       },
       {
@@ -3855,6 +3855,16 @@
        "pts": null,
        "slot": "BN",
        "team": "JAX"
+      },
+      {
+       "espn_id": 4869645,
+       "espn_proj": 10.58,
+       "injury": "ACTIVE",
+       "name": "Caleb Douglas",
+       "pos": "WR",
+       "pts": null,
+       "slot": "BN",
+       "team": "MIA"
       }
      ],
      "streak": "W7",
@@ -4105,7 +4115,7 @@
       {
        "espn_id": 4723086,
        "espn_proj": 10.5,
-       "injury": "QUESTIONABLE",
+       "injury": "DOUBTFUL",
        "name": "Colston Loveland",
        "pos": "TE",
        "pts": -0.5,
@@ -4624,7 +4634,7 @@
       {
        "espn_id": 4047646,
        "espn_proj": 0.0,
-       "injury": "DOUBTFUL",
+       "injury": "OUT",
        "name": "A.J. Brown",
        "pos": "WR",
        "pts": null,
@@ -6529,7 +6539,7 @@
       {
        "espn_id": 4047646,
        "espn_proj": 0.0,
-       "injury": "DOUBTFUL",
+       "injury": "OUT",
        "name": "A.J. Brown",
        "pos": "WR",
        "pts": null,
@@ -6559,7 +6569,7 @@
       {
        "espn_id": 4723086,
        "espn_proj": 10.5,
-       "injury": "QUESTIONABLE",
+       "injury": "DOUBTFUL",
        "name": "Colston Loveland",
        "pos": "TE",
        "pts": -0.5,
@@ -7484,7 +7494,7 @@
       {
        "espn_id": 4723820,
        "espn_proj": 8.99,
-       "injury": "QUESTIONABLE",
+       "injury": "OUT",
        "name": "Omar Cooper Jr.",
        "pos": "WR",
        "pts": null,
@@ -7571,7 +7581,7 @@
        "name": "Ja'Marr Chase",
        "pos": "WR",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "WR",
        "team": "CIN"
       },
       {
@@ -7581,7 +7591,7 @@
        "name": "Ashton Jeanty",
        "pos": "RB",
        "pts": null,
-       "slot": "RB",
+       "slot": "FLEX",
        "team": "LV"
       },
       {
@@ -7627,11 +7637,11 @@
       {
        "espn_id": 4432620,
        "espn_proj": 17.76,
-       "injury": "QUESTIONABLE",
+       "injury": "OUT",
        "name": "Parker Washington",
        "pos": "WR",
        "pts": null,
-       "slot": "WR",
+       "slot": "BN",
        "team": "JAX"
       },
       {
@@ -7641,7 +7651,7 @@
        "name": "Rhamondre Stevenson",
        "pos": "RB",
        "pts": null,
-       "slot": "BN",
+       "slot": "RB",
        "team": "NE"
       },
       {
@@ -8311,5 +8321,5 @@
    ]
   }
  ],
- "updated": "2026-11-27T13:23:28+00:00"
+ "updated": "2026-11-27T19:04:10+00:00"
 }
