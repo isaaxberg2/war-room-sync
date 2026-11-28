@@ -7428,7 +7428,7 @@
        "name": "Brock Purdy",
        "pos": "QB",
        "pts": null,
-       "slot": "BN",
+       "slot": "IR",
        "team": "SF"
       },
       {
@@ -7438,7 +7438,7 @@
        "name": "Zach Charbonnet",
        "pos": "RB",
        "pts": null,
-       "slot": "FLEX",
+       "slot": "BN",
        "team": "SEA"
       },
       {
@@ -7490,16 +7490,6 @@
        "pts": null,
        "slot": "FLEX",
        "team": "MIN"
-      },
-      {
-       "espn_id": 4723820,
-       "espn_proj": 0.0,
-       "injury": "OUT",
-       "name": "Omar Cooper Jr.",
-       "pos": "WR",
-       "pts": null,
-       "slot": "IR",
-       "team": "NYJ"
       },
       {
        "espn_id": 4360635,
@@ -7560,6 +7550,16 @@
        "pts": 11.0,
        "slot": "BN",
        "team": "KC"
+      },
+      {
+       "espn_id": 4432773,
+       "espn_proj": 11.74,
+       "injury": "ACTIVE",
+       "name": "Brian Thomas Jr.",
+       "pos": "WR",
+       "pts": null,
+       "slot": "FLEX",
+       "team": "JAX"
       }
      ],
      "streak": "W2",
@@ -8321,5 +8321,5 @@
    ]
   }
  ],
- "updated": "2026-11-28T01:22:11+00:00"
+ "updated": "2026-11-28T07:21:28+00:00"
 }
